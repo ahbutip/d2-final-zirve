@@ -1,0 +1,17 @@
+﻿import os
+
+filepath = r"C:\Users\cagan\Desktop\d2-final-zirve\index.html"
+with open(filepath, "r", encoding="utf-8") as f:
+    content = f.read()
+
+v11_script = '<script src="data/tam_final_v11_part2.js"></script>'
+new_scripts = '''<script src="data/tam_final_v12_part1.js"></script>
+    <script src="data/tam_final_v12_part2.js"></script>'''
+
+if "tam_final_v12_part1.js" not in content:
+    content = content.replace(v11_script, v11_script + "\n    " + new_scripts)
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(content)
+    print("V12 eklendi")
+else:
+    print("Zaten var")

@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D2 FİNAL ZİRVE - Sınav Sistemi</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        .btn-icon { background: none; border: none; cursor: pointer; }
+        .text-success { color: var(--success-color); }
+        .text-danger { color: var(--danger-color); }
+        .text-primary { color: var(--primary-color); }
+        .stat-item { display: flex; justify-content: space-between; margin-bottom: 0.5rem; }
+        .stat-label { font-size: 0.9rem; color: var(--text-secondary); }
+        .stat-value { font-weight: bold; }
+        .subject-distribution { margin-top: 2rem; border-top: 1px solid var(--border-color); padding-top: 1rem; }
+        .subject-distribution ul { list-style: none; padding: 0; }
+        .subject-distribution li { margin-bottom: 0.5rem; font-size: 0.9rem; }
+        .stat-text { font-size: 0.8rem; color: var(--text-secondary); float: right; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div id="dashboard-page" style="display: none;"></div>
+
+    <!-- Sınav Seçim Ekranı -->
+    <div id="landing-page" class="landing-container" style="display: none;">
+        <header class="landing-header">
+            <h1 id="kurul-title" style="font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem;">D2 Zirve Denemeleri</h1>
+            <p style="color: var(--text-secondary); font-size: 1.1rem; margin-bottom: 2rem;">Lütfen çözmek istediğiniz zirve deneme sınavını seçin. Tüm ilerlemeniz otomatik olarak kaydedilir.</p>
+        </header>
+        <div class="exams-grid" id="exams-grid">
+            <!-- Sınavlar dinamik olarak eklenecek -->
+        </div>
+    </div>
+
+    <div id="quiz-app" class="app-container" style="display: none;">
+        <!-- Sidebar: Statistics & Navigation -->
+        <aside class="sidebar">
+            <div class="logo">
+                <h2>🎓 D2 Zirve Denemeleri</h2>
+                <button id="back-to-menu-btn" class="btn btn-secondary" style="margin-top: 1rem; width: 100%; padding: 0.5rem; font-size: 0.9rem;">🔙 Ana Menüye Dön</button>
+            </div>
+            
+            <div class="stats-card">
+                <div class="stat-item"><span class="stat-label">Toplam Soru</span><span class="stat-value" id="total-questions">120</span></div>
+                <div class="stat-item"><span class="stat-label">Çözülen</span><span class="stat-value" id="solved-questions">0</span></div>
+                <div class="stat-item"><span class="stat-label">Doğru</span><span class="stat-value text-success" id="correct-answers">0</span></div>
+                <div class="stat-item"><span class="stat-label">Yanlış</span><span class="stat-value text-danger" id="wrong-answers">0</span></div>
+                <div class="stat-item"><span class="stat-label">Başarı</span><span class="stat-value text-primary" id="success-rate">0%</span></div>
+            </div>
+
+            <div class="subject-distribution">
+                <h3>Ders Dağılımı</h3>
+                <ul id="subject-list">
+                    <!-- Dersler JS ile doldurulacak -->
+                </ul>
+            </div>
+        </aside>
+
+        <!-- Main Content: Quiz Area -->
+        <main class="main-content">
+            <header class="header">
+                <div class="progress-container">
+                    <div class="progress-info">
+                        <span id="progress-text">Soru 1 / 120</span>
+                        <span id="progress-percentage">0%</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="progress-bar-fill" id="progress-bar"></div>
+                    </div>
+                </div>
+                <button id="theme-toggle" class="btn-icon" title="Temayı Değiştir">🌓</button>
+            </header>
+
+            <div class="quiz-container">
+                <!-- Jokers -->
+                <div class="jokers-container" id="jokers-container">
+                    <button id="joker-5050" class="btn-joker" title="Yanlış olan 2 şıkkı siler">⚖️ 50:50</button>
+                    <button id="joker-double" class="btn-joker" title="İlk cevabın yanlış çıkarsa 2. hak verir">🍀 Çift Cevap</button>
+                    <button id="joker-stats" class="btn-joker" title="Öğrencilerin seçilme istatistiklerini gösterir">📊 İstatistik</button>
+                    <button id="joker-hint" class="btn-joker" title="Hafızanızı tetikleyecek bir ipucu verir">💡 İpucu</button>
+                    <button id="joker-expert" class="btn-joker" title="Detaylı tıbbi uzman açıklaması sunar">🧑‍⚕️ Uzman Görüşü</button>
+                </div>
+
+                <!-- Soru Alanı -->
+                <div class="question-card">
+                    <div class="question-header" style="display: flex; justify-content: space-between; gap: 1rem; align-items: flex-start;">
+                        <div>
+                            <span id="current-question-indicator" style="color: var(--text-secondary); font-size: 0.9rem; font-weight: 600;">Soru 1</span>
+                            <span id="current-subject-badge" style="background-color: var(--primary-color); color: white; padding: 0.2rem 0.5rem; border-radius: var(--radius-md); font-size: 0.8rem; margin-left: 0.5rem;">Genel</span>
+                            <h2 id="question-text" style="margin-top: 0.5rem;">Soru yükleniyor...</h2>
+                        </div>
+                        <button id="flag-btn" class="btn-icon" title="Sonra Dönmek İçin İşaretle" style="opacity: 0.5;">🚩</button>
+                    </div>
+                    <div class="options-container" id="options-container">
+                        <!-- Şıklar JS ile doldurulacak -->
+                    </div>
+                    
+                    
+                    <details id="hint-container" style="margin-top: 1rem; padding: 1rem; background-color: rgba(234, 179, 8, 0.1); border-left: 4px solid #eab308; border-radius: var(--radius-md);">
+                        <summary style="cursor: pointer; color: #ca8a04; font-weight: bold;">💡 İpucu Görüntüle</summary>
+                        <p id="hint-text" style="margin-top: 0.5rem; color: var(--text-color);"></p>
+                    </details>
+                    
+                    <details id="expert-container" style="margin-top: 1rem; padding: 1rem; background-color: rgba(16, 185, 129, 0.1); border-left: 4px solid #10b981; border-radius: var(--radius-md);">
+                        <summary style="cursor: pointer; color: #059669; font-weight: bold;">🧑‍⚕️ Uzman Açıklaması Görüntüle</summary>
+                        <p id="expert-text" style="margin-top: 0.5rem; color: var(--text-color);"></p>
+                    </details>
+
+                    <div id="explanation-container" style="display: none; margin-top: 1rem; padding: 1rem; background-color: rgba(59, 130, 246, 0.1); border-left: 4px solid var(--primary-color); border-radius: var(--radius-md);">
+                        <strong class="explanation-title" style="color: var(--primary-color);">Cevap Açıklaması:</strong>
+                        <p id="explanation-text" style="margin-top: 0.5rem; color: var(--text-color);"></p>
+                    </div>
+
+                </div>
+                
+                <!-- Aksiyon Butonları -->
+                <div class="action-buttons">
+                    <button id="prev-btn" class="btn btn-secondary" disabled>Önceki Soru</button>
+                    <button id="next-btn" class="btn btn-primary">Sonraki Soru</button>
+                </div>
+
+                
+                <!-- Sonuç Ekranı -->
+                <div id="results-container" style="display: none; margin-top: 2rem;">
+                    <div style="text-align: center; margin-bottom: 2rem;">
+                        <h2 style="color: var(--primary-color); font-size: 2.5rem; margin-bottom: 1rem;">Sınav Tamamlandı! 🎉</h2>
+                        <div class="final-score" style="margin: 1rem 0;">
+                            <div style="font-size: 3.5rem; font-weight: 800; color: var(--primary-color);" id="final-score-text">100.00</div>
+                            <div style="color: var(--text-secondary); font-size: 1.1rem;">100 Üzerinden Puan (Baraj Sistemi Uygulanmış)</div>
+                        </div>
+                        <p id="final-message" style="font-size: 1.2rem; font-weight: 500;"></p>
+                    </div>
+                    
+                    <div class="results-summary"></div>
+
+                    <div class="table-responsive" style="overflow-x: auto; margin-bottom: 2rem; border-radius: var(--radius-md); box-shadow: var(--shadow-sm);">
+                        <table style="width: 100%; border-collapse: collapse; text-align: left; background: var(--surface-color);">
+                            <thead>
+                                <tr style="background: var(--bg-color); border-bottom: 2px solid var(--border-color);">
+                                    <th style="padding: 1rem; color: var(--text-secondary);">Ders / Konu</th>
+                                    <th style="padding: 1rem; color: var(--text-secondary);">Soru Sayısı</th>
+                                    <th style="padding: 1rem; color: var(--success-color);">Doğru</th>
+                                    <th style="padding: 1rem; color: var(--danger-color);">Yanlış</th>
+                                    <th style="padding: 1rem; color: var(--warning-color);">Boş</th>
+                                    <th style="padding: 1rem; color: var(--danger-color);">Yediği Baraj</th>
+                                    <th style="padding: 1rem; color: var(--primary-color);">Ders Puanı</th>
+                                </tr>
+                            </thead>
+                            <tbody id="results-table-body">
+                                <!-- JS ile doldurulacak -->
+                            </tbody>
+                            <tfoot>
+                                <tr style="background: var(--bg-color); font-weight: bold; border-top: 2px solid var(--border-color);">
+                                    <td style="padding: 1rem;">TOPLAM</td>
+                                    <td style="padding: 1rem;" id="rt-total-q">120</td>
+                                    <td style="padding: 1rem;" id="rt-total-c">0</td>
+                                    <td style="padding: 1rem;" id="rt-total-w">0</td>
+                                    <td style="padding: 1rem;" id="rt-total-e">0</td>
+                                    <td style="padding: 1rem;" id="rt-total-p">0</td>
+                                    <td style="padding: 1rem;" id="rt-total-net">0</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                    
+                    <div style="text-align: center;">
+                        <button id="restart-btn" class="btn btn-primary" style="padding: 0.75rem 2rem; font-size: 1.1rem;">Ana Menüye Dön</button>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+        <!-- Right Sidebar / Question Palette -->
+        <aside class="right-sidebar">
+            <h3 style="margin-top: 0; margin-bottom: 1rem;">Soru Listesi</h3>
+            <div id="question-list" class="question-list">
+                <!-- Soru Butonları -->
+            </div>
+        </aside>
+    
+    </div>
+
+    <!-- Modals -->
+    <div id="info-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <h2 id="modal-title">Başlık</h2>
+            <p id="modal-text">İçerik</p>
+            <button onclick="closeModal()" class="btn btn-primary" style="margin-top: 1.5rem; width: 100%;">Anladım</button>
+        </div>
+    </div>
+
+    <div id="reset-modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <h2>⚠️ Uyarı</h2>
+            <p>Bu sınavdaki tüm ilerlemeniz ve seçtiğiniz yanıtlar silinecektir. Emin misiniz?</p>
+            <div style="display: flex; gap: 1rem; margin-top: 2rem; justify-content: flex-end;">
+                <button id="cancel-reset" class="btn btn-secondary">İptal</button>
+                <button id="confirm-reset" class="btn btn-primary" style="background-color: var(--danger-color);">Evet, Sıfırla</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Zirve Denemeleri Scriptleri -->
+    <script src="data/tam_final_v4_part1_anatomi.js"></script>
+    <script src="data/tam_final_v4_part2_fizyoloji.js"></script>
+    <script src="data/tam_final_v4_part3_biyofarma.js"></script>
+    <script src="data/tam_final_v4_part4_diger.js"></script>
+    <script src="data/tam_final_v5_part1.js"></script>
+    <script src="data/tam_final_v5_part2.js"></script>
+    <script src="data/tam_final_v6_part1.js"></script>
+    <script src="data/tam_final_v6_part2.js"></script>
+    <script src="data/tam_final_v7_part1.js"></script>
+    <script src="data/tam_final_v7_part2.js"></script>
+    <script src="data/tam_final_v8_part1.js"></script>
+    <script src="data/tam_final_v8_part2.js"></script>
+    <script src="data/tam_final_v9_part1.js"></script>
+    <script src="data/tam_final_v9_part2.js"></script>
+    <script src="data/tam_final_v10_part1.js"></script>
+    <script src="data/tam_final_v10_part2.js"></script>
+    <script src="data/tam_final_v11_part1.js"></script>
+    <script src="data/tam_final_v11_part2.js"></script>
+    <script src="data/tam_final_v12_part1.js"></script>
+    <script src="data/tam_final_v12_part2.js"></script>
+    <script src="data/tam_final_v13_part1.js"></script>
+    <script src="data/tam_final_v13_part2.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
