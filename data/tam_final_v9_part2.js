@@ -5,7 +5,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda kan şekerini normal seviyelerde tutmak için karaciğerde glukoneogenez (yeni glukoz yapımı) başlar. Aşağıdaki moleküllerden hangisi insanlarda glukoneogenez için bir öncül (prekürsör) olarak KULLANILAMAZ?",
+        "question": "Açlık durumunda kan şekerini normal seviyelerde tutmak için karaciğerde glukoneogenez başlar. Aşağıdaki moleküllerden hangisi insanlarda glukoneogenez için bir öncül olarak KULLANILAMAZ?",
         "options": [
             "Laktat",
             "Gliserol",
@@ -20,7 +20,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Oksidatif fosforilasyon sırasında mitokondriyal iç zarda proton (H+) gradiyenti oluşturulur. Ancak 'ayırıcı ajanlar (uncouplers)' adı verilen maddeler bu gradiyenti bozarak ATP sentezini durdurur ve enerjinin sadece ISI olarak açığa çıkmasına neden olurlar. Vücutta özellikle kahverengi yağ dokusunda (yenidoğanlarda) bulunan doğal ayırıcı protein aşağıdakilerden hangisidir?",
+        "question": "Oksidatif fosforilasyon sırasında mitokondriyal iç zarda proton gradiyenti oluşturulur. Ancak 'ayırıcı ajanlar' adı verilen maddeler bu gradiyenti bozarak ATP sentezini durdurur ve enerjinin sadece ISI olarak açığa çıkmasına neden olurlar. Vücutta özellikle kahverengi yağ dokusunda bulunan doğal ayırıcı protein aşağıdakilerden hangisidir?",
         "options": [
             "Termogenin (UCP-1)",
             "Oligomisin",
@@ -50,7 +50,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı amonyak toksisitesi (hepatik ensefalopati) beyin hücrelerine zarar verir. Amonyak, beyinde hangi amino asit ile birleşerek çok miktarda Glutamin oluşturur ve bu durum astrositlerde osmotik ödeme (şişmeye) yol açar?",
+        "question": "Aşırı amonyak toksisitesi beyin hücrelerine zarar verir. Amonyak, beyinde hangi amino asit ile birleşerek çok miktarda Glutamin oluşturur ve bu durum astrositlerde osmotik ödeme yol açar?",
         "options": [
             "Alanin",
             "Glutamat",
@@ -65,7 +65,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "Tricarboxylic acid (TCA / Krebs) döngüsünde hem enzim kompleksi olarak görev yapan hem de Elektron Taşıma Sistemi'nin (ETS) bir parçası olan (Kompleks II) enzim hangisidir?",
+        "question": "Tricarboxylic acid döngüsünde hem enzim kompleksi olarak görev yapan hem de Elektron Taşıma Sistemi'nin bir parçası olan enzim hangisidir?",
         "options": [
             "İzositrat dehidrogenaz",
             "Alfa-ketoglutarat dehidrogenaz",
@@ -80,7 +80,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Alkaptonüri hastalarında Homojentisat oksidaz (dioksijenaz) enzimi eksiktir. Bu hastalıkta idrarın havayla temas edince kararmasına (siyahlaşmasına) ve kıkırdaklarda siyah pigment birikimine (okronozis) neden olan metabolit aşağıdaki hangi amino asidin yıkım yolağından köken alır?",
+        "question": "Alkaptonüri hastalarında Homojentisat oksidaz enzimi eksiktir. Bu hastalıkta idrarın havayla temas edince kararmasına ve kıkırdaklarda siyah pigment birikimine neden olan metabolit aşağıdaki hangi amino asidin yıkım yolağından köken alır?",
         "options": [
             "Triptofan",
             "Tirozin (ve Fenilalanin)",
@@ -95,7 +95,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_7",
         "subject": "Tıbbi Biyokimya",
-        "question": "DNA çift sarmalında, nükleotid dizisindeki sitozinlerin (C) metillenmesi (DNA Metilasyonu) genellikle hangi biyokimyasal/epigenetik sonuca yol açar?",
+        "question": "DNA çift sarmalında, nükleotid dizisindeki sitozinlerin metillenmesi genellikle hangi biyokimyasal/epigenetik sonuca yol açar?",
         "options": [
             "DNA replikasyonunun hızlanmasına",
             "Gen ekspresyonunun (transkripsiyonun) baskılanmasına (susturulmasına)",
@@ -110,7 +110,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_8",
         "subject": "Tıbbi Biyokimya",
-        "question": "Glikoliz yolunun en önemli hız kısıtlayıcı enzimi olan Fosfofruktokinaz-1 (PFK-1), hücre içi hangi molekülün artışıyla EN GÜÇLÜ şekilde aktive olur (allosterik aktivatör)?",
+        "question": "Glikoliz yolunun en önemli hız kısıtlayıcı enzimi olan Fosfofruktokinaz-1, hücre içi hangi molekülün artışıyla EN GÜÇLÜ şekilde aktive olur?",
         "options": [
             "ATP",
             "Sitrat",
@@ -125,7 +125,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hem sentezi yolunda hız kısıtlayıcı olan, mitokondride gerçekleşen ve porfiri hastalıklarıyla da yakından ilişkili olan ALA sentaz (Aminolevülinik asit sentaz) enzimi, reaksiyonu gerçekleştirmek için koenzim olarak hangi vitamine ihtiyaç duyar?",
+        "question": "Hem sentezi yolunda hız kısıtlayıcı olan, mitokondride gerçekleşen ve porfiri hastalıklarıyla da yakından ilişkili olan ALA sentaz enzimi, reaksiyonu gerçekleştirmek için koenzim olarak hangi vitamine ihtiyaç duyar?",
         "options": [
             "B1 Vitamini (Tiamin)",
             "B3 Vitamini (Niasin / NAD)",
@@ -140,7 +140,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_10",
         "subject": "Tıbbi Biyokimya",
-        "question": "Apolipoproteinlerden hangisi ekstrahepatik (karaciğer dışı) dokulardaki LDL reseptörlerine bağlanarak, LDL kolesterolün hücre içine alınmasını sağlayan ana ligant (tanıyıcı) proteindir?",
+        "question": "Apolipoproteinlerden hangisi ekstrahepatik dokulardaki LDL reseptörlerine bağlanarak, LDL kolesterolün hücre içine alınmasını sağlayan ana ligant proteindir?",
         "options": [
             "Apo A-I",
             "Apo B-48",
@@ -155,7 +155,7 @@ const v9Part2 = [
     {
         "id": "v9_biyo_11",
         "subject": "Tıbbi Biyokimya",
-        "question": "Glikozun hücre içine girmesini sağlayan GLUT (Glikoz Taşıyıcıları) proteinlerinden hangisi, İNSÜLİN hormonuna bağımlı olarak çalışır ve çizgili kas ile yağ dokusunda bulunur?",
+        "question": "Glikozun hücre içine girmesini sağlayan GLUT proteinlerinden hangisi, İNSÜLİN hormonuna bağımlı olarak çalışır ve çizgili kas ile yağ dokusunda bulunur?",
         "options": [
             "GLUT-1",
             "GLUT-2",
@@ -172,7 +172,7 @@ const v9Part2 = [
     {
         "id": "v9_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Adrenerjik reseptör blokerleri (Beta-blokerler) hipertansiyon, anjina ve aritmi tedavisinde sık kullanılır. Aşağıdaki beta blokerlerden hangisi astımlı ve KOAH'lı hastalarda bronkospazm riskini artırdığı için KULLANILMAMASI GEREKEN selektif olmayan (Non-selektif) bir beta blokerdir?",
+        "question": "Adrenerjik reseptör blokerleri hipertansiyon, anjina ve aritmi tedavisinde sık kullanılır. Aşağıdaki beta blokerlerden hangisi astımlı ve KOAH'lı hastalarda bronkospazm riskini artırdığı için KULLANILMAMASI GEREKEN selektif olmayan bir beta blokerdir?",
         "options": [
             "Metoprolol",
             "Atenolol",
@@ -187,7 +187,7 @@ const v9Part2 = [
     {
         "id": "v9_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "İlaçların böbreklerden atılımında, idrar pH'sını değiştirmek ilacın iyonizasyonunu (ve dolayısıyla geri emilimini) etkiler. Asidik bir ilaç olan Aspirin (Asetilsalisilik asit) zehirlenmesinde hastaya tedavi amacıyla aşağıdakilerden hangisi verilerek idrar alkali (bazik) yapılır ve ilacın atılımı hızlandırılır?",
+        "question": "İlaçların böbreklerden atılımında, idrar pH'sını değiştirmek ilacın iyonizasyonunu etkiler. Asidik bir ilaç olan Aspirin zehirlenmesinde hastaya tedavi amacıyla aşağıdakilerden hangisi verilerek idrar alkali yapılır ve ilacın atılımı hızlandırılır?",
         "options": [
             "Amonyum klorür",
             "C vitamini (Askorbik asit)",
@@ -202,7 +202,7 @@ const v9Part2 = [
     {
         "id": "v9_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Hipertansiyon tedavisinde kullanılan Anjiyotensin Dönüştürücü Enzim (ACE) inhibitörlerinin (Kaptopril, Enalapril vb.) hastaları en çok rahatsız eden ve ilacı bıraktıran karakteristik yan etkisi hangisidir?",
+        "question": "Hipertansiyon tedavisinde kullanılan Anjiyotensin Dönüştürücü Enzim inhibitörlerinin hastaları en çok rahatsız eden ve ilacı bıraktıran karakteristik yan etkisi hangisidir?",
         "options": [
             "Hipokalemi (Potasyum düşüklüğü)",
             "Kuru ve inatçı öksürük",
@@ -217,7 +217,7 @@ const v9Part2 = [
     {
         "id": "v9_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Epilepsi (sara) hastalarında kullanılan antiepileptik ilaçlar çeşitli etki mekanizmalarına sahiptir. Sodyum kanallarını inaktif durumda kilitleyerek aksiyon potansiyellerinin yayılmasını engelleyen klasik antiepileptik ilaç hangisidir?",
+        "question": "Epilepsi hastalarında kullanılan antiepileptik ilaçlar çeşitli etki mekanizmalarına sahiptir. Sodyum kanallarını inaktif durumda kilitleyerek aksiyon potansiyellerinin yayılmasını engelleyen klasik antiepileptik ilaç hangisidir?",
         "options": [
             "Diyazepam (Benzodiazepin)",
             "Fenitoin",
@@ -232,7 +232,7 @@ const v9Part2 = [
     {
         "id": "v9_farma_5",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Mide-barsak sistemindeki kolinerjik (parasempatik) aktiviteyi bloke ederek antispazmodik etki gösteren ve aynı zamanda pupillayı büyüterek (midriyazis) göz muayenelerinde kullanılan klasik antimuskarinik ilaç (Belladonna alkaloidi) aşağıdakilerden hangisidir?",
+        "question": "Mide-barsak sistemindeki kolinerjik aktiviteyi bloke ederek antispazmodik etki gösteren ve aynı zamanda pupillayı büyüterek göz muayenelerinde kullanılan klasik antimuskarinik ilaç aşağıdakilerden hangisidir?",
         "options": [
             "Pilokarpin",
             "Atropin",
@@ -247,7 +247,7 @@ const v9Part2 = [
     {
         "id": "v9_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Kan sulandırıcı (Antikoagülan) ilaçlardan Varfarin (Coumadin) pıhtılaşma faktörlerinin sentezini engeller. Varfarinin inhibe ettiği ve aktivasyonu için gerekli olan enzim aşağıdakilerden hangisidir?",
+        "question": "Kan sulandırıcı ilaçlardan Varfarin pıhtılaşma faktörlerinin sentezini engeller. Varfarinin inhibe ettiği ve aktivasyonu için gerekli olan enzim aşağıdakilerden hangisidir?",
         "options": [
             "Siklooksijenaz",
             "Tromboksan sentaz",
@@ -262,7 +262,7 @@ const v9Part2 = [
     {
         "id": "v9_farma_7",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Alerjik reaksiyonlarda H1 reseptörlerini bloke eden antihistaminik ilaçlar iki jenerasyona ayrılır. 1. Jenerasyon olanlar (örn. Difenhidramin) ile 2. Jenerasyon olanlar (örn. Loratadin, Setirizin) arasındaki en büyük klinik/yan etki farkı nedir?",
+        "question": "Alerjik reaksiyonlarda H1 reseptörlerini bloke eden antihistaminik ilaçlar iki jenerasyona ayrılır. 1. Jenerasyon olanlar ile 2. Jenerasyon olanlar arasındaki en büyük klinik/yan etki farkı nedir?",
         "options": [
             "2. Jenerasyon ilaçlar kan-beyin bariyerini geçemediği için uyku (sedasyon) yapmazlar.",
             "1. Jenerasyon ilaçlar sadece ciltte (ürtiker) etkilidir, 2. jenerasyon sadece solunum yolunda etkilidir.",
@@ -295,7 +295,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_2",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Faringeal arkusların (yutak kavisleri) gelişiminde 1. Faringeal arkusun (Mandibular arkus) kıkırdağına ne ad verilir ve hangi kranial sinir tarafından uyarılır?",
+        "question": "Faringeal arkusların gelişiminde 1. Faringeal arkusun kıkırdağına ne ad verilir ve hangi kranial sinir tarafından uyarılır?",
         "options": [
             "Reichert kıkırdağı / N. facialis (CN VII)",
             "Meckel kıkırdağı / N. trigeminus (CN V)",
@@ -310,7 +310,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_3",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kemik dokusunda, kemik yapımından (osteogenez) sorumlu olan, kolajen ve kemik matriksini sentezleyen hücre aşağıdakilerden hangisidir?",
+        "question": "Kemik dokusunda, kemik yapımından sorumlu olan, kolajen ve kemik matriksini sentezleyen hücre aşağıdakilerden hangisidir?",
         "options": [
             "Osteoklast",
             "Osteosit",
@@ -340,7 +340,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kadın üreme sisteminde, ovulasyondan (yumurtlama) sonra overde (yumurtalıkta) kalan folikül hücrelerinin luteinize olarak oluşturduğu, sarı renkli ve progesteron salgılayan endokrin yapıya ne ad verilir?",
+        "question": "Kadın üreme sisteminde, ovulasyondan sonra overde kalan folikül hücrelerinin luteinize olarak oluşturduğu, sarı renkli ve progesteron salgılayan endokrin yapıya ne ad verilir?",
         "options": [
             "Corpus albicans",
             "Corpus atreticum",
@@ -370,7 +370,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_7",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Bağırsak mikrovilluslarında fırçamsı kenarı (brush border) oluşturan ve yüzey alanını 20-30 kat artıran apikal sitoplazmik uzantıların iç iskeletinde aşağıdaki proteinlerden hangisi yoğun olarak bulunur?",
+        "question": "Bağırsak mikrovilluslarında fırçamsı kenarı oluşturan ve yüzey alanını 20-30 kat artıran apikal sitoplazmik uzantıların iç iskeletinde aşağıdaki proteinlerden hangisi yoğun olarak bulunur?",
         "options": [
             "Aktin flamanları",
             "Mikrotübüller (Tübülin)",
@@ -385,7 +385,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kıkırdak gelişim modellerinden olan endokondral ossifikasyonda (kıkırdak üzerinden kemikleşme) kıkırdak hücreleri belli bir noktada şişerek ölürler. Bu şişen ve hipertrofiye uğrayan kondrositlerin bulunduğu tabakaya ne ad verilir?",
+        "question": "Kıkırdak gelişim modellerinden olan endokondral ossifikasyonda kıkırdak hücreleri belli bir noktada şişerek ölürler. Bu şişen ve hipertrofiye uğrayan kondrositlerin bulunduğu tabakaya ne ad verilir?",
         "options": [
             "Dinlenme (Rezerve) zonu",
             "Proliferasyon zonu",
@@ -400,7 +400,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_9",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Tiroid bezinin foliküllerinin arasında yer alan, parafoliküler hücreler (C hücreleri) olarak da bilinen ve Kalsitonin hormonunu salgılayan hücrelerin embriyolojik kökeni nedir?",
+        "question": "Tiroid bezinin foliküllerinin arasında yer alan, parafoliküler hücreler olarak da bilinen ve Kalsitonin hormonunu salgılayan hücrelerin embriyolojik kökeni nedir?",
         "options": [
             "Nöral krista",
             "Endoderm",
@@ -430,7 +430,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_11",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Sindirim kanalının (GİS) histolojik tabakalarından Tunica Muscularis'in iç dairesel (sirküler) ve dış uzunlamasına (longitudinal) düz kas tabakaları arasında yerleşmiş olan, barsak peristaltizmini yöneten sinir ağı hangisidir?",
+        "question": "Sindirim kanalının histolojik tabakalarından Tunica Muscularis'in iç dairesel ve dış uzunlamasına düz kas tabakaları arasında yerleşmiş olan, barsak peristaltizmini yöneten sinir ağı hangisidir?",
         "options": [
             "Meissner pleksusu (Plexus submucosus)",
             "Auerbach pleksusu (Plexus myentericus)",
@@ -460,7 +460,7 @@ const v9Part2 = [
     {
         "id": "v9_histo_13",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kalbin duvar tabakalarından Endokardın (en iç tabaka) altındaki subendokardiyal bağ dokusu içinde, kalbin elektriksel uyarısını ventrikül duvarlarına hızla iletmek üzere özelleşmiş (bol glikojen içeren, az miyofibrilli, soluk boyanan) dev kalp kası hücrelerine ne ad verilir?",
+        "question": "Kalbin duvar tabakalarından Endokardın altındaki subendokardiyal bağ dokusu içinde, kalbin elektriksel uyarısını ventrikül duvarlarına hızla iletmek üzere özelleşmiş dev kalp kası hücrelerine ne ad verilir?",
         "options": [
             "SA nod hücreleri",
             "Kardiyomiyositler",
@@ -492,7 +492,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_2",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Kanlı ishal (dizanteri) tablosuna neden olan, asite çok dirençli olduğu için 10-100 bakteri gibi çok düşük dozlarda bile hastalık yapabilen ve hücre içine girerek aktin kuyruğu ile hücreden hücreye yayılan enterik bakteri hangisidir?",
+        "question": "Kanlı ishal tablosuna neden olan, asite çok dirençli olduğu için 10-100 bakteri gibi çok düşük dozlarda bile hastalık yapabilen ve hücre içine girerek aktin kuyruğu ile hücreden hücreye yayılan enterik bakteri hangisidir?",
         "options": [
             "Shigella dysenteriae",
             "Vibrio cholerae",
@@ -507,7 +507,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Virüslerin konakçı hücresine tutunmasını ve girmesini sağlayan, viral zarf üzerinde bulunan çıkıntılı glikoprotein yapılara (örneğin Influenza'daki Hemaglütinin) ne ad verilir?",
+        "question": "Virüslerin konakçı hücresine tutunmasını ve girmesini sağlayan, viral zarf üzerinde bulunan çıkıntılı glikoprotein yapılara ne ad verilir?",
         "options": [
             "Kapsomer",
             "Nükleokapsid",
@@ -537,7 +537,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gıdalarda (özellikle konserve ve ev yapımı salçalarda) oksijensiz ortamda çoğalarak ürettiği ekzotoksin ile nöromusküler kavşakta asetilkolin salınımını engelleyen ve gevşek felçlere (solunum felci) yol açan bakteri hangisidir?",
+        "question": "Gıdalarda oksijensiz ortamda çoğalarak ürettiği ekzotoksin ile nöromusküler kavşakta asetilkolin salınımını engelleyen ve gevşek felçlere yol açan bakteri hangisidir?",
         "options": [
             "Clostridium tetani",
             "Clostridium botulinum",
@@ -552,7 +552,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_6",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Tüberküloz (Verem) hastalığının etkeni olan Mycobacterium tuberculosis bakterisi, hücre duvarında hangi maddenin çok yüksek oranda bulunması nedeniyle Gram boyası ile boyanamaz ve aside dirençli (ARB) boyama yöntemi (Ehrlich-Ziehl-Neelsen) gerektirir?",
+        "question": "Tüberküloz hastalığının etkeni olan Mycobacterium tuberculosis bakterisi, hücre duvarında hangi maddenin çok yüksek oranda bulunması nedeniyle Gram boyası ile boyanamaz ve aside dirençli boyama yöntemi gerektirir?",
         "options": [
             "Peptidoglikan",
             "Lipopolisakkarit",
@@ -567,7 +567,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Ağız mukozasında pamukçuk (thrush), vajinada akıntılı enfeksiyon (kandidiyazis) yapan ve immün sistemi zayıf hastalarda kan dolaşımına geçerek sistemik hastalık oluşturan fırsatçı maya mantarı hangisidir?",
+        "question": "Ağız mukozasında pamukçuk, vajinada akıntılı enfeksiyon yapan ve immün sistemi zayıf hastalarda kan dolaşımına geçerek sistemik hastalık oluşturan fırsatçı maya mantarı hangisidir?",
         "options": [
             "Aspergillus fumigatus",
             "Candida albicans",
@@ -612,7 +612,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Menenjit vakalarında beyin omurilik sıvısından (BOS) yapılan kültürlerde üreyen, kahve çekirdeği şeklinde Gram negatif diplokok olarak görülen bakteri aşağıdakilerden hangisidir?",
+        "question": "Menenjit vakalarında beyin omurilik sıvısından yapılan kültürlerde üreyen, kahve çekirdeği şeklinde Gram negatif diplokok olarak görülen bakteri aşağıdakilerden hangisidir?",
         "options": [
             "Streptococcus pneumoniae",
             "Neisseria meningitidis (Meningokok)",
@@ -627,7 +627,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bakterilerde genetik materyal aktarımı (Genetik varyasyon) yollarından biri olan 'Transdüksiyon' olayında, bakteri DNA'sının bir başka bakteriye taşınmasını sağlayan aracı (vektör) aşağıdakilerden hangisidir?",
+        "question": "Bakterilerde genetik materyal aktarımı yollarından biri olan 'Transdüksiyon' olayında, bakteri DNA'sının bir başka bakteriye taşınmasını sağlayan aracı aşağıdakilerden hangisidir?",
         "options": [
             "Seks pilusu",
             "Serbest (çıplak) DNA'nın ortamdan emilmesi",
@@ -642,7 +642,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_12",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Zorunlu anaerobik (oksijenli ortamda yaşayamayan) bakterilerin oksijen varlığında ölmesinin temel biyokimyasal nedeni nedir?",
+        "question": "Zorunlu anaerobik bakterilerin oksijen varlığında ölmesinin temel biyokimyasal nedeni nedir?",
         "options": [
             "Oksijenin bakterinin DNA'sını doğrudan kırması",
             "Bakterinin oksijeni besin sanıp sitoplazmasında biriktirmesi",
@@ -657,7 +657,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Kuduz (Rabies) virüsünün insanlarda sinir sistemi boyunca (periferik sinirlerden beyne doğru) ilerleyerek ensefalit oluşturduğu taşınma mekanizması hangisidir?",
+        "question": "Kuduz virüsünün insanlarda sinir sistemi boyunca ilerleyerek ensefalit oluşturduğu taşınma mekanizması hangisidir?",
         "options": [
             "Kan dolaşımı (Viremi) ile",
             "Lenfatik sistem üzerinden",
@@ -672,7 +672,7 @@ const v9Part2 = [
     {
         "id": "v9_mikro_14",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Çocukluk çağında döküntülü hastalıklara neden olan Suçiçeği (Varicella) enfeksiyonu geçirildikten sonra, virüs duyusal sinir ganglionlarında gizli (latent) kalarak yıllar sonra bağışıklığın düştüğü durumlarda hangi hastalığa yol açacak şekilde tekrar aktive olur?",
+        "question": "Çocukluk çağında döküntülü hastalıklara neden olan Suçiçeği enfeksiyonu geçirildikten sonra, virüs duyusal sinir ganglionlarında gizli kalarak yıllar sonra bağışıklığın düştüğü durumlarda hangi hastalığa yol açacak şekilde tekrar aktive olur?",
         "options": [
             "Kızamık",
             "Kızamıkçık",
@@ -704,7 +704,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_2",
         "subject": "Tıbbi Patoloji",
-        "question": "Tüberküloz (Verem) gibi bazı granülomatöz inflamasyonlarda görülen, dokunun peynirimsi, beyaz-sarımsı bir görünüm aldığı ve mikroskobik olarak hücre sınırlarının tamamen silindiği amorf nekroz tipi hangisidir?",
+        "question": "Tüberküloz gibi bazı granülomatöz inflamasyonlarda görülen, dokunun peynirimsi, beyaz-sarımsı bir görünüm aldığı ve mikroskobik olarak hücre sınırlarının tamamen silindiği amorf nekroz tipi hangisidir?",
         "options": [
             "Koagülasyon nekrozu",
             "Likuifaksiyon (Sıvılaşma) nekrozu",
@@ -719,7 +719,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_3",
         "subject": "Tıbbi Patoloji",
-        "question": "Damar içinde, hayatta olan bir kişinin kan damarlarında veya kalbinde, kanın pıhtılaşmasıyla oluşan sert yapıya (ve bu sürece) ne ad verilir?",
+        "question": "Damar içinde, hayatta olan bir kişinin kan damarlarında veya kalbinde, kanın pıhtılaşmasıyla oluşan sert yapıya ne ad verilir?",
         "options": [
             "Emboli",
             "Tromboz (Trombüs)",
@@ -734,7 +734,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_4",
         "subject": "Biyofizik",
-        "question": "Radyasyonun biyolojik dokulardaki etkisini incelerken, radyasyonun hücre içindeki su moleküllerini (H2O) parçalayarak serbest radikaller (örn: Hidroksil radikali OH*) oluşturması ve bu radikallerin gidip DNA'ya zarar vermesi mekanizmasına ne ad verilir?",
+        "question": "Radyasyonun biyolojik dokulardaki etkisini incelerken, radyasyonun hücre içindeki su moleküllerini parçalayarak serbest radikaller oluşturması ve bu radikallerin gidip DNA'ya zarar vermesi mekanizmasına ne ad verilir?",
         "options": [
             "Doğrudan (Direkt) etki",
             "Dolaylı (İndirekt) etki",
@@ -749,7 +749,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_5",
         "subject": "Biyofizik",
-        "question": "Tıbbi görüntüleme yöntemlerinden Manyetik Rezonans Görüntüleme'nin (MRG / MRI) temel fiziksel prensibi, vücuttaki hangi atomun çekirdeklerinin manyetik alan ve radyo frekans dalgaları ile olan rezonansına dayanır?",
+        "question": "Tıbbi görüntüleme yöntemlerinden Manyetik Rezonans Görüntüleme'nin temel fiziksel prensibi, vücuttaki hangi atomun çekirdeklerinin manyetik alan ve radyo frekans dalgaları ile olan rezonansına dayanır?",
         "options": [
             "Karbon",
             "Oksijen",
@@ -764,7 +764,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_6",
         "subject": "Toplum Sağlığı",
-        "question": "Bir toplumda belirli bir hastalığın görülme sıklığının, o bölge için beklenen normal seviyeyi çok aşarak kısa sürede büyük bir nüfusu etkilemesi durumuna (Salgın) epidemiyolojide ne ad verilir?",
+        "question": "Bir toplumda belirli bir hastalığın görülme sıklığının, o bölge için beklenen normal seviyeyi çok aşarak kısa sürede büyük bir nüfusu etkilemesi durumuna epidemiyolojide ne ad verilir?",
         "options": [
             "Endemi",
             "Epidemi",
@@ -779,7 +779,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_7",
         "subject": "Bilimsel Araştırma",
-        "question": "Geçmişte asbest fabrikasında çalışan işçilerin sağlık kayıtlarının geriye dönük incelenerek, akciğer zarı kanseri (mezotelyoma) gelişimi ile asbest teması arasındaki ilişkinin ortaya konduğu araştırma tasarımı aşağıdakilerden hangisidir?",
+        "question": "Geçmişte asbest fabrikasında çalışan işçilerin sağlık kayıtlarının geriye dönük incelenerek, akciğer zarı kanseri gelişimi ile asbest teması arasındaki ilişkinin ortaya konduğu araştırma tasarımı aşağıdakilerden hangisidir?",
         "options": [
             "Kesitsel çalışma",
             "Vaka-kontrol çalışması",
@@ -809,7 +809,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_9",
         "subject": "İletişim Becerileri",
-        "question": "Bir hastanın tedavi önerilerini uygulamaması veya ilaçlarını düzenli kullanmaması (uyumsuzluk) durumunda, hekimin hastayı suçlamak yerine, 'İlaçları düzenli kullanmanın senin için ne gibi zorlukları oldu?' şeklinde açık uçlu bir soruyla yaklaşmasına ne ad verilir?",
+        "question": "Bir hastanın tedavi önerilerini uygulamaması veya ilaçlarını düzenli kullanmaması durumunda, hekimin hastayı suçlamak yerine, 'İlaçları düzenli kullanmanın senin için ne gibi zorlukları oldu?' şeklinde açık uçlu bir soruyla yaklaşmasına ne ad verilir?",
         "options": [
             "Yargılayıcı tutum",
             "Güdümlü (yönlendirici) görüşme",
@@ -854,7 +854,7 @@ const v9Part2 = [
     {
         "id": "v9_diger_12",
         "subject": "Tıbbi Patoloji",
-        "question": "Kronik alkolizm veya aşırı beslenme durumunda, karaciğer hücrelerinin (hepatositlerin) sitoplazmasında anormal trigliserit (lipid) birikmesine ve organın sarı, yağlı bir görünüm almasına ne ad verilir?",
+        "question": "Kronik alkolizm veya aşırı beslenme durumunda, karaciğer hücrelerinin sitoplazmasında anormal trigliserit birikmesine ve organın sarı, yağlı bir görünüm almasına ne ad verilir?",
         "options": [
             "Amiloidoz",
             "Hemokromatoz",

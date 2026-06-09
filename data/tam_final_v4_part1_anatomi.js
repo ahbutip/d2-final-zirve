@@ -36,7 +36,7 @@ const anatomiQuestions = [
         "id": "v4_anat_2",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Acil servise şiddetli karın ağrısı ile getirilen 30 yaşındaki erkek hastaya akut apandisit teşhisi konuluyor. Ameliyata alınan hastanın appendix vermiformis'inin peritonun bir çıkmazında (recessus) yer aldığı ve enfeksiyonun bu alanda hapsolduğu görülüyor. \nÖzellikle retroçekal yerleşimli apandisitlerde enfeksiyonun yayıldığı bu periton çıkmazı hangisidir?",
+        "question": "Acil servise şiddetli karın ağrısı ile getirilen 30 yaşındaki erkek hastaya akut apandisit teşhisi konuluyor. Ameliyata alınan hastanın appendix vermiformis'inin peritonun bir çıkmazında yer aldığı ve enfeksiyonun bu alanda hapsolduğu görülüyor. \nÖzellikle retroçekal yerleşimli apandisitlerde enfeksiyonun yayıldığı bu periton çıkmazı hangisidir?",
         "options": [
             "Recessus duodenalis superior",
             "Recessus retrocecalis",
@@ -53,7 +53,7 @@ const anatomiQuestions = [
         "id": "v4_anat_3",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Çocukluk çağında geçirdiği bir yabancı cisim aspirasyonu (fıstık yutma) vakası sonrası hastaneye getirilen 5 yaşındaki çocuğun çekilen akciğer röntgeninde, yabancı cismin sağ akciğere kaçtığı görülüyor. \nYabancı cisimlerin genellikle sağ ana bronşa (bronchus principalis dexter) kaçmasının temel anatomik nedeni aşağıdakilerden hangisidir?",
+        "question": "Çocukluk çağında geçirdiği bir yabancı cisim aspirasyonu vakası sonrası hastaneye getirilen 5 yaşındaki çocuğun çekilen akciğer röntgeninde, yabancı cismin sağ akciğere kaçtığı görülüyor. \nYabancı cisimlerin genellikle sağ ana bronşa kaçmasının temel anatomik nedeni aşağıdakilerden hangisidir?",
         "options": [
             "Sağ ana bronşun sola göre daha dar olması",
             "Sağ ana bronşun sola göre daha uzun olması",
@@ -87,7 +87,7 @@ const anatomiQuestions = [
         "id": "v4_anat_5",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Hipertansiyon krizleri ve çarpıntı şikayetleri ile tetkik edilen hastanın MR görüntülemesinde glandula suprarenalis'in (böbrek üstü bezi) medulla kısmından kaynaklanan bir tümör (feokromositoma) tespit ediliyor. Ameliyat planlanan hastada, sağ böbrek üstü bezinin veninin (v. suprarenalis dextra) doğrudan nereye döküldüğünün bilinmesi cerrahi için önemlidir. \nV. suprarenalis dextra aşağıdakilerden hangisine dökülür?",
+        "question": "Hipertansiyon krizleri ve çarpıntı şikayetleri ile tetkik edilen hastanın MR görüntülemesinde glandula suprarenalis'in medulla kısmından kaynaklanan bir tümör tespit ediliyor. Ameliyat planlanan hastada, sağ böbrek üstü bezinin veninin doğrudan nereye döküldüğünün bilinmesi cerrahi için önemlidir. \nV. suprarenalis dextra aşağıdakilerden hangisine dökülür?",
         "options": [
             "V. renalis dextra",
             "V. cava inferior",
@@ -121,7 +121,7 @@ const anatomiQuestions = [
         "id": "v4_anat_7",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Karaciğer sirozu nedeniyle portal hipertansiyon gelişen hastada, portal ven ile sistemik venler (kava sistem) arasındaki anastomozların açılması sonucu özofagus varis kanamaları meydana gelmektedir. \nBu klinik tabloya yol açan özofageal porto-kaval anastomoz hangi iki ven arasında gerçekleşir?",
+        "question": "Karaciğer sirozu nedeniyle portal hipertansiyon gelişen hastada, portal ven ile sistemik venler arasındaki anastomozların açılması sonucu özofagus varis kanamaları meydana gelmektedir. \nBu klinik tabloya yol açan özofageal porto-kaval anastomoz hangi iki ven arasında gerçekleşir?",
         "options": [
             "V. gastrica sinistra - V. azygos / V. hemiazygos sistemi",
             "V. splenica - V. renalis sinistra",
@@ -138,7 +138,7 @@ const anatomiQuestions = [
         "id": "v4_anat_8",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Kadın doğum uzmanı, zorlu bir doğum eylemi sırasında pelvis tabanını desteklemek ve perinenin kontrolsüz yırtılmasını önlemek amacıyla epizyotomi (perine kesisi) uygulamaya karar veriyor. \nPelvis döşemesini (diaphragma pelvis) oluşturan ve epizyotomide kesilme ihtimali olan temel kas aşağıdakilerden hangisidir?",
+        "question": "Kadın doğum uzmanı, zorlu bir doğum eylemi sırasında pelvis tabanını desteklemek ve perinenin kontrolsüz yırtılmasını önlemek amacıyla epizyotomi uygulamaya karar veriyor. \nPelvis döşemesini oluşturan ve epizyotomide kesilme ihtimali olan temel kas aşağıdakilerden hangisidir?",
         "options": [
             "M. obturatorius internus",
             "M. levator ani",
@@ -157,7 +157,7 @@ const anatomiQuestions = [
         "id": "v4_anat_9",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Aşağıdaki kranial sinirlerden hangisinin motor (GSE - Genel Somatik Efferent) lifi bulunmaz?",
+        "question": "Aşağıdaki kranial sinirlerden hangisinin motor lifi bulunmaz?",
         "options": [
             "N. oculomotorius",
             "N. trochlearis",
@@ -191,7 +191,7 @@ const anatomiQuestions = [
         "id": "v4_anat_11",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Larynx kıkırdaklarından hangisi tam bir yüzük (halka) şeklindedir?",
+        "question": "Larynx kıkırdaklarından hangisi tam bir yüzük şeklindedir?",
         "options": [
             "Cartilago thyroidea",
             "Cartilago cricoidea",
@@ -208,7 +208,7 @@ const anatomiQuestions = [
         "id": "v4_anat_12",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Aşağıdakilerden hangisi erkek üreme sistemine ait bir eklenti bezidir (glandula accessoria)?",
+        "question": "Aşağıdakilerden hangisi erkek üreme sistemine ait bir eklenti bezidir?",
         "options": [
             "Epididymis",
             "Ductus deferens",
@@ -242,7 +242,7 @@ const anatomiQuestions = [
         "id": "v4_anat_14",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Waldeyer'in lenfatik halkasında (Anulus lymphaticus pharyngis) aşağıdaki bademciklerden (tonsilla) hangisi bulunmaz?",
+        "question": "Waldeyer'in lenfatik halkasında aşağıdaki bademciklerden hangisi bulunmaz?",
         "options": [
             "Tonsilla pharyngealis",
             "Tonsilla palatina",
@@ -259,7 +259,7 @@ const anatomiQuestions = [
         "id": "v4_anat_15",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "N. facialis (VII. kranial sinir) cranium'u hangi delikten geçerek terk eder?",
+        "question": "N. facialis cranium'u hangi delikten geçerek terk eder?",
         "options": [
             "Foramen ovale",
             "Foramen jugulare",
@@ -312,7 +312,7 @@ const anatomiQuestions = [
         "id": "v4_anat_18",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Kalpte atrium dextrum (sağ kulakçık) ile ventriculus dexter (sağ karıncık) arasında hangi kapak bulunur?",
+        "question": "Kalpte atrium dextrum ile ventriculus dexter arasında hangi kapak bulunur?",
         "options": [
             "Valva bicuspidalis (Mitral)",
             "Valva tricuspidalis",
@@ -346,7 +346,7 @@ const anatomiQuestions = [
         "id": "v4_anat_20",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Dalak (splen) ile ilgili aşağıdaki anatomik komşuluklardan hangisi yanlıştır?",
+        "question": "Dalak ile ilgili aşağıdaki anatomik komşuluklardan hangisi yanlıştır?",
         "options": [
             "İç (visseral) yüzünde midenin fundusu ile komşudur.",
             "Sol böbrek ile komşuluğu vardır.",
@@ -363,7 +363,7 @@ const anatomiQuestions = [
         "id": "v4_anat_21",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Pankreasın en geniş ve kalın olan baş kısmı (caput pancreatis) aşağıdaki anatomik yapılardan hangisinin kavsi (C şeklindeki kıvrımı) içine oturmuştur?",
+        "question": "Pankreasın en geniş ve kalın olan baş kısmı aşağıdaki anatomik yapılardan hangisinin kavsi içine oturmuştur?",
         "options": [
             "Jejunum",
             "Ileum",
@@ -397,7 +397,7 @@ const anatomiQuestions = [
         "id": "v4_anat_23",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Böbreklerin (ren) dış yüzeyini doğrudan saran ve koruyan bağ dokusu kılıfı aşağıdakilerden hangisidir?",
+        "question": "Böbreklerin dış yüzeyini doğrudan saran ve koruyan bağ dokusu kılıfı aşağıdakilerden hangisidir?",
         "options": [
             "Fascia renalis (Gerota fasyası)",
             "Capsula fibrosa",
@@ -414,7 +414,7 @@ const anatomiQuestions = [
         "id": "v4_anat_24",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Kalbin kendi dokusunu (miyokard) besleyen arteria coronaria'lar aortun hangi kısmından başlangıç alırlar?",
+        "question": "Kalbin kendi dokusunu besleyen arteria coronaria'lar aortun hangi kısmından başlangıç alırlar?",
         "options": [
             "Arcus aortae",
             "Aorta descendens",
@@ -431,7 +431,7 @@ const anatomiQuestions = [
         "id": "v4_anat_25",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Aşağıdakilerden hangisi tuba uterina'nın (Fallop tüpü) bölümlerinden biri değildir?",
+        "question": "Aşağıdakilerden hangisi tuba uterina'nın bölümlerinden biri değildir?",
         "options": [
             "Infundibulum",
             "Ampulla",
@@ -448,7 +448,7 @@ const anatomiQuestions = [
         "id": "v4_anat_26",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Üreterler (sidik borusu), böbrekten çıktıktan sonra pelvise doğru inerken aşağıdaki kaslardan hangisinin ön yüzünde seyrederler?",
+        "question": "Üreterler, böbrekten çıktıktan sonra pelvise doğru inerken aşağıdaki kaslardan hangisinin ön yüzünde seyrederler?",
         "options": [
             "M. quadratus lumborum",
             "M. psoas major",
@@ -467,7 +467,7 @@ const anatomiQuestions = [
         "id": "v4_anat_27",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Sağ akciğerde (pulmo dexter) bulunup, sol akciğerde bulunmayan anatomik yapı aşağıdakilerden hangisidir?",
+        "question": "Sağ akciğerde bulunup, sol akciğerde bulunmayan anatomik yapı aşağıdakilerden hangisidir?",
         "options": [
             "Fissura obliqua",
             "Fissura horizontalis",
@@ -484,7 +484,7 @@ const anatomiQuestions = [
         "id": "v4_anat_28",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Aşağıdakilerden hangisi mide yatağında (bed of stomach) bulunan anatomik yapılardan biri değildir?",
+        "question": "Aşağıdakilerden hangisi mide yatağında bulunan anatomik yapılardan biri değildir?",
         "options": [
             "Pankreas gövdesi",
             "Sol böbrek",
@@ -501,7 +501,7 @@ const anatomiQuestions = [
         "id": "v4_anat_29",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Aşağıdakilerden hangisi karaciğerin alt (visseral) yüzünde yer alan yapılardan biridir?",
+        "question": "Aşağıdakilerden hangisi karaciğerin alt yüzünde yer alan yapılardan biridir?",
         "options": [
             "Vesica biliaris (Safra kesesi)",
             "Ligamentum falciforme",
@@ -535,7 +535,7 @@ const anatomiQuestions = [
         "id": "v4_anat_31",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Hipofiz bezi (glandula pituitaria) cranium'da hangi kemiğin üzerindeki fossa hypophysialis (sella turcica) içine yerleşmiştir?",
+        "question": "Hipofiz bezi cranium'da hangi kemiğin üzerindeki fossa hypophysialis içine yerleşmiştir?",
         "options": [
             "Os frontale",
             "Os ethmoidale",
@@ -552,7 +552,7 @@ const anatomiQuestions = [
         "id": "v4_anat_32",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Oesophagus'un (yemek borusu) mideye girdiği bölgeye (mide ile birleşme noktası) ne ad verilir?",
+        "question": "Oesophagus'un mideye girdiği bölgeye ne ad verilir?",
         "options": [
             "Fundus gastricus",
             "Cardia",
@@ -569,7 +569,7 @@ const anatomiQuestions = [
         "id": "v4_anat_33",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Aşağıdakilerden hangisi alt ekstremitenin venöz dönüşünü sağlayan derin venlerden (v. profunda) biridir?",
+        "question": "Aşağıdakilerden hangisi alt ekstremitenin venöz dönüşünü sağlayan derin venlerden biridir?",
         "options": [
             "V. saphena magna",
             "V. saphena parva",
@@ -586,7 +586,7 @@ const anatomiQuestions = [
         "id": "v4_anat_34",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Karaciğere giren (v. portae, a. hepatica propria) ve karaciğerden çıkan (ductus hepaticus communis) yapıların bulunduğu, karaciğerin alt yüzündeki bölgeye ne ad verilir?",
+        "question": "Karaciğere giren ve karaciğerden çıkan yapıların bulunduğu, karaciğerin alt yüzündeki bölgeye ne ad verilir?",
         "options": [
             "Ligamentum teres hepatis",
             "Porta hepatis",

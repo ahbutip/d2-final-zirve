@@ -5,7 +5,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki amino asitlerden hangisi, T3-T4 tiroid hormonlarının, derideki Melanin pigmentinin ve böbrek üstü bezinden salgılanan Adrenalin/Noradrenalin (Katekolamin) hormonlarının ORTAK öncül molekülüdür?",
+        "question": "Aşağıdaki amino asitlerden hangisi, T3-T4 tiroid hormonlarının, derideki Melanin pigmentinin ve böbrek üstü bezinden salgılanan Adrenalin/Noradrenalin hormonlarının ORTAK öncül molekülüdür?",
         "options": [
             "Triptofan",
             "Tirozin",
@@ -20,7 +20,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kan plazmasında kolesterolün dokulara (damar duvarlarına) taşınmasından sorumlu olan LDL'nin hücre içine ALINABİLMESİ için, hücre yüzeyindeki LDL reseptörünün LDL üzerinde tanıdığı 'apolipoprotein' etiketi aşağıdakilerden hangisidir?",
+        "question": "Kan plazmasında kolesterolün dokulara taşınmasından sorumlu olan LDL'nin hücre içine ALINABİLMESİ için, hücre yüzeyindeki LDL reseptörünün LDL üzerinde tanıdığı 'apolipoprotein' etiketi aşağıdakilerden hangisidir?",
         "options": [
             "Apo A-I",
             "Apo B-48",
@@ -35,7 +35,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "Metabolizmada, yağ asitlerinin (Örn: Palmitik asit) enerji elde etmek amacıyla mitokondri içinde ikişer karbonlu (Asetil-KoA) parçalara bölünerek YIKILMASI işlemine ne ad verilir?",
+        "question": "Metabolizmada, yağ asitlerinin enerji elde etmek amacıyla mitokondri içinde ikişer karbonlu parçalara bölünerek YIKILMASI işlemine ne ad verilir?",
         "options": [
             "Glikoliz",
             "Oksidatif fosforilasyon",
@@ -50,7 +50,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "B12 Vitamini (Kobalamin) eksikliğinde kanda ve idrarda BİRİKEREK yükselen, bu nedenle B12 eksikliği tanısında kullanılan (özellikle Folik asit eksikliğinden ayırmak için) METABOLİT hangisidir?",
+        "question": "B12 Vitamini eksikliğinde kanda ve idrarda BİRİKEREK yükselen, bu nedenle B12 eksikliği tanısında kullanılan METABOLİT hangisidir?",
         "options": [
             "Laktik asit",
             "Pirüvat",
@@ -65,7 +65,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kan pH'sını dar bir aralıkta (7.35 - 7.45) sabit tutmak için vücudumuzdaki plazmada ve hücre dışı sıvıda en çok bulunan, kapasitesi EN BÜYÜK olan TAMPON SİSTEMİ aşağıdakilerden hangisidir?",
+        "question": "Kan pH'sını dar bir aralıkta sabit tutmak için vücudumuzdaki plazmada ve hücre dışı sıvıda en çok bulunan, kapasitesi EN BÜYÜK olan TAMPON SİSTEMİ aşağıdakilerden hangisidir?",
         "options": [
             "Fosfat Tampon Sistemi",
             "Protein Tampon Sistemi",
@@ -80,7 +80,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Glukoz molekülü glikoliz yoluna girdiğinde HÜCRE İÇİNDE HAPSOLMASINI sağlayan ve ona bir fosfat grubu ekleyerek 'Glukoz 6-Fosfat'a dönüştüren SİTOPLAZMİK ENZİM (Tüm hücrelerdeki ortak enzim) aşağıdakilerden hangisidir?",
+        "question": "Glukoz molekülü glikoliz yoluna girdiğinde HÜCRE İÇİNDE HAPSOLMASINI sağlayan ve ona bir fosfat grubu ekleyerek 'Glukoz 6-Fosfat'a dönüştüren SİTOPLAZMİK ENZİM aşağıdakilerden hangisidir?",
         "options": [
             "Fosfofruktokinaz-1 (PFK-1)",
             "Glukoz-6-Fosfataz",
@@ -95,7 +95,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_7",
         "subject": "Tıbbi Biyokimya",
-        "question": "DNA replikasyonu (kopyalanması) sırasında çift sarmalı bir fermuar gibi açarak (hidrojen bağlarını kopararak) tek sarmal haline getiren ve ilerleyen replikasyon çatalını oluşturan enzim hangisidir?",
+        "question": "DNA replikasyonu sırasında çift sarmalı bir fermuar gibi açarak tek sarmal haline getiren ve ilerleyen replikasyon çatalını oluşturan enzim hangisidir?",
         "options": [
             "DNA Polimeraz",
             "DNA Ligaz",
@@ -110,7 +110,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_8",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kolesterol vücutta birçok molekülün (safra, hormon vb.) sentez öncülüdür. Aşağıdaki maddelerden hangisi kolesterolden SENTEZLENMEZ?",
+        "question": "Kolesterol vücutta birçok molekülün sentez öncülüdür. Aşağıdaki maddelerden hangisi kolesterolden SENTEZLENMEZ?",
         "options": [
             "Östrojen ve Testosteron",
             "Kortizol ve Aldosteron",
@@ -125,7 +125,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Klinikte 'Kalp Yetmezliği' teşhisi ve ağırlığının belirlenmesi için kanda bakılan, ventriküllerin aşırı gerilmesi (içinde kan göllenmesi) durumunda kalpten kana salgılanarak böbrekten su ve sodyum (idrar) ATILIMINI ARTIRAN biyokimyasal belirteç (hormon) hangisidir?",
+        "question": "Klinikte 'Kalp Yetmezliği' teşhisi ve ağırlığının belirlenmesi için kanda bakılan, ventriküllerin aşırı gerilmesi durumunda kalpten kana salgılanarak böbrekten su ve sodyum ATILIMINI ARTIRAN biyokimyasal belirteç hangisidir?",
         "options": [
             "Aldosteron",
             "Epinefrin",
@@ -140,7 +140,7 @@ const v13Part2 = [
     {
         "id": "v13_biyo_10",
         "subject": "Tıbbi Biyokimya",
-        "question": "Alkoliklerde sıklıkla görülen 'Wernicke-Korsakoff' sendromu (Göz kası felci, ataksi ve hafıza kaybı/konfabulasyon), alkolün bağırsak emilimini bozduğu HANGİ VİTAMİNİN ağır eksikliği sonucunda beynin enerji krizine girmesiyle oluşur?",
+        "question": "Alkoliklerde sıklıkla görülen 'Wernicke-Korsakoff' sendromu, alkolün bağırsak emilimini bozduğu HANGİ VİTAMİNİN ağır eksikliği sonucunda beynin enerji krizine girmesiyle oluşur?",
         "options": [
             "B1 Vitamini (Tiamin)",
             "B2 Vitamini (Riboflavin)",
@@ -172,7 +172,7 @@ const v13Part2 = [
     {
         "id": "v13_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "İlaçların böbreklerden atılımında, idrarı ALKALİLEŞTİRMEK (Bazik yapmak - Örn: Sodyum Bikarbonat vererek) aşağıdaki hangi tür ilaçların böbrek tübüllerinden geri emilmesini engelleyerek ATILIMINI HIZLANDIRIR (Zehirlenme tedavisinde kullanılır)?",
+        "question": "İlaçların böbreklerden atılımında, idrarı ALKALİLEŞTİRMEK aşağıdaki hangi tür ilaçların böbrek tübüllerinden geri emilmesini engelleyerek ATILIMINI HIZLANDIRIR?",
         "options": [
             "Zayıf bazik ilaçların (Örn: Amfetaminler)",
             "Zayıf asidik ilaçların (Örn: Aspirin / Salisilat)",
@@ -187,7 +187,7 @@ const v13Part2 = [
     {
         "id": "v13_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Aşağıdaki ilaç uygulama yollarından hangisinde, verilen ilacın TAMAMI (%100'ü) doğrudan sistemik dolaşıma girdiği için 'Biyoyararlanım (Bioavailability)' SIFIR KAYIPLA tam kabul edilir ve karaciğerin ilk geçiş (first-pass) etkisinden kurtulunur?",
+        "question": "Aşağıdaki ilaç uygulama yollarından hangisinde, verilen ilacın TAMAMI doğrudan sistemik dolaşıma girdiği için 'Biyoyararlanım' SIFIR KAYIPLA tam kabul edilir ve karaciğerin ilk geçiş etkisinden kurtulunur?",
         "options": [
             "Oral (Ağızdan yutma)",
             "İntramüsküler (Kas içi)",
@@ -202,7 +202,7 @@ const v13Part2 = [
     {
         "id": "v13_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Miyastenia Gravis hastalığında (Kaslarda asetilkolin reseptörlerinin yıkıldığı zayıflık hastalığı), ortamdaki Asetilkolin miktarını ARTIRMAK İÇİN verilen ve 'Asetilkolinesteraz' enzimini tersinir (reversibl) olarak bloke eden ilaç grubu hangisidir?",
+        "question": "Miyastenia Gravis hastalığında, ortamdaki Asetilkolin miktarını ARTIRMAK İÇİN verilen ve 'Asetilkolinesteraz' enzimini tersinir olarak bloke eden ilaç grubu hangisidir?",
         "options": [
             "Beta blokörler",
             "Antikolinesterazlar (Örn: Neostigmin, Piridostigmin)",
@@ -217,7 +217,7 @@ const v13Part2 = [
     {
         "id": "v13_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Şizofreni ve benzeri psikotik hastalıkların tedavisinde kullanılan Antipsikotik ilaçların (Nöroleptikler) ASIL tedavi edici (Halüsinasyonları durduran) farmakolojik mekanizması beynin mezolimbik yolundaki HANGİ reseptörleri BLOKE etmeleridir?",
+        "question": "Şizofreni ve benzeri psikotik hastalıkların tedavisinde kullanılan Antipsikotik ilaçların ASIL tedavi edici farmakolojik mekanizması beynin mezolimbik yolundaki HANGİ reseptörleri BLOKE etmeleridir?",
         "options": [
             "Serotonin 5-HT3 reseptörleri",
             "Muskarinik M1 reseptörleri",
@@ -232,7 +232,7 @@ const v13Part2 = [
     {
         "id": "v13_farma_5",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Bir hastaya ameliyat (diş çekimi, dikiş atma vb.) sırasında lokal anestezi (Örn: Lidokain) yapılırken, genellikle lokal anesteziğin İÇİNE bir miktar ADRENALİN (Epinefrin) katılır. Bu karışımın yapılmasının ANA AMACI nedir?",
+        "question": "Bir hastaya ameliyat sırasında lokal anestezi yapılırken, genellikle lokal anesteziğin İÇİNE bir miktar ADRENALİN katılır. Bu karışımın yapılmasının ANA AMACI nedir?",
         "options": [
             "Hastanın bayılmasını (senkop) önlemek",
             "Ağrı eşiğini tek başına adrenalin ile daha da yükseltmek",
@@ -247,7 +247,7 @@ const v13Part2 = [
     {
         "id": "v13_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Hamilelerde, fetüste teratojenik (sakatlık yapan / organ gelişimini bozan) etkileri nedeniyle KESİNLİKLE KULLANILMAMASI gereken antibiyotiklerden birisi Tetrasiklinlerdir. Tetrasiklin bebekte hangi spesifik dokuya KALICI olarak bağlanır ve zarar verir?",
+        "question": "Hamilelerde, fetüste teratojenik etkileri nedeniyle KESİNLİKLE KULLANILMAMASI gereken antibiyotiklerden birisi Tetrasiklinlerdir. Tetrasiklin bebekte hangi spesifik dokuya KALICI olarak bağlanır ve zarar verir?",
         "options": [
             "Göz retinasına bağlanıp körlük yapar",
             "Karaciğere bağlanıp yetmezlik yapar",
@@ -262,7 +262,7 @@ const v13Part2 = [
     {
         "id": "v13_farma_7",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Kalp Glikozidleri (Digoksin) Kalp Yetmezliğinde kalbin kasılma gücünü artıran (Pozitif inotrop) ilaçlardır. Digoksinin HÜCRE İÇİ ETKİ MEKANİZMASI, kalp hücre zarlarında bulunan hangi POMPAYI INHİBE etmesine (kapatmasına) dayanır?",
+        "question": "Kalp Glikozidleri Kalp Yetmezliğinde kalbin kasılma gücünü artıran ilaçlardır. Digoksinin HÜCRE İÇİ ETKİ MEKANİZMASI, kalp hücre zarlarında bulunan hangi POMPAYI INHİBE etmesine dayanır?",
         "options": [
             "Na+/Ca++ Değiştirici pompasını",
             "Na+/K+ ATPaz pompasını",
@@ -279,7 +279,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_1",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Sinir dokusunu hazırlanan standart histolojik (H&E) kesitlerde incelediğimizde, nöronların sitoplazmasında bulunan ve protein sentezinden (granüllü endoplazmik retikulum ve ribozom kümelenmeleri) oluşan, bazofilik (mor/koyu mavi) boyanan benekli yapılara ne ad verilir?",
+        "question": "Sinir dokusunu hazırlanan standart histolojik kesitlerde incelediğimizde, nöronların sitoplazmasında bulunan ve protein sentezinden oluşan, bazofilik boyanan benekli yapılara ne ad verilir?",
         "options": [
             "Miyelin kılıf",
             "Nissl cisimcikleri (Tigroid cisimler)",
@@ -294,7 +294,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_2",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kemik dokusunun onarımında ve yeniden şekillenmesinde (Remodeling), yaşlı/hasarlı kemiği asit ve enzimler salgılayarak ERİTEN (yıkan), çok çekirdekli ve makrofaj kökenli dev hücre aşağıdakilerden hangisidir?",
+        "question": "Kemik dokusunun onarımında ve yeniden şekillenmesinde, yaşlı/hasarlı kemiği asit ve enzimler salgılayarak ERİTEN, çok çekirdekli ve makrofaj kökenli dev hücre aşağıdakilerden hangisidir?",
         "options": [
             "Osteoblast",
             "Osteosit",
@@ -309,7 +309,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_3",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Bağ dokusu hücrelerinden 'Mast Hücreleri', içerdikleri iri granülleri aniden boşaltarak (Dekranülasyon) akut alerjik reaksiyonları (Anafilaksi vb.) başlatırlar. Bu granüllerin içinde en bol bulunan inflamatuvar (damar genişletici) madde ve pıhtılaşma önleyici (antikoagülan) madde sırasiyla nelerdir?",
+        "question": "Bağ dokusu hücrelerinden 'Mast Hücreleri', içerdikleri iri granülleri aniden boşaltarak akut alerjik reaksiyonları başlatırlar. Bu granüllerin içinde en bol bulunan inflamatuvar madde ve pıhtılaşma önleyici madde sırasiyla nelerdir?",
         "options": [
             "Serotonin ve Fibrin",
             "Histamin ve Heparin",
@@ -324,7 +324,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_4",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Cildin dış tabakası olan Epidermis'te (Çok katlı yassı keratinize epitel) hücre çoğalmasının (Mitoz bölünmenin) sürekli olarak yapıldığı (Kök hücrelerin bulunduğu) EN ALT tabaka aşağıdakilerden hangisidir?",
+        "question": "Cildin dış tabakası olan Epidermis'te hücre çoğalmasının sürekli olarak yapıldığı EN ALT tabaka aşağıdakilerden hangisidir?",
         "options": [
             "Stratum corneum",
             "Stratum granulosum",
@@ -339,7 +339,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Solunum yollarında, havanın ısıtılıp temizlendiği, çok sayıda silyanın ve mukus üreten Goblet hücresinin bulunduğu 'Solunum (Respiratuar) Epiteli'nin HISTOLOJİK TİPİ nedir?",
+        "question": "Solunum yollarında, havanın ısıtılıp temizlendiği, çok sayıda silyanın ve mukus üreten Goblet hücresinin bulunduğu 'Solunum Epiteli'nin HISTOLOJİK TİPİ nedir?",
         "options": [
             "Tek katlı yassı epitel",
             "Çok katlı yassı keratinize epitel",
@@ -354,7 +354,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_6",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Karaciğer lobülünün (Klasik lobül) merkezinde ve köşelerinde yer alan yapılar incelendiğinde; köşelerdeki 'Portal Triad' (Glisson Üçlüsü) içinde HANGİ üç yapı YAN YANA bulunur?",
+        "question": "Karaciğer lobülünün merkezinde ve köşelerinde yer alan yapılar incelendiğinde; köşelerdeki 'Portal Triad' içinde HANGİ üç yapı YAN YANA bulunur?",
         "options": [
             "Vena centralis, Arteria hepatica, Safra kanalı",
             "Vena cava inferior, Vena portae, Safra kesesi",
@@ -369,7 +369,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_7",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kan hücrelerinden 'Eritrositlerin (Alyuvarların)' dolaşıma katılmadan hemen önce (Kemik iliğinden kana çıkarken) içinde az miktarda RNA/Ribozom artığı barındırdığı EN GENÇ halinin (Özel boyayla ağ şeklinde gözüken formunun) adı nedir?",
+        "question": "Kan hücrelerinden 'Eritrositlerin' dolaşıma katılmadan hemen önce içinde az miktarda RNA/Ribozom artığı barındırdığı EN GENÇ halinin adı nedir?",
         "options": [
             "Normoblast",
             "Retikülosit",
@@ -384,7 +384,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyonik dönemde tüm dokuların (Kas, Kemik, Kıkırdak, Kan) köken aldığı, gevşek bağ dokusu yapısındaki MEZENKİM (Mesenchyme) dokusu, üç embriyonik germ yaprağının hangisinden FARKLILAŞARAK oluşur?",
+        "question": "Embriyonik dönemde tüm dokuların köken aldığı, gevşek bağ dokusu yapısındaki MEZENKİM dokusu, üç embriyonik germ yaprağının hangisinden FARKLILAŞARAK oluşur?",
         "options": [
             "Sadece Ektoderm'den",
             "Mezoderm (Orta tabaka)",
@@ -399,7 +399,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_9",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Göz küresinin (Bulbus oculi) en iç tabakası olan Retina'da, ışığa ve karanlığa son derece duyarlı olan ancak renk ayırt edemeyen (gece/siyah-beyaz görmeyi sağlayan) fotoreseptör hücreler hangileridir?",
+        "question": "Göz küresinin en iç tabakası olan Retina'da, ışığa ve karanlığa son derece duyarlı olan ancak renk ayırt edemeyen fotoreseptör hücreler hangileridir?",
         "options": [
             "Koni hücreleri",
             "Çomak (Basil/Rod) hücreleri",
@@ -414,7 +414,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_10",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyoloji: Döllenmeden (Fertilizasyon) sonraki ilk hafta içinde hücreler (Blastomeller) çok sayıda bölünerek bir dut yığını (Morula) halini alır, daha sonra içine sıvı dolarak 'Blastokist' adını alır. Uterusa tutunup gömülen (İmplantasyon) yapı hangisidir?",
+        "question": "Embriyoloji: Döllenmeden sonraki ilk hafta içinde hücreler çok sayıda bölünerek bir dut yığını halini alır, daha sonra içine sıvı dolarak 'Blastokist' adını alır. Uterusa tutunup gömülen yapı hangisidir?",
         "options": [
             "Zigot (Tek hücreli)",
             "Morula",
@@ -429,7 +429,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_11",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Böbrek histolojisinde kanın süzüldüğü yumak olan 'Glomerulus'u sıkıca saran ve süzülme bariyerinin EN İÇTEN (damar dışına bakan ilk tabaka) EN DIŞ (ikincil süreç) elemanı olan, ahtapot gibi ayaklarıyla kılcal damarları kucaklayan Bowman kapsülü hücrelerinin adı nedir?",
+        "question": "Böbrek histolojisinde kanın süzüldüğü yumak olan 'Glomerulus'u sıkıca saran ve süzülme bariyerinin EN İÇTEN EN DIŞ elemanı olan, ahtapot gibi ayaklarıyla kılcal damarları kucaklayan Bowman kapsülü hücrelerinin adı nedir?",
         "options": [
             "Podositler",
             "Mezengiyal hücreler",
@@ -444,7 +444,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_12",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Erkek üreme sisteminde Testislerin içinde, Sperm hücrelerinin kök hücresi olan spermatogonyumları besleyen, Kan-Testis bariyerini oluşturan, Fagositoz yapan ve Testosteronu yoğunlaştıran (ABP salgılayan) KORUYUCU/DESTEK hücresi hangisidir?",
+        "question": "Erkek üreme sisteminde Testislerin içinde, Sperm hücrelerinin kök hücresi olan spermatogonyumları besleyen, Kan-Testis bariyerini oluşturan, Fagositoz yapan ve Testosteronu yoğunlaştıran KORUYUCU/DESTEK hücresi hangisidir?",
         "options": [
             "Leydig (İnterstisyel) Hücreleri",
             "Sertoli (Sustentaküler) Hücreleri",
@@ -459,7 +459,7 @@ const v13Part2 = [
     {
         "id": "v13_histo_13",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Salgı (Bez) epitelinde farklı sekresyon/atılım tipleri vardır. Hücrenin salgısını, zardaki salgı keseciklerini ekzositozla (hücreye HİÇ ZARAR VERMEDEN) dışarı atmasına MEROKRİN salgılama denir. Hücrenin tamamen BÜTÜNLÜĞÜNÜ KAYBEDİP (parçalanıp/ölüp) salgıya dönüşmesine (Örn: Yağ / Sebase bezleri) ne ad verilir?",
+        "question": "Salgı epitelinde farklı sekresyon/atılım tipleri vardır. Hücrenin salgısını, zardaki salgı keseciklerini ekzositozla dışarı atmasına MEROKRİN salgılama denir. Hücrenin tamamen BÜTÜNLÜĞÜNÜ KAYBEDİP salgıya dönüşmesine ne ad verilir?",
         "options": [
             "Apokrin salgılama",
             "Holokrin salgılama",
@@ -476,7 +476,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_1",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bakterilerin DNA (gen) transfer yöntemlerinden (Üreme/Çeşitlilik) biri olan ve PİLUS (Seks pilusu) aracılığıyla canlı iki bakterinin birbiriyle doğrudan SİTOPLAZMİK KÖPRÜ kurarak plazmidlerini (antibiyotik direncini) paylaştıkları mekanizmaya ne ad verilir?",
+        "question": "Bakterilerin DNA transfer yöntemlerinden biri olan ve PİLUS aracılığıyla canlı iki bakterinin birbiriyle doğrudan SİTOPLAZMİK KÖPRÜ kurarak plazmidlerini paylaştıkları mekanizmaya ne ad verilir?",
         "options": [
             "Transformasyon",
             "Transdüksiyon",
@@ -491,7 +491,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_2",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki bağışıklık sistemi organlarından hangisi 'Primer (Birincil) Lenfoid Organ' olup, T-Lenfositlerin (T hücrelerinin) dışarıdaki antijenlerle GÖRÜŞMEDEN ÖNCE okul gibi eğitildikleri (Kendi dokusunu tanımayı öğrendiği) ve mezun oldukları yerdir?",
+        "question": "Aşağıdaki bağışıklık sistemi organlarından hangisi 'Primer Lenfoid Organ' olup, T-Lenfositlerin dışarıdaki antijenlerle GÖRÜŞMEDEN ÖNCE okul gibi eğitildikleri ve mezun oldukları yerdir?",
         "options": [
             "Dalak",
             "Lenf düğümleri",
@@ -506,7 +506,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Normalde insan vücudunda yaşayabilen ve patojenitesi olmayan ancak hastanede yatan (kateterli, solunum cihazına bağlı) hastalarda yoğun bakım ünitelerinde en sık 'Mavi-Yeşil' renkli irin (Piyosiyanin) yapan, yanık enfeksiyonlarının ölümcül ajanı olan oldukça dirençli Gram (-) çomak hangisidir?",
+        "question": "Normalde insan vücudunda yaşayabilen ve patojenitesi olmayan ancak hastanede yatan hastalarda yoğun bakım ünitelerinde en sık 'Mavi-Yeşil' renkli irin yapan, yanık enfeksiyonlarının ölümcül ajanı olan oldukça dirençli Gram çomak hangisidir?",
         "options": [
             "Escherichia coli",
             "Pseudomonas aeruginosa",
@@ -521,7 +521,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_4",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Virüslerin dış yüzeyinde bulunabilen ZARF (Envelope), virüs hücreden (Örn: İnsan hücresinden) tomurcuklanarak ayrılırken KİMİN ZARINDAN (lipit tabakasından) çalınarak oluşur?",
+        "question": "Virüslerin dış yüzeyinde bulunabilen ZARF, virüs hücreden tomurcuklanarak ayrılırken KİMİN ZARINDAN çalınarak oluşur?",
         "options": [
             "Kendi ürettiği viral DNA'dan",
             "Sadece viral proteinlerden oluşan kapsidden",
@@ -536,7 +536,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Cinsel yolla bulaşan hastalıklar (CYBH) arasında 'Sifiliz (Frengi)' etkeni olan, karanlık alan mikroskobunda tirbuşon gibi hareketleri izlenen, Gram boyası ile boyanamayan Spiral şekilli (Spiroket) bakteri aşağıdakilerden hangisidir?",
+        "question": "Cinsel yolla bulaşan hastalıklar arasında 'Sifiliz' etkeni olan, karanlık alan mikroskobunda tirbuşon gibi hareketleri izlenen, Gram boyası ile boyanamayan Spiral şekilli bakteri aşağıdakilerden hangisidir?",
         "options": [
             "Neisseria gonorrhoeae",
             "Treponema pallidum",
@@ -551,7 +551,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_6",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Çiğ et (Özellikle iyi pişmemiş domuz eti) veya asıl ana konağı olan KEDİLERİN dışkısıyla (Örn: Kedi kumu) temas sonucu insana bulaşan; hamile kadınlarda plasentayı geçerek bebekte körlük, hidrosefali, sağırlık ve beyin kireçlenmesine (TORCH enfeksiyonu) yol açan parazit hangisidir?",
+        "question": "Çiğ et veya asıl ana konağı olan KEDİLERİN dışkısıyla temas sonucu insana bulaşan; hamile kadınlarda plasentayı geçerek bebekte körlük, hidrosefali, sağırlık ve beyin kireçlenmesine yol açan parazit hangisidir?",
         "options": [
             "Toxoplasma gondii",
             "Taenia solium",
@@ -566,7 +566,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Klinik virolojide, Kuduz (Rabies) şüphesiyle ölen bir hayvanın beyninden alınan kesitlerde mikroskopla bakıldığında, nöronların sitoplazmasında izlenen karakteristik ENKLÜZYON CİSİMCİKLERİ (kırmızı boyanan lekeler) aşağıdakilerden hangisidir?",
+        "question": "Klinik virolojide, Kuduz şüphesiyle ölen bir hayvanın beyninden alınan kesitlerde mikroskopla bakıldığında, nöronların sitoplazmasında izlenen karakteristik ENKLÜZYON CİSİMCİKLERİ aşağıdakilerden hangisidir?",
         "options": [
             "Koplik lekeleri",
             "Negri cisimcikleri",
@@ -581,7 +581,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_8",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Hepatit virüsleri (Karaciğeri enfekte eden virüsler) incelendiğinde; KAN YOLUYLA (Transfüzyon, enjektör) VE CİNSEL YOLLA bulaşan hepatit türleri aşağıdakilerden hangileridir?",
+        "question": "Hepatit virüsleri incelendiğinde; KAN YOLUYLA VE CİNSEL YOLLA bulaşan hepatit türleri aşağıdakilerden hangileridir?",
         "options": [
             "Hepatit A ve Hepatit E",
             "Hepatit B, Hepatit C, Hepatit D",
@@ -596,7 +596,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_9",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Besin zehirlenmelerinde, yemek yenildikten sadece 1 ila 6 SAAT SONRA (çok kısa kuluçka süresi) şiddetli kusma ve ishalin başlaması, mikrobun kendisi yerine doğrudan 'HAZIR TOKSİNİNİN' (Enterotoksin) yenildiğini gösterir. Bu tabloya en sık neden olan, oda ısısında kalmış mayonez/pasta vb. kremalı ürünlerde üreyen bakteri hangisidir?",
+        "question": "Besin zehirlenmelerinde, yemek yenildikten sadece 1 ila 6 SAAT SONRA şiddetli kusma ve ishalin başlaması, mikrobun kendisi yerine doğrudan 'HAZIR TOKSİNİNİN' yenildiğini gösterir. Bu tabloya en sık neden olan, oda ısısında kalmış mayonez/pasta vb. kremalı ürünlerde üreyen bakteri hangisidir?",
         "options": [
             "Salmonella enteritidis",
             "Staphylococcus aureus",
@@ -611,7 +611,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Kan dolaşımına giren antijenik (yabancı) proteinlere karşı 'İkincil İmmün Yanıtı (Sekonder Yanıt/Hafıza Yanıtı)' başlatarak anında ve ÇOK YÜKSEK MİKTARDA sentezlenen, kanda en uzun ömürlü olan ve PLASENTADAN BEBEĞE GEÇEBİLEN TEK immünoglobulin (Antikor) türü hangisidir?",
+        "question": "Kan dolaşımına giren antijenik proteinlere karşı 'İkincil İmmün Yanıtı' başlatarak anında ve ÇOK YÜKSEK MİKTARDA sentezlenen, kanda en uzun ömürlü olan ve PLASENTADAN BEBEĞE GEÇEBİLEN TEK immünoglobulin türü hangisidir?",
         "options": [
             "IgM",
             "IgA",
@@ -626,7 +626,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Genetik materyali RNA olan, bağışıklık sistemimizin şefleri olan 'CD4+ T Yardımcı (Helper) Hücrelerine' yüzeylerindeki gp120 proteiniyle tutunarak giren ve onları yok ederek AIDS (Edinilmiş İmmün Yetmezlik Sendromu) hastalığına neden olan Retro-virüs aşağıdakilerden hangisidir?",
+        "question": "Genetik materyali RNA olan, bağışıklık sistemimizin şefleri olan 'CD4+ T Yardımcı Hücrelerine' yüzeylerindeki gp120 proteiniyle tutunarak giren ve onları yok ederek AIDS hastalığına neden olan Retro-virüs aşağıdakilerden hangisidir?",
         "options": [
             "HTLV-1",
             "HIV (İnsan İmmünyetmezlik Virüsü)",
@@ -656,7 +656,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Anaerobik (Oksijensiz) şartlarda yaşayan, derin kirli yaralara bulaştığında salgıladığı tetanospazmin toksiniyle beyin ve omurilikteki İNHİBİTÖR (durdurucu) nörotransmitterlerin (GABA, Glisin) salınımını BLOKE eden, böylece kasların sürekli KASILI KALMASINA (Spastik felç / Tetanoz) neden olan bakteri aşağıdakilerden hangisidir?",
+        "question": "Anaerobik şartlarda yaşayan, derin kirli yaralara bulaştığında salgıladığı tetanospazmin toksiniyle beyin ve omurilikteki İNHİBİTÖR nörotransmitterlerin salınımını BLOKE eden, böylece kasların sürekli KASILI KALMASINA neden olan bakteri aşağıdakilerden hangisidir?",
         "options": [
             "Clostridium botulinum",
             "Clostridium tetani",
@@ -671,7 +671,7 @@ const v13Part2 = [
     {
         "id": "v13_mikro_14",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Malarya (Sıtma) kan yayması teşhisinde, Eritrosit (Alyuvar) içinde görülen karakteristik 'Taşlı Yüzük (Ring form)' görünümü HANGİ parazitin hücre içi formudur?",
+        "question": "Malarya kan yayması teşhisinde, Eritrosit içinde görülen karakteristik 'Taşlı Yüzük' görünümü HANGİ parazitin hücre içi formudur?",
         "options": [
             "Trypanosoma cruzi",
             "Leishmania donovani",
@@ -688,7 +688,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_1",
         "subject": "Tıbbi Patoloji",
-        "question": "Patolojide bir organda iş yükünün artmasına bağlı olarak (Örn: Hipertansiyonlu hastada sol ventrikül duvarının kalınlaşması veya ağırlık kaldıran sporcuda kasların şişmesi), hücre SAYISI ARTMADAN hücrelerin BOYUTUNUN/HACMİNİN BÜYÜMESİNE ne ad verilir?",
+        "question": "Patolojide bir organda iş yükünün artmasına bağlı olarak, hücre SAYISI ARTMADAN hücrelerin BOYUTUNUN/HACMİNİN BÜYÜMESİNE ne ad verilir?",
         "options": [
             "Hiperplazi",
             "Hipertrofi",
@@ -703,7 +703,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_2",
         "subject": "Tıbbi Patoloji",
-        "question": "İltihap (İnflamasyon) bölgesinde damar geçirgenliğinin artması sonucu damardan doku arasına SIZAN, proteinden ve hücreden ZENGİN, yoğun, bulanık sıvıya ne ad verilir? (Ödemin patolojik karakteri)",
+        "question": "İltihap bölgesinde damar geçirgenliğinin artması sonucu damardan doku arasına SIZAN, proteinden ve hücreden ZENGİN, yoğun, bulanık sıvıya ne ad verilir?",
         "options": [
             "Transüda",
             "Eksüda",
@@ -718,7 +718,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_3",
         "subject": "Tıbbi Patoloji",
-        "question": "Kanserin (Malign tümör) en belirgin özelliklerinden biri olan ve kanserli hücrelerin kan/lenf yoluyla veya boşluklardan birincil odaklarından ayrılarak vücudun UZAK DİĞER ORGANLARINA gidip orada yeni tümör kolonileri (sekonder odak) oluşturmasına ne ad verilir?",
+        "question": "Kanserin en belirgin özelliklerinden biri olan ve kanserli hücrelerin kan/lenf yoluyla veya boşluklardan birincil odaklarından ayrılarak vücudun UZAK DİĞER ORGANLARINA gidip orada yeni tümör kolonileri oluşturmasına ne ad verilir?",
         "options": [
             "İnvazyon",
             "Metastaz",
@@ -733,7 +733,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_4",
         "subject": "Toplum Sağlığı",
-        "question": "Bulaşıcı hastalıklarda, bir enfeksiyon etkeninin bir toplumda (veya coğrafi bölgede) sürekli (beklenen ve her zaman görülen, sıradan) bir şekilde aynı düşük veya orta düzeyde seyretmesine ne ad verilir? (Örn: Afrika'da sıtma)",
+        "question": "Bulaşıcı hastalıklarda, bir enfeksiyon etkeninin bir toplumda sürekli bir şekilde aynı düşük veya orta düzeyde seyretmesine ne ad verilir?",
         "options": [
             "Epidemi (Salgın)",
             "Endemi",
@@ -748,7 +748,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_5",
         "subject": "Toplum Sağlığı",
-        "question": "Koruyucu sağlık hizmetleri üç kademeye ayrılır. Erken teşhis ve tarama programları (Örn: Meme kanseri için mamografi çektirme, rahim ağzı için smear, yeni doğanda topuk kanı) HANGİ KORUMA KADEMESİNE girer?",
+        "question": "Koruyucu sağlık hizmetleri üç kademeye ayrılır. Erken teşhis ve tarama programları HANGİ KORUMA KADEMESİNE girer?",
         "options": [
             "Birincil (Primer) Koruma",
             "İkincil (Sekonder) Koruma",
@@ -763,7 +763,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_6",
         "subject": "Biyofizik",
-        "question": "Elektrokardiyogram (EKG) trase (çizgi) yorumlanmasında, Ventriküllerin SİSTOLÜNÜ (Kasılma/Depolarizasyonunu) gösteren en büyük ve belirgin elektriksel aktivite (Dalga kompleksi) aşağıdakilerden hangisidir?",
+        "question": "Elektrokardiyogram trase yorumlanmasında, Ventriküllerin SİSTOLÜNÜ gösteren en büyük ve belirgin elektriksel aktivite aşağıdakilerden hangisidir?",
         "options": [
             "P Dalgası",
             "QRS Kompleksi",
@@ -778,7 +778,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_7",
         "subject": "Biyofizik",
-        "question": "Akışkanlar mekaniğine (Hemorheoloji - Kan akımı fiziği) göre 'Poiseuille Yasası'nda; bir damar boyunca akan kanın AKIM DİRENCİ (Vasküler rezistans), damarın hangi fiziksel özelliğine en hassas şekilde (4. kuvvetiyle) DERS ORANTILI olarak bağlıdır?",
+        "question": "Akışkanlar mekaniğine göre 'Poiseuille Yasası'nda; bir damar boyunca akan kanın AKIM DİRENCİ, damarın hangi fiziksel özelliğine en hassas şekilde DERS ORANTILI olarak bağlıdır?",
         "options": [
             "Kanın vizkozitesine (Koyuluğuna)",
             "Damarın Yarıçapına (R)",
@@ -793,7 +793,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_8",
         "subject": "Tıbbi Etik",
-        "question": "Bir hekimin, tedavisinin son aşamasına gelmiş (terminal dönem / kanser vb.) çok acı çeken bir hastasının VEYA ailesinin TALEBİ ÜZERİNE, hastanın hayatına KENDİ ELİYLE aktif olarak son veren tıbbi bir ilaç zerk etmesine (veya fişi çekmesine) Tıbbi Etik ve Hukukta ne ad verilir?",
+        "question": "Bir hekimin, tedavisinin son aşamasına gelmiş çok acı çeken bir hastasının VEYA ailesinin TALEBİ ÜZERİNE, hastanın hayatına KENDİ ELİYLE aktif olarak son veren tıbbi bir ilaç zerk etmesine Tıbbi Etik ve Hukukta ne ad verilir?",
         "options": [
             "Terapötik abortus",
             "Ötanazi",
@@ -808,7 +808,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_9",
         "subject": "Tıbbi Etik",
-        "question": "Bir doktorun mesleki bilgisizlik, deneyimsizlik, özensizlik veya standartlara uymama nedeniyle HASTAYA ZARAR VERMESİ (Tıbbi hata) kavramına evrensel hukukta ne ad verilir?",
+        "question": "Bir doktorun mesleki bilgisizlik, deneyimsizlik, özensizlik veya standartlara uymama nedeniyle HASTAYA ZARAR VERMESİ kavramına evrensel hukukta ne ad verilir?",
         "options": [
             "Defansif Tıp",
             "Komplikasyon",
@@ -823,7 +823,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_10",
         "subject": "Tıp Tarihi",
-        "question": "İslamiyet'in Altın Çağında yaşamış, 'El-Kanun fi't-Tıb (Tıbbın Kanunu)' adlı eseri 500 yıldan uzun süre Avrupa üniversitelerinde temel ders kitabı olarak okutulmuş olan ve tıpta otorite kabul edilen Türk-İslam hekimi (Batıdaki adıyla Avicenna) kimdir?",
+        "question": "İslamiyet'in Altın Çağında yaşamış, 'El-Kanun fi't-Tıb' adlı eseri 500 yıldan uzun süre Avrupa üniversitelerinde temel ders kitabı olarak okutulmuş olan ve tıpta otorite kabul edilen Türk-İslam hekimi kimdir?",
         "options": [
             "Farabi",
             "El-Razi",
@@ -838,7 +838,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_11",
         "subject": "İletişim Becerileri",
-        "question": "Hekim-Hasta görüşmesinde (Anamnez alırken), hekimin hastayı dinlerken ona cesaret vermek, anladığını göstermek ve hikayeyi genişletmesi için cesaretlendirmek amacıyla 'Hı hı, evet, anlıyorum, sonra ne oldu?' gibi kısa ifadeler kullanmasına İletişim tekniklerinde ne denir?",
+        "question": "Hekim-Hasta görüşmesinde, hekimin hastayı dinlerken ona cesaret vermek, anladığını göstermek ve hikayeyi genişletmesi için cesaretlendirmek amacıyla 'Hı hı, evet, anlıyorum, sonra ne oldu?' gibi kısa ifadeler kullanmasına İletişim tekniklerinde ne denir?",
         "options": [
             "Kapalı uçlu soru sorma",
             "Sessizliği kullanma",
@@ -853,7 +853,7 @@ const v13Part2 = [
     {
         "id": "v13_diger_12",
         "subject": "İlk Yardım",
-        "question": "Tam hava yolu tıkanıklığı (Örn: Boğazına büyük bir lokma veya oyuncak kaçmış, nefes alamayan, öksüremeyen ve morarmış, iki eliyle boğazını tutan) bilinci açık bir ERİŞKİN hastada HAYAT KURTARICI olan spesifik İLK YARDIM manevrası aşağıdakilerden hangisidir?",
+        "question": "Tam hava yolu tıkanıklığı bilinci açık bir ERİŞKİN hastada HAYAT KURTARICI olan spesifik İLK YARDIM manevrası aşağıdakilerden hangisidir?",
         "options": [
             "Kalp masajı (CPR)",
             "Heimlich Manevrası (Karından sırta ve yukarı doğru baskı)",

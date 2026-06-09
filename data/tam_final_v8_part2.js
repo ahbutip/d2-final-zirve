@@ -35,7 +35,7 @@ const v8Part2 = [
     {
         "id": "v8_biyo_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "Yeni doğan bir bebekte fenilalanin hidroksilaz (PAH) enzim eksikliği saptanıyor (Fenilketonüri - PKU). Bu enzim eksikliğinde vücutta sentezi azalan ve fenilalanin diyetten kısıldığında esansiyel (dışarıdan alınması zorunlu) hale gelen amino asit hangisidir?",
+        "question": "Yeni doğan bir bebekte fenilalanin hidroksilaz enzim eksikliği saptanıyor. Bu enzim eksikliğinde vücutta sentezi azalan ve fenilalanin diyetten kısıldığında esansiyel hale gelen amino asit hangisidir?",
         "options": [
             "Tirozin",
             "Triptofan",
@@ -50,7 +50,7 @@ const v8Part2 = [
     {
         "id": "v8_biyo_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Pürin nükleotidlerinin (Adenin, Guanin) yıkımı sonucunda oluşan son ürün hangisidir?",
+        "question": "Pürin nükleotidlerinin yıkımı sonucunda oluşan son ürün hangisidir?",
         "options": [
             "Üre",
             "Amonyak",
@@ -65,7 +65,7 @@ const v8Part2 = [
     {
         "id": "v8_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "DNA replikasyonu sırasında çift sarmalın açılmasını (hidrojen bağlarının kırılmasını) sağlayarak replikasyon çatalını oluşturan enzim aşağıdakilerden hangisidir?",
+        "question": "DNA replikasyonu sırasında çift sarmalın açılmasını sağlayarak replikasyon çatalını oluşturan enzim aşağıdakilerden hangisidir?",
         "options": [
             "DNA polimeraz",
             "DNA ligaz",
@@ -80,7 +80,7 @@ const v8Part2 = [
     {
         "id": "v8_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerin enerji metabolizmasında (Glikoliz) sadece bu hücre tipine özgü olan ve oksijenin hemoglobine afinitesini azaltan 'Rapoport-Luebering döngüsü'nün ara ürünü hangisidir?",
+        "question": "Eritrositlerin enerji metabolizmasında sadece bu hücre tipine özgü olan ve oksijenin hemoglobine afinitesini azaltan 'Rapoport-Luebering döngüsü'nün ara ürünü hangisidir?",
         "options": [
             "1,3-Bifosfogliserat (1,3-BPG)",
             "2,3-Bifosfogliserat (2,3-BPG)",
@@ -95,7 +95,7 @@ const v8Part2 = [
     {
         "id": "v8_biyo_7",
         "subject": "Tıbbi Biyokimya",
-        "question": "Karbonmonoksit (CO) veya Siyanür (CN-) zehirlenmelerinde, mitokondrideki elektron taşıma sisteminin (ETS) hangi kompleksi inhibe olarak hücresel solunum durur?",
+        "question": "Karbonmonoksit veya Siyanür zehirlenmelerinde, mitokondrideki elektron taşıma sisteminin hangi kompleksi inhibe olarak hücresel solunum durur?",
         "options": [
             "Kompleks I (NADH dehidrogenaz)",
             "Kompleks II (Süksinat dehidrogenaz)",
@@ -110,7 +110,7 @@ const v8Part2 = [
     {
         "id": "v8_biyo_8",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hangi lipoprotein türü, periferik dokulardaki fazla kolesterolü toplayıp karaciğere geri taşıyarak (Ters Kolesterol Transportu) aterosklerozdan koruyucu etki gösterir?",
+        "question": "Hangi lipoprotein türü, periferik dokulardaki fazla kolesterolü toplayıp karaciğere geri taşıyarak aterosklerozdan koruyucu etki gösterir?",
         "options": [
             "Şilomikron",
             "VLDL (Çok düşük yoğunluklu lipoprotein)",
@@ -125,7 +125,7 @@ const v8Part2 = [
     {
         "id": "v8_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Amonyak toksisitesinden korunmak için vücutta oluşan ürenin sentez (Üre döngüsü) basamakları hangi hücre içi kompartmanlarda gerçekleşir?",
+        "question": "Amonyak toksisitesinden korunmak için vücutta oluşan ürenin sentez basamakları hangi hücre içi kompartmanlarda gerçekleşir?",
         "options": [
             "Tamamı sitoplazmada",
             "Tamamı mitokondride",
@@ -172,7 +172,7 @@ const v8Part2 = [
     {
         "id": "v8_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Kalp yetmezliği tedavisinde kullanılan ve Na+/K+ ATPaz pompasını inhibe ederek hücre içi kalsiyum miktarını artıran, böylece pozitif inotropik (kasılma gücünü artırıcı) etki gösteren kardiyak glikozid aşağıdakilerden hangisidir?",
+        "question": "Kalp yetmezliği tedavisinde kullanılan ve Na+/K+ ATPaz pompasını inhibe ederek hücre içi kalsiyum miktarını artıran, böylece pozitif inotropik etki gösteren kardiyak glikozid aşağıdakilerden hangisidir?",
         "options": [
             "Digoksin",
             "Verapamil",
@@ -187,7 +187,7 @@ const v8Part2 = [
     {
         "id": "v8_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Mide asit salgısını baskılamak amacıyla kullanılan ve paryetal hücredeki H+/K+ ATPaz (proton) pompasını geri dönüşümsüz olarak (kovalent bağla) inhibe eden ilaç grubu aşağıdakilerden hangisidir?",
+        "question": "Mide asit salgısını baskılamak amacıyla kullanılan ve paryetal hücredeki H+/K+ ATPaz pompasını geri dönüşümsüz olarak inhibe eden ilaç grubu aşağıdakilerden hangisidir?",
         "options": [
             "Antiasitler (Alüminyum hidroksit)",
             "H2 reseptör blokerleri (Ranitidin, Famotidin)",
@@ -202,7 +202,7 @@ const v8Part2 = [
     {
         "id": "v8_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Asetilkolinesteraz enzimini inhibe ederek (geri dönüşümlü veya dönüşümsüz) sinaptik aralıkta asetilkolin miktarını artıran ilaçlar (örn: Neostigmin, Organofosfatlar), aşağıdakilerden hangisinde kullanılmaz (veya kontrendikedir)?",
+        "question": "Asetilkolinesteraz enzimini inhibe ederek sinaptik aralıkta asetilkolin miktarını artıran ilaçlar, aşağıdakilerden hangisinde kullanılmaz?",
         "options": [
             "Myasthenia gravis tedavisi",
             "Glokom (göziçi basıncı) tedavisi",
@@ -217,7 +217,7 @@ const v8Part2 = [
     {
         "id": "v8_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Epinefrin (Adrenalin), anafilaktik şokta hayat kurtarıcı olan ve ilk tercih edilen ilaçtır. Epinefrinin anafilaksi tedavisindeki hangi etkisi Beta-2 (β2) reseptörler aracılığıyla gerçekleşir?",
+        "question": "Epinefrin, anafilaktik şokta hayat kurtarıcı olan ve ilk tercih edilen ilaçtır. Epinefrinin anafilaksi tedavisindeki hangi etkisi Beta-2 reseptörler aracılığıyla gerçekleşir?",
         "options": [
             "Kan basıncını yükseltmesi (Vazokonstriksiyon)",
             "Kalp hızını (kronotropik) ve kasılma gücünü (inotropik) artırması",
@@ -232,7 +232,7 @@ const v8Part2 = [
     {
         "id": "v8_farma_5",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Farmakokinetik parametrelerden biri olan 'Yarı ömür (t1/2)', bir ilacın plazma konsantrasyonunun yarıya inmesi için geçen süredir. İlacın vücuttan %94-%97 oranında atılması (veya kararlı duruma -steady state- ulaşması) için kural olarak yaklaşık kaç yarı ömür geçmesi gerekir?",
+        "question": "Farmakokinetik parametrelerden biri olan 'Yarı ömür', bir ilacın plazma konsantrasyonunun yarıya inmesi için geçen süredir. İlacın vücuttan %94-%97 oranında atılması için kural olarak yaklaşık kaç yarı ömür geçmesi gerekir?",
         "options": [
             "1-2 yarı ömür",
             "4-5 yarı ömür",
@@ -247,7 +247,7 @@ const v8Part2 = [
     {
         "id": "v8_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Siklooksijenaz (COX) enzimini inhibe eden NSAİİ'ler (Non-steroid antiinflamatuvar ilaçlar) prostaglandin sentezini azaltır. Sadece mide-bağırsak mukozasında yan etkilere yol açmamak için selektif olarak inflamasyon bölgesindeki COX-2'yi bloke edip, mideyi koruyan COX-1'e dokunmayan ilaç aşağıdakilerden hangisidir?",
+        "question": "Siklooksijenaz enzimini inhibe eden NSAİİ'ler prostaglandin sentezini azaltır. Sadece mide-bağırsak mukozasında yan etkilere yol açmamak için selektif olarak inflamasyon bölgesindeki COX-2'yi bloke edip, mideyi koruyan COX-1'e dokunmayan ilaç aşağıdakilerden hangisidir?",
         "options": [
             "Aspirin (Asetilsalisilik asit)",
             "İbuprofen",
@@ -262,7 +262,7 @@ const v8Part2 = [
     {
         "id": "v8_farma_7",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Hangi diüretik ilaç, Henle kulbunun çıkan kalın kolundaki Na-K-2Cl (NKCC2) taşıyıcısını bloke ederek etki eden çok güçlü bir 'kıvrım (loop) diüretiği'dir?",
+        "question": "Hangi diüretik ilaç, Henle kulbunun çıkan kalın kolundaki Na-K-2Cl taşıyıcısını bloke ederek etki eden çok güçlü bir 'kıvrım diüretiği'dir?",
         "options": [
             "Tiazid (Hidroklorotiazid)",
             "Furosemid",
@@ -279,7 +279,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_1",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Epitel dokusunda hücrelerin birbirine sıkıca tutunmasını sağlayan, hücreler arası sızmayı engelleyen (kan-beyin, kan-testis bariyerlerini oluşturan) ve 'zonula occludens' olarak da bilinen bağlantı kompleksi hangisidir?",
+        "question": "Epitel dokusunda hücrelerin birbirine sıkıca tutunmasını sağlayan, hücreler arası sızmayı engelleyen ve 'zonula occludens' olarak da bilinen bağlantı kompleksi hangisidir?",
         "options": [
             "Desmozom (Macula adherens)",
             "Hemidesmozom",
@@ -294,7 +294,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_2",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kıkırdak dokusu kan damarı içermez (avaskülerdir). Kıkırdak dokusunun beslenmesi kıkırdak zarı aracılığıyla difüzyonla gerçekleşir. Kıkırdak zarına ne ad verilir?",
+        "question": "Kıkırdak dokusu kan damarı içermez. Kıkırdak dokusunun beslenmesi kıkırdak zarı aracılığıyla difüzyonla gerçekleşir. Kıkırdak zarına ne ad verilir?",
         "options": [
             "Periosteum",
             "Perikondriyum",
@@ -324,7 +324,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_4",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Merkezi Sinir Sisteminde (MSS) nöronların miyelin kılıfını oluşturan nöroglia hücresi aşağıdakilerden hangisidir?",
+        "question": "Merkezi Sinir Sisteminde nöronların miyelin kılıfını oluşturan nöroglia hücresi aşağıdakilerden hangisidir?",
         "options": [
             "Schwann hücresi",
             "Astrosit",
@@ -339,7 +339,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Sindirim sisteminde mide mukozasını asitten koruyan mukusu salgılayan ve asit (HCl) salgılayan pariyetal hücrelerin bulunduğu mide bezleri (glandulae gastricae) en çok midenin hangi bölgesinde bulunur?",
+        "question": "Sindirim sisteminde mide mukozasını asitten koruyan mukusu salgılayan ve asit salgılayan pariyetal hücrelerin bulunduğu mide bezleri en çok midenin hangi bölgesinde bulunur?",
         "options": [
             "Kardiya",
             "Fundus ve Korpus",
@@ -354,7 +354,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_6",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Solunum sisteminde, soluk borusunun (trachea) iç yüzünü döşeyen epitelin tipi aşağıdakilerden hangisidir?",
+        "question": "Solunum sisteminde, soluk borusunun iç yüzünü döşeyen epitelin tipi aşağıdakilerden hangisidir?",
         "options": [
             "Çok katlı yassı epitel",
             "Tek katlı kübik epitel",
@@ -384,7 +384,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyolojik gelişimde, implantasyonun gerçekleştiği blastokist evresinde, embriyoyu (bebeği) oluşturacak olan hücre kitlesine ne ad verilir?",
+        "question": "Embriyolojik gelişimde, implantasyonun gerçekleştiği blastokist evresinde, embriyoyu oluşturacak olan hücre kitlesine ne ad verilir?",
         "options": [
             "Trofoblast",
             "Sinsityotrofoblast",
@@ -399,7 +399,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_9",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyolojik dönemin 3. haftasında üç germ yaprağının (Ektoderm, Mezoderm, Endoderm) oluştuğu sürece ne ad verilir?",
+        "question": "Embriyolojik dönemin 3. haftasında üç germ yaprağının oluştuğu sürece ne ad verilir?",
         "options": [
             "Klivaj (Bölünme)",
             "Kavitasyon",
@@ -429,7 +429,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_11",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Lenf düğümlerinin mikroskobik yapısında, B lenfositlerinin yoğun olarak bulunduğu, antijenik uyarı sonrası germinal merkezlerin (çoğalma odakları) oluştuğu bölge neresidir?",
+        "question": "Lenf düğümlerinin mikroskobik yapısında, B lenfositlerinin yoğun olarak bulunduğu, antijenik uyarı sonrası germinal merkezlerin oluştuğu bölge neresidir?",
         "options": [
             "Medulla (Öz)",
             "Parakorteks",
@@ -444,7 +444,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_12",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Bağ dokusunun temel hücresi olan, kolajen, elastin liflerini ve hücreler arası temel maddeyi (ekstrasellüler matriks) sentezleyen hücre hangisidir?",
+        "question": "Bağ dokusunun temel hücresi olan, kolajen, elastin liflerini ve hücreler arası temel maddeyi sentezleyen hücre hangisidir?",
         "options": [
             "Makrofaj",
             "Mast hücresi",
@@ -459,7 +459,7 @@ const v8Part2 = [
     {
         "id": "v8_histo_13",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Eritrosit (kırmızı kan hücresi) yapımı kemik iliğinde gerçekleşir. Olgunlaşma serisinde, çekirdeğin atılmasından hemen sonra oluşan, periferik kanda da %1-2 oranında bulunan ve RNA kalıntıları içerdiği için supravital boyalarla retiküler ağ şeklinde boyanan genç eritrosite ne ad verilir?",
+        "question": "Eritrosit yapımı kemik iliğinde gerçekleşir. Olgunlaşma serisinde, çekirdeğin atılmasından hemen sonra oluşan, periferik kanda da %1-2 oranında bulunan ve RNA kalıntıları içerdiği için supravital boyalarla retiküler ağ şeklinde boyanan genç eritrosite ne ad verilir?",
         "options": [
             "Proeritroblast",
             "Bazofilik eritroblast",
@@ -491,7 +491,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_2",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gram negatif bakterilerin dış membranında bulunan, lipid A ve O-spesifik polisakkarit kısımlarından oluşan ve endotoksin etkisi (ateş, şok) gösteren molekül hangisidir?",
+        "question": "Gram negatif bakterilerin dış membranında bulunan, lipid A ve O-spesifik polisakkarit kısımlarından oluşan ve endotoksin etkisi gösteren molekül hangisidir?",
         "options": [
             "Lipopolisakkarit (LPS)",
             "Porin proteinleri",
@@ -506,7 +506,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Zorunlu hücre içi paraziti olan, üremek için canlı hücreye (hücre kültürü veya doku) ihtiyaç duyan ve ışık mikroskobuyla genellikle görülemeyen mikroorganizma grubu hangisidir?",
+        "question": "Zorunlu hücre içi paraziti olan, üremek için canlı hücreye ihtiyaç duyan ve ışık mikroskobuyla genellikle görülemeyen mikroorganizma grubu hangisidir?",
         "options": [
             "Mantarlar",
             "Parazitler (Helmintler)",
@@ -536,7 +536,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Hastanede yatan hastalarda sıklıkla üriner kateter ve damar içi kateter enfeksiyonlarına neden olan, koagülaz negatif, metisilin direncine sık rastlanan ve biyofilm oluşturma (slime faktör) yeteneği çok yüksek olan stafilokok türü hangisidir?",
+        "question": "Hastanede yatan hastalarda sıklıkla üriner kateter ve damar içi kateter enfeksiyonlarına neden olan, koagülaz negatif, metisilin direncine sık rastlanan ve biyofilm oluşturma yeteneği çok yüksek olan stafilokok türü hangisidir?",
         "options": [
             "Staphylococcus aureus",
             "Staphylococcus epidermidis",
@@ -551,7 +551,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_6",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki virüslerden hangisi bağışıklık sisteminin CD4+ T lenfositlerini enfekte edip yıkarak zamanla Kazanılmış İmmün Yetmezlik Sendromuna (AIDS) neden olur?",
+        "question": "Aşağıdaki virüslerden hangisi bağışıklık sisteminin CD4+ T lenfositlerini enfekte edip yıkarak zamanla Kazanılmış İmmün Yetmezlik Sendromuna neden olur?",
         "options": [
             "Epstein-Barr Virüsü (EBV)",
             "Sitomegalovirüs (CMV)",
@@ -566,7 +566,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Boğaz enfeksiyonu (farenjit/tonsillit) sonrasında, bakterinin antijenlerine karşı oluşan antikorların kalp kapakçıkları veya böbreklerle çapraz reaksiyona girmesi sonucu Akut Romatizmal Ateş (ARA) veya Akut Glomerülonefrit (AGN) gibi komplikasyonlara neden olan bakteri hangisidir?",
+        "question": "Boğaz enfeksiyonu sonrasında, bakterinin antijenlerine karşı oluşan antikorların kalp kapakçıkları veya böbreklerle çapraz reaksiyona girmesi sonucu Akut Romatizmal Ateş veya Akut Glomerülonefrit gibi komplikasyonlara neden olan bakteri hangisidir?",
         "options": [
             "Streptococcus pneumoniae",
             "Streptococcus pyogenes (Grup A Beta-Hemolitik Streptokok)",
@@ -581,7 +581,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_8",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Cinsel yolla bulaşan ve ağrısız sert ülser (şankr) tablosu ile başlayan frengi (sifiliz) hastalığının etkeni olan spiroket aşağıdakilerden hangisidir?",
+        "question": "Cinsel yolla bulaşan ve ağrısız sert ülser tablosu ile başlayan frengi hastalığının etkeni olan spiroket aşağıdakilerden hangisidir?",
         "options": [
             "Neisseria gonorrhoeae",
             "Treponema pallidum",
@@ -611,7 +611,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki parazitlerden hangisi sıtma (malarya) hastalığının etkenidir ve sivrisinek (Anofel) sokmasıyla bulaşır?",
+        "question": "Aşağıdaki parazitlerden hangisi sıtma hastalığının etkenidir ve sivrisinek sokmasıyla bulaşır?",
         "options": [
             "Toxoplasma gondii",
             "Plasmodium falciparum",
@@ -626,7 +626,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşılama ile dünyadan tamamen eradike (yok) edildiği kabul edilen ve artık doğada görülmeyen tek insan virüsü hangisidir?",
+        "question": "Aşılama ile dünyadan tamamen eradike edildiği kabul edilen ve artık doğada görülmeyen tek insan virüsü hangisidir?",
         "options": [
             "Polio (Çocuk felci) virüsü",
             "Variola (Çiçek) virüsü",
@@ -656,7 +656,7 @@ const v8Part2 = [
     {
         "id": "v8_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bakterilerin zorlu ortam koşullarında (besin kıtlığı, kuraklık, aşırı sıcak vb.) hayatta kalmasını sağlayan, metabolik olarak inaktif, ısıya ve kimyasallara çok dirençli yapı hangisidir?",
+        "question": "Bakterilerin zorlu ortam koşullarında hayatta kalmasını sağlayan, metabolik olarak inaktif, ısıya ve kimyasallara çok dirençli yapı hangisidir?",
         "options": [
             "Kapsül",
             "Fimbria (Pilus)",
@@ -688,7 +688,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_1",
         "subject": "Tıbbi Patoloji",
-        "question": "Kronik sigara içimi sonucu, solunum yollarındaki normal 'Yalancı çok katlı silli prizmatik' epitelin, daha dayanıklı olan 'Çok katlı yassı' (skuamöz) epitele dönüşmesi şeklindeki adaptasyon sürecine patolojide ne ad verilir?",
+        "question": "Kronik sigara içimi sonucu, solunum yollarındaki normal 'Yalancı çok katlı silli prizmatik' epitelin, daha dayanıklı olan 'Çok katlı yassı' epitele dönüşmesi şeklindeki adaptasyon sürecine patolojide ne ad verilir?",
         "options": [
             "Atrofi",
             "Hipertrofi",
@@ -718,7 +718,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_3",
         "subject": "Tıbbi Patoloji",
-        "question": "Dokularda geri dönüşümsüz iskemik hasar sonucu gelişen ölüm olayında proteinlerin pıhtılaşmasıyla hücre şeklinin (hayalet görünümünün) birkaç gün korunduğu nekroz tipi hangisidir?",
+        "question": "Dokularda geri dönüşümsüz iskemik hasar sonucu gelişen ölüm olayında proteinlerin pıhtılaşmasıyla hücre şeklinin birkaç gün korunduğu nekroz tipi hangisidir?",
         "options": [
             "Kazeifikasyon nekrozu",
             "Koagülasyon nekrozu",
@@ -733,7 +733,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_4",
         "subject": "Biyofizik",
-        "question": "Bir sinir hücresinde aksiyon potansiyelinin oluşumunda, depolarizasyon evresini (zar potansiyelinin pozitif değerlere çıkmasını) sağlayan asıl iyon hareketi nedir?",
+        "question": "Bir sinir hücresinde aksiyon potansiyelinin oluşumunda, depolarizasyon evresini sağlayan asıl iyon hareketi nedir?",
         "options": [
             "Potasyumun (K+) hücre dışına çıkması",
             "Sodyumun (Na+) hücre içine girmesi",
@@ -748,7 +748,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_5",
         "subject": "Biyofizik",
-        "question": "Elektromanyetik spektrumda yer alan ve tıbbi görüntülemede (Röntgen ve Tomografi) kullanılan X ışınları, maddenin atomları ile etkileştiğinde aşağıdaki olaylardan hangisine neden olurlar?",
+        "question": "Elektromanyetik spektrumda yer alan ve tıbbi görüntülemede kullanılan X ışınları, maddenin atomları ile etkileştiğinde aşağıdaki olaylardan hangisine neden olurlar?",
         "options": [
             "Sadece ısı artışına (Termal etki)",
             "Moleküllerde rezonans titreşime",
@@ -763,7 +763,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_6",
         "subject": "Biyofizik",
-        "question": "Hemodinamikte sıvı akışına karşı oluşan 'Direnç (Resistance)', Poiseuille yasasına göre damarın yarıçapı ile nasıl bir ilişki içindedir?",
+        "question": "Hemodinamikte sıvı akışına karşı oluşan 'Direnç', Poiseuille yasasına göre damarın yarıçapı ile nasıl bir ilişki içindedir?",
         "options": [
             "Yarıçapın kendisiyle doğru orantılıdır.",
             "Yarıçapın karesiyle doğru orantılıdır.",
@@ -778,7 +778,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_7",
         "subject": "Toplum Sağlığı",
-        "question": "Bir toplumda belirli bir zaman diliminde mevcut olan (hem yeni tanı almış hem de eskiden beri hastalıklı olan) tüm hastaların sayısının, risk altındaki toplam nüfusa oranına epidemiyolojide ne ad verilir?",
+        "question": "Bir toplumda belirli bir zaman diliminde mevcut olan tüm hastaların sayısının, risk altındaki toplam nüfusa oranına epidemiyolojide ne ad verilir?",
         "options": [
             "İnsidans",
             "Prevalans",
@@ -793,7 +793,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_8",
         "subject": "Bilimsel Araştırma",
-        "question": "Tıbbi araştırmalarda, nedensellik (sebep-sonuç) ilişkisini kanıtlamak ve bir ilacın etkinliğini test etmek için kullanılan 'altın standart' araştırma tasarımı aşağıdakilerden hangisidir?",
+        "question": "Tıbbi araştırmalarda, nedensellik ilişkisini kanıtlamak ve bir ilacın etkinliğini test etmek için kullanılan 'altın standart' araştırma tasarımı aşağıdakilerden hangisidir?",
         "options": [
             "Vaka-kontrol çalışması",
             "Kesitsel (Cross-sectional) çalışma",
@@ -838,7 +838,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_11",
         "subject": "İletişim Becerileri",
-        "question": "Ağır ve ölümcül bir hastalık tanısı (kötü haber) verilirken hekimin uygulaması gereken en doğru yaklaşım aşağıdakilerden hangisidir?",
+        "question": "Ağır ve ölümcül bir hastalık tanısı verilirken hekimin uygulaması gereken en doğru yaklaşım aşağıdakilerden hangisidir?",
         "options": [
             "Hastayı üzmemek için tanıyı gizlemek ve sadece ailesine söylemek",
             "Gerçeği bir çırpıda, tüm tıbbi detaylarıyla hızlıca aktarmak",
@@ -853,7 +853,7 @@ const v8Part2 = [
     {
         "id": "v8_diger_12",
         "subject": "Toplum Sağlığı",
-        "question": "Aşı ile önlenebilir hastalıklara karşı toplumun büyük bir kısmının aşılanması (veya hastalığı geçirmesi) sonucunda, aşılanmamış veya aşı tutmamış bireylerin de hastalığa yakalanma riskinin azalması durumuna ne ad verilir?",
+        "question": "Aşı ile önlenebilir hastalıklara karşı toplumun büyük bir kısmının aşılanması sonucunda, aşılanmamış veya aşı tutmamış bireylerin de hastalığa yakalanma riskinin azalması durumuna ne ad verilir?",
         "options": [
             "Bireysel bağışıklık",
             "Pasif bağışıklık",

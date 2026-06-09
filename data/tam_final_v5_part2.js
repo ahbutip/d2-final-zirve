@@ -12,7 +12,7 @@ const v5Part2 = [
     {
         "id": "v5_biyo_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kan proteinlerinin elektroforetik ayrımında albumin bandından sonra gelen ve Akut Faz Reaktanlarını (Haptoglobin, Seruloplazmin, Alfa-1 Antitripsin vb.) içeren en büyük globulin fraksiyonları aşağıdakilerden hangileridir?",
+        "question": "Kan proteinlerinin elektroforetik ayrımında albumin bandından sonra gelen ve Akut Faz Reaktanlarını içeren en büyük globulin fraksiyonları aşağıdakilerden hangileridir?",
         "options": [
             "Gama globulinler",
             "Beta globulinler",
@@ -27,7 +27,7 @@ const v5Part2 = [
     {
         "id": "v5_biyo_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Karbonhidrat metabolizmasında, kaslarda glikojenin glukoz-6-fosfata yıkılması ancak kanda serbest glukoz olarak verilememesinin (kası sadece kendi kullanması) sebebi hangi enzimin kas dokusunda bulunmamasıdır?",
+        "question": "Karbonhidrat metabolizmasında, kaslarda glikojenin glukoz-6-fosfata yıkılması ancak kanda serbest glukoz olarak verilememesinin sebebi hangi enzimin kas dokusunda bulunmamasıdır?",
         "options": [
             "Glukokinaz",
             "Glukoz-6-Fosfataz",
@@ -73,7 +73,7 @@ const v5Part2 = [
     {
         "id": "v5_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerde glikolizin bir yan yolu olan Rapoport-Luebering şantı sonucunda oluşan ve oksijenin hemoglobinden ayrılmasını kolaylaştıran (eğriyi sağa kaydıran) metabolit hangisidir?",
+        "question": "Eritrositlerde glikolizin bir yan yolu olan Rapoport-Luebering şantı sonucunda oluşan ve oksijenin hemoglobinden ayrılmasını kolaylaştıran metabolit hangisidir?",
         "options": [
             "Fruktoz 2,6-bisfosfat",
             "1,3-bisfosfogliserat",
@@ -88,7 +88,7 @@ const v5Part2 = [
     {
         "id": "v5_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki lipit formlarından hangisi ateroskleroz (damar sertliği) gelişiminde en çok suçlanan, kanda oksidasyona uğrayarak makrofajlar tarafından köpük hücresine dönüştürülen ana lipoproteindir?",
+        "question": "Aşağıdaki lipit formlarından hangisi ateroskleroz gelişiminde en çok suçlanan, kanda oksidasyona uğrayarak makrofajlar tarafından köpük hücresine dönüştürülen ana lipoproteindir?",
         "options": [
             "Şilomikron",
             "VLDL",
@@ -103,7 +103,7 @@ const v5Part2 = [
     {
         "id": "v5_biyo_7",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kanda ürik asit seviyesinin yükselmesiyle (hiperürisemi) eklem aralıklarında monosodyum ürat kristallerinin birikmesi sonucu oluşan hastalık aşağıdakilerden hangisidir?",
+        "question": "Kanda ürik asit seviyesinin yükselmesiyle eklem aralıklarında monosodyum ürat kristallerinin birikmesi sonucu oluşan hastalık aşağıdakilerden hangisidir?",
         "options": [
             "Romatoid Artrit",
             "Osteoartrit",
@@ -118,7 +118,7 @@ const v5Part2 = [
     {
         "id": "v5_biyo_8",
         "subject": "Tıbbi Biyokimya",
-        "question": "DNA'nın RNA'ya kopyalanması işlemine 'Transkripsiyon' adı verilir. Ökaryotlarda mesajcı RNA'yı (mRNA) sentezleyen enzim aşağıdakilerden hangisidir?",
+        "question": "DNA'nın RNA'ya kopyalanması işlemine 'Transkripsiyon' adı verilir. Ökaryotlarda mesajcı RNA'yı sentezleyen enzim aşağıdakilerden hangisidir?",
         "options": [
             "DNA Polimeraz I",
             "RNA Polimeraz I",
@@ -133,7 +133,7 @@ const v5Part2 = [
     {
         "id": "v5_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Triklorasetik Asit (TCA) Döngüsü (Krebs Çemberi), hücrenin mitokondrisinde gerçekleşir. Bu döngünün ilk basamağında Asetil-CoA ile Okzaloasetat birleşerek hangi molekülü oluşturur?",
+        "question": "Triklorasetik Asit Döngüsü, hücrenin mitokondrisinde gerçekleşir. Bu döngünün ilk basamağında Asetil-CoA ile Okzaloasetat birleşerek hangi molekülü oluşturur?",
         "options": [
             "Süksinat",
             "Sitrat",
@@ -181,7 +181,7 @@ const v5Part2 = [
     {
         "id": "v5_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Epilepsi tedavisinde kullanılan Fenitoin veya Karbamazepin gibi ilaçlar karaciğer mikrozomal enzimlerini (CYP450) indükler (çalışmasını hızlandırır). Bu hastalar aynı zamanda oral kontraseptif (doğum kontrol hapı) kullanırlarsa, farmakokinetik etkileşim sonucu aşağıdakilerden hangisi beklenir?",
+        "question": "Epilepsi tedavisinde kullanılan Fenitoin veya Karbamazepin gibi ilaçlar karaciğer mikrozomal enzimlerini indükler. Bu hastalar aynı zamanda oral kontraseptif kullanırlarsa, farmakokinetik etkileşim sonucu aşağıdakilerden hangisi beklenir?",
         "options": [
             "Oral kontraseptiflerin kandaki düzeyi artar ve toksisite görülür.",
             "Oral kontraseptiflerin yıkımı hızlanacağı için etkinlikleri azalır ve istenmeyen gebelik riski oluşur.",
@@ -196,7 +196,7 @@ const v5Part2 = [
     {
         "id": "v5_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Mide asidini baskılamak için kullanılan Simetidin veya mantar enfeksiyonlarında kullanılan Ketokonazol güçlü birer CYP450 enzim inhibitörüdür. Bu ilaçlar, terapötik indeksi dar olan Warfarin (kan sulandırıcı) ile birlikte kullanıldığında ne olması beklenir?",
+        "question": "Mide asidini baskılamak için kullanılan Simetidin veya mantar enfeksiyonlarında kullanılan Ketokonazol güçlü birer CYP450 enzim inhibitörüdür. Bu ilaçlar, terapötik indeksi dar olan Warfarin ile birlikte kullanıldığında ne olması beklenir?",
         "options": [
             "Warfarin'in metabolizması hızlanacağı için kanda pıhtılaşma (tromboz) riski artar.",
             "Warfarin inaktif metabolite dönüşür ve atılır.",
@@ -212,7 +212,7 @@ const v5Part2 = [
     {
         "id": "v5_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Lokal anestezik ajanlar (Lidokain, Bupivakain vb.) sinir iletimini bloke etmek için hücre zarındaki hangi kanalları kapatırlar?",
+        "question": "Lokal anestezik ajanlar sinir iletimini bloke etmek için hücre zarındaki hangi kanalları kapatırlar?",
         "options": [
             "Voltaj kapılı kalsiyum kanalları",
             "Ligand kapılı potasyum kanalları",
@@ -227,7 +227,7 @@ const v5Part2 = [
     {
         "id": "v5_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Alerjik rinit semptomlarını gidermek isteyen uzun yol şoförü bir hastaya, kan-beyin bariyerini geçmediği için sedasyon (uyku hali) yapmayan ikinci kuşak H1 antihistaminiklerden hangisi reçete edilmelidir?",
+        "question": "Alerjik rinit semptomlarını gidermek isteyen uzun yol şoförü bir hastaya, kan-beyin bariyerini geçmediği için sedasyon yapmayan ikinci kuşak H1 antihistaminiklerden hangisi reçete edilmelidir?",
         "options": [
             "Klorfeniramin",
             "Difenhidramin",
@@ -242,7 +242,7 @@ const v5Part2 = [
     {
         "id": "v5_farma_5",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Otonom sinir sisteminde, Parasempatik sistemin (kolinerjik) nörotransmitteri olan Asetilkolin'i yıkan enzimi (Asetilkolinesteraz) bloke ederek ortamdaki asetilkolin miktarını artıran ve Myasthenia Gravis tedavisinde kullanılan ilaç aşağıdakilerden hangisidir?",
+        "question": "Otonom sinir sisteminde, Parasempatik sistemin nörotransmitteri olan Asetilkolin'i yıkan enzimi bloke ederek ortamdaki asetilkolin miktarını artıran ve Myasthenia Gravis tedavisinde kullanılan ilaç aşağıdakilerden hangisidir?",
         "options": [
             "Atropin",
             "Neostigmin",
@@ -257,7 +257,7 @@ const v5Part2 = [
     {
         "id": "v5_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Asetaminofen (Parasetamol) zehirlenmesinde (intoksikasyon), karaciğerde oluşan toksik metaboliti (NAPQI) nötralize edebilmek için vücudun glutatyon depolarını yenileyen spesifik antidot aşağıdakilerden hangisidir?",
+        "question": "Asetaminofen zehirlenmesinde, karaciğerde oluşan toksik metaboliti nötralize edebilmek için vücudun glutatyon depolarını yenileyen spesifik antidot aşağıdakilerden hangisidir?",
         "options": [
             "Naloksan",
             "Flumazenil",
@@ -290,7 +290,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_1",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyolojide yüz ve boyun gelişiminde, ikinci (2.) faringeal arkustan (Reichert kıkırdağı) gelişen ve N. Facialis tarafından uyarılan kas grubu hangisidir?",
+        "question": "Embriyolojide yüz ve boyun gelişiminde, ikinci faringeal arkustan gelişen ve N. Facialis tarafından uyarılan kas grubu hangisidir?",
         "options": [
             "Mimik kasları (Yüz ifadeleri)",
             "Çiğneme kasları",
@@ -305,7 +305,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_2",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kalbin histolojik kesitlerinde, en kalın tabaka olan ve çizgili kas özelliklerine sahip, dallanmalar gösterip interkalar disklerle (disci intercalares) birbirine bağlanan doku tabakası hangisidir?",
+        "question": "Kalbin histolojik kesitlerinde, en kalın tabaka olan ve çizgili kas özelliklerine sahip, dallanmalar gösterip interkalar disklerle birbirine bağlanan doku tabakası hangisidir?",
         "options": [
             "Parietal perikardiyum",
             "Endokardiyum",
@@ -335,7 +335,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_4",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Hipofiz bezinin ön lobu (Adenohipofiz) histolojik boyanma özelliklerine göre hücrelere ayrıldığında, Prolaktin (PRL) ve Büyüme Hormonu (GH) salgılayan hücreler hangi grupta yer alır?",
+        "question": "Hipofiz bezinin ön lobu histolojik boyanma özelliklerine göre hücrelere ayrıldığında, Prolaktin ve Büyüme Hormonu salgılayan hücreler hangi grupta yer alır?",
         "options": [
             "Kromofob hücreler",
             "Asidofil (Eozinofilik) hücreler",
@@ -351,7 +351,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Mide mukozasında fundus bezlerinde (glandulae gastricae) bulunan, iri asidofilik (pembe) sitoplazmalı olan ve Mide Asidi (HCl) ile İntrinsik Faktör üreten hücre tipi hangisidir?",
+        "question": "Mide mukozasında fundus bezlerinde bulunan, iri asidofilik sitoplazmalı olan ve Mide Asidi ile İntrinsik Faktör üreten hücre tipi hangisidir?",
         "options": [
             "Esas (Şef) hücreler",
             "Parietal (Oksintik) hücreler",
@@ -366,7 +366,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_6",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Erkek üreme sisteminde, seminifer tübüllerin aralarındaki bağ dokusunda (interstisyumda) bulunan ve LH hormonu uyarısıyla testosteron salgılayan hücreler hangileridir?",
+        "question": "Erkek üreme sisteminde, seminifer tübüllerin aralarındaki bağ dokusunda bulunan ve LH hormonu uyarısıyla testosteron salgılayan hücreler hangileridir?",
         "options": [
             "Sertoli hücreleri",
             "Leydig (İnterstisyel) hücreleri",
@@ -381,7 +381,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_7",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kadın üreme sisteminde uterus'un (rahim) iç yüzünü döşeyen, adet döngüsü (siklus) boyunca hormonların etkisiyle kalınlaşıp menstrüasyonla dökülen fonksiyonel tabakaya ne ad verilir?",
+        "question": "Kadın üreme sisteminde uterus'un iç yüzünü döşeyen, adet döngüsü boyunca hormonların etkisiyle kalınlaşıp menstrüasyonla dökülen fonksiyonel tabakaya ne ad verilir?",
         "options": [
             "Perimetriyum",
             "Miyometriyum",
@@ -396,7 +396,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Böbrekte tübül epitel hücreleri incelendiğinde, fırçamsı kenar (bol mikrovillus) yapısı sayesinde idrardaki su, glukoz, aminoasit gibi yararlı maddelerin çok büyük bir kısmını (%65-70) geri emen tübül bölümü hangisidir?",
+        "question": "Böbrekte tübül epitel hücreleri incelendiğinde, fırçamsı kenar yapısı sayesinde idrardaki su, glukoz, aminoasit gibi yararlı maddelerin çok büyük bir kısmını geri emen tübül bölümü hangisidir?",
         "options": [
             "Proksimal kıvrımlı tübül (Tubulus contortus proximalis)",
             "Distal kıvrımlı tübül",
@@ -426,7 +426,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_10",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Gastrointestinal kanal histolojisinde ince bağırsaklara (özellikle duodenum ve jejunum) özgü olarak, epitellerin lümene doğru yaptığı parmak şeklindeki çıkıntılara ne ad verilir?",
+        "question": "Gastrointestinal kanal histolojisinde ince bağırsaklara özgü olarak, epitellerin lümene doğru yaptığı parmak şeklindeki çıkıntılara ne ad verilir?",
         "options": [
             "Villus intestinalis",
             "Plica circulares (Kerckring)",
@@ -456,7 +456,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_12",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Karaciğerin Kupfer hücreleri (karaciğere özgü makrofajlar) lobül içinde nerede yerleşmiştir?",
+        "question": "Karaciğerin Kupfer hücreleri lobül içinde nerede yerleşmiştir?",
         "options": [
             "Safra kanaliküllerinin içinde",
             "Portal venin düz kas tabakasında",
@@ -471,7 +471,7 @@ const v5Part2 = [
     {
         "id": "v5_histo_13",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Solunum sisteminde kıkırdak plakları, bezler (glandula) ve Goblet hücrelerinin tamamen kaybolduğu, duvarı düz kas ile çevrili terminal hava yolu bölgesi aşağıdakilerden hangisidir?",
+        "question": "Solunum sisteminde kıkırdak plakları, bezler ve Goblet hücrelerinin tamamen kaybolduğu, duvarı düz kas ile çevrili terminal hava yolu bölgesi aşağıdakilerden hangisidir?",
         "options": [
             "Trachea",
             "Primer (Ana) bronşlar",
@@ -489,7 +489,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_1",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bakterilerde penisilin bağlayan proteinlere (PBP) bağlanarak hücre duvarı (peptidoglikan) sentezini inhibe eden, bu yüzden sadece bölünen ve çoğalan bakterilere karşı bakterisidal etki gösteren en geniş antibiyotik grubu aşağıdakilerden hangisidir?",
+        "question": "Bakterilerde penisilin bağlayan proteinlere bağlanarak hücre duvarı sentezini inhibe eden, bu yüzden sadece bölünen ve çoğalan bakterilere karşı bakterisidal etki gösteren en geniş antibiyotik grubu aşağıdakilerden hangisidir?",
         "options": [
             "Beta-Laktamlar (Penisilin, Sefalosporin)",
             "Aminoglikozitler",
@@ -519,7 +519,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Çiğ veya az pişmiş deniz ürünleri (istiridye) yendikten sonra ortaya çıkan şiddetli gastroenterite (ishal) veya deniz suyunda yüzülmesine bağlı yara enfeksiyonlarına neden olan, halofilik (tuzu seven) gram negatif kıvrımlı bakteri hangisidir?",
+        "question": "Çiğ veya az pişmiş deniz ürünleri yendikten sonra ortaya çıkan şiddetli gastroenterite veya deniz suyunda yüzülmesine bağlı yara enfeksiyonlarına neden olan, halofilik gram negatif kıvrımlı bakteri hangisidir?",
         "options": [
             "Vibrio parahaemolyticus",
             "Escherichia coli",
@@ -535,7 +535,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_4",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki virüs gruplarından hangisi genetik materyalini (RNA) konağa girdikten sonra 'Revers Transkriptaz' enzimi kullanarak DNA'ya çevirir ve konak kromozomuna entegre olur?",
+        "question": "Aşağıdaki virüs gruplarından hangisi genetik materyalini konağa girdikten sonra 'Revers Transkriptaz' enzimi kullanarak DNA'ya çevirir ve konak kromozomuna entegre olur?",
         "options": [
             "Picornaviridae (örn. Poliovirüs)",
             "Retroviridae (örn. HIV)",
@@ -550,7 +550,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gram negatif bakterilerin hücre duvarının dış membranında bulunan, bakterinin parçalanmasıyla açığa çıkarak insanda şiddetli ateş, şok ve koagülasyona (DIC) neden olan yapı (Endotoksin) aşağıdakilerden hangisidir?",
+        "question": "Gram negatif bakterilerin hücre duvarının dış membranında bulunan, bakterinin parçalanmasıyla açığa çıkarak insanda şiddetli ateş, şok ve koagülasyona neden olan yapı aşağıdakilerden hangisidir?",
         "options": [
             "Lipopolisakkarit (LPS) yapısındaki Lipid A",
             "Peptidoglikan",
@@ -580,7 +580,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Çocuklarda kış aylarında ortaya çıkan şiddetli ishallerin (gastroenterit) en sık görülen viral etkeni aşağıdakilerden hangisidir?",
+        "question": "Çocuklarda kış aylarında ortaya çıkan şiddetli ishallerin en sık görülen viral etkeni aşağıdakilerden hangisidir?",
         "options": [
             "Rotavirüs",
             "Kızamık virüsü",
@@ -610,7 +610,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_9",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki parazitlerden hangisi anüs çevresinde şiddetli kaşıntı yapar (özellikle geceleri selofan bant yöntemi ile yumurtaları tespit edilen 'kıl kurdu')?",
+        "question": "Aşağıdaki parazitlerden hangisi anüs çevresinde şiddetli kaşıntı yapar?",
         "options": [
             "Ascaris lumbricoides",
             "Taenia saginata",
@@ -625,7 +625,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gıdaların hazırlanması ve muhafazası sırasında bakteriyel üremeyi yavaşlatmak için dondurma veya soğutma yöntemleri kullanılır. Ancak buzdolabı sıcaklığında (+4 derece) bile çoğalarak süt ve peynir ürünlerinde besin zehirlenmesi veya menenjite neden olabilen psiko-toleran bakteri hangisidir?",
+        "question": "Gıdaların hazırlanması ve muhafazası sırasında bakteriyel üremeyi yavaşlatmak için dondurma veya soğutma yöntemleri kullanılır. Ancak buzdolabı sıcaklığında bile çoğalarak süt ve peynir ürünlerinde besin zehirlenmesi veya menenjite neden olabilen psiko-toleran bakteri hangisidir?",
         "options": [
             "Listeria monocytogenes",
             "Staphylococcus aureus",
@@ -655,7 +655,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_12",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Zorunlu anaerob olan (oksijenli ortamda ölen), toprakta bulunan sporlarının derin ve kirli yaralara bulaşması sonucu 'Tetanoz' hastalığına (kaslarda sürekli spazm) yol açan bakteri hangisidir?",
+        "question": "Zorunlu anaerob olan, toprakta bulunan sporlarının derin ve kirli yaralara bulaşması sonucu 'Tetanoz' hastalığına yol açan bakteri hangisidir?",
         "options": [
             "Clostridium tetani",
             "Bacillus anthracis",
@@ -670,7 +670,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Laboratuvar teşhis yöntemlerinde, antijen-antikor reaksiyonunu tespit etmek için enzime bağlı bir sistemin kullanıldığı ve özellikle virüs taramalarında (örn. HIV taraması) ilk tercih edilen hassas testin adı nedir?",
+        "question": "Laboratuvar teşhis yöntemlerinde, antijen-antikor reaksiyonunu tespit etmek için enzime bağlı bir sistemin kullanıldığı ve özellikle virüs taramalarında ilk tercih edilen hassas testin adı nedir?",
         "options": [
             "Western Blot",
             "ELISA (Enzyme-Linked Immunosorbent Assay)",
@@ -685,7 +685,7 @@ const v5Part2 = [
     {
         "id": "v5_mikro_14",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Virüslerin konak hücre dışında bulunurken (ekstraselüler formdayken) sahip oldukları tam yapıdaki olgun enfeksiyöz partiküllerine ne ad verilir?",
+        "question": "Virüslerin konak hücre dışında bulunurken sahip oldukları tam yapıdaki olgun enfeksiyöz partiküllerine ne ad verilir?",
         "options": [
             "Varyant",
             "Viryon",
@@ -703,7 +703,7 @@ const v5Part2 = [
     {
         "id": "v5_biyofizik_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "İnsan gözünün optik sisteminde kırıcılığı en fazla (dioptri değeri en yüksek) olan anatomik yapı aşağıdakilerden hangisidir?",
+        "question": "İnsan gözünün optik sisteminde kırıcılığı en fazla olan anatomik yapı aşağıdakilerden hangisidir?",
         "options": [
             "Kornea (Cornea)",
             "Göz Merceği (Lens)",
@@ -718,7 +718,7 @@ const v5Part2 = [
     {
         "id": "v5_biyofizik_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarından madde geçiş mekanizmaları düşünüldüğünde, Oksijen (O2) ve Karbondioksit (CO2) gibi gazların veya lipidlerde çözünen moleküllerin hiçbir enerji ve taşıyıcı kullanmadan çoktan aza geçişine ne ad verilir?",
+        "question": "Hücre zarından madde geçiş mekanizmaları düşünüldüğünde, Oksijen ve Karbondioksit gibi gazların veya lipidlerde çözünen moleküllerin hiçbir enerji ve taşıyıcı kullanmadan çoktan aza geçişine ne ad verilir?",
         "options": [
             "Basit Difüzyon",
             "Kolaylaştırılmış Difüzyon",
@@ -733,7 +733,7 @@ const v5Part2 = [
     {
         "id": "v5_biyofizik_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "Elektrokardiyogramda (EKG) ventrikül kasının (karıncık) depolarizasyonunu (uyarılmasını) temsil eden dalga kompleksi aşağıdakilerden hangisidir?",
+        "question": "Elektrokardiyogramda ventrikül kasının depolarizasyonunu temsil eden dalga kompleksi aşağıdakilerden hangisidir?",
         "options": [
             "P dalgası",
             "QRS kompleksi",
@@ -764,7 +764,7 @@ const v5Part2 = [
     {
         "id": "v5_patoloji_1",
         "subject": "Tıbbi Patoloji",
-        "question": "Hücre içi birikimlerde, yaşlılığa veya hücredeki serbest radikal hasarına (oksidatif stres) bağlı olarak dokularda (özellikle kalp ve karaciğerde) biriken, kahverengi-sarımsı 'yaşlanma pigmenti' aşağıdakilerden hangisidir?",
+        "question": "Hücre içi birikimlerde, yaşlılığa veya hücredeki serbest radikal hasarına bağlı olarak dokularda biriken, kahverengi-sarımsı 'yaşlanma pigmenti' aşağıdakilerden hangisidir?",
         "options": [
             "Melanin",
             "Hemosiderin",
@@ -779,7 +779,7 @@ const v5Part2 = [
     {
         "id": "v5_patoloji_2",
         "subject": "Tıbbi Patoloji",
-        "question": "Akut inflamasyonun (iltihabın) en önemli hücresel elemanı olan, dokuya ilk göç eden (12-24 saat içinde) ve bakterileri fagosite ederek öldüren lökosit tipi hangisidir?",
+        "question": "Akut inflamasyonun en önemli hücresel elemanı olan, dokuya ilk göç eden ve bakterileri fagosite ederek öldüren lökosit tipi hangisidir?",
         "options": [
             "Eozinofil",
             "Bazofil",
@@ -826,7 +826,7 @@ const v5Part2 = [
     {
         "id": "v5_tarihetik_1",
         "subject": "Tıp Tarihi ve Etik",
-        "question": "Modern tıbbın ve cerrahinin kurucularından olan, 1543 yılında yazdığı 'De Humani Corporis Fabrica' (İnsan Bedeninin Yapısı Üzerine) adlı eseriyle Galen'in asırlık anatomik hatalarını düzelten Rönesans dönemi anatomisti kimdir?",
+        "question": "Modern tıbbın ve cerrahinin kurucularından olan, 1543 yılında yazdığı 'De Humani Corporis Fabrica' adlı eseriyle Galen'in asırlık anatomik hatalarını düzelten Rönesans dönemi anatomisti kimdir?",
         "options": [
             "Andreas Vesalius",
             "Hipokrat",
@@ -841,7 +841,7 @@ const v5Part2 = [
     {
         "id": "v5_tarihetik_2",
         "subject": "Tıp Tarihi ve Etik",
-        "question": "Hekimin, hastasına uygulayacağı tedavi seçeneğinin hastaya zarar verme ihtimalini (riskini) gözeterek, yararın riskten fazla olmadığı durumlarda işlem yapmaktan kaçınması tıbbi etiğin hangi temel ilkesidir?",
+        "question": "Hekimin, hastasına uygulayacağı tedavi seçeneğinin hastaya zarar verme ihtimalini gözeterek, yararın riskten fazla olmadığı durumlarda işlem yapmaktan kaçınması tıbbi etiğin hangi temel ilkesidir?",
         "options": [
             "Özerkliğe saygı",
             "Adalet",
@@ -857,7 +857,7 @@ const v5Part2 = [
     {
         "id": "v5_bak_1",
         "subject": "Bilimsel Araştırma",
-        "question": "Bilimsel çalışmalarda, iki bağımsız grubun sayısal (sürekli) verilerinin (örneğin kontrol ve deney grubunun kan şekeri ortalamalarının) birbirinden anlamlı farklılık gösterip göstermediğini istatistiksel olarak karşılaştırmak için kullanılan test aşağıdakilerden hangisidir?",
+        "question": "Bilimsel çalışmalarda, iki bağımsız grubun sayısal verilerinin birbirinden anlamlı farklılık gösterip göstermediğini istatistiksel olarak karşılaştırmak için kullanılan test aşağıdakilerden hangisidir?",
         "options": [
             "Ki-kare testi (Chi-square)",
             "Student's T-testi (Bağımsız gruplar T-testi)",
@@ -873,7 +873,7 @@ const v5Part2 = [
     {
         "id": "v5_toplum_1",
         "subject": "Toplum Sağlığı",
-        "question": "Epidemiyolojide bir hastalığın belirli bir zaman kesitinde veya anında, o toplumda bulunan toplam hasta (eski ve yeni vakaların tümü) sayısının risk altındaki nüfusa oranına ne ad verilir?",
+        "question": "Epidemiyolojide bir hastalığın belirli bir zaman kesitinde veya anında, o toplumda bulunan toplam hasta sayısının risk altındaki nüfusa oranına ne ad verilir?",
         "options": [
             "İnsidans (Hız)",
             "Prevalans",

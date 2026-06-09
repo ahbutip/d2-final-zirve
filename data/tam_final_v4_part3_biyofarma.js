@@ -26,7 +26,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_1",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kan proteinlerinin elektroforetik ayrımında, gama (γ) globulin bandının monoklonal bir artış gösterdiği (M bandı piki) durum aşağıdakilerden hangisidir?",
+        "question": "Kan proteinlerinin elektroforetik ayrımında, gama globulin bandının monoklonal bir artış gösterdiği durum aşağıdakilerden hangisidir?",
         "options": [
             "Akut faz reaksiyonu (Enflamasyon)",
             "Nefrotik sendrom",
@@ -43,7 +43,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_2",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Uzun süreli açlık veya kontrolsüz diyabet durumunda, karbonhidrat metabolizmasının enerji ihtiyacını karşılayamaması sonucu kanda artan ve idrarla atılan (ketonüri) asidik bileşikler (keton cisimleri) öncelikle hangi metabolitten sentezlenir?",
+        "question": "Uzun süreli açlık veya kontrolsüz diyabet durumunda, karbonhidrat metabolizmasının enerji ihtiyacını karşılayamaması sonucu kanda artan ve idrarla atılan asidik bileşikler öncelikle hangi metabolitten sentezlenir?",
         "options": [
             "Laktat",
             "Asetil-CoA",
@@ -77,7 +77,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_4",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Adrenal kortekste kolesterolden steroid hormon sentezlenirken, tüm steroid hormonların öncülü olan ve kolesterolün yan zincirinin koparılmasıyla oluşan ilk ortak ara bileşik (progestajen) aşağıdakilerden hangisidir?",
+        "question": "Adrenal kortekste kolesterolden steroid hormon sentezlenirken, tüm steroid hormonların öncülü olan ve kolesterolün yan zincirinin koparılmasıyla oluşan ilk ortak ara bileşik aşağıdakilerden hangisidir?",
         "options": [
             "Pregnenolon",
             "Dehidroepiandrosteron (DHEA)",
@@ -96,7 +96,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_5",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Karaciğer fonksiyon testleri (KFT) değerlendirilirken, özellikle safra yollarında tıkanıklık (kolestaz) durumlarında kanda düzeyi en belirgin artan ve kemik yapımında da görev alan enzim hangisidir?",
+        "question": "Karaciğer fonksiyon testleri değerlendirilirken, özellikle safra yollarında tıkanıklık durumlarında kanda düzeyi en belirgin artan ve kemik yapımında da görev alan enzim hangisidir?",
         "options": [
             "Alanin aminotransferaz (ALT)",
             "Alkalen fosfataz (ALP)",
@@ -113,7 +113,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_6",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hem yıkımı (katabolizması) sonucu oluşan bilirubinin, karaciğerde suda çözünürlüğünün artırılması (konjugasyonu) için aşağıdaki asitlerden hangisi ile birleşmesi gerekir?",
+        "question": "Hem yıkımı sonucu oluşan bilirubinin, karaciğerde suda çözünürlüğünün artırılması için aşağıdaki asitlerden hangisi ile birleşmesi gerekir?",
         "options": [
             "Sülfürik asit",
             "Asetik asit",
@@ -132,7 +132,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_7",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Tiroid hormonlarının (T3 ve T4) sentez aşamalarında, tiroglobulin yapısındaki tirozin kalıntılarına iyot moleküllerinin eklenmesini (organifikasyon) ve iyodotirozinlerin birleşmesini (kenetlenme) katalize eden enzim aşağıdakilerden hangisidir?",
+        "question": "Tiroid hormonlarının sentez aşamalarında, tiroglobulin yapısındaki tirozin kalıntılarına iyot moleküllerinin eklenmesini ve iyodotirozinlerin birleşmesini katalize eden enzim aşağıdakilerden hangisidir?",
         "options": [
             "Tiroid peroksidaz (TPO)",
             "5'-Deiyodinaz",
@@ -149,7 +149,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_8",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerin enerji metabolizması düşünüldüğünde, mature (olgun) eritrositlerin mitokondrisi olmadığı için tek enerji üretim yolları glikolizdir. Glikoliz yolunda yer alan ve eksikliğinde en sık herediter nonsferositik hemolitik anemiye yol açan enzim aşağıdakilerden hangisidir?",
+        "question": "Eritrositlerin enerji metabolizması düşünüldüğünde, mature eritrositlerin mitokondrisi olmadığı için tek enerji üretim yolları glikolizdir. Glikoliz yolunda yer alan ve eksikliğinde en sık herediter nonsferositik hemolitik anemiye yol açan enzim aşağıdakilerden hangisidir?",
         "options": [
             "Glukoz-6-fosfat dehidrogenaz (G6PD)",
             "Pirüvat kinaz",
@@ -168,7 +168,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_9",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Vücutta demir metabolizması ve taşınmasında rol alan proteinlerden hangisi, plazmada kanda demiri taşıyan (ferrik formda bağlayan) ana proteindir?",
+        "question": "Vücutta demir metabolizması ve taşınmasında rol alan proteinlerden hangisi, plazmada kanda demiri taşıyan ana proteindir?",
         "options": [
             "Ferritin",
             "Hemosiderin",
@@ -204,7 +204,7 @@ const biyoFarmaQuestions = [
         "id": "v4_biyo_11",
         "subject": "Tıbbi Biyokimya",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki vitamin eksikliklerinin hangisinde kanda ve idrarda metilmalonik asit düzeyi artar ve buna bağlı olarak sinir sisteminde miyelin sentezi bozulduğu için nörolojik bulgular (örn. subakut kombine dejenerasyon) ortaya çıkar?",
+        "question": "Aşağıdaki vitamin eksikliklerinin hangisinde kanda ve idrarda metilmalonik asit düzeyi artar ve buna bağlı olarak sinir sisteminde miyelin sentezi bozulduğu için nörolojik bulgular ortaya çıkar?",
         "options": [
             "Folik asit (B9)",
             "Kobalamin (B12)",
@@ -241,7 +241,7 @@ const biyoFarmaQuestions = [
         "id": "v4_farma_2",
         "subject": "Tıbbi Farmakoloji",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Otonom sinir sistemi farmakolojisinde, parasempatik sistemin (kolinerjik) aktivasyonuna bağlı olarak gelişen 'Muskarinik' etkiler arasında aşağıdakilerden hangisi yer almaz?",
+        "question": "Otonom sinir sistemi farmakolojisinde, parasempatik sistemin aktivasyonuna bağlı olarak gelişen 'Muskarinik' etkiler arasında aşağıdakilerden hangisi yer almaz?",
         "options": [
             "Miyozis (göz bebeğinin küçülmesi)",
             "Bronkokonstriksiyon (bronşlarda daralma)",
@@ -258,7 +258,7 @@ const biyoFarmaQuestions = [
         "id": "v4_farma_3",
         "subject": "Tıbbi Farmakoloji",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Asetilkolinesteraz enzimini geri dönüşümsüz (irreversible) olarak inhibe eden ve tarım ilacı (organofosfat) zehirlenmelerine neden olan gruptaki ajanların zehirlenmesinde antidot olarak hangi ilaçlar birlikte kullanılır?",
+        "question": "Asetilkolinesteraz enzimini geri dönüşümsüz olarak inhibe eden ve tarım ilacı zehirlenmelerine neden olan gruptaki ajanların zehirlenmesinde antidot olarak hangi ilaçlar birlikte kullanılır?",
         "options": [
             "Atropin ve Pralidoksim (PAM)",
             "Neostigmin ve Edrofonyum",
@@ -277,7 +277,7 @@ const biyoFarmaQuestions = [
         "id": "v4_farma_4",
         "subject": "Tıbbi Farmakoloji",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Karaciğerde sitokrom P450 (CYP) enzim sistemini indükleyen (enzim miktarını artıran) bir ilaç (örneğin fenitoin veya karbamazepin) kullanan hastaya, aynı enzimle metabolize olan ikinci bir ilaç verildiğinde aşağıdakilerden hangisinin olması beklenir?",
+        "question": "Karaciğerde sitokrom P450 enzim sistemini indükleyen bir ilaç kullanan hastaya, aynı enzimle metabolize olan ikinci bir ilaç verildiğinde aşağıdakilerden hangisinin olması beklenir?",
         "options": [
             "İkinci ilacın kan düzeyi toksik boyutlara ulaşır.",
             "İkinci ilacın metabolizması hızlanır ve kan düzeyi ile terapötik etkisi azalır.",
@@ -313,7 +313,7 @@ const biyoFarmaQuestions = [
         "id": "v4_farma_6",
         "subject": "Tıbbi Farmakoloji",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Adrenerjik reseptör antagonistleri (Beta blokerler) astımlı hastalarda kullanıldığında, bronşlarda bulunan hangi reseptörün bloke olması sonucu tehlikeli bir bronkospazma (bronş daralması) neden olurlar?",
+        "question": "Adrenerjik reseptör antagonistleri astımlı hastalarda kullanıldığında, bronşlarda bulunan hangi reseptörün bloke olması sonucu tehlikeli bir bronkospazma neden olurlar?",
         "options": [
             "Alfa-1 reseptör",
             "Alfa-2 reseptör",
@@ -330,7 +330,7 @@ const biyoFarmaQuestions = [
         "id": "v4_farma_7",
         "subject": "Tıbbi Farmakoloji",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Kalp yetmezliği tedavisinde kullanılan Kardiyak Glikozidlerin (örneğin Digoksin) hücresel düzeydeki temel etki mekanizması aşağıdakilerden hangisidir?",
+        "question": "Kalp yetmezliği tedavisinde kullanılan Kardiyak Glikozidlerin hücresel düzeydeki temel etki mekanizması aşağıdakilerden hangisidir?",
         "options": [
             "Miyokard hücre membranındaki Na+/K+ ATPaz pompasını inhibe etmek",
             "Hücre içi cAMP düzeyini fosfodiesteraz enzimini inhibe ederek artırmak",

@@ -92,7 +92,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_5",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Kan kalsiyum regülasyonu ve hormonların vücuda etkileri incelendiğinde, aşağıdakilerden hangisi Parathormon'un (PTH) etkilerinden biri değildir?",
+        "question": "Kan kalsiyum regülasyonu ve hormonların vücuda etkileri incelendiğinde, aşağıdakilerden hangisi Parathormon'un etkilerinden biri değildir?",
         "options": [
             "Böbreklerden kalsiyum geri emilimini artırmak.",
             "Böbreklerden fosfat atılımını artırmak (fosfatüri).",
@@ -109,7 +109,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_6",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Tiroid hormonlarının (T3 ve T4) vücut metabolizmasına olan sistemik etkileri ile ilgili aşağıdakilerden hangisi söylenemez?",
+        "question": "Tiroid hormonlarının vücut metabolizmasına olan sistemik etkileri ile ilgili aşağıdakilerden hangisi söylenemez?",
         "options": [
             "Bazal metabolizma hızını (BMR) ve ısı üretimini belirgin şekilde artırırlar.",
             "Kalp hızını ve kalp kasının kasılma gücünü (beta adrenerjik reseptör sayısını artırarak) artırırlar.",
@@ -126,7 +126,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_7",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Sürrenal (adrenal) korteks hormonlarından kortizolün vücuda etkileri ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "question": "Sürrenal korteks hormonlarından kortizolün vücuda etkileri ile ilgili aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "Karaciğerde glukoneogenezi uyararak kan şekerini yükseltir.",
             "Protein katabolizmasını (yıkımını) artırarak kaslarda zayıflamaya neden olabilir.",
@@ -179,7 +179,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_10",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Kardiyak siklus (kalp döngüsü) sırasında sol ventrikül basınç-hacim değişiklikleri incelendiğinde, İzovolümetrik Kontraksiyon evresi için hangisi doğrudur?",
+        "question": "Kardiyak siklus sırasında sol ventrikül basınç-hacim değişiklikleri incelendiğinde, İzovolümetrik Kontraksiyon evresi için hangisi doğrudur?",
         "options": [
             "Bu evrede mitral kapak açık, aort kapağı kapalıdır.",
             "Ventrikül içindeki kanın hacmi hızla azalır.",
@@ -196,7 +196,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_11",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Sağlıklı bir insanda Frank-Starling kalp yasasının (mekanizmasının) temel fizyolojik anlamı aşağıdakilerden hangisidir?",
+        "question": "Sağlıklı bir insanda Frank-Starling kalp yasasının temel fizyolojik anlamı aşağıdakilerden hangisidir?",
         "options": [
             "Kalp hızı arttıkça koroner kan akımının azalmasıdır.",
             "Kalbe venöz dönüş (preload) arttıkça, ventrikül kasının daha fazla gerilmesi ve bir sonraki atımda daha güçlü kasılarak artan hacmi fırlatmasıdır.",
@@ -213,7 +213,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_12",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Elektrokardiyografi (EKG) dalgaları ile kardiyak olaylar eşleştirildiğinde aşağıdakilerden hangisi yanlıştır?",
+        "question": "Elektrokardiyografi dalgaları ile kardiyak olaylar eşleştirildiğinde aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "P dalgası: Atriyumların depolarizasyonu.",
             "QRS kompleksi: Ventriküllerin depolarizasyonu.",
@@ -230,7 +230,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_13",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Kapiller düzeyde dokulara sıvı geçişini düzenleyen Starling kuvvetleri (basınçları) düşünüldüğünde, aşağıdakilerden hangisi dokular arası mesafeye sıvı kaçışını (ödem oluşumunu) kolaylaştırır?",
+        "question": "Kapiller düzeyde dokulara sıvı geçişini düzenleyen Starling kuvvetleri düşünüldüğünde, aşağıdakilerden hangisi dokular arası mesafeye sıvı kaçışını kolaylaştırır?",
         "options": [
             "Kapiller hidrostatik basıncın (Pc) azalması.",
             "Plazma kolloid ozmotik basıncının (Πc) artması.",
@@ -247,7 +247,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_14",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Normal şartlarda Glomerüler Filtrasyon Hızı'nı (GFR) belirleyen kuvvetlerden hangisi filtrasyonu engelleyici (filtrasyon yönünün tersine) bir basınç oluşturur?",
+        "question": "Normal şartlarda Glomerüler Filtrasyon Hızı'nı belirleyen kuvvetlerden hangisi filtrasyonu engelleyici bir basınç oluşturur?",
         "options": [
             "Glomerüler kapiller hidrostatik basınç",
             "Bowman kapsülü kolloid ozmotik basıncı (Normalde sıfıra yakındır)",
@@ -264,7 +264,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_15",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Renin-Anjiyotensin-Aldosteron Sistemi (RAAS) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "question": "Renin-Anjiyotensin-Aldosteron Sistemi ile ilgili aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "Renin, jukstaglomerüler aparat tarafından kan basıncı veya böbrek kan akımı azaldığında salgılanır.",
             "Anjiyotensin dönüştürücü enzim (ACE), akciğer kapiller endotelinde yoğun olarak bulunur.",
@@ -281,7 +281,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_16",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Böbrek tubüllerinde gerçekleşen geri emilim (reabsorpsiyon) işlemleri incelendiğinde, glukozun ve aminoasitlerin %100'e yakını nefronun hangi bölümünden geri emilir?",
+        "question": "Böbrek tubüllerinde gerçekleşen geri emilim işlemleri incelendiğinde, glukozun ve aminoasitlerin %100'e yakını nefronun hangi bölümünden geri emilir?",
         "options": [
             "Proksimal kıvrımlı tübül",
             "Henle kulpu inen kolu",
@@ -298,7 +298,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_17",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Henle kulpunun ters akım çoğaltıcı mekanizması (countercurrent multiplier) ile ilgili hangisi doğrudur?",
+        "question": "Henle kulpunun ters akım çoğaltıcı mekanizması ile ilgili hangisi doğrudur?",
         "options": [
             "İnen kol suya kesinlikle geçirgen değildir.",
             "Çıkan kalın kol sodyum, potasyum ve kloru aktif olarak geri emer ancak suya geçirgen değildir.",
@@ -351,7 +351,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_20",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Uyku fizyolojisinde Non-REM (NREM) ve REM (Hızlı Göz Hareketi) uykusu özellikleri için hangisi doğrudur?",
+        "question": "Uyku fizyolojisinde Non-REM ve REM uykusu özellikleri için hangisi doğrudur?",
         "options": [
             "REM uykusu süresince iskelet kası tonusu en yüksek seviyesindedir.",
             "Rüyaların büyük çoğunluğu NREM evre 3'te görülür ve rahatlıkla hatırlanır.",
@@ -368,7 +368,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_21",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Akciğer hacim ve kapasiteleri düşünüldüğünde, zorlu ve maksimum bir ekspirasyondan (nefes vermeden) sonra akciğerlerde kalan hava miktarına ne ad verilir?",
+        "question": "Akciğer hacim ve kapasiteleri düşünüldüğünde, zorlu ve maksimum bir ekspirasyondan sonra akciğerlerde kalan hava miktarına ne ad verilir?",
         "options": [
             "Tidal volüm",
             "Vital kapasite",
@@ -436,7 +436,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_25",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Solunumun nöral kontrol merkezi beyin sapında bulunur. N. vagus üzerinden akciğerlerdeki gerilme reseptörlerinden gelen inhibitör sinyallerle inspirasyonu (nefes almayı) sonlandıran ve akciğerlerin aşırı şişmesini önleyen mekanizma hangisidir?",
+        "question": "Solunumun nöral kontrol merkezi beyin sapında bulunur. N. vagus üzerinden akciğerlerdeki gerilme reseptörlerinden gelen inhibitör sinyallerle inspirasyonu sonlandıran ve akciğerlerin aşırı şişmesini önleyen mekanizma hangisidir?",
         "options": [
             "Hering-Breuer enflasyon refleksi",
             "Bainbridge refleksi",
@@ -472,7 +472,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_27",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Fotoreseptörlerin karanlık ve aydınlık adaptasyonu mekanizmaları ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır? (Çıkmış Soru)",
+        "question": "Fotoreseptörlerin karanlık ve aydınlık adaptasyonu mekanizmaları ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
         "options": [
             "Karanlıkta fotoreseptör hücrenin membranında cGMP düzeyleri yüksektir.",
             "Aydınlıkta rodopsinin ışığı soğurmasıyla transdusin proteini aktive olur.",
@@ -489,7 +489,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_28",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "İç kulakta ses dalgalarının iletimi sırasında, havadan gelen ses dalgalarının sıvı dolu kokleaya geçerken enerji kaybını önleyen 'empedans eşleşmesi (uyumu)' mekanizması temel olarak nasıl sağlanır? (Çıkmış Soru)",
+        "question": "İç kulakta ses dalgalarının iletimi sırasında, havadan gelen ses dalgalarının sıvı dolu kokleaya geçerken enerji kaybını önleyen 'empedans eşleşmesi' mekanizması temel olarak nasıl sağlanır?",
         "options": [
             "Timpanik zarın yüzey alanının, oval pencere alanından yaklaşık 17 kat büyük olmasıyla.",
             "İç tüy hücrelerinin endolenf içindeki potasyum iyonlarını dışarı atmasıyla.",
@@ -506,7 +506,7 @@ const fizyolojiQuestions = [
         "id": "v4_fizyo_29",
         "subject": "Fizyoloji",
         "subject": "Fizyoloji",
-        "question": "Ağrı duyusunun iletimi ve modülasyonu ile ilgili aşağıdakilerden hangisi yanlıştır? (Çıkmış Soru)",
+        "question": "Ağrı duyusunun iletimi ve modülasyonu ile ilgili aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "A-delta lifleri hızlı, keskin ve iyi lokalize edilen ağrıyı iletir.",
             "C lifleri yavaş, künt ve yanıcı tarzda ağrıyı ileten miyelinsiz liflerdir.",

@@ -12,7 +12,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_1",
         "subject": "Anatomi",
-        "question": "Mide fıtığı (hiatus hernisi) ameliyatı veya peptik ülser için yapılan trunkal vagotomi ameliyatı sırasında, yemek borusu (özofagus) üzerinde seyreden bir sinir kesiliyor. Mide asit salgısını azaltmak için bilerek veya yanlışlıkla kesilebilen, sindirim sisteminin en büyük parasempatik siniri hangisidir?",
+        "question": "Mide fıtığı ameliyatı veya peptik ülser için yapılan trunkal vagotomi ameliyatı sırasında, yemek borusu üzerinde seyreden bir sinir kesiliyor. Mide asit salgısını azaltmak için bilerek veya yanlışlıkla kesilebilen, sindirim sisteminin en büyük parasempatik siniri hangisidir?",
         "options": [
             "N. phrenicus",
             "N. vagus",
@@ -27,7 +27,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_2",
         "subject": "Anatomi",
-        "question": "Doğum sırasında baş ve omuzun aşırı gerilmesi veya omuz üstüne düşme sonucu boyun kökü (C5-C6) zedelendiğinde kolda 'Erb-Duchenne' felci oluşur. Bu hastaların kolu gövdeye bitişik (adduksiyon), içe dönük (iç rotasyon) ve önkol ekstansiyonda durur ('Bahşiş isteyen garson eli' belirtisi). Bu tabloda zedelenen yapı aşağıdakilerden hangisidir?",
+        "question": "Doğum sırasında baş ve omuzun aşırı gerilmesi veya omuz üstüne düşme sonucu boyun kökü zedelendiğinde kolda 'Erb-Duchenne' felci oluşur. Bu hastaların kolu gövdeye bitişik, içe dönük ve önkol ekstansiyonda durur. Bu tabloda zedelenen yapı aşağıdakilerden hangisidir?",
         "options": [
             "Plexus brachialis Truncus superior",
             "Plexus brachialis Truncus inferior",
@@ -42,7 +42,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_3",
         "subject": "Anatomi",
-        "question": "Ağaçtan düşerken tek eliyle bir dala asılı kalan bir kişide, plexus brachialis'in alt kütüğü (Truncus inferior, C8-T1) şiddetli gerilir ve 'Klumpke Felci' gelişir. Bu hastada elde 'Pençe el' (Claw hand) görünümü oluşur. Bu tabloda ağırlıklı olarak fonksiyonu bozulan sinir hangisidir?",
+        "question": "Ağaçtan düşerken tek eliyle bir dala asılı kalan bir kişide, plexus brachialis'in alt kütüğü şiddetli gerilir ve 'Klumpke Felci' gelişir. Bu hastada elde 'Pençe el' görünümü oluşur. Bu tabloda ağırlıklı olarak fonksiyonu bozulan sinir hangisidir?",
         "options": [
             "N. musculocutaneus",
             "N. axillaris",
@@ -57,7 +57,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_4",
         "subject": "Anatomi",
-        "question": "Nörolojik muayenede diz kapağı altındaki tendona vurularak (Patella refleksi) bacağın öne doğru fırlaması kontrol edilir. Bu refleksin kaybolduğu veya azaldığı saptanan bir hastada aşağıdaki sinirlerden hangisinin kökünde/seyirinde zedelenme düşünülür?",
+        "question": "Nörolojik muayenede diz kapağı altındaki tendona vurularak bacağın öne doğru fırlaması kontrol edilir. Bu refleksin kaybolduğu veya azaldığı saptanan bir hastada aşağıdaki sinirlerden hangisinin kökünde/seyirinde zedelenme düşünülür?",
         "options": [
             "N. ischiadicus",
             "N. tibialis",
@@ -72,7 +72,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_5",
         "subject": "Anatomi",
-        "question": "Sık tekrarlayan tonsillit (bademcik iltihabı) nedeniyle tonsillektomi ameliyatı olan bir hastada, ameliyat sırasında bademcik yatağının hemen derininden geçen kranial sinir zedeleniyor. Ameliyat sonrası hastanın dilinin 1/3 arka kısmında tat ve genel duyu kaybı gelişiyor. Zedelenen bu sinir hangisidir?",
+        "question": "Sık tekrarlayan tonsillit nedeniyle tonsillektomi ameliyatı olan bir hastada, ameliyat sırasında bademcik yatağının hemen derininden geçen kranial sinir zedeleniyor. Ameliyat sonrası hastanın dilinin 1/3 arka kısmında tat ve genel duyu kaybı gelişiyor. Zedelenen bu sinir hangisidir?",
         "options": [
             "N. facialis (VII)",
             "N. trigeminus (V)",
@@ -87,7 +87,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_6",
         "subject": "Anatomi",
-        "question": "Kafatası travması geçiren bir hastada burnundan renksiz ve berrak bir sıvı (BOS) geldiği (rinore) ve koku alma duyusunu tamamen kaybettiği (anosmi) saptanıyor. Bu hastada koku siniri olan N. olfactorius'un liflerini kesen kırık hangi kemik bölümünde olmuştur?",
+        "question": "Kafatası travması geçiren bir hastada burnundan renksiz ve berrak bir sıvı geldiği ve koku alma duyusunu tamamen kaybettiği saptanıyor. Bu hastada koku siniri olan N. olfactorius'un liflerini kesen kırık hangi kemik bölümünde olmuştur?",
         "options": [
             "Os sphenoidale (Sella turcica)",
             "Os temporale (Pars petrosa)",
@@ -102,7 +102,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_7",
         "subject": "Anatomi",
-        "question": "Aşil tendonu (Tendo calcaneus) kopan veya nörolojik muayenede Aşil refleksi alınamayan bir hastada, kişi ayak parmak uçlarında yükselememekte (ayağa plantarfleksiyon yaptıramamakta) dir. Bacağın arka kompartman kaslarını uyaran ve bu fonksiyondan sorumlu sinir hangisidir?",
+        "question": "Aşil tendonu kopan veya nörolojik muayenede Aşil refleksi alınamayan bir hastada, kişi ayak parmak uçlarında yükselememekte dir. Bacağın arka kompartman kaslarını uyaran ve bu fonksiyondan sorumlu sinir hangisidir?",
         "options": [
             "N. fibularis superficialis",
             "N. fibularis profundus",
@@ -117,7 +117,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_8",
         "subject": "Anatomi",
-        "question": "Kalça (Gluteal) bölgesine yapılan kas içi (intramüsküler) enjeksiyonlarda güvenli bölge olan dış-üst kadran (üst-dış çeyrek) Dışında bir yere, özellikle iç-alt kadrana iğne yapıldığında, vücudun en kalın siniri zedelenebilir. Bu zedelenme sonucunda bacak ve ayakta yaygın felç ve düşük ayak tablosu oluşturan bu sinir hangisidir?",
+        "question": "Kalça bölgesine yapılan kas içi enjeksiyonlarda güvenli bölge olan dış-üst kadran Dışında bir yere, özellikle iç-alt kadrana iğne yapıldığında, vücudun en kalın siniri zedelenebilir. Bu zedelenme sonucunda bacak ve ayakta yaygın felç ve düşük ayak tablosu oluşturan bu sinir hangisidir?",
         "options": [
             "N. gluteus superior",
             "N. pudendus",
@@ -133,7 +133,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_9",
         "subject": "Anatomi",
-        "question": "Boyunda yer alan, başı sağa sola çeviren (M. sternocleidomastoideus) ve omuz silkme hareketini yaptıran (M. trapezius) büyük kasların motor innervasyonunu sağlayan kranial sinir aşağıdakilerden hangisidir?",
+        "question": "Boyunda yer alan, başı sağa sola çeviren ve omuz silkme hareketini yaptıran büyük kasların motor innervasyonunu sağlayan kranial sinir aşağıdakilerden hangisidir?",
         "options": [
             "N. facialis (VII)",
             "N. vagus (X)",
@@ -148,7 +148,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_10",
         "subject": "Anatomi",
-        "question": "Göz küresini dışarı doğru (abduksiyon) çeviren M. rectus lateralis kasını uyaran kranial sinir aşağıdakilerden hangisidir?",
+        "question": "Göz küresini dışarı doğru çeviren M. rectus lateralis kasını uyaran kranial sinir aşağıdakilerden hangisidir?",
         "options": [
             "N. oculomotorius (III)",
             "N. trochlearis (IV)",
@@ -163,7 +163,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_11",
         "subject": "Anatomi",
-        "question": "Göz hareketlerinde görevli M. obliquus superior (üst eğik kas) kasını uyaran, gözün aşağı ve dışa bakmasını sağlayan kranial sinir hangisidir?",
+        "question": "Göz hareketlerinde görevli M. obliquus superior kasını uyaran, gözün aşağı ve dışa bakmasını sağlayan kranial sinir hangisidir?",
         "options": [
             "N. oculomotorius (III)",
             "N. trochlearis (IV)",
@@ -178,7 +178,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_12",
         "subject": "Anatomi",
-        "question": "Kolun arka kompartmanında yer alan ve dirsek eklemine güçlü ekstansiyon (açma/düzeltme) yaptıran M. triceps brachii kasının motor siniri aşağıdakilerden hangisidir?",
+        "question": "Kolun arka kompartmanında yer alan ve dirsek eklemine güçlü ekstansiyon yaptıran M. triceps brachii kasının motor siniri aşağıdakilerden hangisidir?",
         "options": [
             "N. ulnaris",
             "N. medianus",
@@ -193,7 +193,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_13",
         "subject": "Anatomi",
-        "question": "Uyluğun iç (medial) tarafında bulunan ve bacakları birbirine yaklaştıran (adduksiyon) adduktor kas grubunun siniri aşağıdakilerden hangisidir?",
+        "question": "Uyluğun iç tarafında bulunan ve bacakları birbirine yaklaştıran adduktor kas grubunun siniri aşağıdakilerden hangisidir?",
         "options": [
             "N. femoralis",
             "N. obturatorius",
@@ -208,7 +208,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_14",
         "subject": "Anatomi",
-        "question": "Midenin alt-dış kenarını oluşturan büyük eğriliğini (Curvatura major) seyrederek besleyen ana damarlar aşağıdakilerden hangisidir?",
+        "question": "Midenin alt-dış kenarını oluşturan büyük eğriliğini seyrederek besleyen ana damarlar aşağıdakilerden hangisidir?",
         "options": [
             "A. gastrica dextra ve sinistra",
             "A. gastroomentalis (gastroepiploica) dextra ve sinistra",
@@ -223,7 +223,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_15",
         "subject": "Anatomi",
-        "question": "Karaciğere giden kanın %75'ini V. portae hepatis getirirken (besin yönünden zengin, oksijenden fakir), geriye kalan %25'lik asıl Oksijenli (besleyici) kanı karaciğere getiren damar hangisidir?",
+        "question": "Karaciğere giden kanın %75'ini V. portae hepatis getirirken, geriye kalan %25'lik asıl Oksijenli kanı karaciğere getiren damar hangisidir?",
         "options": [
             "V. hepatica",
             "A. hepatica propria",
@@ -253,7 +253,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_17",
         "subject": "Anatomi",
-        "question": "Otonom sinir sisteminde, savaş ya da kaç (fight-or-flight) tepkisi sırasında kalbin kasılma gücünü (inotropi) ve atım hızını (kronotropi) ARTIŞ yönünde uyaran sistemin adı nedir?",
+        "question": "Otonom sinir sisteminde, savaş ya da kaç tepkisi sırasında kalbin kasılma gücünü ve atım hızını ARTIŞ yönünde uyaran sistemin adı nedir?",
         "options": [
             "Parasempatik sinir sistemi (N. vagus)",
             "Enterik sinir sistemi",
@@ -269,7 +269,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_18",
         "subject": "Anatomi",
-        "question": "Nefes borusu (Trachea) iki ana bronşa ayrılır (Bifurcatio tracheae). Çocuklarda yabancı cisimlerin (fıstık, para vb.) yutulduğunda akciğerlerde genellikle SAĞ tarafa kaçmasının anatomik nedeni nedir?",
+        "question": "Nefes borusu iki ana bronşa ayrılır. Çocuklarda yabancı cisimlerin yutulduğunda akciğerlerde genellikle SAĞ tarafa kaçmasının anatomik nedeni nedir?",
         "options": [
             "Sağ ana bronşun sol ana bronşa göre daha KISA, daha GENİŞ ve daha DİK olması",
             "Sağ ana bronşun kalbin sol tarafta olması nedeniyle daralması",
@@ -284,7 +284,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_19",
         "subject": "Anatomi",
-        "question": "Midenin (Gaster) anatomik bölümleri incelendiğinde, ince bağırsağa (duodenum) geçiş yaptığı ve mide boşalmasını kontrol eden kalın sfinkter kasının bulunduğu çıkış bölümüne ne ad verilir?",
+        "question": "Midenin anatomik bölümleri incelendiğinde, ince bağırsağa geçiş yaptığı ve mide boşalmasını kontrol eden kalın sfinkter kasının bulunduğu çıkış bölümüne ne ad verilir?",
         "options": [
             "Cardia",
             "Fundus",
@@ -299,7 +299,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_20",
         "subject": "Anatomi",
-        "question": "İnce bağırsakların (Jejunum ve Ileum) iç yüzeyinde bulunan, emilim (absorpsiyon) yüzey alanını devasa boyutlara çıkaran ve besinlerin kana/lenfe geçmesini sağlayan parmaksı çıkıntılara ne ad verilir?",
+        "question": "İnce bağırsakların iç yüzeyinde bulunan, emilim yüzey alanını devasa boyutlara çıkaran ve besinlerin kana/lenfe geçmesini sağlayan parmaksı çıkıntılara ne ad verilir?",
         "options": [
             "Haustra coli",
             "Plica circularis (Kerckring)",
@@ -314,7 +314,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_21",
         "subject": "Anatomi",
-        "question": "Kalpte vücuttan dönen kirli kanı toplayan Sağ Kulakçık (Atrium dextrum) ile bu kanı akciğerlere pompalayacak olan Sağ Karıncık (Ventriculus dexter) arasında bulunan, kanın geriye kaçmasını önleyen kapakçık hangisidir?",
+        "question": "Kalpte vücuttan dönen kirli kanı toplayan Sağ Kulakçık ile bu kanı akciğerlere pompalayacak olan Sağ Karıncık arasında bulunan, kanın geriye kaçmasını önleyen kapakçık hangisidir?",
         "options": [
             "Valva bicuspidalis (Mitral)",
             "Valva aortae",
@@ -329,7 +329,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_22",
         "subject": "Anatomi",
-        "question": "Böbreklerde (Renes) oluşan idrarı böbrek havuzcuğundan (Pelvis renalis) alıp idrar kesesine (Vesica urinaria) taşıyan 25-30 cm uzunluğundaki kaslı boru yapısı hangisidir?",
+        "question": "Böbreklerde oluşan idrarı böbrek havuzcuğundan alıp idrar kesesine taşıyan 25-30 cm uzunluğundaki kaslı boru yapısı hangisidir?",
         "options": [
             "Urethra",
             "Ureter (Üreter)",
@@ -344,7 +344,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_23",
         "subject": "Anatomi",
-        "question": "Kadın dış üreme organları (Vulva) anatomisinde, embriyolojik gelişim açısından erkeklerdeki Penis yapısına homolog (eşdeğer) olan, sinir uçlarınca çok zengin erektil (sertleşebilen) yapı hangisidir?",
+        "question": "Kadın dış üreme organları anatomisinde, embriyolojik gelişim açısından erkeklerdeki Penis yapısına homolog olan, sinir uçlarınca çok zengin erektil yapı hangisidir?",
         "options": [
             "Labium majus",
             "Labium minus",
@@ -359,7 +359,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_24",
         "subject": "Anatomi",
-        "question": "Erkek üreme sisteminde testisleri saran, vücut boşluğu dışında sarkık olarak durarak sperm üretimi (spermatogenez) için gerekli olan ideal ısıyı (vücut ısısından 2-3 derece düşük) sağlayan deri ve kas tabakasından oluşan torbaya ne ad verilir?",
+        "question": "Erkek üreme sisteminde testisleri saran, vücut boşluğu dışında sarkık olarak durarak sperm üretimi için gerekli olan ideal ısıyı sağlayan deri ve kas tabakasından oluşan torbaya ne ad verilir?",
         "options": [
             "Scrotum (Skrotum)",
             "Epididymis",
@@ -374,7 +374,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_25",
         "subject": "Anatomi",
-        "question": "Pankreasın ürettiği sindirim enzimlerini (amilaz, lipaz, tripsin) bağırsak kanalına taşıyan ve Karaciğerden gelen Koledok kanalı (Ductus choledochus) ile birleşerek duodenumun (oniki parmak bağırsağı) ikinci kısmına açılan ana pankreas kanalı hangisidir?",
+        "question": "Pankreasın ürettiği sindirim enzimlerini bağırsak kanalına taşıyan ve Karaciğerden gelen Koledok kanalı ile birleşerek duodenumun ikinci kısmına açılan ana pankreas kanalı hangisidir?",
         "options": [
             "Ductus cysticus",
             "Ductus hepaticus communis",
@@ -389,7 +389,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_26",
         "subject": "Anatomi",
-        "question": "Karaciğerin (Hepar) diyaframatik (ön-üst) yüzeyini sağ ve sol lob olmak üzere ikiye ayıran, ön karın duvarına asan ve alt kenarında embriyolojik göbek veni kalıntısını (Lig. teres hepatis) taşıyan bağ (ligament) aşağıdakilerden hangisidir?",
+        "question": "Karaciğerin diyaframatik yüzeyini sağ ve sol lob olmak üzere ikiye ayıran, ön karın duvarına asan ve alt kenarında embriyolojik göbek veni kalıntısını taşıyan bağ aşağıdakilerden hangisidir?",
         "options": [
             "Ligamentum falciforme",
             "Ligamentum coronarium",
@@ -405,7 +405,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_27",
         "subject": "Anatomi",
-        "question": "Kafatasının (Cranium) arka alt kısmında yer alan, üzerinden omuriliğin (Medulla spinalis) beyin sapı (Bulbus) olarak kafatasına giriş/çıkış yaptığı ve a. vertebralis'lerin geçtiği vücudun EN BÜYÜK deliği (Foramen magnum) hangi kemik üzerindedir?",
+        "question": "Kafatasının arka alt kısmında yer alan, üzerinden omuriliğin beyin sapı olarak kafatasına giriş/çıkış yaptığı ve a. vertebralis'lerin geçtiği vücudun EN BÜYÜK deliği hangi kemik üzerindedir?",
         "options": [
             "Os parietale",
             "Os sphenoidale",
@@ -420,7 +420,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_28",
         "subject": "Anatomi",
-        "question": "Boyun (Servikal) omurlarının (C1-C7) diğer tüm omurlardan (Torakal ve Lumbal) ayrılmasını sağlayan en önemli anatomik özellik olan ve içinden beyni besleyen A. vertebralis'in geçtiği yan çıkıntılarındaki deliklere ne ad verilir?",
+        "question": "Boyun omurlarının diğer tüm omurlardan ayrılmasını sağlayan en önemli anatomik özellik olan ve içinden beyni besleyen A. vertebralis'in geçtiği yan çıkıntılarındaki deliklere ne ad verilir?",
         "options": [
             "Foramen intervertebrale",
             "Foramen vertebrale",
@@ -435,7 +435,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_29",
         "subject": "Anatomi",
-        "question": "Beyin omurilik sıvısının (BOS) ventriküler sistem içindeki yolculuğunu tamamlayıp, beyin zarları arasındaki boşluğa (Spatium subarachnoideum) boşaldığı Magendie ve Luschka (Apertura mediana ve lateralis) delikleri, beynin HANGİ ventrikülünün (odacığının) çatısında yer alır?",
+        "question": "Beyin omurilik sıvısının ventriküler sistem içindeki yolculuğunu tamamlayıp, beyin zarları arasındaki boşluğa boşaldığı Magendie ve Luschka delikleri, beynin HANGİ ventrikülünün çatısında yer alır?",
         "options": [
             "Ventriculus lateralis dexter (Sağ yan ventrikül)",
             "Ventriculus lateralis sinister (Sol yan ventrikül)",
@@ -450,7 +450,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_30",
         "subject": "Anatomi",
-        "question": "İnsan beyninde (Cerebrum) GÖRME duyusunun (vizyonun) alındığı, işlendiği ve algılandığı Primer Görme Merkezi beynin hangi anatomik lobunda yer almaktadır?",
+        "question": "İnsan beyninde GÖRME duyusunun alındığı, işlendiği ve algılandığı Primer Görme Merkezi beynin hangi anatomik lobunda yer almaktadır?",
         "options": [
             "Lobus frontalis (Ön lob)",
             "Lobus parietalis (Yan lob)",
@@ -465,7 +465,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_31",
         "subject": "Anatomi",
-        "question": "İnsan iskeletinde, el bileğini (Karpal bölge) oluşturan küçük kemiklerin (Ossa carpi) toplam sayısı BİR ELDE kaçtır?",
+        "question": "İnsan iskeletinde, el bileğini oluşturan küçük kemiklerin toplam sayısı BİR ELDE kaçtır?",
         "options": [
             "5",
             "7",
@@ -480,7 +480,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_32",
         "subject": "Anatomi",
-        "question": "Üst ekstremitede dirsek ile el bileği arasında (Önkol - Antebrachium) bulunan iki kemikten anatomik duruşa göre DIŞ TARAFTA (Başparmak hizasında) yer alan kemik hangisidir?",
+        "question": "Üst ekstremitede dirsek ile el bileği arasında bulunan iki kemikten anatomik duruşa göre DIŞ TARAFTA yer alan kemik hangisidir?",
         "options": [
             "Ulna",
             "Radius",
@@ -495,7 +495,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_33",
         "subject": "Anatomi",
-        "question": "Solunum sisteminde; havanın geçiş yolunda yer alan, içindeki kıkırdaklar ve kaslar sayesinde aynı zamanda SES ÜRETİMİNİN (fonasyon) gerçekleştiği, halk arasında 'Gırtlak' olarak bilinen organın anatomik adı nedir?",
+        "question": "Solunum sisteminde; havanın geçiş yolunda yer alan, içindeki kıkırdaklar ve kaslar sayesinde aynı zamanda SES ÜRETİMİNİN gerçekleştiği, halk arasında 'Gırtlak' olarak bilinen organın anatomik adı nedir?",
         "options": [
             "Pharynx (Yutak)",
             "Larynx (Gırtlak)",
@@ -510,7 +510,7 @@ const v11Part1 = [
     {
         "id": "v11_anat_34",
         "subject": "Anatomi",
-        "question": "Erişkin bir insanda omurilik (Medulla spinalis), foramen magnum'dan başlayıp omurga kanalı (Canalis vertebralis) içinde aşağı doğru iner. Omurilik, omurga kanalı içinde yaklaşık olarak hangi omur (vertebra) seviyesinde 'Conus medullaris' adı verilen koni şeklinde sonlanır?",
+        "question": "Erişkin bir insanda omurilik, foramen magnum'dan başlayıp omurga kanalı içinde aşağı doğru iner. Omurilik, omurga kanalı içinde yaklaşık olarak hangi omur seviyesinde 'Conus medullaris' adı verilen koni şeklinde sonlanır?",
         "options": [
             "C7 - T1 arası",
             "T6 - T7 arası",
@@ -526,7 +526,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_1",
         "subject": "Fizyoloji",
-        "question": "Akciğer hacimleri içinde, maksimum zorlu bir nefes vermeden (ekspirasyon) sonra bile akciğerlerde ve hava yollarında kalan, dışarı atılamayan hava miktarına ne ad verilir?",
+        "question": "Akciğer hacimleri içinde, maksimum zorlu bir nefes vermeden sonra bile akciğerlerde ve hava yollarında kalan, dışarı atılamayan hava miktarına ne ad verilir?",
         "options": [
             "Tidal Volüm (TV)",
             "İnspiratuar Yedek Volüm (IRV)",
@@ -541,7 +541,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_2",
         "subject": "Fizyoloji",
-        "question": "Böbrek fizyolojisinde Renin-Anjiyotensin sisteminin güçlü damar daraltıcı (vazokonstriktör) ürünü olan Anjiyotensin II, böbrek üstü bezinden (adrenal korteks) HANGİ hormonu salgılatarak sodyum (tuz) ve su tutulumunu artırır?",
+        "question": "Böbrek fizyolojisinde Renin-Anjiyotensin sisteminin güçlü damar daraltıcı ürünü olan Anjiyotensin II, böbrek üstü bezinden HANGİ hormonu salgılatarak sodyum ve su tutulumunu artırır?",
         "options": [
             "Kortizol",
             "Adrenalin",
@@ -556,7 +556,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_3",
         "subject": "Fizyoloji",
-        "question": "Hücre zarının (Membranın) istirahat potansiyelinin (-70 / -90 mV) oluşmasında en büyük paya sahip olan faktör aşağıdakilerden hangisidir?",
+        "question": "Hücre zarının istirahat potansiyelinin oluşmasında en büyük paya sahip olan faktör aşağıdakilerden hangisidir?",
         "options": [
             "Na+/K+ ATPaz pompası (Elektrojenik etki)",
             "Kalsiyum iyonlarının dışarı pompalanması",
@@ -571,7 +571,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_4",
         "subject": "Fizyoloji",
-        "question": "Kalp kası (Miyokard) hücresinin aksiyon potansiyelinde plato fazını (Faz 2) oluşturan ve kasılmanın uzun sürmesini (böylece tetani olmamasını) sağlayan İYON HAREKETİ aşağıdakilerden hangisidir?",
+        "question": "Kalp kası hücresinin aksiyon potansiyelinde plato fazını oluşturan ve kasılmanın uzun sürmesini sağlayan İYON HAREKETİ aşağıdakilerden hangisidir?",
         "options": [
             "Hücre içine hızlı Sodyum (Na+) girişi",
             "Hücre dışına hızlı Potasyum (K+) çıkışı",
@@ -586,7 +586,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_5",
         "subject": "Fizyoloji",
-        "question": "Gastrointestinal sistemin temel motilite (hareket) paternlerinden olan ve bağırsağın bir noktasındaki gerilme sonucu lokmanın (kimusun) önündeki düz kasların gevşemesi, arkasındaki kasların ise kasılarak lokmayı ileri doğru itmesi olayına ne ad verilir?",
+        "question": "Gastrointestinal sistemin temel motilite paternlerinden olan ve bağırsağın bir noktasındaki gerilme sonucu lokmanın önündeki düz kasların gevşemesi, arkasındaki kasların ise kasılarak lokmayı ileri doğru itmesi olayına ne ad verilir?",
         "options": [
             "Segmentasyon kasılmaları",
             "Peristaltizm (Peristaltik refleks / Myenterik refleks)",
@@ -601,7 +601,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_6",
         "subject": "Fizyoloji",
-        "question": "Kanda oksijenin (O2) büyük bir kısmı Hemoglobine bağlı olarak taşınır. Oksijen-Hemoglobin Disosiyasyon (Ayrışma) Eğrisini SAĞA KAYDIRARAK (Hemoglobinin oksijene ilgisini azaltarak dokulara O2 bırakmasını kolaylaştıran) faktörlerden BİRİ DEĞİLDİR?",
+        "question": "Kanda oksijenin büyük bir kısmı Hemoglobine bağlı olarak taşınır. Oksijen-Hemoglobin Disosiyasyon Eğrisini SAĞA KAYDIRARAK faktörlerden BİRİ DEĞİLDİR?",
         "options": [
             "Kan pH'ının düşmesi (Asidoz - Bohr etkisi)",
             "Karbondioksit (pCO2) basıncının artması",
@@ -616,7 +616,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_7",
         "subject": "Fizyoloji",
-        "question": "Merkezi sinir sisteminde presinaptik uçtan salgılanarak postsinaptik nöronda Klor (Cl-) kanallarını açan ve hücreyi hiperpolarize ederek İNHİBİSYON yapan (Beynin temel durdurucu nörotransmitteri) hangisidir?",
+        "question": "Merkezi sinir sisteminde presinaptik uçtan salgılanarak postsinaptik nöronda Klor kanallarını açan ve hücreyi hiperpolarize ederek İNHİBİSYON yapan hangisidir?",
         "options": [
             "Glutamat",
             "GABA (Gama Aminobütirik Asit)",
@@ -631,7 +631,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_8",
         "subject": "Fizyoloji",
-        "question": "Pankreas asinus hücrelerinden salgılanan sindirim enzimlerinin (Tripsinojen, Kimotripsinojen, Prokarboksipeptidaz vb.) lümende aktif hale gelmesi gerekir. Bu kaskadı başlatan, Tripsinojeni 'Tripsin'e çeviren ve ince bağırsak fırçamsı kenar epitelinden salgılanan BAŞLATICI enzim hangisidir?",
+        "question": "Pankreas asinus hücrelerinden salgılanan sindirim enzimlerinin lümende aktif hale gelmesi gerekir. Bu kaskadı başlatan, Tripsinojeni 'Tripsin'e çeviren ve ince bağırsak fırçamsı kenar epitelinden salgılanan BAŞLATICI enzim hangisidir?",
         "options": [
             "Pepsin",
             "Enterokinaz (Enteropeptidaz)",
@@ -646,7 +646,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_9",
         "subject": "Fizyoloji",
-        "question": "Bir çizgili kasın fizyolojisinde, hücre içine kalsiyumun (Ca++) girerek kasılmayı başlatabilmesi için kalsiyumun bağlandığı, ince flamanlar (aktin) üzerinde yer alan TROPONİN alt ünitesi hangisidir?",
+        "question": "Bir çizgili kasın fizyolojisinde, hücre içine kalsiyumun girerek kasılmayı başlatabilmesi için kalsiyumun bağlandığı, ince flamanlar üzerinde yer alan TROPONİN alt ünitesi hangisidir?",
         "options": [
             "Troponin T",
             "Troponin I",
@@ -661,7 +661,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_10",
         "subject": "Fizyoloji",
-        "question": "Vücutta kanın pıhtılaşmasını durduran ve aşırı pıhtı oluşumunu engelleyen DOĞAL antikoagülan (frenleyici) sistemler bulunur. Sağlam damar endotel hücrelerinden salgılanan ve trombositlerin birikmesini/yapışmasını engelleyen çok güçlü damar genişletici (vazodilatör) madde hangisidir?",
+        "question": "Vücutta kanın pıhtılaşmasını durduran ve aşırı pıhtı oluşumunu engelleyen DOĞAL antikoagülan sistemler bulunur. Sağlam damar endotel hücrelerinden salgılanan ve trombositlerin birikmesini/yapışmasını engelleyen çok güçlü damar genişletici madde hangisidir?",
         "options": [
             "Tromboksan A2 (TXA2)",
             "Prostasiklin (PGI2)",
@@ -676,7 +676,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_11",
         "subject": "Fizyoloji",
-        "question": "Endokrin sistemde Tiroid hormonlarının (T3 ve T4) kanda taşınması, metabolizması ve fizyolojik etkileri ile ilgili olarak hangisi YANLIŞTIR?",
+        "question": "Endokrin sistemde Tiroid hormonlarının kanda taşınması, metabolizması ve fizyolojik etkileri ile ilgili olarak hangisi YANLIŞTIR?",
         "options": [
             "Tiroid bezinden asıl olarak yüksek miktarda T4 (Tiroksin) salgılanır.",
             "T3 (Triiyodotironin), T4'e göre hücresel reseptörlere çok daha yüksek ilgi (afinite) ile bağlanır.",
@@ -691,7 +691,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_12",
         "subject": "Fizyoloji",
-        "question": "Böbrek tübüllerinde su geri emilimi büyük oranda Sodyum (Na+) emilimine bağımlıdır. Suyun, hücreler arası sıkı bağlantılardan (Tight junction) geçerek hücrelerarası aralıktan (parasellüler) sodyumu takip edip geri emilmesi olayına ne ad verilir?",
+        "question": "Böbrek tübüllerinde su geri emilimi büyük oranda Sodyum emilimine bağımlıdır. Suyun, hücreler arası sıkı bağlantılardan geçerek hücrelerarası aralıktan sodyumu takip edip geri emilmesi olayına ne ad verilir?",
         "options": [
             "Solvent sürüklenmesi (Solvent drag)",
             "Aktif taşıma",
@@ -706,7 +706,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_13",
         "subject": "Fizyoloji",
-        "question": "Bir refleks yayının (Reflex arc) temel bileşenleri sırasıyla (uyarından tepkiye kadar) nasıl sıralanır?",
+        "question": "Bir refleks yayının temel bileşenleri sırasıyla nasıl sıralanır?",
         "options": [
             "Motor nöron -> Reseptör -> Duyu nöronu -> Entegrasyon merkezi -> Efektör organ",
             "Reseptör -> Motor nöron -> Duyu nöronu -> Entegrasyon merkezi -> Efektör organ",
@@ -721,7 +721,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_14",
         "subject": "Fizyoloji",
-        "question": "Gözde uzağa veya yakına bakarken netleşmeyi sağlamak için Merceğin (Lens) kalınlığının (kırıcılığının) değiştirilmesi olayına 'Akomodasyon (Uyum)' denir. Yakına bakarken (okuma sırasında) gözde hangi fizyolojik değişim MEYDANA GELİR?",
+        "question": "Gözde uzağa veya yakına bakarken netleşmeyi sağlamak için Merceğin kalınlığının değiştirilmesi olayına 'Akomodasyon' denir. Yakına bakarken gözde hangi fizyolojik değişim MEYDANA GELİR?",
         "options": [
             "M. ciliaris (Siliyer kas) gevşer.",
             "Lens asıcı bağları (Zonula lifleri) gerilir.",
@@ -736,7 +736,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_15",
         "subject": "Fizyoloji",
-        "question": "Kalp atım hacmini (Stroke volume) belirleyen üç ana faktör vardır: Preload (Önyük), Afterload (Artyük) ve Kontraktilite (Kasılma gücü). Aşağıdaki durumlardan hangisi kalbin AFTERLOAD'unu (Artyükünü) artırarak kalbi zorlayan ve atım hacmini düşüren bir durumdur?",
+        "question": "Kalp atım hacmini belirleyen üç ana faktör vardır: Preload, Afterload ve Kontraktilite. Aşağıdaki durumlardan hangisi kalbin AFTERLOAD'unu artırarak kalbi zorlayan ve atım hacmini düşüren bir durumdur?",
         "options": [
             "Venöz dönüşün (vücuttan gelen kanın) artması",
             "Sempatik sinir sistemi uyarısı",
@@ -751,7 +751,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_16",
         "subject": "Fizyoloji",
-        "question": "Solunum gazlarının difüzyonu Fick Yasasına göre gerçekleşir. Buna göre, gazın membrandan geçiş (difüzyon) hızı HANGİ FAKTÖRLE 'Ters' Orantılıdır?",
+        "question": "Solunum gazlarının difüzyonu Fick Yasasına göre gerçekleşir. Buna göre, gazın membrandan geçiş hızı HANGİ FAKTÖRLE 'Ters' Orantılıdır?",
         "options": [
             "Alveolar yüzey alanı (A)",
             "Gazın iki ortam arasındaki kısmi basınç farkı (ΔP)",
@@ -766,7 +766,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_17",
         "subject": "Fizyoloji",
-        "question": "Eritrosit yapımı (Eritropoez) böbreklerden salgılanan 'Eritropoietin (EPO)' hormonu ile kontrol edilir. EPO salgısını tetikleyen temel GÜÇ (uyaran) aşağıdakilerden hangisidir?",
+        "question": "Eritrosit yapımı böbreklerden salgılanan 'Eritropoietin' hormonu ile kontrol edilir. EPO salgısını tetikleyen temel GÜÇ aşağıdakilerden hangisidir?",
         "options": [
             "Kandaki Sodyum (Na+) yüksekliği",
             "Böbrek dokusunda Oksijen basıncının düşmesi (Hipoksi)",
@@ -781,7 +781,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_18",
         "subject": "Fizyoloji",
-        "question": "İskelet kaslarında motor nöron ile kas hücresi arasındaki sinapsa 'Motor Uç Plak' (Nöromusküler kavşak) denir. Bu kavşakta kas hücresi zarına bağlanan nörotransmitter ve bağlandığı reseptörün tipi nedir?",
+        "question": "İskelet kaslarında motor nöron ile kas hücresi arasındaki sinapsa 'Motor Uç Plak' denir. Bu kavşakta kas hücresi zarına bağlanan nörotransmitter ve bağlandığı reseptörün tipi nedir?",
         "options": [
             "Noradrenalin / Beta-1 Adrenerjik Reseptör",
             "Asetilkolin / Nikotinik Reseptör",
@@ -796,7 +796,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_19",
         "subject": "Fizyoloji",
-        "question": "Elektrokardiyografi (EKG) trasesinde, P dalgasının başından QRS kompleksinin başına kadar geçen süreyi ifade eden ve Atriyoventriküler (AV) düğümdeki iletim gecikmesini (Atriyumdan ventriküle geçiş süresini) yansıtan aralık hangisidir?",
+        "question": "Elektrokardiyografi trasesinde, P dalgasının başından QRS kompleksinin başına kadar geçen süreyi ifade eden ve Atriyoventriküler düğümdeki iletim gecikmesini yansıtan aralık hangisidir?",
         "options": [
             "ST segmenti",
             "QT aralığı",
@@ -811,7 +811,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_20",
         "subject": "Fizyoloji",
-        "question": "Hipofiz arka lobu (Nörohipofiz) tarafından salgılanan Oksitosin hormonu doğum sürecinde ve emzirmede görev yapar. Oksitosin'in etki mekanizması için aşağıdakilerden hangisi DOĞRUDUR?",
+        "question": "Hipofiz arka lobu tarafından salgılanan Oksitosin hormonu doğum sürecinde ve emzirmede görev yapar. Oksitosin'in etki mekanizması için aşağıdakilerden hangisi DOĞRUDUR?",
         "options": [
             "Uterusu gevşeterek düşüğü önler.",
             "Memede süt yapımını (sentezini) başlatır.",
@@ -826,7 +826,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_21",
         "subject": "Fizyoloji",
-        "question": "Hücre zarlarındaki taşıyıcı proteinler (Carrier) ile gerçekleşen 'Kolaylaştırılmış Difüzyon'un, basit (serbest) difüzyondan en büyük FARKINI (özelliğini) belirten ifade aşağıdakilerden hangisidir?",
+        "question": "Hücre zarlarındaki taşıyıcı proteinler ile gerçekleşen 'Kolaylaştırılmış Difüzyon'un, basit difüzyondan en büyük FARKINI belirten ifade aşağıdakilerden hangisidir?",
         "options": [
             "ATP (Enerji) harcaması",
             "Maddeleri konsantrasyonu az olan yerden çok olan yere doğru taşıması",
@@ -841,7 +841,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_22",
         "subject": "Fizyoloji",
-        "question": "İnce bağırsak mukozasından yağlı (lipidli) asitlerin gelişiyle salgılanan, SAFRA KESESİNİ kuvvetle kasarak safranın bağırsağa akmasını sağlayan ve aynı zamanda pankreasın enzim salgısını uyaran ana hormon hangisidir?",
+        "question": "İnce bağırsak mukozasından yağlı asitlerin gelişiyle salgılanan, SAFRA KESESİNİ kuvvetle kasarak safranın bağırsağa akmasını sağlayan ve aynı zamanda pankreasın enzim salgısını uyaran ana hormon hangisidir?",
         "options": [
             "Sekretin",
             "Kolesistokinin (CCK)",
@@ -856,7 +856,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_23",
         "subject": "Fizyoloji",
-        "question": "Glomerüler Filtrasyon Hızı (GFR), böbreğin fonksiyonunu değerlendirmede altın standarttır. Klinikte hastanın GFR'sini (süzme hızını) en doğru şekilde tahmin etmek (ölçmek) için, vücutta sürekli sabit üretilen, sadece süzülüp (emilmeyen veya salgılanmayan) kanda birikimi kontrol edilen YARI-İDEAL endojen madde hangisidir?",
+        "question": "Glomerüler Filtrasyon Hızı, böbreğin fonksiyonunu değerlendirmede altın standarttır. Klinikte hastanın GFR'sini en doğru şekilde tahmin etmek için, vücutta sürekli sabit üretilen, sadece süzülüp kanda birikimi kontrol edilen YARI-İDEAL endojen madde hangisidir?",
         "options": [
             "Üre",
             "Kreatinin",
@@ -871,7 +871,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_24",
         "subject": "Fizyoloji",
-        "question": "Erkek fizyolojisinde testosteron üretimi hipofizden salgılanan Luteinleştirici Hormon (LH) kontrolü altındadır. LH, testislerde tam olarak HANGİ hücrelere etki ederek testosteron yapımını sağlar?",
+        "question": "Erkek fizyolojisinde testosteron üretimi hipofizden salgılanan Luteinleştirici Hormon kontrolü altındadır. LH, testislerde tam olarak HANGİ hücrelere etki ederek testosteron yapımını sağlar?",
         "options": [
             "Sertoli hücreleri",
             "Spermatogonyumlar",
@@ -886,7 +886,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_25",
         "subject": "Fizyoloji",
-        "question": "Bir kişi aşırı sıcakta egzersiz yaptığında ısıyı atmak için derideki kan damarları genişler (vazodilatasyon) ve terler. Deriye çok miktarda kanın gitmesi, kan basıncını düşürme eğilimi yaratır. Bu durumda Baroreseptör refleks devreye girerek KAN BASINCINI korumak için ne yapar?",
+        "question": "Bir kişi aşırı sıcakta egzersiz yaptığında ısıyı atmak için derideki kan damarları genişler ve terler. Deriye çok miktarda kanın gitmesi, kan basıncını düşürme eğilimi yaratır. Bu durumda Baroreseptör refleks devreye girerek KAN BASINCINI korumak için ne yapar?",
         "options": [
             "Kalp hızını yavaşlatır (Bradikardi).",
             "Sempatik aktiviteyi artırarak kalp hızını (taşikardi) ve iç organ damar direncini (vazokonstriksiyon) artırır.",
@@ -901,7 +901,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_26",
         "subject": "Fizyoloji",
-        "question": "Otonom sinir sisteminin PARASEMPATİK bölümünün uyarılması durumunda, hedeflenen dokularda hangi muskarinik reseptör aracılığıyla kalp atım hızı DÜŞÜRÜLÜR (Bradikardi gelişir)?",
+        "question": "Otonom sinir sisteminin PARASEMPATİK bölümünün uyarılması durumunda, hedeflenen dokularda hangi muskarinik reseptör aracılığıyla kalp atım hızı DÜŞÜRÜLÜR?",
         "options": [
             "M1 reseptörleri",
             "M2 reseptörleri",
@@ -916,7 +916,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_27",
         "subject": "Fizyoloji",
-        "question": "Aşırı miktarda büyüme hormonu (GH) salgılanması, epifiz (büyüme) plakları kapanmadan ÖNCE gerçekleşirse Jigantizm (Devlik) ortaya çıkar. Eğer büyüme hormonu salgısı epifiz plakları KAPANDIKTAN SONRA (erişkinlikte) artarsa kemiklerin uzayamayıp sadece enine kalınlaştığı ve yüz hatlarının kabalaştığı hangi hastalık tablosu oluşur?",
+        "question": "Aşırı miktarda büyüme hormonu salgılanması, epifiz plakları kapanmadan ÖNCE gerçekleşirse Jigantizm ortaya çıkar. Eğer büyüme hormonu salgısı epifiz plakları KAPANDIKTAN SONRA artarsa kemiklerin uzayamayıp sadece enine kalınlaştığı ve yüz hatlarının kabalaştığı hangi hastalık tablosu oluşur?",
         "options": [
             "Cücelik (Dwarfizm)",
             "Akromegali",
@@ -931,7 +931,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_28",
         "subject": "Fizyoloji",
-        "question": "Kanda pıhtının (fibrin ağının) görevini tamamladıktan sonra eritilerek damarın tekrar açılmasını sağlayan (Fibrinolitik sistem) temel aktif enzim aşağıdakilerden hangisidir?",
+        "question": "Kanda pıhtının görevini tamamladıktan sonra eritilerek damarın tekrar açılmasını sağlayan temel aktif enzim aşağıdakilerden hangisidir?",
         "options": [
             "Trombin",
             "Plazmin",
@@ -946,7 +946,7 @@ const v11Part1 = [
     {
         "id": "v11_fiz_29",
         "subject": "Fizyoloji",
-        "question": "Sinir lifleri (Aksonlar), miyelin kılıf kalınlığına ve çaplarına göre A, B, C olarak sınıflandırılır. Bu sınıflamada iletim hızı EN YAVAŞ olan, miyelinsiz (çıplak) olduğu için yavaş yanan, sızlayıcı tip (künt) ağrıyı taşıyan lif tipi hangisidir?",
+        "question": "Sinir lifleri, miyelin kılıf kalınlığına ve çaplarına göre A, B, C olarak sınıflandırılır. Bu sınıflamada iletim hızı EN YAVAŞ olan, miyelinsiz olduğu için yavaş yanan, sızlayıcı tip ağrıyı taşıyan lif tipi hangisidir?",
         "options": [
             "A-alfa lifleri",
             "A-beta lifleri",

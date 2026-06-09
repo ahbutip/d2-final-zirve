@@ -12,7 +12,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_1",
         "subject": "Anatomi",
-        "question": "30 yaşında kadın hasta, boyun bölgesindeki kitle nedeniyle ameliyata alınıyor. İnsizyon sırasında platysma kası altındaki venöz yapı zedeleniyor ve kanama meydana geliyor. Dış juguler veni (v. jugularis externa) oluşturan ana dallar hangileridir?",
+        "question": "30 yaşında kadın hasta, boyun bölgesindeki kitle nedeniyle ameliyata alınıyor. İnsizyon sırasında platysma kası altındaki venöz yapı zedeleniyor ve kanama meydana geliyor. Dış juguler veni oluşturan ana dallar hangileridir?",
         "options": [
             "V. auricularis posterior ve V. retromandibularis'in arka dalı",
             "V. facialis ve V. retromandibularis'in ön dalı",
@@ -42,7 +42,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_3",
         "subject": "Anatomi",
-        "question": "Kalp krizi teşhisi ile anjiyografi ünitesine alınan hastada kalbin arka duvarında iskemi saptanıyor. Kalbin arka yüzünü (facies diaphragmatica) ağırlıklı olarak besleyen koroner arter dalı genellikle aşağıdakilerden hangisidir?",
+        "question": "Kalp krizi teşhisi ile anjiyografi ünitesine alınan hastada kalbin arka duvarında iskemi saptanıyor. Kalbin arka yüzünü ağırlıklı olarak besleyen koroner arter dalı genellikle aşağıdakilerden hangisidir?",
         "options": [
             "Ramus interventricularis posterior (PDA)",
             "Ramus interventricularis anterior (LAD)",
@@ -57,7 +57,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_4",
         "subject": "Anatomi",
-        "question": "Ağır bir trafik kazası geçiren hastanın karın ultrasonunda, intraperitoneal kanama saptanıyor. Travmada en sık rüptüre olan (yırtılan) ve dalağın fiksasyonunu sağlayan temel bağ (ligament) aşağıdakilerden hangisidir?",
+        "question": "Ağır bir trafik kazası geçiren hastanın karın ultrasonunda, intraperitoneal kanama saptanıyor. Travmada en sık rüptüre olan ve dalağın fiksasyonunu sağlayan temel bağ aşağıdakilerden hangisidir?",
         "options": [
             "Ligamentum gastrosplenicum",
             "Ligamentum splenorenale",
@@ -72,7 +72,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_5",
         "subject": "Anatomi",
-        "question": "İnguinal herni (kasık fıtığı) operasyonu yapılan bir erkek hastada, fıtık kesesinin canalis inguinalis içinden, funiculus spermaticus elemanlarıyla birlikte seyrederek anulus inguinalis profundus'tan girdiği görülüyor. Bu tip fıtıklar aşağıdakilerden hangisidir?",
+        "question": "İnguinal herni operasyonu yapılan bir erkek hastada, fıtık kesesinin canalis inguinalis içinden, funiculus spermaticus elemanlarıyla birlikte seyrederek anulus inguinalis profundus'tan girdiği görülüyor. Bu tip fıtıklar aşağıdakilerden hangisidir?",
         "options": [
             "Direkt inguinal herni",
             "İndirekt inguinal herni",
@@ -87,7 +87,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_6",
         "subject": "Anatomi",
-        "question": "Safra kesesi ameliyatı (Kolesistektomi) sırasında hepatik arter ve kistik arterin bulunduğu Calot üçgeni diseke edilirken bir lenf düğümüne (Lund nodu) rastlanıyor. Calot üçgeninin (Trigonum cystohepaticum) üst sınırını aşağıdakilerden hangisi oluşturur?",
+        "question": "Safra kesesi ameliyatı sırasında hepatik arter ve kistik arterin bulunduğu Calot üçgeni diseke edilirken bir lenf düğümüne rastlanıyor. Calot üçgeninin üst sınırını aşağıdakilerden hangisi oluşturur?",
         "options": [
             "Ductus cysticus",
             "Ductus hepaticus communis",
@@ -102,7 +102,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_7",
         "subject": "Anatomi",
-        "question": "Odyogram testinde işitme kaybı saptanan hastanın çekilen kulak tomografisinde, orta kulak (cavitas tympani) boşluğunun medial (iç) duvarında bir anomali saptanıyor. Aşağıdakilerden hangisi orta kulağın iç (medial) duvarında bulunan yapılardan biri değildir?",
+        "question": "Odyogram testinde işitme kaybı saptanan hastanın çekilen kulak tomografisinde, orta kulak boşluğunun medial duvarında bir anomali saptanıyor. Aşağıdakilerden hangisi orta kulağın iç duvarında bulunan yapılardan biri değildir?",
         "options": [
             "Promontorium",
             "Fenestra vestibuli (Oval pencere)",
@@ -117,7 +117,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_8",
         "subject": "Anatomi",
-        "question": "Bisikletten düşme sonucu perinesini (apış arası) sert bir demire çarpan hastada üretra zedelenmesi meydana gelmiş ve idrarı perine fasyaları arasına sızmıştır. İdrar sızıntısının Colles fasyası altına (spatium perinei superficiale) biriktiği görülüyor. Erkeklerde bu aralıkta (yüzeyel perine aralığı) aşağıdakilerden hangisi bulunur?",
+        "question": "Bisikletten düşme sonucu perinesini sert bir demire çarpan hastada üretra zedelenmesi meydana gelmiş ve idrarı perine fasyaları arasına sızmıştır. İdrar sızıntısının Colles fasyası altına biriktiği görülüyor. Erkeklerde bu aralıkta aşağıdakilerden hangisi bulunur?",
         "options": [
             "M. sphincter urethrae externus",
             "Glandula bulbourethralis (Cowper bezi)",
@@ -134,7 +134,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_9",
         "subject": "Anatomi",
-        "question": "Aşağıdaki kıkırdaklardan hangisi larynx'in tek kıkırdaklarından (cartilagines impares) biridir?",
+        "question": "Aşağıdaki kıkırdaklardan hangisi larynx'in tek kıkırdaklarından biridir?",
         "options": [
             "Cartilago arytenoidea",
             "Cartilago corniculata",
@@ -194,7 +194,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_13",
         "subject": "Anatomi",
-        "question": "Aşağıdaki pelvik organlardan hangisi kadınlarda excavatio rectouterina'nın (Douglas çıkmazı) hemen önünde yer alır?",
+        "question": "Aşağıdaki pelvik organlardan hangisi kadınlarda excavatio rectouterina'nın hemen önünde yer alır?",
         "options": [
             "Vesica urinaria",
             "Rectum",
@@ -209,7 +209,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_14",
         "subject": "Anatomi",
-        "question": "Aşağıdakilerden hangisi baş ve boyun bölgesinin ana lenf düğümü gruplarından (Nodi lymphatici cervicales profundi) biri değildir?",
+        "question": "Aşağıdakilerden hangisi baş ve boyun bölgesinin ana lenf düğümü gruplarından biri değildir?",
         "options": [
             "Nodus jugulodigastricus",
             "Nodus juguloomohyoideus",
@@ -239,7 +239,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_16",
         "subject": "Anatomi",
-        "question": "Pelvis majör (yalancı pelvis) ile pelvis minör'ü (gerçek pelvis) birbirinden ayıran çizgiye ne ad verilir?",
+        "question": "Pelvis majör ile pelvis minör'ü birbirinden ayıran çizgiye ne ad verilir?",
         "options": [
             "Linea alba",
             "Linea arcuata",
@@ -254,7 +254,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_17",
         "subject": "Anatomi",
-        "question": "N. abducens (VI. kranial sinir) göz kaslarından hangisini uyarır?",
+        "question": "N. abducens göz kaslarından hangisini uyarır?",
         "options": [
             "M. rectus superior",
             "M. rectus lateralis",
@@ -286,7 +286,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_19",
         "subject": "Anatomi",
-        "question": "Aşağıdaki kemiklerden hangisi septum nasi'nin (burun bölmesi) kemik yapısına katılmaz?",
+        "question": "Aşağıdaki kemiklerden hangisi septum nasi'nin kemik yapısına katılmaz?",
         "options": [
             "Vomer",
             "Os ethmoidale (Lamina perpendicularis)",
@@ -301,7 +301,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_20",
         "subject": "Anatomi",
-        "question": "Böbrekte (Ren), idrarı calyx minor'lara döken piramit uçlarına (apexlerine) ne ad verilir?",
+        "question": "Böbrekte, idrarı calyx minor'lara döken piramit uçlarına ne ad verilir?",
         "options": [
             "Pelvis renalis",
             "Cortex renalis",
@@ -316,7 +316,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_21",
         "subject": "Anatomi",
-        "question": "Pankreasın içinden geçen ductus pancreaticus (Wirsung kanalı) safra kanalı ile birleşerek duodenum'un neresine açılır?",
+        "question": "Pankreasın içinden geçen ductus pancreaticus safra kanalı ile birleşerek duodenum'un neresine açılır?",
         "options": [
             "Pars superior duodeni",
             "Pars descendens duodeni (Papilla duodeni major)",
@@ -331,7 +331,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_22",
         "subject": "Anatomi",
-        "question": "Vajina anatomisi incelendiğinde, portio vaginalis cervicis'in etrafında oluşan ve en derin kısmı arka tarafta olan çıkmaz (girinti) yapılarına ne ad verilir?",
+        "question": "Vajina anatomisi incelendiğinde, portio vaginalis cervicis'in etrafında oluşan ve en derin kısmı arka tarafta olan çıkmaz yapılarına ne ad verilir?",
         "options": [
             "Vestibulum vaginae",
             "Fornix vaginae",
@@ -346,7 +346,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_23",
         "subject": "Anatomi",
-        "question": "Vena portae hepatis (Portal ven), aşağıdakilerden hangisinin birleşmesiyle oluşur?",
+        "question": "Vena portae hepatis, aşağıdakilerden hangisinin birleşmesiyle oluşur?",
         "options": [
             "V. mesenterica superior ve V. splenica",
             "V. mesenterica inferior ve V. gastrica sinistra",
@@ -376,7 +376,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_25",
         "subject": "Anatomi",
-        "question": "Perikardın yapısı değerlendirildiğinde, kalbin dış yüzeyine sıkıca yapışık olan zarı (tabakası) aşağıdakilerden hangisidir?",
+        "question": "Perikardın yapısı değerlendirildiğinde, kalbin dış yüzeyine sıkıca yapışık olan zarı aşağıdakilerden hangisidir?",
         "options": [
             "Pericardium fibrosum",
             "Lamina parietalis (Pericardium serosum)",
@@ -408,7 +408,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_27",
         "subject": "Anatomi",
-        "question": "Akciğerlerin hilum'u (kapısı) incelendiğinde, bronş ve damarların akciğere girdiği bu bölgenin etrafını saran periton benzeri plevra kıvrımının aşağıya doğru sarkan uzantısına ne ad verilir?",
+        "question": "Akciğerlerin hilum'u incelendiğinde, bronş ve damarların akciğere girdiği bu bölgenin etrafını saran periton benzeri plevra kıvrımının aşağıya doğru sarkan uzantısına ne ad verilir?",
         "options": [
             "Ligamentum pulmonale",
             "Cupula pleurae",
@@ -423,7 +423,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_28",
         "subject": "Anatomi",
-        "question": "Aşağıdakilerden hangisi ince bağırsakların (intestinum tenue) bölümlerinden biri değildir?",
+        "question": "Aşağıdakilerden hangisi ince bağırsakların bölümlerinden biri değildir?",
         "options": [
             "Duodenum",
             "Jejunum",
@@ -438,7 +438,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_29",
         "subject": "Anatomi",
-        "question": "Midenin (Gaster) en üst kısmında yer alan, kubbe şeklindeki ve genellikle hava ile dolu (mide gazı) bölümüne ne ad verilir?",
+        "question": "Midenin en üst kısmında yer alan, kubbe şeklindeki ve genellikle hava ile dolu bölümüne ne ad verilir?",
         "options": [
             "Pars cardiaca",
             "Fundus gastricus",
@@ -453,7 +453,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_30",
         "subject": "Anatomi",
-        "question": "Karaciğerin (Hepar) anatomik lobları incelendiğinde, safra kesesi (vesica biliaris) ile v. cava inferior'un arasında kalan arka-alt bölüm hangi lobdur?",
+        "question": "Karaciğerin anatomik lobları incelendiğinde, safra kesesi ile v. cava inferior'un arasında kalan arka-alt bölüm hangi lobdur?",
         "options": [
             "Lobus dexter",
             "Lobus sinister",
@@ -483,7 +483,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_32",
         "subject": "Anatomi",
-        "question": "Aşağıdaki kaslardan hangisi uyluğun (femur) ön bölgesinde (ekstansör kompartmanda) yer alır?",
+        "question": "Aşağıdaki kaslardan hangisi uyluğun ön bölgesinde yer alır?",
         "options": [
             "M. biceps femoris",
             "M. semitendinosus",
@@ -513,7 +513,7 @@ const v5Part1 = [
     {
         "id": "v5_anat_34",
         "subject": "Anatomi",
-        "question": "Beyin ventrikül sistemi incelendiğinde, 3. ventrikül (ventriculus tertius) ile 4. ventrikül (ventriculus quartus) arasındaki bağlantıyı sağlayan kanalın adı nedir?",
+        "question": "Beyin ventrikül sistemi incelendiğinde, 3. ventrikül ile 4. ventrikül arasındaki bağlantıyı sağlayan kanalın adı nedir?",
         "options": [
             "Foramen interventriculare (Monro deliği)",
             "Aqueductus mesencephali (Sylvius kanalı)",
@@ -595,7 +595,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_5",
         "subject": "Fizyoloji",
-        "question": "Büyüme hormonunun (Growth Hormone / Somatotropin) vücut metabolizmasına etkileriyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+        "question": "Büyüme hormonunun vücut metabolizmasına etkileriyle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "Tüm hücrelerde aminoasit alımını ve protein sentezini artırır.",
             "Yağ dokusunda lipolizi artırarak kanda serbest yağ asitlerini yükseltir.",
@@ -640,7 +640,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_8",
         "subject": "Fizyoloji",
-        "question": "Hipotalamustan salgılanan serbestleştirici ve inhibe edici hormonların etkileri incelendiğinde, hipofizden Prolaktin salgısını tonik (sürekli) olarak inhibe eden temel hipotalamik hormon hangisidir?",
+        "question": "Hipotalamustan salgılanan serbestleştirici ve inhibe edici hormonların etkileri incelendiğinde, hipofizden Prolaktin salgısını tonik olarak inhibe eden temel hipotalamik hormon hangisidir?",
         "options": [
             "Somatostatin",
             "Dopamin (PIH)",
@@ -655,7 +655,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_9",
         "subject": "Fizyoloji",
-        "question": "Tiroid hormonlarının (T3 ve T4) sentez süreçleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+        "question": "Tiroid hormonlarının sentez süreçleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "İyot folikül hücresi içine sodyum-iyot simporteri (NIS) ile aktif olarak alınır.",
             "Folikül lümenine geçen iyodür, tiroid peroksidaz (TPO) enzimi ile iyot formuna oksitlenir.",
@@ -672,7 +672,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_10",
         "subject": "Fizyoloji",
-        "question": "Kalpte Sinoatriyal (SA) düğümün 'pacemaker' (kalp ritmini belirleyici) olmasını sağlayan temel fizyolojik mekanizma aşağıdakilerden hangisidir?",
+        "question": "Kalpte Sinoatriyal düğümün 'pacemaker' olmasını sağlayan temel fizyolojik mekanizma aşağıdakilerden hangisidir?",
         "options": [
             "En fazla parasempatik innervasyona sahip olması.",
             "Hücre içi kalsiyum depolarının diğer hücrelere göre çok geniş olması.",
@@ -687,7 +687,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_11",
         "subject": "Fizyoloji",
-        "question": "Kardiyak aksiyon potansiyelinde, kalp kasının diğer iskelet kaslarından en büyük farkı olan uzun 'Plato (Faz 2)' evresinin oluşmasını sağlayan iyon akımı hangisidir?",
+        "question": "Kardiyak aksiyon potansiyelinde, kalp kasının diğer iskelet kaslarından en büyük farkı olan uzun 'Plato' evresinin oluşmasını sağlayan iyon akımı hangisidir?",
         "options": [
             "Hızlı sodyum (Na+) kanallarının açılması",
             "Hücre dışına hızlı potasyum (K+) çıkışı",
@@ -702,7 +702,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_12",
         "subject": "Fizyoloji",
-        "question": "Arteriyel kan basıncının kısa süreli (saniyeler içinde) düzenlenmesinde en önemli rolü oynayan ve a. carotis interna'nın başlangıcında (sinus caroticus) bulunan reseptörler hangileridir?",
+        "question": "Arteriyel kan basıncının kısa süreli düzenlenmesinde en önemli rolü oynayan ve a. carotis interna'nın başlangıcında bulunan reseptörler hangileridir?",
         "options": [
             "Kemoreseptörler",
             "Termoreseptörler",
@@ -717,7 +717,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_13",
         "subject": "Fizyoloji",
-        "question": "Glomerüler Filtrasyon Hızını (GFR) klinik olarak ölçmek için intravenöz olarak verilen ve böbreklerde ne tübüllerden geri emilen ne de tübüllere salgılanan (sadece filtre olan) ideal polisakkarit madde aşağıdakilerden hangisidir?",
+        "question": "Glomerüler Filtrasyon Hızını klinik olarak ölçmek için intravenöz olarak verilen ve böbreklerde ne tübüllerden geri emilen ne de tübüllere salgılanan ideal polisakkarit madde aşağıdakilerden hangisidir?",
         "options": [
             "İnülin",
             "Kreatinin",
@@ -747,7 +747,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_15",
         "subject": "Fizyoloji",
-        "question": "Sağlıklı bir insanda, idrarın böbrekte toplayıcı kanallardan geçerken konsantre (yoğun) hale gelmesini sağlayan antidiüretik hormon (ADH/Vazopressin), epitel hücrelerinde hangi kanalların membrana yerleşmesini sağlar?",
+        "question": "Sağlıklı bir insanda, idrarın böbrekte toplayıcı kanallardan geçerken konsantre hale gelmesini sağlayan antidiüretik hormon, epitel hücrelerinde hangi kanalların membrana yerleşmesini sağlar?",
         "options": [
             "Akuaporin-2 (AQP-2)",
             "ENaC (Epitelyal Sodyum Kanalı)",
@@ -792,7 +792,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_18",
         "subject": "Fizyoloji",
-        "question": "Kalp kasında otonomik innervasyonun etkileri düşünüldüğünde, parasempatik sistemin (n. vagus) kalpteki en belirgin etkisi aşağıdakilerden hangisidir?",
+        "question": "Kalp kasında otonomik innervasyonun etkileri düşünüldüğünde, parasempatik sistemin kalpteki en belirgin etkisi aşağıdakilerden hangisidir?",
         "options": [
             "Ventrikül kasılma gücünü (inotropiyi) çok şiddetli bir şekilde artırmak.",
             "SA ve AV düğümler üzerinde etki ederek kalp atım hızını (kronotropiyi) yavaşlatmak.",
@@ -809,7 +809,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_19",
         "subject": "Fizyoloji",
-        "question": "Somatosensoriyel sistemde, derin dokulardan ve eklemlerden kalkan 'propriyosepsiyon' (vücut pozisyonu) ve ince dokunma (vibrasyon) duyularını taşıyan asendan (çıkan) yol aşağıdakilerden hangisidir?",
+        "question": "Somatosensoriyel sistemde, derin dokulardan ve eklemlerden kalkan 'propriyosepsiyon' ve ince dokunma duyularını taşıyan asendan yol aşağıdakilerden hangisidir?",
         "options": [
             "Tractus spinothalamicus anterior",
             "Tractus spinothalamicus lateralis",
@@ -839,7 +839,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_21",
         "subject": "Fizyoloji",
-        "question": "Otonom Sinir Sistemi fonksiyonlarında, 'Savaş ya da Kaç' (Fight or Flight) yanıtı olarak bilinen sempatik deşarj durumunda aşağıdakilerden hangisi beklenmez?",
+        "question": "Otonom Sinir Sistemi fonksiyonlarında, 'Savaş ya da Kaç' yanıtı olarak bilinen sempatik deşarj durumunda aşağıdakilerden hangisi beklenmez?",
         "options": [
             "Göz bebeklerinin büyümesi (Midriyazis)",
             "Kalp hızının ve kasılma gücünün artması",
@@ -854,7 +854,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_22",
         "subject": "Fizyoloji",
-        "question": "Beyin omurilik sıvısı (BOS) ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "question": "Beyin omurilik sıvısı ile ilgili aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "Esas olarak beyin ventriküllerindeki pleksus koroideuslar tarafından salgılanır.",
             "Subaraknoid mesafeden villi arachnoidales (Granülasyonlar) aracılığıyla venöz sinüslere emilir.",
@@ -869,7 +869,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_23",
         "subject": "Fizyoloji",
-        "question": "Akciğer fonksiyon testlerinde, normal sakin solunum sırasında her nefeste alınıp verilen hava miktarına (yaklaşık 500 mL) ne ad verilir?",
+        "question": "Akciğer fonksiyon testlerinde, normal sakin solunum sırasında her nefeste alınıp verilen hava miktarına ne ad verilir?",
         "options": [
             "Rezidüel Volüm",
             "İnspiratuar Kapasite",
@@ -884,7 +884,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_24",
         "subject": "Fizyoloji",
-        "question": "Oksijen-Hemoglobin dissosiasyon (ayrışma) eğrisini sağa kaydırarak (hemoglobinin oksijene ilgisini azaltarak) dokulara oksijen bırakılmasını kolaylaştıran faktör aşağıdakilerden hangisidir?",
+        "question": "Oksijen-Hemoglobin dissosiasyon eğrisini sağa kaydırarak dokulara oksijen bırakılmasını kolaylaştıran faktör aşağıdakilerden hangisidir?",
         "options": [
             "Kan pH'sının artması (Alkaloz)",
             "Vücut sıcaklığının düşmesi (Hipotermi)",
@@ -914,7 +914,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_26",
         "subject": "Fizyoloji",
-        "question": "Atmosferik havadaki oksijenin kısmi basıncının (pO2) yüksek irtifalarda düşmesine bağlı olarak gelişen hipoksiye karşı solunum sisteminin ilk verdiği yanıt nedir?",
+        "question": "Atmosferik havadaki oksijenin kısmi basıncının yüksek irtifalarda düşmesine bağlı olarak gelişen hipoksiye karşı solunum sisteminin ilk verdiği yanıt nedir?",
         "options": [
             "Solunum merkezinin inhibe olması ve apne",
             "Böbreklerden eritropoietin salınımının saniyeler içinde artması",
@@ -931,7 +931,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_27",
         "subject": "Fizyoloji",
-        "question": "Orta kulak kaslarından olan m. tensor tympani ve m. stapedius'un işitme fizyolojisindeki temel görevleri nedir? (Çıkmış Soru Formatı)",
+        "question": "Orta kulak kaslarından olan m. tensor tympani ve m. stapedius'un işitme fizyolojisindeki temel görevleri nedir?",
         "options": [
             "Ses dalgalarını daha da yükselterek iç kulağa iletmek",
             "Çok yüksek şiddetli seslerde kasılarak (Zayıflatma Refleksi) iç kulağı mekanik hasardan korumak",
@@ -946,7 +946,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_28",
         "subject": "Fizyoloji",
-        "question": "Görme fizyolojisinde karanlıkta fotoreseptörlerde (rodlarda) karanlık akımını (depolarizasyon) sağlayan sodyum kanallarını AÇIK tutan hücre içi mesajcı molekül aşağıdakilerden hangisidir? (Çıkmış Soru)",
+        "question": "Görme fizyolojisinde karanlıkta fotoreseptörlerde karanlık akımını sağlayan sodyum kanallarını AÇIK tutan hücre içi mesajcı molekül aşağıdakilerden hangisidir?",
         "options": [
             "cAMP",
             "cGMP",
@@ -961,7 +961,7 @@ const v5Part1 = [
     {
         "id": "v5_fizyo_29",
         "subject": "Fizyoloji",
-        "question": "Ağrı duyusunun beyin sapı ve omurilikte modülasyonu (baskılanması) sırasında görev yapan, Periaquaduktal Gri Madde'den (PAG) inen yollardaki ana inhibitör nörotransmitter (endojen opioid) aşağıdakilerden hangisidir? (Çıkmış Soru)",
+        "question": "Ağrı duyusunun beyin sapı ve omurilikte modülasyonu sırasında görev yapan, Periaquaduktal Gri Madde'den inen yollardaki ana inhibitör nörotransmitter aşağıdakilerden hangisidir?",
         "options": [
             "Glutamat",
             "SubP (P maddesi)",

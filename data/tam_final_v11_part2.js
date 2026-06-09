@@ -20,7 +20,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Glikoliz reaksiyonlarında üretilen pirüvatın, mitokondriye girerek TCA döngüsüne katılabilmesi için Pirüvat Dehidrogenaz Kompleksi (PDH) tarafından geri dönüşümsüz olarak hangi moleküle dönüştürülmesi gerekir?",
+        "question": "Glikoliz reaksiyonlarında üretilen pirüvatın, mitokondriye girerek TCA döngüsüne katılabilmesi için Pirüvat Dehidrogenaz Kompleksi tarafından geri dönüşümsüz olarak hangi moleküle dönüştürülmesi gerekir?",
         "options": [
             "Oksaloasetat",
             "Asetil-CoA",
@@ -35,7 +35,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "DNA replikasyonunda (kopyalanmasında) ana görevi üstlenen, kalıp zinciri okuyarak yeni DNA ipliğini 5' -> 3' yönünde sentezleyen enzim aşağıdakilerden hangisidir?",
+        "question": "DNA replikasyonunda ana görevi üstlenen, kalıp zinciri okuyarak yeni DNA ipliğini 5' -> 3' yönünde sentezleyen enzim aşağıdakilerden hangisidir?",
         "options": [
             "DNA Helikaz",
             "DNA Ligaz",
@@ -50,7 +50,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Metiyonin amino asidinin metabolizması sırasında oluşan, metil grubu bağışlayıcısı (S-Adenozil metiyonin) olarak görev yaptıktan sonra ortaya çıkan ara ürün olan HANGİ MOLEKÜLÜN kanda yüksek seviyelerde bulunması (hiperhomosisteinemi), artmış kardiyovasküler hastalık ve tromboz (pıhtı) riskinin önemli bir göstergesidir?",
+        "question": "Metiyonin amino asidinin metabolizması sırasında oluşan, metil grubu bağışlayıcısı olarak görev yaptıktan sonra ortaya çıkan ara ürün olan HANGİ MOLEKÜLÜN kanda yüksek seviyelerde bulunması, artmış kardiyovasküler hastalık ve tromboz riskinin önemli bir göstergesidir?",
         "options": [
             "Sistein",
             "Homosistein",
@@ -65,7 +65,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kolesterol molekülü vücutta hangi bileşiklerin sentezi için ÖNCÜL (prekürsör) bir madde olarak KULLANILMAZ?",
+        "question": "Kolesterol molekülü vücutta hangi bileşiklerin sentezi için ÖNCÜL bir madde olarak KULLANILMAZ?",
         "options": [
             "Safra asitleri",
             "Kortizol (Glukokortikoidler)",
@@ -80,7 +80,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı açlık durumunda, kas proteinlerinin yıkılmasıyla açığa çıkan amino gruplarını (amonyak) kas dokusundan karaciğere toksik olmayan bir şekilde taşıyan en önemli amino asit aşağıdakilerden hangisidir?",
+        "question": "Aşırı açlık durumunda, kas proteinlerinin yıkılmasıyla açığa çıkan amino gruplarını kas dokusundan karaciğere toksik olmayan bir şekilde taşıyan en önemli amino asit aşağıdakilerden hangisidir?",
         "options": [
             "Alanin",
             "Valin",
@@ -95,7 +95,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_7",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hemoglobinin (Hem molekülünün) yıkımı sonucu retiküloendotelyal sistemde (makrofajlarda) oluşan, suda çözünmeyen, zeytin yeşili/sarımsı renkteki İLK temel yıkım ürünü (serbest/indirekt formda kana geçen) aşağıdakilerden hangisidir?",
+        "question": "Hemoglobinin yıkımı sonucu retiküloendotelyal sistemde oluşan, suda çözünmeyen, zeytin yeşili/sarımsı renkteki İLK temel yıkım ürünü aşağıdakilerden hangisidir?",
         "options": [
             "Ürobilinojen",
             "Konjuge Bilirubin (Direkt)",
@@ -110,7 +110,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_8",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarlarının ana yapısal lipidleri olan Fosfolipidlerin (Gliserofosfolipidler) moleküler yapısında, gliserol iskeletine bağlı olarak normalde kaç adet yağ asidi zinciri bulunur?",
+        "question": "Hücre zarlarının ana yapısal lipidleri olan Fosfolipidlerin moleküler yapısında, gliserol iskeletine bağlı olarak normalde kaç adet yağ asidi zinciri bulunur?",
         "options": [
             "1",
             "2",
@@ -125,7 +125,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Proteinlerin üç boyutlu (tersiyer) yapılarının bozulmasına, katlanmalarının açılarak biyolojik aktivitelerini (enzim işlevlerini vs.) kaybetmelerine ne ad verilir?",
+        "question": "Proteinlerin üç boyutlu yapılarının bozulmasına, katlanmalarının açılarak biyolojik aktivitelerini kaybetmelerine ne ad verilir?",
         "options": [
             "Renatürasyon",
             "Denatürasyon",
@@ -140,7 +140,7 @@ const v11Part2 = [
     {
         "id": "v11_biyo_10",
         "subject": "Tıbbi Biyokimya",
-        "question": "İnsülin hormonu reseptörüne bağlandığında, hücre içinde mesajın iletilmesini (sinyal transdüksiyonunu) sağlayan ve doğrudan reseptörün kendi sitoplazmik kuyruğunda bulunan enzim aktivitesi aşağıdakilerden hangisidir?",
+        "question": "İnsülin hormonu reseptörüne bağlandığında, hücre içinde mesajın iletilmesini sağlayan ve doğrudan reseptörün kendi sitoplazmik kuyruğunda bulunan enzim aktivitesi aşağıdakilerden hangisidir?",
         "options": [
             "Adenilat Siklaz",
             "Fosfolipaz C",
@@ -172,7 +172,7 @@ const v11Part2 = [
     {
         "id": "v11_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Aşağıdaki ilaç uygulama yollarından hangisi ile verilen bir ilacın 'İlk Geçiş Etkisine (First-Pass Effect)' maruz kalması (bağırsaktan emilip karaciğere giderek büyük oranda yıkılması) EN FAZLADIR?",
+        "question": "Aşağıdaki ilaç uygulama yollarından hangisi ile verilen bir ilacın 'İlk Geçiş Etkisine' maruz kalması EN FAZLADIR?",
         "options": [
             "İntravenöz (Damar içi - IV)",
             "Sublingual (Dil altı)",
@@ -187,7 +187,7 @@ const v11Part2 = [
     {
         "id": "v11_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Şiddetli alerjik reaksiyonların ve anafilaktik şokun ACİL tedavisinde ilk seçenek (hayat kurtarıcı) olan, epipen olarak da bilinen ve bronşları açıp tansiyonu yükselten sempatomimetik ilaç hangisidir?",
+        "question": "Şiddetli alerjik reaksiyonların ve anafilaktik şokun ACİL tedavisinde ilk seçenek olan, epipen olarak da bilinen ve bronşları açıp tansiyonu yükselten sempatomimetik ilaç hangisidir?",
         "options": [
             "Atropin",
             "Adrenalin (Epinefrin)",
@@ -202,7 +202,7 @@ const v11Part2 = [
     {
         "id": "v11_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Kalp yetmezliğinde kullanılan, kalp kasının kasılma gücünü (pozitif inotrop etki) artıran ancak Na+/K+ ATPaz pompasını bloke ederek hücre içi kalsiyumu yükselttiği için Terapötik İndeksi çok dar olan (kolayca zehirlenme yapan) bitkisel kökenli kardiyak glikozid ilaç hangisidir?",
+        "question": "Kalp yetmezliğinde kullanılan, kalp kasının kasılma gücünü artıran ancak Na+/K+ ATPaz pompasını bloke ederek hücre içi kalsiyumu yükselttiği için Terapötik İndeksi çok dar olan bitkisel kökenli kardiyak glikozid ilaç hangisidir?",
         "options": [
             "Digoksin",
             "Amiodaron",
@@ -217,7 +217,7 @@ const v11Part2 = [
     {
         "id": "v11_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Farmakokinetik biliminde bir ilacın 'Dağılım Hacmi (Vd)' büyükse, bu durum o ilacın vücutta nerede daha fazla bulunduğunu (dağıldığını) gösterir?",
+        "question": "Farmakokinetik biliminde bir ilacın 'Dağılım Hacmi' büyükse, bu durum o ilacın vücutta nerede daha fazla bulunduğunu gösterir?",
         "options": [
             "Kan plazması içinde hapsolduğunu",
             "Sadece böbreklere gittiğini",
@@ -232,7 +232,7 @@ const v11Part2 = [
     {
         "id": "v11_farma_5",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Parkinson hastalığı tedavisinde kullanılan, kan-beyin bariyerini geçebilen ve beyinde dekarboksilaz enzimiyle eksik olan Dopamine dönüşerek etki gösteren (Dopaminin öncül maddesi olan) ana ilaç hangisidir?",
+        "question": "Parkinson hastalığı tedavisinde kullanılan, kan-beyin bariyerini geçebilen ve beyinde dekarboksilaz enzimiyle eksik olan Dopamine dönüşerek etki gösteren ana ilaç hangisidir?",
         "options": [
             "Haloperidol",
             "Levodopa (L-Dopa)",
@@ -247,7 +247,7 @@ const v11Part2 = [
     {
         "id": "v11_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Opioid (Narkotik) ağrı kesiciler (örn. Morfin, Fentanil) çok güçlü ağrı kesici olmakla birlikte ölüme neden olabilen yan etkilere sahiptir. Opioid doz aşımında (zehirlenmesinde) HASTAYI ÖLDÜREN en önemli yan etki aşağıdakilerden hangisidir?",
+        "question": "Opioid ağrı kesiciler çok güçlü ağrı kesici olmakla birlikte ölüme neden olabilen yan etkilere sahiptir. Opioid doz aşımında HASTAYI ÖLDÜREN en önemli yan etki aşağıdakilerden hangisidir?",
         "options": [
             "Mide kanaması",
             "Solunum depresyonu (Solunumun durması)",
@@ -262,7 +262,7 @@ const v11Part2 = [
     {
         "id": "v11_farma_7",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Klinikte çok sık reçete edilen, kolesterol yüksekliği (Hiperlipidemi) tedavisinde kullanılan 'Statinler' (örn. Atorvastatin, Rosuvastatin) karaciğerde hangi enzimi bloke ederek hücre içi kolesterol yapımını durdururlar?",
+        "question": "Klinikte çok sık reçete edilen, kolesterol yüksekliği tedavisinde kullanılan 'Statinler' karaciğerde hangi enzimi bloke ederek hücre içi kolesterol yapımını durdururlar?",
         "options": [
             "Siklooksijenaz",
             "HMG-CoA Redüktaz",
@@ -279,7 +279,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_1",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Erkek üreme sisteminde spermatogenez süreci testislerde gerçekleşir. Mitoz ve Mayoz bölünmeler sırasında sitoplazma bölünmesinin (sitokinez) tamamlanmaması nedeniyle hücrelerin birbirine ince sitoplazmik köprülerle bağlı kalmasının (sensityum oluşturmasının) FİZYOLOJİK/HİSTOLOJİK amacı nedir?",
+        "question": "Erkek üreme sisteminde spermatogenez süreci testislerde gerçekleşir. Mitoz ve Mayoz bölünmeler sırasında sitoplazma bölünmesinin tamamlanmaması nedeniyle hücrelerin birbirine ince sitoplazmik köprülerle bağlı kalmasının FİZYOLOJİK/HİSTOLOJİK amacı nedir?",
         "options": [
             "Bağışıklık sisteminden gizlenmek",
             "Gelişen tüm sperm hücrelerinin aynı evrede (senkronize) ve eşzamanlı olgunlaşmasını sağlamak",
@@ -294,7 +294,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_2",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kadın üreme sisteminde, her adet döngüsünde kalınlaşıp döllenme olmazsa kanamayla atılan uterus (rahim) mukozasına 'Endometrium' denir. Endometriumun menstrüasyon sırasında ATILAN (dökülen) ve döngüye göre kalınlığı değişen üst tabakasına ne ad verilir?",
+        "question": "Kadın üreme sisteminde, her adet döngüsünde kalınlaşıp döllenme olmazsa kanamayla atılan uterus mukozasına 'Endometrium' denir. Endometriumun menstrüasyon sırasında ATILAN ve döngüye göre kalınlığı değişen üst tabakasına ne ad verilir?",
         "options": [
             "Stratum basale",
             "Stratum functionale (Fonksiyonel tabaka)",
@@ -309,7 +309,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_3",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kemik iliğinde bulunan, megakaryosit adı verilen dev hücrelerin sitoplazmasından koparak (parçalanarak) oluşan, çekirdeği olmayan ve pıhtılaşmada görevli hücresel eleman (pulcuk) aşağıdakilerden hangisidir?",
+        "question": "Kemik iliğinde bulunan, megakaryosit adı verilen dev hücrelerin sitoplazmasından koparak oluşan, çekirdeği olmayan ve pıhtılaşmada görevli hücresel eleman aşağıdakilerden hangisidir?",
         "options": [
             "Eritrosit",
             "Nötrofil",
@@ -324,7 +324,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_4",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kıkırdak dokusu, hücreleri (Kondrositler) ve hücre dışı matriksten oluşur. Histolojik preparatlarda kondrositlerin matrikste içinde bulundukları küçük oyuklara (boşluklara) ne ad verilir?",
+        "question": "Kıkırdak dokusu, hücreleri ve hücre dışı matriksten oluşur. Histolojik preparatlarda kondrositlerin matrikste içinde bulundukları küçük oyuklara ne ad verilir?",
         "options": [
             "Laküna (Lacuna)",
             "Havers kanalı",
@@ -339,7 +339,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Gastrointestinal sistem (GİS) mukozasının histolojik katmanlarından biri olan ve kendi içindeki kasılmasıyla villusları hareket ettirip emilim yüzeyini dalgalandıran 'çok ince' düz kas tabakası hangisidir?",
+        "question": "Gastrointestinal sistem mukozasının histolojik katmanlarından biri olan ve kendi içindeki kasılmasıyla villusları hareket ettirip emilim yüzeyini dalgalandıran 'çok ince' düz kas tabakası hangisidir?",
         "options": [
             "Tunica muscularis",
             "Muscularis mucosae",
@@ -354,7 +354,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_6",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Sinir dokusunun destekleyici hücreleri olan Glialar (Nöroglia), merkezi sinir sisteminde onarım (skar) oluşturan, kapiller damarlara ayaklarını (pedikül) uzatarak Kan-Beyin Bariyeri'nin oluşumuna katkıda bulunan hücre tipi hangisidir?",
+        "question": "Sinir dokusunun destekleyici hücreleri olan Glialar, merkezi sinir sisteminde onarım oluşturan, kapiller damarlara ayaklarını uzatarak Kan-Beyin Bariyeri'nin oluşumuna katkıda bulunan hücre tipi hangisidir?",
         "options": [
             "Mikroglia",
             "Ependim hücreleri",
@@ -369,7 +369,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_7",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyolojik gelişimde kalp ve dolaşım sistemi (damarlar, kan hücreleri) hangi germ yaprağından köken alarak gelişmeye başlar?",
+        "question": "Embriyolojik gelişimde kalp ve dolaşım sistemi hangi germ yaprağından köken alarak gelişmeye başlar?",
         "options": [
             "Ektoderm",
             "Yüzey ektodermi",
@@ -384,7 +384,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Böbrek nefronunda Jukstaglomerüler Aparat (JGA) tansiyon kontrolünden sorumludur. JGA içinde afferent arteriyolün duvarında yerleşmiş olan ve kan basıncı düştüğünde 'Renin' enzimini sentezleyip kana salgılayan hücreler hangileridir?",
+        "question": "Böbrek nefronunda Jukstaglomerüler Aparat tansiyon kontrolünden sorumludur. JGA içinde afferent arteriyolün duvarında yerleşmiş olan ve kan basıncı düştüğünde 'Renin' enzimini sentezleyip kana salgılayan hücreler hangileridir?",
         "options": [
             "Macula densa hücreleri",
             "Ekstraglomerüler mesangial hücreler",
@@ -399,7 +399,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_9",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Derinin (Epidermis) hücresel yapısında, taban katmanlarında (Stratum basale) yerleşen, nöral krista kökenli olan ve ürettiği pigmentleri keratinositlere aktararak deriyi UV radyasyonundan koruyan hücre hangisidir?",
+        "question": "Derinin hücresel yapısında, taban katmanlarında yerleşen, nöral krista kökenli olan ve ürettiği pigmentleri keratinositlere aktararak deriyi UV radyasyonundan koruyan hücre hangisidir?",
         "options": [
             "Langerhans hücresi",
             "Merkel hücresi",
@@ -414,7 +414,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_10",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Timus bezi, lobçuklardan (lobüllerden) oluşur. Her lobülün koyu boyanan bir korteksi, açık boyanan bir medullası vardır. Sadece timus 'medulla'sında bulunan, keratinize epiteloretiküler hücrelerin soğan zarı gibi eş merkezli yuvarlak yapılar oluşturmasıyla oluşan, yaşla birlikte sayıları artan dejeneratif cisimciklere ne ad verilir?",
+        "question": "Timus bezi, lobçuklardan oluşur. Her lobülün koyu boyanan bir korteksi, açık boyanan bir medullası vardır. Sadece timus 'medulla'sında bulunan, keratinize epiteloretiküler hücrelerin soğan zarı gibi eş merkezli yuvarlak yapılar oluşturmasıyla oluşan, yaşla birlikte sayıları artan dejeneratif cisimciklere ne ad verilir?",
         "options": [
             "Hassall korpüskülleri (Timik cisimcikler)",
             "Malpighi cisimcikleri",
@@ -429,7 +429,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_11",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "İskelet kası hücrelerinin (kas liflerinin) kasılmasını sağlayan fonksiyonel, yapısal ve mikroskobik en küçük kasılma birimi (iki Z çizgisi arasında kalan bölge) aşağıdakilerden hangisidir?",
+        "question": "İskelet kası hücrelerinin kasılmasını sağlayan fonksiyonel, yapısal ve mikroskobik en küçük kasılma birimi aşağıdakilerden hangisidir?",
         "options": [
             "Sarkolemma",
             "Sarkoplazmik retikulum",
@@ -444,7 +444,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_12",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "İnce bağırsağın histolojik kısımlarından (Duodenum, Jejunum, İleum) Duodenum'u (Onikiparmak bağırsağı) diğerlerinden ayıran en spesifik histolojik özellik, submukoza tabakasında yer alan asit nötralize edici mukus salgılayan bezlerdir. Bu bezlerin adı nedir?",
+        "question": "İnce bağırsağın histolojik kısımlarından Duodenum'u diğerlerinden ayıran en spesifik histolojik özellik, submukoza tabakasında yer alan asit nötralize edici mukus salgılayan bezlerdir. Bu bezlerin adı nedir?",
         "options": [
             "Lieberkühn kriptaları",
             "Peyer plakları",
@@ -459,7 +459,7 @@ const v11Part2 = [
     {
         "id": "v11_histo_13",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Bir hücre iskeleti (Sitoskeleton) elemanı olan Mikrotübüller, hücre bölünmesi sırasında kromozomları çeken iğ ipliklerini ve sillerin/kamçıların hareketini sağlarlar. Mikrotübüller aşağıdaki hangi protein alt birimlerinin polimerleşmesiyle oluşur?",
+        "question": "Bir hücre iskeleti elemanı olan Mikrotübüller, hücre bölünmesi sırasında kromozomları çeken iğ ipliklerini ve sillerin/kamçıların hareketini sağlarlar. Mikrotübüller aşağıdaki hangi protein alt birimlerinin polimerleşmesiyle oluşur?",
         "options": [
             "Aktin",
             "Miyozin",
@@ -476,7 +476,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_1",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Genetik materyali RNA olan, havayla (damlacıkla) solunarak bulaşan ve bağışıklık sistemi T hücrelerini (CD4+) enfekte ederek yıllar içinde tamamen çökmelerine (AIDS tablosuna) neden olan virüs aşağıdakilerden hangisidir?",
+        "question": "Genetik materyali RNA olan, havayla solunarak bulaşan ve bağışıklık sistemi T hücrelerini enfekte ederek yıllar içinde tamamen çökmelerine neden olan virüs aşağıdakilerden hangisidir?",
         "options": [
             "İnsan Papilloma Virüsü (HPV)",
             "Ebola Virüsü",
@@ -491,7 +491,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_2",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki mikroorganizmalardan hangisi, insanlarda 'Lyme Hastalığı'na (eritema migrans isimli hedef tahtası şeklinde döküntü, eklem ağrıları) neden olan ve keneler (Ixodes) aracılığıyla bulaşan bir spiroket bakteridir?",
+        "question": "Aşağıdaki mikroorganizmalardan hangisi, insanlarda 'Lyme Hastalığı'na neden olan ve keneler aracılığıyla bulaşan bir spiroket bakteridir?",
         "options": [
             "Rickettsia rickettsii",
             "Treponema pallidum",
@@ -506,7 +506,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gıda zehirlenmelerinde, ısıtılsa (pişirilse) bile bozulmayan ısıya çok dirençli (termostabil) bir enterotoksin üreten ve bozuk yemeğin (krema, mayonez, et) yenmesinden sadece 2-6 saat sonra hızla fışkırır tarzda kusma başlatan etken hangisidir?",
+        "question": "Gıda zehirlenmelerinde, ısıtılsa bile bozulmayan ısıya çok dirençli bir enterotoksin üreten ve bozuk yemeğin yenmesinden sadece 2-6 saat sonra hızla fışkırır tarzda kusma başlatan etken hangisidir?",
         "options": [
             "Salmonella enterica",
             "Escherichia coli (EHEC)",
@@ -521,7 +521,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_4",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Çocuk felci (Poliomyelitis) hastalığına neden olan Poliovirüs'ün insan vücuduna temel giriş yolu (bulaşma rotası) hangisidir?",
+        "question": "Çocuk felci hastalığına neden olan Poliovirüs'ün insan vücuduna temel giriş yolu hangisidir?",
         "options": [
             "Damlacık (Solunum) yoluyla",
             "Fekal-oral (Dışkı-ağız) yolla sindirim sisteminden",
@@ -536,7 +536,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gram boyama yönteminde, Gram negatif bakterilerin hücre duvarındaki ince peptidoglikan tabakasından dolayı ilk boyayı (kristal viyole) tutamayıp alkolle yıkandıktan sonra zıt boya (Safranin) ile boyanarak mikroskop altında HANGİ RENKTE görünmeleri beklenir?",
+        "question": "Gram boyama yönteminde, Gram negatif bakterilerin hücre duvarındaki ince peptidoglikan tabakasından dolayı ilk boyayı tutamayıp alkolle yıkandıktan sonra zıt boya ile boyanarak mikroskop altında HANGİ RENKTE görünmeleri beklenir?",
         "options": [
             "Koyu mor / Mavi",
             "Pembe / Kırmızı",
@@ -551,7 +551,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_6",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bakteriyel genetik aktarım mekanizmalarından biri olan 'Konjugasyon'da, gen aktarımının gerçekleşmesi için verici (F+) ile alıcı (F-) bakteri arasında fiziksel bir köprü kurmayı sağlayan hücresel uzantıya ne ad verilir?",
+        "question": "Bakteriyel genetik aktarım mekanizmalarından biri olan 'Konjugasyon'da, gen aktarımının gerçekleşmesi için verici ile alıcı bakteri arasında fiziksel bir köprü kurmayı sağlayan hücresel uzantıya ne ad verilir?",
         "options": [
             "Flajella (Kamçı)",
             "Seks pilusu",
@@ -566,7 +566,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki parazitlerden hangisi, genellikle anal bölgede kaşıntıya neden olan, çocuklarda çok sık görülen, halk arasında 'kıl kurdu' olarak bilinen ve tanısı için 'selofan bant (bant testi)' kullanılan nematoddur?",
+        "question": "Aşağıdaki parazitlerden hangisi, genellikle anal bölgede kaşıntıya neden olan, çocuklarda çok sık görülen, halk arasında 'kıl kurdu' olarak bilinen ve tanısı için 'selofan bant' kullanılan nematoddur?",
         "options": [
             "Ascaris lumbricoides",
             "Taenia saginata",
@@ -581,7 +581,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_8",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Antibiyotiklere direnç geliştirmede çok becerikli olan ve yara, yanık, idrar yolu enfeksiyonlarında en korkulan etkenlerden olan MRSA (Metisiline Dirençli Staphylococcus Aureus), hangi genetik mekanizmayla tüm beta-laktam antibiyotiklere karşı dirençli hale gelmiştir?",
+        "question": "Antibiyotiklere direnç geliştirmede çok becerikli olan ve yara, yanık, idrar yolu enfeksiyonlarında en korkulan etkenlerden olan MRSA, hangi genetik mekanizmayla tüm beta-laktam antibiyotiklere karşı dirençli hale gelmiştir?",
         "options": [
             "Hücre zarına porin kanalları ekleyerek antibiyotiği dışarı atması (Efflux)",
             "Beta-laktamaz (Penisilinaz) enzimi üreterek ilacı parçalaması",
@@ -596,7 +596,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_9",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Virüslerin, konak hücresine girdikten sonra zarflarını ve protein kılıflarını atarak sadece genetik materyalleriyle serbest kaldıkları ve etrafta hiç virüs partikülünün (virion) görünmediği replikasyon döngüsü evresine ne ad verilir?",
+        "question": "Virüslerin, konak hücresine girdikten sonra zarflarını ve protein kılıflarını atarak sadece genetik materyalleriyle serbest kaldıkları ve etrafta hiç virüs partikülünün görünmediği replikasyon döngüsü evresine ne ad verilir?",
         "options": [
             "Tutunma (Attachment)",
             "Girme (Penetration)",
@@ -611,7 +611,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Soğuk zincir veya buzdolabı ısısında (4°C) bile çoğalabilen (psikrofilik özellik) ve hamilelerde düşüklere veya yenidoğanlarda menenjite neden olan bakteriyel gıda zehirlenmesi etkeni hangisidir?",
+        "question": "Soğuk zincir veya buzdolabı ısısında bile çoğalabilen ve hamilelerde düşüklere veya yenidoğanlarda menenjite neden olan bakteriyel gıda zehirlenmesi etkeni hangisidir?",
         "options": [
             "Bacillus cereus",
             "Listeria monocytogenes",
@@ -626,7 +626,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bağışıklık sisteminde, T hücrelerini aktive eden Antijen Sunan Hücreler (APC) işledikleri antijenleri yüzeylerindeki HANGİ moleküller ile sergileyerek T-Lenfositlerine 'sunarlar'?",
+        "question": "Bağışıklık sisteminde, T hücrelerini aktive eden Antijen Sunan Hücreler işledikleri antijenleri yüzeylerindeki HANGİ moleküller ile sergileyerek T-Lenfositlerine 'sunarlar'?",
         "options": [
             "CD4 ve CD8",
             "MHC Sınıf I ve Sınıf II (Major Histocompatibility Complex)",
@@ -641,7 +641,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_12",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşırı duyarlılık reaksiyonlarından hangisi (Tüberküloz deri testinde / PPD testinde olduğu gibi) antikorlarla değil de T-lenfositleri ve makrofajlar aracılığıyla geliştiği için temastan 48-72 saat sonra (Gecikmiş Tip) ortaya çıkar?",
+        "question": "Aşırı duyarlılık reaksiyonlarından hangisi antikorlarla değil de T-lenfositleri ve makrofajlar aracılığıyla geliştiği için temastan 48-72 saat sonra ortaya çıkar?",
         "options": [
             "Tip I Hipersensitivite",
             "Tip II Hipersensitivite",
@@ -656,7 +656,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Sterilizasyon işlemlerinde kontrol (biyolojik indikatör) amacıyla kullanılan ve en dirençli bakteri sporu (Otoklavın tam çalıştığını teyit etmek için kullanılan) aşağıdakilerden hangisidir?",
+        "question": "Sterilizasyon işlemlerinde kontrol amacıyla kullanılan ve en dirençli bakteri sporu aşağıdakilerden hangisidir?",
         "options": [
             "Escherichia coli",
             "Geobacillus stearothermophilus sporu",
@@ -671,7 +671,7 @@ const v11Part2 = [
     {
         "id": "v11_mikro_14",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Kedi dışkısı (kumları) ile veya az pişmiş etlerdeki doku kistlerinin yenmesiyle bulaşan, sağlıklı insanda grip gibi geçip giden ancak hamile bir kadının ilk kez alması durumunda fötusta körlük (koryoretinit), beyinde kalsifikasyon ve hidrosefali gibi ağır doğumsal defektlere neden olan parazit hangisidir?",
+        "question": "Kedi dışkısı ile veya az pişmiş etlerdeki doku kistlerinin yenmesiyle bulaşan, sağlıklı insanda grip gibi geçip giden ancak hamile bir kadının ilk kez alması durumunda fötusta körlük, beyinde kalsifikasyon ve hidrosefali gibi ağır doğumsal defektlere neden olan parazit hangisidir?",
         "options": [
             "Leishmania donovani",
             "Plasmodium falciparum",
@@ -688,7 +688,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_1",
         "subject": "Tıbbi Patoloji",
-        "question": "Doku tamiri ve yara iyileşmesi (Reperasyon) süreçlerinde, hasarlı dokunun yerini yoğun kollajen birikimi (fibrozis) ile birlikte pembemsi, granüler, çok zengin damar ağı içeren bir doku alır. Bu geçici ve iyileşmeyi sağlayan tamir dokusunun patolojideki adı nedir?",
+        "question": "Doku tamiri ve yara iyileşmesi süreçlerinde, hasarlı dokunun yerini yoğun kollajen birikimi ile birlikte pembemsi, granüler, çok zengin damar ağı içeren bir doku alır. Bu geçici ve iyileşmeyi sağlayan tamir dokusunun patolojideki adı nedir?",
         "options": [
             "Granülom",
             "Granülasyon dokusu",
@@ -703,7 +703,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_2",
         "subject": "Tıbbi Patoloji",
-        "question": "Neoplazide tümörlerin (kanserlerin) derecelendirilmesi (Grading) ve evrelendirilmesi (Staging) klinik için çok önemlidir. Hastanın sağkalımını ve tedavisini belirleyen EVRELENDİRME (Staging / TNM sistemi) esas olarak neye dayanır?",
+        "question": "Neoplazide tümörlerin derecelendirilmesi ve evrelendirilmesi klinik için çok önemlidir. Hastanın sağkalımını ve tedavisini belirleyen EVRELENDİRME esas olarak neye dayanır?",
         "options": [
             "Tümör hücresinin mikroskopta ne kadar bozuk/anaplastik göründüğüne (Diferansiyasyon derecesi)",
             "Tümörün büyüklüğüne (T), lenf nodlarına yayılımına (N) ve uzak organ metastazına (M)",
@@ -718,7 +718,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_3",
         "subject": "Tıbbi Patoloji",
-        "question": "Vücutta kan pulcuklarının (trombositlerin) sayısının çok azalması veya fonksiyonunun bozulması durumunda deride izlenen, 1-2 mm çapında ve basmakla solmayan, toplu iğne başı büyüklüğündeki küçük kanamalara ne ad verilir?",
+        "question": "Vücutta kan pulcuklarının sayısının çok azalması veya fonksiyonunun bozulması durumunda deride izlenen, 1-2 mm çapında ve basmakla solmayan, toplu iğne başı büyüklüğündeki küçük kanamalara ne ad verilir?",
         "options": [
             "Hematom",
             "Purpura",
@@ -733,7 +733,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_4",
         "subject": "Toplum Sağlığı",
-        "question": "Toplumda bir hastalığın engellenmesinde 'Sekonder (İkincil) Koruma' yaklaşımının temel amacı aşağıdakilerden hangisidir?",
+        "question": "Toplumda bir hastalığın engellenmesinde 'Sekonder Koruma' yaklaşımının temel amacı aşağıdakilerden hangisidir?",
         "options": [
             "Hastalık risk faktörlerini ortadan kaldırarak hiç hasta olunmamasını sağlamak (Aşılama, eğitim)",
             "Hastalığın erken tanısını (tarama testleriyle) koyarak, henüz semptom vermeden hastalığı yakalayıp ilerlemesini durdurmak",
@@ -748,7 +748,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_5",
         "subject": "Toplum Sağlığı",
-        "question": "Herhangi bir testte, kişinin o hastalığa sahip olup olmadığını belirlerken 'Gerçekten hasta olmayanlara testin doğru şekilde NEGATİF deme oranını' gösteren (Testin sağlamları bulabilme yeteneği) istatistiksel değere ne ad verilir?",
+        "question": "Herhangi bir testte, kişinin o hastalığa sahip olup olmadığını belirlerken 'Gerçekten hasta olmayanlara testin doğru şekilde NEGATİF deme oranını' gösteren istatistiksel değere ne ad verilir?",
         "options": [
             "Spesifisite (Seçicilik / Özgüllük)",
             "Sensitivite (Duyarlılık)",
@@ -763,7 +763,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_6",
         "subject": "Tıp Tarihi",
-        "question": "Osmanlı döneminde tıp eğitimi için açılan modern (sivil) tıp okulunun adı olan ve 14 Mart Tıp Bayramı'nın kutlanmasına vesile olan (kuruluş tarihi) kurum aşağıdakilerden hangisidir?",
+        "question": "Osmanlı döneminde tıp eğitimi için açılan modern tıp okulunun adı olan ve 14 Mart Tıp Bayramı'nın kutlanmasına vesile olan kurum aşağıdakilerden hangisidir?",
         "options": [
             "Darülfünun Tıp Fakültesi",
             "Tıbhane-i Amire ve Cerrahhane-i Mamure (14 Mart 1827)",
@@ -778,7 +778,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_7",
         "subject": "Bilimsel Araştırma",
-        "question": "Yeni üretilen bir ilacın klinik araştırmaları sırasında, ilacın SAĞLIKLI GÖNÜLLÜLERDE sadece 'güvenilirliğinin (yan etki) ve farmakokinetiğinin' (tolerans dozunun) test edildiği çok az kişiyle yapılan İLK aşama (Faz) hangisidir?",
+        "question": "Yeni üretilen bir ilacın klinik araştırmaları sırasında, ilacın SAĞLIKLI GÖNÜLLÜLERDE sadece 'güvenilirliğinin ve farmakokinetiğinin' test edildiği çok az kişiyle yapılan İLK aşama hangisidir?",
         "options": [
             "Faz 1 çalışmaları",
             "Faz 2 çalışmaları",
@@ -808,7 +808,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_9",
         "subject": "İletişim Becerileri",
-        "question": "Hekim ile hasta arasındaki iletişimde, hastanın anlatımını kesmeden, göz teması kurarak, baş sallayarak (hı-hı diyerek) ve uygun beden dili kullanarak söylenenleri dikkatle dinlemeye ve cesaretlendirmeye ne ad verilir?",
+        "question": "Hekim ile hasta arasındaki iletişimde, hastanın anlatımını kesmeden, göz teması kurarak, baş sallayarak ve uygun beden dili kullanarak söylenenleri dikkatle dinlemeye ve cesaretlendirmeye ne ad verilir?",
         "options": [
             "Yansıtma (Özetleme)",
             "Aktif (Etkin) Dinleme",
@@ -823,7 +823,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_10",
         "subject": "Biyofizik",
-        "question": "Ultrasonografi (USG) cihazı vücudun iç organlarını görüntülemek için HANGİ fiziksel prensipten (enerjiden) faydalanır?",
+        "question": "Ultrasonografi cihazı vücudun iç organlarını görüntülemek için HANGİ fiziksel prensipten faydalanır?",
         "options": [
             "İyonlaştırıcı Radyasyon (X-ışınları)",
             "Manyetik alan içindeki Hidrojen rezonansı",
@@ -838,7 +838,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_11",
         "subject": "Biyofizik",
-        "question": "Işığın veya radyasyonun (Örn: X-ışını) madde ile etkileşiminde, fotonun maddenin yörüngesindeki elektronuna çarparak elektronu koparması (iyonizasyon) ve kendisinin tamamen yutulması (kaybolması) olayına ne ad verilir?",
+        "question": "Işığın veya radyasyonun madde ile etkileşiminde, fotonun maddenin yörüngesindeki elektronuna çarparak elektronu koparması ve kendisinin tamamen yutulması olayına ne ad verilir?",
         "options": [
             "Compton Saçılması",
             "Çift Oluşum",
@@ -853,7 +853,7 @@ const v11Part2 = [
     {
         "id": "v11_diger_12",
         "subject": "Toplum Sağlığı",
-        "question": "İçme ve kullanma sularının dezenfeksiyonu için klorlama işleminde, suya katılan klor miktarından, sudaki organik maddelerle reaksiyona girip tükenen kısmın çıkartılmasıyla geriye kalan, asıl mikropları öldürmeye (su beklemede iken de) devam eden aktif kısma ne ad verilir?",
+        "question": "İçme ve kullanma sularının dezenfeksiyonu için klorlama işleminde, suya katılan klor miktarından, sudaki organik maddelerle reaksiyona girip tükenen kısmın çıkartılmasıyla geriye kalan, asıl mikropları öldürmeye devam eden aktif kısma ne ad verilir?",
         "options": [
             "Klor ihtiyacı",
             "Serbest (bakiye / rezidüel) klor",

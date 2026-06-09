@@ -13,7 +13,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_1",
         "subject": "Anatomi",
-        "question": "Mitral kapak darlığı olan bir hastada büyüyen sol atriyum (basis cordis), hemen arkasındaki hangi yapıya bası yaparak yutma güçlüğüne (disfaji) neden olur?",
+        "question": "Mitral kapak darlığı olan bir hastada büyüyen sol atriyum, hemen arkasındaki hangi yapıya bası yaparak yutma güçlüğüne neden olur?",
         "options": [
             "A) Trachea",
             "B) Aorta ascendens",
@@ -28,7 +28,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_2",
         "subject": "Anatomi",
-        "question": "Dirsek ön yüzünde aponeurosis bicipitalis'in (lacertus fibrosus) hemen altında yer alan ve damar yolu açılırken korunması gereken arter hangisidir?",
+        "question": "Dirsek ön yüzünde aponeurosis bicipitalis'in hemen altında yer alan ve damar yolu açılırken korunması gereken arter hangisidir?",
         "options": [
             "A) A. ulnaris",
             "B) A. radialis",
@@ -43,7 +43,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_3",
         "subject": "Anatomi",
-        "question": "Göz çukurunun (orbita) medial duvarı (lamina papyracea) ile komşu olan paranasal sinüs hangisidir?",
+        "question": "Göz çukurunun medial duvarı ile komşu olan paranasal sinüs hangisidir?",
         "options": [
             "A) Sinus maxillaris",
             "B) Sinus frontalis",
@@ -58,7 +58,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_4",
         "subject": "Anatomi",
-        "question": "Üst çene (maxilla) molar ve premolar diş kökleri tabanıyla komşuluk yapan en büyük paranasal sinüs hangisidir?",
+        "question": "Üst çene molar ve premolar diş kökleri tabanıyla komşuluk yapan en büyük paranasal sinüs hangisidir?",
         "options": [
             "A) Sinus frontalis",
             "B) Sinus ethmoidalis",
@@ -88,7 +88,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_6",
         "subject": "Anatomi",
-        "question": "Mide arka duvarında perforasyon (delinme) olan bir hastada, mide içeriği bursa omentalis'e akmıştır. Bu durumda mide içeriği komşuluğu sebebiyle ilk olarak hangi organa temas eder?",
+        "question": "Mide arka duvarında perforasyon olan bir hastada, mide içeriği bursa omentalis'e akmıştır. Bu durumda mide içeriği komşuluğu sebebiyle ilk olarak hangi organa temas eder?",
         "options": [
             "A) Karaciğer",
             "B) Pankreas gövdesi",
@@ -103,7 +103,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_7",
         "subject": "Anatomi",
-        "question": "Mide kanaması şüphesiyle endoskopi yapılan hastada, duodenumun pars superior (1. kıta) arka duvarında kanayan bir ülser saptanıyor. Bu bölgedeki kanamaya komşuluğundan dolayı büyük ihtimalle hangi arter neden olmaktadır?",
+        "question": "Mide kanaması şüphesiyle endoskopi yapılan hastada, duodenumun pars superior arka duvarında kanayan bir ülser saptanıyor. Bu bölgedeki kanamaya komşuluğundan dolayı büyük ihtimalle hangi arter neden olmaktadır?",
         "options": [
             "A) A. mesenterica superior",
             "B) A. splenica",
@@ -118,7 +118,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_8",
         "subject": "Anatomi",
-        "question": "Pankreas başı kanseri olan bir hastada sarılık (tıkanma sarılığı) geliştiği gözlemleniyor. Bu durum pankreas başının hemen komşuluğunda bulunan hangi kanalın tümör tarafından sıkıştırılmasından kaynaklanır?",
+        "question": "Pankreas başı kanseri olan bir hastada sarılık geliştiği gözlemleniyor. Bu durum pankreas başının hemen komşuluğunda bulunan hangi kanalın tümör tarafından sıkıştırılmasından kaynaklanır?",
         "options": [
             "A) Ductus pancreaticus",
             "B) Ductus hepaticus dexter",
@@ -165,7 +165,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_11",
         "subject": "Anatomi",
-        "question": "Gözyaşı bezinin (Gl. lacrimalis) salgı yapmasını sağlayan parasempatik uyarının geçtiği ve otonom işlev gören gangliyon aşağıdakilerden hangisidir?",
+        "question": "Gözyaşı bezinin salgı yapmasını sağlayan parasempatik uyarının geçtiği ve otonom işlev gören gangliyon aşağıdakilerden hangisidir?",
         "options": [
             "A) Ganglion ciliare",
             "B) Ganglion oticum",
@@ -225,7 +225,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_15",
         "subject": "Anatomi",
-        "question": "Larynx kıkırdaklarından hangisi tam bir halka (yüzük) şeklinde olup solunum yolunun tek tam kıkırdak halkasını oluşturur?",
+        "question": "Larynx kıkırdaklarından hangisi tam bir halka şeklinde olup solunum yolunun tek tam kıkırdak halkasını oluşturur?",
         "options": [
             "A) Cartilago thyroidea",
             "B) Cartilago cricoidea",
@@ -255,7 +255,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_17",
         "subject": "Anatomi",
-        "question": "Karın ön duvarı kaslarından biri olan ve alt kenarındaki aponevrozu katlanarak kasık bağını (ligamentum inguinale) oluşturan kas hangisidir?",
+        "question": "Karın ön duvarı kaslarından biri olan ve alt kenarındaki aponevrozu katlanarak kasık bağını oluşturan kas hangisidir?",
         "options": [
             "A) M. rectus abdominis",
             "B) M. transversus abdominis",
@@ -287,7 +287,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_19",
         "subject": "Anatomi",
-        "question": "Beyin omurilik sıvısının (BOS) büyük bir kısmını üreten yapı aşağıdakilerden hangisidir?",
+        "question": "Beyin omurilik sıvısının büyük bir kısmını üreten yapı aşağıdakilerden hangisidir?",
         "options": [
             "A) Granulationes arachnoideae",
             "B) Plexus choroideus",
@@ -317,7 +317,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_21",
         "subject": "Anatomi",
-        "question": "Fetüste oksijenasyonu en yüksek (yaklaşık %80) kanı taşıyan damar aşağıdakilerden hangisidir?",
+        "question": "Fetüste oksijenasyonu en yüksek kanı taşıyan damar aşağıdakilerden hangisidir?",
         "options": [
             "A) Aorta",
             "B) Vena cava inferior",
@@ -362,7 +362,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_24",
         "subject": "Anatomi",
-        "question": "Sol akciğerde kalbin yerleşimi nedeniyle oluşan incisura cardiaca'nın hemen altında yer alan, sağ akciğerdeki orta lobun (lobus medius) fonksiyonel karşılığı olan dil şeklindeki segment uzantısı hangisidir?",
+        "question": "Sol akciğerde kalbin yerleşimi nedeniyle oluşan incisura cardiaca'nın hemen altında yer alan, sağ akciğerdeki orta lobun fonksiyonel karşılığı olan dil şeklindeki segment uzantısı hangisidir?",
         "options": [
             "A) Cupula pleurae",
             "B) Lingula pulmonis",
@@ -377,7 +377,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_25",
         "subject": "Anatomi",
-        "question": "Cerrahi operasyonlarda (rezeksiyon) temel alınan ve damar/safra dağılımına göre belirlenen Couinaud sınıflandırmasında karaciğer kaç fonksiyonel segmente ayrılır?",
+        "question": "Cerrahi operasyonlarda temel alınan ve damar/safra dağılımına göre belirlenen Couinaud sınıflandırmasında karaciğer kaç fonksiyonel segmente ayrılır?",
         "options": [
             "A) 4",
             "B) 6",
@@ -439,7 +439,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_29",
         "subject": "Anatomi",
-        "question": "Yüksek sese maruz kaldığında rahatsızlık hisseden (hiperakuzi) bir hastada, aşağıdaki kaslardan hangisinin felci düşünülmelidir?",
+        "question": "Yüksek sese maruz kaldığında rahatsızlık hisseden bir hastada, aşağıdaki kaslardan hangisinin felci düşünülmelidir?",
         "options": [
             "A) M. tensor tympani",
             "B) M. stapedius",
@@ -454,7 +454,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_30",
         "subject": "Anatomi",
-        "question": "Klinikte korkusuzluk ve hiperseksüalite belirtileri (Kluver-Bucy sendromu) gösteren bir hastada, aşağıdaki limbik sistem yapılarından hangisinin bilateral hasarı beklenir?",
+        "question": "Klinikte korkusuzluk ve hiperseksüalite belirtileri gösteren bir hastada, aşağıdaki limbik sistem yapılarından hangisinin bilateral hasarı beklenir?",
         "options": [
             "A) Hipokampüs",
             "B) Amigdala",
@@ -469,7 +469,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_31",
         "subject": "Anatomi",
-        "question": "Göğsünden bıçaklanan bir hastada boyun venlerinde dolgunluk, hipotansiyon ve derinden gelen kalp sesleri (Beck Triadı) saptanmıştır. Bu durum, kanın fibröz perikardın esnememesi nedeniyle nerede birikmesinden kaynaklanır?",
+        "question": "Göğsünden bıçaklanan bir hastada boyun venlerinde dolgunluk, hipotansiyon ve derinden gelen kalp sesleri saptanmıştır. Bu durum, kanın fibröz perikardın esnememesi nedeniyle nerede birikmesinden kaynaklanır?",
         "options": [
             "A) Plevra boşluğu",
             "B) Cavitas pericardiaca",
@@ -484,7 +484,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_32",
         "subject": "Anatomi",
-        "question": "Sol böbrek karsinomu olan bir hastada sol testiste varikosel (venöz genişleme) saptanmıştır. Bunun temel anatomik nedeni nedir?",
+        "question": "Sol böbrek karsinomu olan bir hastada sol testiste varikosel saptanmıştır. Bunun temel anatomik nedeni nedir?",
         "options": [
             "A) V. testicularis dextra'nın doğrudan VCI'ye açılması",
             "B) V. testicularis sinistra'nın V. renalis sinistra'ya dökülmesi",
@@ -514,7 +514,7 @@ const v9Part1 = [
     {
         "id": "v9_anat_34",
         "subject": "Anatomi",
-        "question": "İnce bağırsağın son kısmında (terminal ileum) emilimi bozulan bir hastada, B12 vitamini eksikliğine bağlı anemi ve safra tuzu emilim bozukluğu geliştiği görülüyor. Hastada etkilenen bağırsak bölümü neresidir?",
+        "question": "İnce bağırsağın son kısmında emilimi bozulan bir hastada, B12 vitamini eksikliğine bağlı anemi ve safra tuzu emilim bozukluğu geliştiği görülüyor. Hastada etkilenen bağırsak bölümü neresidir?",
         "options": [
             "A) Duodenum",
             "B) Jejunum",
@@ -532,7 +532,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_1",
         "subject": "Fizyoloji",
-        "question": "30 yaşında kadın hasta, polikliniğe sinirlilik, aşırı terleme, çarpıntı, kilo kaybı ve gözlerde öne doğru fırlama (ekzoftalmus) şikayetleriyle başvuruyor. Laboratuvar testlerinde T3 ve T4 yüksek, TSH ise ölçülemeyecek kadar DÜŞÜK bulunuyor. Kanda TSH reseptör antikorları (TSI) pozitiftir. Graves Hastalığı tanısı alan bu hastadaki TSH düşüklüğünün temel fizyolojik mekanizması aşağıdakilerden hangisidir?",
+        "question": "30 yaşında kadın hasta, polikliniğe sinirlilik, aşırı terleme, çarpıntı, kilo kaybı ve gözlerde öne doğru fırlama şikayetleriyle başvuruyor. Laboratuvar testlerinde T3 ve T4 yüksek, TSH ise ölçülemeyecek kadar DÜŞÜK bulunuyor. Kanda TSH reseptör antikorları pozitiftir. Graves Hastalığı tanısı alan bu hastadaki TSH düşüklüğünün temel fizyolojik mekanizması aşağıdakilerden hangisidir?",
         "options": [
             "TSI antikorlarının doğrudan TSH moleküllerini kanda parçalaması",
             "Artmış T3 ve T4 hormonlarının hipofiz ön lobuna uyguladığı güçlü negatif geri bildirim (feedback) etkisi",
@@ -547,7 +547,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_2",
         "subject": "Fizyoloji",
-        "question": "Bir hastanın elektrokardiyogramında (EKG) DII derivasyonunda R dalgası yüksekliği 15 mm (1.5 mV), DI derivasyonunda ise 5 mm (0.5 mV) olarak ölçülmüştür. Einthoven yasasına göre bu hastanın DIII derivasyonundaki R dalgası yüksekliği teorik olarak kaç mm olmalıdır?",
+        "question": "Bir hastanın elektrokardiyogramında DII derivasyonunda R dalgası yüksekliği 15 mm, DI derivasyonunda ise 5 mm olarak ölçülmüştür. Einthoven yasasına göre bu hastanın DIII derivasyonundaki R dalgası yüksekliği teorik olarak kaç mm olmalıdır?",
         "options": [
             "5 mm",
             "10 mm",
@@ -562,7 +562,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_3",
         "subject": "Fizyoloji",
-        "question": "Kalp kası (miyokard) hücrelerinin aksiyon potansiyelinde plato fazının (Faz 2) oluşumunu sağlayan ve kalp kasının tetanize olmasını (sürekli kasılı kalıp durmasını) engelleyerek uzun bir mutlak refrakter periyot yaratan asıl iyonik olay nedir?",
+        "question": "Kalp kası hücrelerinin aksiyon potansiyelinde plato fazının oluşumunu sağlayan ve kalp kasının tetanize olmasını engelleyerek uzun bir mutlak refrakter periyot yaratan asıl iyonik olay nedir?",
         "options": [
             "Hızlı sodyum kanallarının sürekli açık kalması",
             "Potasyumun hücre içine girmesi",
@@ -577,7 +577,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_4",
         "subject": "Fizyoloji",
-        "question": "Akciğer hacimlerinden Rezidüel Volüm (RV) spirometre ile doğrudan ÖLÇÜLEMEZ. Bunun yerine helyum dilüsyon veya vücut pletismografisi yöntemleri kullanılır. Rezidüel volümün tanımı aşağıdakilerden hangisinde doğru verilmiştir?",
+        "question": "Akciğer hacimlerinden Rezidüel Volüm spirometre ile doğrudan ÖLÇÜLEMEZ. Bunun yerine helyum dilüsyon veya vücut pletismografisi yöntemleri kullanılır. Rezidüel volümün tanımı aşağıdakilerden hangisinde doğru verilmiştir?",
         "options": [
             "Sakin solunum sırasında akciğerlere giren hava miktarıdır.",
             "En zorlu bir inspirasyondan sonra çıkarılabilen maksimum hava hacmidir.",
@@ -592,7 +592,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_5",
         "subject": "Fizyoloji",
-        "question": "Oksijenin kanda taşınması sırasında, dokulardaki yüksek karbondioksit (CO2) ve düşük pH'nın (yüksek H+), hemoglobinin oksijene afinitesini azaltarak oksijenin dokulara kolayca bırakılmasını sağlamasına ne ad verilir?",
+        "question": "Oksijenin kanda taşınması sırasında, dokulardaki yüksek karbondioksit ve düşük pH'nın, hemoglobinin oksijene afinitesini azaltarak oksijenin dokulara kolayca bırakılmasını sağlamasına ne ad verilir?",
         "options": [
             "Haldane etkisi",
             "Bohr etkisi",
@@ -607,7 +607,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_6",
         "subject": "Fizyoloji",
-        "question": "Sindirim sisteminde mideden salgılanan İntrinsik Faktör (Intrinsic Factor - IF), hangi vitaminin ince bağırsaktan (terminal ileum) emilebilmesi için mutlak gereklidir ve eksikliğinde Pernisiyöz anemi tablosu görülür?",
+        "question": "Sindirim sisteminde mideden salgılanan İntrinsik Faktör, hangi vitaminin ince bağırsaktan emilebilmesi için mutlak gereklidir ve eksikliğinde Pernisiyöz anemi tablosu görülür?",
         "options": [
             "Vitamin C (Askorbik asit)",
             "Vitamin B1 (Tiamin)",
@@ -622,7 +622,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_7",
         "subject": "Fizyoloji",
-        "question": "Bir hastanın böbrek fonksiyonları (Glomerüler Filtrasyon Hızı - GFR) hesaplanırken klinikte altın standart olarak Kreatinin Klerensi kullanılmaktadır. GFR ölçümü için ideal bir maddenin taşıması gereken MÜKEMMEL özellik aşağıdakilerden hangisidir?",
+        "question": "Bir hastanın böbrek fonksiyonları hesaplanırken klinikte altın standart olarak Kreatinin Klerensi kullanılmaktadır. GFR ölçümü için ideal bir maddenin taşıması gereken MÜKEMMEL özellik aşağıdakilerden hangisidir?",
         "options": [
             "Glomerüllerden serbestçe süzülmesi, tübüllerde tamamının geri emilmesi",
             "Glomerüllerden hiç süzülmeyip sadece tübüllerden aktif olarak salgılanması",
@@ -637,7 +637,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_8",
         "subject": "Fizyoloji",
-        "question": "Böbreklerde asit-baz dengesinin sağlanmasında en fazla idrar tamponu görevi gören ve böylece çok büyük miktarlarda H+ iyonunun pH sınırını (4.5) aşmadan idrarla atılabilmesini sağlayan sistemler hangi seçenekte doğru verilmiştir?",
+        "question": "Böbreklerde asit-baz dengesinin sağlanmasında en fazla idrar tamponu görevi gören ve böylece çok büyük miktarlarda H+ iyonunun pH sınırını aşmadan idrarla atılabilmesini sağlayan sistemler hangi seçenekte doğru verilmiştir?",
         "options": [
             "Bikarbonat ve Sülfat",
             "Fosfat ve Amonyak (NH3 / NH4+)",
@@ -667,7 +667,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_10",
         "subject": "Fizyoloji",
-        "question": "Adet döngüsünde (Menstrüel siklus) ovulasyonu (yumurtlamayı) tetikleyen, siklusun ortasında (14. gün civarı) pik (zirve) yaparak folikülün çatlamasını sağlayan hormon aşağıdakilerden hangisidir?",
+        "question": "Adet döngüsünde ovulasyonu tetikleyen, siklusun ortasında pik yaparak folikülün çatlamasını sağlayan hormon aşağıdakilerden hangisidir?",
         "options": [
             "FSH (Folikül Stimüle Edici Hormon)",
             "Östrojen",
@@ -682,7 +682,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_11",
         "subject": "Fizyoloji",
-        "question": "Erkek üreme sisteminde spermatogenezi (sperm üretimini) doğrudan uyaran Sertoli hücreleri üzerinde reseptörü bulunan hormon ile, testosteron sentezini uyaran Leydig hücreleri üzerinde reseptörü bulunan hormon sırasıyla aşağıdakilerden hangisidir?",
+        "question": "Erkek üreme sisteminde spermatogenezi doğrudan uyaran Sertoli hücreleri üzerinde reseptörü bulunan hormon ile, testosteron sentezini uyaran Leydig hücreleri üzerinde reseptörü bulunan hormon sırasıyla aşağıdakilerden hangisidir?",
         "options": [
             "FSH - LH",
             "LH - FSH",
@@ -697,7 +697,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_12",
         "subject": "Fizyoloji",
-        "question": "Gebelik sırasında korpus luteumun bozulmasını engelleyerek progesteron ve östrojen salgısının devamını sağlayan, embriyonun sinsityotrofoblastlarından salgılanan ve gebelik testlerinde (idrar/kan) pozitif sonuç veren hormon hangisidir?",
+        "question": "Gebelik sırasında korpus luteumun bozulmasını engelleyerek progesteron ve östrojen salgısının devamını sağlayan, embriyonun sinsityotrofoblastlarından salgılanan ve gebelik testlerinde pozitif sonuç veren hormon hangisidir?",
         "options": [
             "İnsan Koryonik Somatomammotropini (hCS)",
             "Oksitosin",
@@ -712,7 +712,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_13",
         "subject": "Fizyoloji",
-        "question": "Somatik büyüme hormonu (GH / Somatotropin), özellikle kemik ve kıkırdakların uzamasını (büyümesini) doğrudan kendisi uyarmaktan ziyade, karaciğerde hangi maddenin sentezini artırarak etkisini gösterir?",
+        "question": "Somatik büyüme hormonu, özellikle kemik ve kıkırdakların uzamasını doğrudan kendisi uyarmaktan ziyade, karaciğerde hangi maddenin sentezini artırarak etkisini gösterir?",
         "options": [
             "Kortizol",
             "IGF-1 (İnsülin benzeri büyüme faktörü-1 / Somatomedin C)",
@@ -727,7 +727,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_14",
         "subject": "Fizyoloji",
-        "question": "Kan şekeri yükseldiğinde pankreas beta hücrelerinden insülin salınımı iki fazlı (bifazik) olarak gerçekleşir. İlk fazın (hızlı ve kısa) mekanizması ile ikinci fazın (yavaş ve uzun) mekanizması arasındaki fizyolojik fark nedir?",
+        "question": "Kan şekeri yükseldiğinde pankreas beta hücrelerinden insülin salınımı iki fazlı olarak gerçekleşir. İlk fazın mekanizması ile ikinci fazın mekanizması arasındaki fizyolojik fark nedir?",
         "options": [
             "İlk faz karaciğerden salınır, ikinci faz pankreastan salınır.",
             "İlk faz glukagona yanıt, ikinci faz somatostatine yanıttır.",
@@ -742,7 +742,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_15",
         "subject": "Fizyoloji",
-        "question": "Stres durumunda CRH-ACTH ekseni uyarılmasıyla adrenal korteksten sentezlenen kortizol (glukokortikoidler), kan şekerini yükseltmek için temel olarak karaciğerde hangi mekanizmayı kullanır?",
+        "question": "Stres durumunda CRH-ACTH ekseni uyarılmasıyla adrenal korteksten sentezlenen kortizol, kan şekerini yükseltmek için temel olarak karaciğerde hangi mekanizmayı kullanır?",
         "options": [
             "Glikolizi hızlandırır.",
             "Glikojen depolanmasını engeller.",
@@ -757,7 +757,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_16",
         "subject": "Fizyoloji",
-        "question": "Kan basıncının kısa süreli (saniyeler içinde) düzenlenmesinde en önemli kontrol mekanizması hangisidir?",
+        "question": "Kan basıncının kısa süreli düzenlenmesinde en önemli kontrol mekanizması hangisidir?",
         "options": [
             "Böbrekler tarafından sodyum-su atılımının değiştirilmesi",
             "Renin-Anjiyotensin-Aldosteron sistemi (RAAS)",
@@ -772,7 +772,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_17",
         "subject": "Fizyoloji",
-        "question": "Kanda kalsiyum seviyesi düştüğünde (hipokalsemi), Paratiroid Hormon (PTH) seviyesi artar. PTH, kan kalsiyumunu normale döndürmek için aşağıdaki etkilerden hangisini YAPMAZ?",
+        "question": "Kanda kalsiyum seviyesi düştüğünde, Paratiroid Hormon seviyesi artar. PTH, kan kalsiyumunu normale döndürmek için aşağıdaki etkilerden hangisini YAPMAZ?",
         "options": [
             "Kemiklerde osteoklast aktivitesini artırarak kemik rezorpsiyonunu hızlandırır (Kalsiyumu kana geçirir).",
             "Böbreklerde proksimal tübülde fosfat geri emilimini İNHİBE eder (Fosfatüri yapar).",
@@ -787,7 +787,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_18",
         "subject": "Fizyoloji",
-        "question": "Gözde uzağa bakarken yakındaki bir nesneye bakıldığında (Akodomasyon Refleksi) net görüntünün retineye düşebilmesi için gözde hangi üçlü fizyolojik değişiklik aynı anda meydana gelir?",
+        "question": "Gözde uzağa bakarken yakındaki bir nesneye bakıldığında net görüntünün retineye düşebilmesi için gözde hangi üçlü fizyolojik değişiklik aynı anda meydana gelir?",
         "options": [
             "Miyozis (göz bebeği küçülür), Gözler konverje olur (içe döner), Lens kırıcılığı azalır (lens yassılaşır)",
             "Midriyazis (göz bebeği büyür), Gözler diverje olur (dışa döner), Lens bombeliği artar",
@@ -802,7 +802,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_19",
         "subject": "Fizyoloji",
-        "question": "İşitme fizyolojisinde, iç kulaktaki Corti organında bulunan ve ses dalgalarının mekanik enerjisini (titreşimlerini) elektriksel aksiyon potansiyellerine dönüştüren (transdüksiyon) asıl reseptör hücreler hangileridir?",
+        "question": "İşitme fizyolojisinde, iç kulaktaki Corti organında bulunan ve ses dalgalarının mekanik enerjisini elektriksel aksiyon potansiyellerine dönüştüren asıl reseptör hücreler hangileridir?",
         "options": [
             "Destek hücreleri",
             "İç titrek (tüylü) hücreler (Inner hair cells)",
@@ -817,7 +817,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_20",
         "subject": "Fizyoloji",
-        "question": "Denge fizyolojisinde, yarım daire kanallarındaki (canales semicirculares) ampulla içinde yer alan ve başın rotasyonel (açısal) hareketlerini algılayan yapı aşağıdakilerden hangisidir?",
+        "question": "Denge fizyolojisinde, yarım daire kanallarındaki ampulla içinde yer alan ve başın rotasyonel hareketlerini algılayan yapı aşağıdakilerden hangisidir?",
         "options": [
             "Macula sacculi",
             "Macula utriculi",
@@ -832,7 +832,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_21",
         "subject": "Fizyoloji",
-        "question": "Omuriliğin inen motor yollarından hangisi, özellikle dik duruşu (postürü) sağlamak için ekstansör kasların tonusunu artırıcı (uyarıcı) etkiye sahiptir?",
+        "question": "Omuriliğin inen motor yollarından hangisi, özellikle dik duruşu sağlamak için ekstansör kasların tonusunu artırıcı etkiye sahiptir?",
         "options": [
             "Tractus corticospinalis lateralis",
             "Tractus rubrospinalis",
@@ -847,7 +847,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_22",
         "subject": "Fizyoloji",
-        "question": "Bir kaza sonucu beyincik (serebellum) hasarı alan bir hastada aşağıdaki nörolojik bulgulardan hangisinin GÖRÜLMESİ BEKLENMEZ?",
+        "question": "Bir kaza sonucu beyincik hasarı alan bir hastada aşağıdaki nörolojik bulgulardan hangisinin GÖRÜLMESİ BEKLENMEZ?",
         "options": [
             "Ataksi (Dengesiz, sarhoşvari yürüyüş)",
             "Disdiadokokinezi (Hızlı ardışık hareketleri yapamama)",
@@ -862,7 +862,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_23",
         "subject": "Fizyoloji",
-        "question": "İskelet kasının kasılması (kayan flamanlar teorisi) sırasında, ince flamanlar (aktin) üzerindeki miyozin bağlanma bölgelerini kapatarak kasın istirahat halinde gevşek kalmasını sağlayan protein hangisidir?",
+        "question": "İskelet kasının kasılması sırasında, ince flamanlar üzerindeki miyozin bağlanma bölgelerini kapatarak kasın istirahat halinde gevşek kalmasını sağlayan protein hangisidir?",
         "options": [
             "Troponin C",
             "Tropomiyozin",
@@ -877,7 +877,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_24",
         "subject": "Fizyoloji",
-        "question": "Sinir kas kavşağında (nöromusküler kavşak), motor nörondan salgılanan asetilkolin, kas hücresi zarındaki (motor son plak) hangi tip reseptöre bağlanarak kasta aksiyon potansiyelini başlatır?",
+        "question": "Sinir kas kavşağında, motor nörondan salgılanan asetilkolin, kas hücresi zarındaki hangi tip reseptöre bağlanarak kasta aksiyon potansiyelini başlatır?",
         "options": [
             "Muskarinik (M3) reseptörler",
             "Nikotinik (Nm) kolinerjik reseptörler",
@@ -907,7 +907,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_26",
         "subject": "Fizyoloji",
-        "question": "Kan pıhtılaşması (koagülasyon) kaskadında, Hemofili A hastalığına neden olan ve Eksikliği PTT (Parsiyel Tromboplastin Zamanı) testinde uzamaya yol açan koagülasyon faktörü hangisidir?",
+        "question": "Kan pıhtılaşması kaskadında, Hemofili A hastalığına neden olan ve Eksikliği PTT testinde uzamaya yol açan koagülasyon faktörü hangisidir?",
         "options": [
             "Faktör II (Protrombin)",
             "Faktör VII",
@@ -922,7 +922,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_27",
         "subject": "Fizyoloji",
-        "question": "Eritropoietin (EPO) hormonunun birincil görevi kırmızı kan hücresi (eritrosit) üretimini artırmaktır. Bu hormon yetişkinlerde ağırlıklı olarak (%90) hangi organ tarafından ve hangi uyarana yanıt olarak sentezlenir?",
+        "question": "Eritropoietin hormonunun birincil görevi kırmızı kan hücresi üretimini artırmaktır. Bu hormon yetişkinlerde ağırlıklı olarak hangi organ tarafından ve hangi uyarana yanıt olarak sentezlenir?",
         "options": [
             "Karaciğer / Yüksek kan glukozu",
             "Kemik iliği / Düşük demir seviyesi",
@@ -937,7 +937,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_28",
         "subject": "Fizyoloji",
-        "question": "Gözdeki retina tabakasında bulunan fotoreseptör hücrelerden Çubukların (Rods) ve Konilerin (Cones) görevleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
+        "question": "Gözdeki retina tabakasında bulunan fotoreseptör hücrelerden Çubukların ve Konilerin görevleriyle ilgili aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "Çubuklar düşük ışıkta (karanlık/skotopik) görmeden sorumludur.",
             "Koniler aydınlıkta renkli görmeden (fotopik) sorumludur.",
@@ -952,7 +952,7 @@ const v9Part1 = [
     {
         "id": "v9_fiz_29",
         "subject": "Fizyoloji",
-        "question": "Ağrı duyusunun iletilmesinde, deriden kalkan yavaş, sızlayıcı (kronik) ağrı duyusunu omuriliğe taşıyan, miyelinsiz ve iletim hızı en yavaş olan sinir lifi tipi hangisidir?",
+        "question": "Ağrı duyusunun iletilmesinde, deriden kalkan yavaş, sızlayıcı ağrı duyusunu omuriliğe taşıyan, miyelinsiz ve iletim hızı en yavaş olan sinir lifi tipi hangisidir?",
         "options": [
             "A-alfa lifleri",
             "A-beta lifleri",

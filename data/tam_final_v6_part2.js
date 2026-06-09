@@ -12,7 +12,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Multipl Miyelom tanısı alan bir hastanın kan serum elektroforezinde, normalde geniş ve yayvan olması gereken bölgesinde dar tabanlı, çok sivri ve yüksek bir 'Monoklonal Pik (M piki)' saptanmıştır. Bu sivri pik elektroforezin hangi bandında (fraksiyonunda) oluşur?",
+        "question": "Multipl Miyelom tanısı alan bir hastanın kan serum elektroforezinde, normalde geniş ve yayvan olması gereken bölgesinde dar tabanlı, çok sivri ve yüksek bir 'Monoklonal Pik' saptanmıştır. Bu sivri pik elektroforezin hangi bandında oluşur?",
         "options": [
             "Albumin bandında",
             "Alfa-1 globulin bandında",
@@ -27,7 +27,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Karbonhidrat metabolizmasında Pentoz Fosfat Yolu'nun (Hegzoz Monofosfat Şantı) hücre için sağladığı en önemli iki temel ürün aşağıdakilerden hangisidir?",
+        "question": "Karbonhidrat metabolizmasında Pentoz Fosfat Yolu'nun hücre için sağladığı en önemli iki temel ürün aşağıdakilerden hangisidir?",
         "options": [
             "ATP ve Pirüvat",
             "NADH ve FADH2",
@@ -42,7 +42,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "Pankreas hormonlarından İnsülin sentezlenirken, proinsülinden koparılarak insülinle birlikte eşit (equimolar) miktarda kana salgılanan ve diyabet hastalarında pankreasın endojen insülin rezervini ölçmek için kullanılan peptit hangisidir?",
+        "question": "Pankreas hormonlarından İnsülin sentezlenirken, proinsülinden koparılarak insülinle birlikte eşit miktarda kana salgılanan ve diyabet hastalarında pankreasın endojen insülin rezervini ölçmek için kullanılan peptit hangisidir?",
         "options": [
             "A Zinciri",
             "B Zinciri",
@@ -57,7 +57,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Adrenal korteks (böbreküstü bezi kabuğu) enzim eksiklikleri (Konjenital Adrenal Hiperplazi) incelendiğinde, en sık görülen ve hem kortizol hem de aldosteron sentezinin durup tüm öncüllerin androjen (testosteron) üretimine kaydığı enzim eksikliği hangisidir?",
+        "question": "Adrenal korteks enzim eksiklikleri incelendiğinde, en sık görülen ve hem kortizol hem de aldosteron sentezinin durup tüm öncüllerin androjen üretimine kaydığı enzim eksikliği hangisidir?",
         "options": [
             "21-Alfa Hidroksilaz",
             "11-Beta Hidroksilaz",
@@ -73,7 +73,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda beynin enerji ihtiyacını karşılamak için karaciğerde yağ asitlerinin yıkılmasıyla sentezlenen ancak karaciğerin kendi mitokondrisinde tiyoforaz enzimi olmadığı için KULLANAMADIĞI enerji kaynağı (Keton cismi) hangisidir?",
+        "question": "Açlık durumunda beynin enerji ihtiyacını karşılamak için karaciğerde yağ asitlerinin yıkılmasıyla sentezlenen ancak karaciğerin kendi mitokondrisinde tiyoforaz enzimi olmadığı için KULLANAMADIĞI enerji kaynağı hangisidir?",
         "options": [
             "Asetoasetat",
             "Laktat",
@@ -88,7 +88,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Krebs (TCA) döngüsünün enzimlerinden hangisi mitokondriyal matrikste SERBEST OLARAK BULUNMAZ ve aynı zamanda Elektron Transport Zinciri'nin (ETZ) Kompleks II'sini oluşturur?",
+        "question": "Krebs döngüsünün enzimlerinden hangisi mitokondriyal matrikste SERBEST OLARAK BULUNMAZ ve aynı zamanda Elektron Transport Zinciri'nin Kompleks II'sini oluşturur?",
         "options": [
             "Sitrat Sentaz",
             "İzositrat Dehidrogenaz",
@@ -103,7 +103,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_7",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kanda demir taşınmasında görev alan ve bir molekülü 2 adet Fe+3 (ferrik) iyonu bağlayabilen spesifik plazma taşıyıcı proteini aşağıdakilerden hangisidir?",
+        "question": "Kanda demir taşınmasında görev alan ve bir molekülü 2 adet Fe+3 iyonu bağlayabilen spesifik plazma taşıyıcı proteini aşağıdakilerden hangisidir?",
         "options": [
             "Ferritin",
             "Transferrin",
@@ -118,7 +118,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_8",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kolesterol sentezinin hız kısıtlayıcı basamağı olan ve Statin grubu (Lipitor vb.) kolesterol düşürücü ilaçlar tarafından inhibe edilen enzim hangisidir?",
+        "question": "Kolesterol sentezinin hız kısıtlayıcı basamağı olan ve Statin grubu kolesterol düşürücü ilaçlar tarafından inhibe edilen enzim hangisidir?",
         "options": [
             "HMG-CoA Sentaz",
             "HMG-CoA Redüktaz",
@@ -133,7 +133,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Glikojen yıkım (Glikojenoliz) hastalıklarından olan Von Gierke Hastalığı (Tip I Glikojen Depo Hastalığı), karaciğer ve böbrekte hangi enzimin doğuştan eksikliğine bağlı olarak şiddetli açlık hipoglisemisine neden olur?",
+        "question": "Glikojen yıkım hastalıklarından olan Von Gierke Hastalığı, karaciğer ve böbrekte hangi enzimin doğuştan eksikliğine bağlı olarak şiddetli açlık hipoglisemisine neden olur?",
         "options": [
             "Asit maltaz (Lizozomal alfa 1-4 glukozidaz)",
             "Glikojen debranching (dal yıkıcı) enzim",
@@ -148,7 +148,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_10",
         "subject": "Tıbbi Biyokimya",
-        "question": "Üre döngüsünün ilk ve hız kısıtlayıcı enzimi olan ve Karbamoil Fosfat sentezleyen (Karbamoil Fosfat Sentetaz I - CPS-I) enzimin hücre mitokondrisinde mutlak allosterik aktivatörü (o olmadan çalışamayan maddesi) aşağıdakilerden hangisidir?",
+        "question": "Üre döngüsünün ilk ve hız kısıtlayıcı enzimi olan ve Karbamoil Fosfat sentezleyen enzimin hücre mitokondrisinde mutlak allosterik aktivatörü aşağıdakilerden hangisidir?",
         "options": [
             "N-Asetilglutamat (NAG)",
             "Sitrat",
@@ -163,7 +163,7 @@ const v6Part2 = [
     {
         "id": "v6_biyo_11",
         "subject": "Tıbbi Biyokimya",
-        "question": "Yağ asitlerinin beta-oksidasyonu (yıkımı) için sitoplazmadan mitokondri matriksine taşınmasını sağlayan mekik (taşıyıcı) sistem hangisidir?",
+        "question": "Yağ asitlerinin beta-oksidasyonu için sitoplazmadan mitokondri matriksine taşınmasını sağlayan mekik sistem hangisidir?",
         "options": [
             "Gliserol-3-fosfat mekiği",
             "Malat-Aspartat mekiği",
@@ -181,7 +181,7 @@ const v6Part2 = [
     {
         "id": "v6_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Eritromisin (Makrolid) veya Ketokonazol gibi güçlü CYP3A4 enzim inhibitörü kullanan bir hastaya, antihiperlipidemik olarak Atorvastatin veya Simvastatin verilirse ortaya çıkabilecek en tehlikeli ilaç etkileşimi yan etkisi aşağıdakilerden hangisidir?",
+        "question": "Eritromisin veya Ketokonazol gibi güçlü CYP3A4 enzim inhibitörü kullanan bir hastaya, antihiperlipidemik olarak Atorvastatin veya Simvastatin verilirse ortaya çıkabilecek en tehlikeli ilaç etkileşimi yan etkisi aşağıdakilerden hangisidir?",
         "options": [
             "Statinlerin yıkımı engelleneceği için kanda birikerek rabdomiyoliz (şiddetli kas yıkımı) ve miyopatiye neden olması.",
             "Statinlerin etkisi sıfıra ineceği için hastanın kalp krizi geçirmesi.",
@@ -196,7 +196,7 @@ const v6Part2 = [
     {
         "id": "v6_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Parkinson tedavisinde Levadopa ile birlikte kullanılan Karbidopa'nın (periferik dekarboksilaz inhibitörü) tedaviye eklenmesinin farmakolojik amacı nedir?",
+        "question": "Parkinson tedavisinde Levadopa ile birlikte kullanılan Karbidopa'nın tedaviye eklenmesinin farmakolojik amacı nedir?",
         "options": [
             "Levadopa'nın beyinde daha fazla dopamin reseptörüne bağlanmasını sağlamak.",
             "Levadopa'nın kan-beyin bariyerini geçmeden önce periferde (çevresel dokularda) dopamine dönüşmesini engelleyerek hem beyne ulaşan miktarını artırmak hem de bulantı/çarpıntı gibi yan etkilerini azaltmak.",
@@ -212,7 +212,7 @@ const v6Part2 = [
     {
         "id": "v6_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Astım krizinde kurtarıcı (reliever) olarak kullanılan Salbutamol'ün etki mekanizması hangisidir?",
+        "question": "Astım krizinde kurtarıcı olarak kullanılan Salbutamol'ün etki mekanizması hangisidir?",
         "options": [
             "Muskarinik (M3) reseptör antagonisti",
             "Alfa-1 adrenerjik reseptör agonisti",
@@ -227,7 +227,7 @@ const v6Part2 = [
     {
         "id": "v6_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Otonom Sinir Sistemi ilaçlarından olan Atropin (Muskarinik Antagonist) kullanıldığında aşağıdakilerden hangisinin görülmesi BEKLENMEZ?",
+        "question": "Otonom Sinir Sistemi ilaçlarından olan Atropin kullanıldığında aşağıdakilerden hangisinin görülmesi BEKLENMEZ?",
         "options": [
             "Göz bebeklerinde büyüme (Midriyazis) ve uyum felci (Siklopleji)",
             "Ağız kuruluğu",
@@ -257,7 +257,7 @@ const v6Part2 = [
     {
         "id": "v6_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Anksiyete ve uyku bozukluklarının tedavisinde kullanılan Benzodiazepinler (Örn. Diazepam), santral sinir sisteminde hangi reseptör üzerinden inhibitör etki gösterir?",
+        "question": "Anksiyete ve uyku bozukluklarının tedavisinde kullanılan Benzodiazepinler, santral sinir sisteminde hangi reseptör üzerinden inhibitör etki gösterir?",
         "options": [
             "GABA-A reseptöründeki klor (Cl-) kanallarının açılma frekansını artırarak",
             "Glutamat (NMDA) reseptörlerini bloke ederek",
@@ -272,7 +272,7 @@ const v6Part2 = [
     {
         "id": "v6_farma_7",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Hipertansiyon ve Anjina Pektoris tedavisinde kullanılan Beta Blokerlerden (Örn. Propranolol) birini kullanması, aşağıdaki eşlik eden hastalığı olan hastalardan hangisinde KESİNLİKLE kontrendikedir (yasaktır)?",
+        "question": "Hipertansiyon ve Anjina Pektoris tedavisinde kullanılan Beta Blokerlerden birini kullanması, aşağıdaki eşlik eden hastalığı olan hastalardan hangisinde KESİNLİKLE kontrendikedir?",
         "options": [
             "Taşikardisi (Çarpıntısı) olan hasta",
             "Migreni olan hasta",
@@ -305,7 +305,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_2",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kalbin dış yüzeyini çevreleyen Epikardiyum (Lamina visceralis pericardii serosi) tabakası histolojik olarak değerlendirildiğinde, en dış kısmını döşeyen epitel dokunun tipi aşağıdakilerden hangisidir?",
+        "question": "Kalbin dış yüzeyini çevreleyen Epikardiyum tabakası histolojik olarak değerlendirildiğinde, en dış kısmını döşeyen epitel dokunun tipi aşağıdakilerden hangisidir?",
         "options": [
             "Tek katlı kübik epitel",
             "Tek katlı yassı epitel (Mezotelyum)",
@@ -320,7 +320,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_3",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Tiroid bezinin mikroskobik yapısında, folikül lümenindeki inaktif kolloid maddenin (tiroglobulin) hücre içine alınarak aktif T3 ve T4 hormonlarına parçalandığı hücresel organel aşağıdakilerden hangisidir?",
+        "question": "Tiroid bezinin mikroskobik yapısında, folikül lümenindeki inaktif kolloid maddenin hücre içine alınarak aktif T3 ve T4 hormonlarına parçalandığı hücresel organel aşağıdakilerden hangisidir?",
         "options": [
             "Granülsüz Endoplazmik Retikulum",
             "Lizozom",
@@ -335,7 +335,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_4",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Hipofiz bezi (Glandula pituitaria) hücrelerinde sentezlenen hormonlardan hangisi Adenohipofiz'de ÜRETİLMEZ, sadece arka hipofizden (Nörohipofizden) kana verilir?",
+        "question": "Hipofiz bezi hücrelerinde sentezlenen hormonlardan hangisi Adenohipofiz'de ÜRETİLMEZ, sadece arka hipofizden kana verilir?",
         "options": [
             "Adrenokortikotropik Hormon (ACTH)",
             "Prolaktin",
@@ -351,7 +351,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Lenf düğümünün (Nodus lymphaticus) histolojik incelemesinde, B-lenfositlerinin yoğun olarak bulunduğu ve antijenle karşılaşınca çoğalarak 'Germinal Merkez' oluşturdukları foliküller hangi anatomik bölgesinde yer alır?",
+        "question": "Lenf düğümünün histolojik incelemesinde, B-lenfositlerinin yoğun olarak bulunduğu ve antijenle karşılaşınca çoğalarak 'Germinal Merkez' oluşturdukları foliküller hangi anatomik bölgesinde yer alır?",
         "options": [
             "Korteks (Dış Korteks)",
             "Parakorteks (Derin Korteks)",
@@ -366,7 +366,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_6",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Dalak mikroskobisinde, dalağın bağışıklık fonksiyonunu yürüten ve etrafında bir 'PALS (Periarteriolar Lenfoid Kılıf)' bulunduran beyaz pulpanın (Pulpa alba) temel hücreleri hangileridir?",
+        "question": "Dalak mikroskobisinde, dalağın bağışıklık fonksiyonunu yürüten ve etrafında bir 'PALS' bulunduran beyaz pulpanın temel hücreleri hangileridir?",
         "options": [
             "Eritrositler",
             "T ve B Lenfositleri",
@@ -381,7 +381,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_7",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Göz retinasının yapısında bulunan ve siyah-beyaz / loş ışıkta görmeden sorumlu olan 'Rod (Çomak)' reseptör hücreleri, retinanın hangi tabakasında yer alır?",
+        "question": "Göz retinasının yapısında bulunan ve siyah-beyaz / loş ışıkta görmeden sorumlu olan 'Rod' reseptör hücreleri, retinanın hangi tabakasında yer alır?",
         "options": [
             "Gangliyon hücre tabakası",
             "İç nükleer tabaka",
@@ -396,7 +396,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Böbrek nefronlarında makula densa, jukstaglomerüler (JG) hücreler ve ekstraglomerüler mezangiyal hücrelerin oluşturduğu Jukstaglomerüler Aparat (JGA) hangi damarın duvarı ile distal tübül arasında yer alır?",
+        "question": "Böbrek nefronlarında makula densa, jukstaglomerüler hücreler ve ekstraglomerüler mezangiyal hücrelerin oluşturduğu Jukstaglomerüler Aparat hangi damarın duvarı ile distal tübül arasında yer alır?",
         "options": [
             "Efferent arteriyol",
             "Afferent arteriyol",
@@ -411,7 +411,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_9",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kemik dokusunda, kemik matriksinin (osteoid) kalsifiye olmamış organik kısmını (özellikle Tip I kollajen) sentezleyen hücreler hangileridir?",
+        "question": "Kemik dokusunda, kemik matriksinin kalsifiye olmamış organik kısmını sentezleyen hücreler hangileridir?",
         "options": [
             "Osteoklastlar",
             "Osteositler",
@@ -426,7 +426,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_10",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Solunum sisteminde Trakea'nın iç yüzeyini döşeyen 'Yalancı çok katlı prizmatik (Silli) epitel' yapısında en sık bulunan ve solunum yollarındaki partikülleri silleriyle yukarı iten hücre tipi hangisidir?",
+        "question": "Solunum sisteminde Trakea'nın iç yüzeyini döşeyen 'Yalancı çok katlı prizmatik epitel' yapısında en sık bulunan ve solunum yollarındaki partikülleri silleriyle yukarı iten hücre tipi hangisidir?",
         "options": [
             "Silli (Titrek tüylü) kolumnar hücreler",
             "Kadeh (Goblet) hücreleri",
@@ -441,7 +441,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_11",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Tükürük bezlerinden Parotis bezi (Glandula parotidea) histolojik olarak ne tür bir salgı yapar?",
+        "question": "Tükürük bezlerinden Parotis bezi histolojik olarak ne tür bir salgı yapar?",
         "options": [
             "Sadece Muköz salgı",
             "Seromuköz (Karışık, muköz ağırlıklı)",
@@ -456,7 +456,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_12",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kalın bağırsak (Colon) histolojisinin ince bağırsaktan ayrılan en karakteristik özelliği aşağıdakilerden hangisidir?",
+        "question": "Kalın bağırsak histolojisinin ince bağırsaktan ayrılan en karakteristik özelliği aşağıdakilerden hangisidir?",
         "options": [
             "Villus yapılarının OLMAMASI",
             "Kadeh (Goblet) hücrelerinin tamamen kaybolması",
@@ -471,7 +471,7 @@ const v6Part2 = [
     {
         "id": "v6_histo_13",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kadın üreme sisteminde oogenez sırasında Mayoz-I'in tamamlanması (ve ilk kutup cisimciğinin atılması) ne zaman gerçekleşir?",
+        "question": "Kadın üreme sisteminde oogenez sırasında Mayoz-I'in tamamlanması ne zaman gerçekleşir?",
         "options": [
             "Doğumdan hemen önce (Fetal hayatta)",
             "Puberteden önce",
@@ -489,7 +489,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_1",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Antimikrobiyal ilaçlardan DNA Jiraz (Topoizomeraz II) ve Topoizomeraz IV enzimlerini inhibe ederek bakteriyel DNA replikasyonunu durduran, özellikle üriner sistem enfeksiyonlarında sık kullanılan antibiyotik grubu hangisidir?",
+        "question": "Antimikrobiyal ilaçlardan DNA Jiraz ve Topoizomeraz IV enzimlerini inhibe ederek bakteriyel DNA replikasyonunu durduran, özellikle üriner sistem enfeksiyonlarında sık kullanılan antibiyotik grubu hangisidir?",
         "options": [
             "Kinolonlar (örn. Siprofloksasin)",
             "Sefalosporinler (örn. Seftriakson)",
@@ -519,7 +519,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Kolera etkeni Vibrio cholerae'nın laboratuvar tanısında (dışkı kültüründe) hızlı ve seçici üreme sağlamak için aşağıdaki besiyerlerinden (kültür ortamı) hangisi kullanılır?",
+        "question": "Kolera etkeni Vibrio cholerae'nın laboratuvar tanısında hızlı ve seçici üreme sağlamak için aşağıdaki besiyerlerinden hangisi kullanılır?",
         "options": [
             "Kanlı agar",
             "TCBS (Tiyosülfat Sitrat Safra Tuzları Sükroz) agarı",
@@ -535,7 +535,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_4",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Şarbon (Anthrax) hastalığının etkeni olan Bacillus anthracis bakterisinin mikroskobik morfolojisi aşağıdakilerden hangisidir?",
+        "question": "Şarbon hastalığının etkeni olan Bacillus anthracis bakterisinin mikroskobik morfolojisi aşağıdakilerden hangisidir?",
         "options": [
             "Gram negatif diplokok",
             "Gram pozitif, sporsuz, çomak",
@@ -550,7 +550,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Hücre zarı (Plazmalemma) yapısında normalde bakterilerde bulunmayan sterolleri bulunduran bakteri Mycoplasma iken, hücre duvarında Gram boyası almasını engelleyen 'Mikolik asit (Mycolic acid)' gibi kalın mumsu lipidler bulunduran aside dirençli bakteri hangisidir?",
+        "question": "Hücre zarı yapısında normalde bakterilerde bulunmayan sterolleri bulunduran bakteri Mycoplasma iken, hücre duvarında Gram boyası almasını engelleyen 'Mikolik asit' gibi kalın mumsu lipidler bulunduran aside dirençli bakteri hangisidir?",
         "options": [
             "Treponema pallidum",
             "Mycobacterium tuberculosis",
@@ -565,7 +565,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_6",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Mantar enfeksiyonlarının (Mikoz) tanısında, doku örneklerindeki keratinize yapıları eriterek (saç, deri, tırnak) mantar hiflerinin (iplikçiklerinin) mikroskop altında net görülmesini sağlayan kimyasal madde hangisidir?",
+        "question": "Mantar enfeksiyonlarının tanısında, doku örneklerindeki keratinize yapıları eriterek mantar hiflerinin mikroskop altında net görülmesini sağlayan kimyasal madde hangisidir?",
         "options": [
             "Gram Boyası",
             "%10-20 Potasyum Hidroksit (KOH)",
@@ -580,7 +580,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Dünya Sağlık Örgütü tarafından tamamen yok edildiği (Eradike edildiği) ilan edilen insanlık tarihindeki İLK ve TEK viral hastalık aşağıdakilerden hangisidir?",
+        "question": "Dünya Sağlık Örgütü tarafından tamamen yok edildiği ilan edilen insanlık tarihindeki İLK ve TEK viral hastalık aşağıdakilerden hangisidir?",
         "options": [
             "Çocuk Felci (Poliomyelit)",
             "Kızamık (Rubeola)",
@@ -595,7 +595,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_8",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Köpek, kedi veya yarasa ısırması sonucu bulaşan, beyne ulaştığında negri cisimcikleri (Negri bodies) oluşturan ve ensefalit tablosuyla (su korkusu vb.) kesin ölümle sonuçlanan virüs hangisidir?",
+        "question": "Köpek, kedi veya yarasa ısırması sonucu bulaşan, beyne ulaştığında negri cisimcikleri oluşturan ve ensefalit tablosuyla kesin ölümle sonuçlanan virüs hangisidir?",
         "options": [
             "Kuduz (Rabies) Virüsü",
             "Batı Nil Virüsü",
@@ -610,7 +610,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_9",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bağırsak parazitlerinden, çıplak ayakla toprakta yürürken larvalarının (filariform larva) ciltten içeri girerek insanı enfekte ettiği ve kancalarıyla bağırsağa tutunarak kan emdiği (anemi yapan) 'Kancalı kurt' aşağıdakilerden hangisidir?",
+        "question": "Bağırsak parazitlerinden, çıplak ayakla toprakta yürürken larvalarının ciltten içeri girerek insanı enfekte ettiği ve kancalarıyla bağırsağa tutunarak kan emdiği 'Kancalı kurt' aşağıdakilerden hangisidir?",
         "options": [
             "Ascaris lumbricoides",
             "Ancylostoma duodenale / Necator americanus",
@@ -625,7 +625,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Sıtma (Malaria) tanısı koymak için ateşli dönemdeki hastadan alınan kan örneğinin mikroskobik incelemesinde eritrositlerin (kırmızı kan hücreleri) içinde 'Taşlı yüzük (Ring form)' görünümü veren parazit hangisidir?",
+        "question": "Sıtma tanısı koymak için ateşli dönemdeki hastadan alınan kan örneğinin mikroskobik incelemesinde eritrositlerin içinde 'Taşlı yüzük' görünümü veren parazit hangisidir?",
         "options": [
             "Leishmania tropica",
             "Trypanosoma brucei",
@@ -640,7 +640,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gram negatif çomak (basil) olan ve hastanelerde yatan yoğun bakım hastalarının solunum cihazlarında (ventilatör) veya yanık yaralarında kolonize olarak antibiyotiklere çok dirençli ölümcül enfeksiyonlar yapan, kültürde 'yeşil/mavi pigment' oluşturan ve 'üzüm/ıhlamur kokulu' bakteri hangisidir?",
+        "question": "Gram negatif çomak olan ve hastanelerde yatan yoğun bakım hastalarının solunum cihazlarında veya yanık yaralarında kolonize olarak antibiyotiklere çok dirençli ölümcül enfeksiyonlar yapan, kültürde 'yeşil/mavi pigment' oluşturan ve 'üzüm/ıhlamur kokulu' bakteri hangisidir?",
         "options": [
             "Escherichia coli",
             "Klebsiella pneumoniae",
@@ -655,7 +655,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_12",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Vücudumuzdaki normal mikrobiyotanın (flora) özellikleri hakkında aşağıdakilerden hangisi yanlıştır?",
+        "question": "Vücudumuzdaki normal mikrobiyotanın özellikleri hakkında aşağıdakilerden hangisi yanlıştır?",
         "options": [
             "Deride en bol bulunan bakterilerden biri Staphylococcus epidermidis'tir.",
             "Normal flora, dışarıdan gelen hastalık yapıcı (patojen) bakterilerle yer ve besin rekabetine girerek onları engeller.",
@@ -670,7 +670,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Deri mantarlarından (Dermatofitler) saç, deri ve tırnaklarda enfeksiyon (Tinea) yapabilen 3 cinsten hangisi mikrokonidya oluşturmaz, ancak büyük sosis veya mekik şeklinde makrokonidyaları vardır?",
+        "question": "Deri mantarlarından saç, deri ve tırnaklarda enfeksiyon yapabilen 3 cinsten hangisi mikrokonidya oluşturmaz, ancak büyük sosis veya mekik şeklinde makrokonidyaları vardır?",
         "options": [
             "Trichophyton",
             "Microsporum",
@@ -685,7 +685,7 @@ const v6Part2 = [
     {
         "id": "v6_mikro_14",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Kızamık, Kabakulak ve Kızamıkçık virüslerine karşı yapılan (MMR) aşı türü aşağıdakilerden hangisidir?",
+        "question": "Kızamık, Kabakulak ve Kızamıkçık virüslerine karşı yapılan aşı türü aşağıdakilerden hangisidir?",
         "options": [
             "Canlı atenüe (zayıflatılmış) viral aşı",
             "İnaktif (Ölü) viral aşı",
@@ -703,7 +703,7 @@ const v6Part2 = [
     {
         "id": "v6_biyofizik_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarının biyofiziksel elektriksel modeli bir kondansatöre (kapasitör) benzetilir. Hücre zarının 'Kapasitans' değerinin (yük depolama kapasitesi) miyelin kılıf ile kaplandığında azalmasının sinir iletimine etkisi nedir?",
+        "question": "Hücre zarının biyofiziksel elektriksel modeli bir kondansatöre benzetilir. Hücre zarının 'Kapasitans' değerinin miyelin kılıf ile kaplandığında azalmasının sinir iletimine etkisi nedir?",
         "options": [
             "Aksiyon potansiyeli genliğini sıfıra indirir.",
             "Aksiyon potansiyelinin akson boyunca iletim hızını ciddi oranda artırır.",
@@ -718,7 +718,7 @@ const v6Part2 = [
     {
         "id": "v6_biyofizik_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "X-Işınlarının (Röntgen) maddeden geçerken dokuların yoğunluğuna göre soğurulması prensibinde, aşağıdaki yapılardan hangisi radyografide (röntgen filminde) EN BEYAZ (radyoopak) görünür?",
+        "question": "X-Işınlarının maddeden geçerken dokuların yoğunluğuna göre soğurulması prensibinde, aşağıdaki yapılardan hangisi radyografide EN BEYAZ görünür?",
         "options": [
             "Akciğerlerdeki hava",
             "Derialtı yağ dokusu",
@@ -733,7 +733,7 @@ const v6Part2 = [
     {
         "id": "v6_biyofizik_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "Sıvıların yüzey gerilimi ile basınç arasındaki ilişkiyi açıklayan Laplace Yasasına (P = 2T / r) göre, akciğer alveolleri gibi küresel yapılarda alveol yarıçapı küçüldükçe içindeki basınç ne olur?",
+        "question": "Sıvıların yüzey gerilimi ile basınç arasındaki ilişkiyi açıklayan Laplace Yasasına göre, akciğer alveolleri gibi küresel yapılarda alveol yarıçapı küçüldükçe içindeki basınç ne olur?",
         "options": [
             "Azalır",
             "Değişmez",
@@ -748,7 +748,7 @@ const v6Part2 = [
     {
         "id": "v6_biyofizik_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Tıbbi cihazlardan Ultrasonografinin (USG) görüntü oluşturma prensibi aşağıdakilerden hangisine dayanır?",
+        "question": "Tıbbi cihazlardan Ultrasonografinin görüntü oluşturma prensibi aşağıdakilerden hangisine dayanır?",
         "options": [
             "Vücuttaki hidrojen protonlarının manyetik rezonansı",
             "Pozitron ışıması yapan radyoaktif ajanların kullanılması",
@@ -779,7 +779,7 @@ const v6Part2 = [
     {
         "id": "v6_patoloji_2",
         "subject": "Tıbbi Patoloji",
-        "question": "Nekroz türlerinden olan ve beyin dokusu gibi proteinden fakir / lipitten zengin organların iskemisinde (enfarktüs) ölü dokunun enzimatik yıkımla sıvılaşarak kistik bir boşluğa dönüştüğü nekroz tipi hangisidir?",
+        "question": "Nekroz türlerinden olan ve beyin dokusu gibi proteinden fakir / lipitten zengin organların iskemisinde ölü dokunun enzimatik yıkımla sıvılaşarak kistik bir boşluğa dönüştüğü nekroz tipi hangisidir?",
         "options": [
             "Koagülasyon nekrozu",
             "Kazeifikasyon nekrozu",
@@ -857,7 +857,7 @@ const v6Part2 = [
     {
         "id": "v6_bak_1",
         "subject": "Bilimsel Araştırma",
-        "question": "Tıbbi araştırmalarda 'P-değeri (P-value)' neyi ifade eder?",
+        "question": "Tıbbi araştırmalarda 'P-değeri' neyi ifade eder?",
         "options": [
             "İlacın hastayı iyileştirme gücünün kesinliğini",
             "Araştırmada bulunan sonucun şans eseri ortaya çıkma olasılığını",
@@ -873,7 +873,7 @@ const v6Part2 = [
     {
         "id": "v6_toplum_1",
         "subject": "Toplum Sağlığı",
-        "question": "Bir toplumda belirli bir hastalığın (Örn: Hipertansiyon) ne kadar sık görüldüğünü saptamak için hastalığın o anki Taramasının (fotoğrafının çekilmesinin) yapıldığı, sebep ve sonucun aynı anda değerlendirildiği araştırma tipi hangisidir?",
+        "question": "Bir toplumda belirli bir hastalığın ne kadar sık görüldüğünü saptamak için hastalığın o anki Taramasının yapıldığı, sebep ve sonucun aynı anda değerlendirildiği araştırma tipi hangisidir?",
         "options": [
             "Vaka-Kontrol (Case-Control) Çalışması",
             "Kohort Çalışması",

@@ -12,7 +12,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_1",
         "subject": "Anatomi",
-        "question": "45 yaşında kadın hasta, safra kesesi ameliyatı (kolesistektomi) sırasında arteria cystica'nın köken aldığı damar bulunurken yanlışlıkla başka bir damar bağlanıyor. Cerrahın, arteria cystica'yı ararken anatomik olarak orientasyon noktası aldığı ve Calot üçgeninin (trigonum cystohepaticum) sınırlarını oluşturan yapılar arasında aşağıdakilerden hangisi yer almaz?",
+        "question": "45 yaşında kadın hasta, safra kesesi ameliyatı sırasında arteria cystica'nın köken aldığı damar bulunurken yanlışlıkla başka bir damar bağlanıyor. Cerrahın, arteria cystica'yı ararken anatomik olarak orientasyon noktası aldığı ve Calot üçgeninin sınırlarını oluşturan yapılar arasında aşağıdakilerden hangisi yer almaz?",
         "options": [
             "Ductus cysticus",
             "Ductus hepaticus communis",
@@ -42,7 +42,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_3",
         "subject": "Anatomi",
-        "question": "Tiroidektomi operasyonu sonrası ses kısıklığı (disfoni) şikayetiyle başvuran hastada, ameliyat sırasında arteria thyroidea inferior bağlanırken yanlışlıkla bir sinirin bağlandığı düşünülmektedir. Bu sinir aşağıdakilerden hangisidir ve hangi kıkırdağın arka yüzünden larynxe girer?",
+        "question": "Tiroidektomi operasyonu sonrası ses kısıklığı şikayetiyle başvuran hastada, ameliyat sırasında arteria thyroidea inferior bağlanırken yanlışlıkla bir sinirin bağlandığı düşünülmektedir. Bu sinir aşağıdakilerden hangisidir ve hangi kıkırdağın arka yüzünden larynxe girer?",
         "options": [
             "N. laryngeus superior ramus externus - Cartilago cricoidea",
             "N. laryngeus recurrens - Cartilago thyroidea",
@@ -72,7 +72,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_5",
         "subject": "Anatomi",
-        "question": "Araç içi trafik kazası sonrası hastaneye getirilen 50 yaşında erkek hastada, diz kapağı (patella) üzerine şiddetli darbe aldığı belirleniyor. Yapılan tetkiklerde, fossa poplitea'nın derininde yer alan ve uyluğun arka kompartmanına kan taşıyan damarın yırtıldığı tespit ediliyor. Arteria poplitea, adductor kanaldan (canalis adductorius) çıkarken hangi açıklıktan geçer?",
+        "question": "Araç içi trafik kazası sonrası hastaneye getirilen 50 yaşında erkek hastada, diz kapağı üzerine şiddetli darbe aldığı belirleniyor. Yapılan tetkiklerde, fossa poplitea'nın derininde yer alan ve uyluğun arka kompartmanına kan taşıyan damarın yırtıldığı tespit ediliyor. Arteria poplitea, adductor kanaldan çıkarken hangi açıklıktan geçer?",
         "options": [
             "Hiatus saphenus",
             "Hiatus adductorius (Hunter kanalı çıkışı)",
@@ -87,7 +87,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_6",
         "subject": "Anatomi",
-        "question": "Bebeklik döneminde sık idrar yolu enfeksiyonu geçiren ve ultrasonografisinde 'Atnalı böbrek' (Horseshoe kidney) saptanan 2 yaşındaki erkek çocukta, birleşmiş olan böbrek alt kutuplarının embriyolojik asensus (yukarı çıkış) sırasında takıldığı anatomik yapı hangisidir?",
+        "question": "Bebeklik döneminde sık idrar yolu enfeksiyonu geçiren ve ultrasonografisinde 'Atnalı böbrek' saptanan 2 yaşındaki erkek çocukta, birleşmiş olan böbrek alt kutuplarının embriyolojik asensus sırasında takıldığı anatomik yapı hangisidir?",
         "options": [
             "Arteria mesenterica superior",
             "Arteria mesenterica inferior",
@@ -102,7 +102,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_7",
         "subject": "Anatomi",
-        "question": "Kardiyoloji polikliniğine göğüs ağrısı ile başvuran hastada yapılan koroner anjiyografide, kalbin diaphragmatik yüzünün büyük bir kısmını besleyen ve sulcus interventricularis posterior içinde seyreden arterin %90 tıkalı olduğu görülüyor. Bu damar çoğunlukla (sağ dominant kalplerde) hangi arterin dalıdır?",
+        "question": "Kardiyoloji polikliniğine göğüs ağrısı ile başvuran hastada yapılan koroner anjiyografide, kalbin diaphragmatik yüzünün büyük bir kısmını besleyen ve sulcus interventricularis posterior içinde seyreden arterin %90 tıkalı olduğu görülüyor. Bu damar çoğunlukla hangi arterin dalıdır?",
         "options": [
             "Arteria coronaria sinistra",
             "Ramus circumflexus",
@@ -117,7 +117,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_8",
         "subject": "Anatomi",
-        "question": "Meme kanseri tanısı konulan 45 yaşındaki hastaya uygulanan mastektomi ve aksiller lenf nodu diseksiyonu sonrası, hastanın sağ kolunu baş seviyesinin üzerine (180 derece) kaldıramadığı, scapulanın da göğüs duvarından ayrılıp kanatlaştığı (scapula alata) gözlemleniyor. Bu duruma sebep olan sinir lezyonu hangisidir?",
+        "question": "Meme kanseri tanısı konulan 45 yaşındaki hastaya uygulanan mastektomi ve aksiller lenf nodu diseksiyonu sonrası, hastanın sağ kolunu baş seviyesinin üzerine kaldıramadığı, scapulanın da göğüs duvarından ayrılıp kanatlaştığı gözlemleniyor. Bu duruma sebep olan sinir lezyonu hangisidir?",
         "options": [
             "Nervus thoracodorsalis",
             "Nervus thoracicus longus",
@@ -135,7 +135,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_9",
         "subject": "Anatomi",
-        "question": "Böbreklerin (Ren) anatomisi incelendiğinde, böbreğin kan damarları, sinirleri ve üreterin giriş-çıkış yaptığı hilum renale bölgesinde, önden arkaya doğru yapıların sıralanışı (V-A-U kuralı) aşağıdakilerden hangisidir?",
+        "question": "Böbreklerin anatomisi incelendiğinde, böbreğin kan damarları, sinirleri ve üreterin giriş-çıkış yaptığı hilum renale bölgesinde, önden arkaya doğru yapıların sıralanışı aşağıdakilerden hangisidir?",
         "options": [
             "Arteria renalis - Vena renalis - Pelvis renalis (Üreter)",
             "Vena renalis - Arteria renalis - Pelvis renalis (Üreter)",
@@ -150,7 +150,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_10",
         "subject": "Anatomi",
-        "question": "Erkek genital sisteminde, testislerde üretilen spermlerin depolandığı ve hareket yeteneği (motilite) kazandığı, testisin arka kenarına tutunmuş virgül şeklindeki organ hangisidir?",
+        "question": "Erkek genital sisteminde, testislerde üretilen spermlerin depolandığı ve hareket yeteneği kazandığı, testisin arka kenarına tutunmuş virgül şeklindeki organ hangisidir?",
         "options": [
             "Ductus deferens",
             "Vesicula seminalis",
@@ -166,7 +166,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_11",
         "subject": "Anatomi",
-        "question": "Pelvis diyaframını (diaphragma pelvis) oluşturan en önemli kas grubu olan Musculus levator ani, aşağıdaki kaslardan hangisini İÇERMEZ?",
+        "question": "Pelvis diyaframını oluşturan en önemli kas grubu olan Musculus levator ani, aşağıdaki kaslardan hangisini İÇERMEZ?",
         "options": [
             "M. pubococcygeus",
             "M. puborectalis",
@@ -181,7 +181,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_12",
         "subject": "Anatomi",
-        "question": "Kadın iç genital organlarından Tuba uterina'nın (Fallop tüpü) yumurtalığa (ovariuma) en yakın olan ve saçaklı (fimbrialı) ucunun bulunduğu huni şeklindeki bölümüne ne ad verilir?",
+        "question": "Kadın iç genital organlarından Tuba uterina'nın yumurtalığa en yakın olan ve saçaklı ucunun bulunduğu huni şeklindeki bölümüne ne ad verilir?",
         "options": [
             "İsthmus",
             "Ampulla",
@@ -197,7 +197,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_13",
         "subject": "Anatomi",
-        "question": "Mesanenin (Vesica urinaria) iç yüzeyinde bulunan, düzgün yüzeyli ve kasılmayan üçgen şeklindeki bölgeye (Trigonum vesicae) hangi yapılar açılır?",
+        "question": "Mesanenin iç yüzeyinde bulunan, düzgün yüzeyli ve kasılmayan üçgen şeklindeki bölgeye hangi yapılar açılır?",
         "options": [
             "İki üreter ve bir urethra",
             "İki urethra ve bir üreter",
@@ -212,7 +212,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_14",
         "subject": "Anatomi",
-        "question": "Perine bölgesinde, centrum tendineum perinei'ye (perineal cisim) tutunmayan kas aşağıdakilerden hangisidir?",
+        "question": "Perine bölgesinde, centrum tendineum perinei'ye tutunmayan kas aşağıdakilerden hangisidir?",
         "options": [
             "M. bulbospongiosus",
             "M. transversus perinei superficialis",
@@ -243,7 +243,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_16",
         "subject": "Anatomi",
-        "question": "Ductus parotideus (Stensen kanalı) hangi kası delerek ağız boşluğuna (vestibulum oris) açılır?",
+        "question": "Ductus parotideus hangi kası delerek ağız boşluğuna açılır?",
         "options": [
             "M. masseter",
             "M. pterygoideus medialis",
@@ -273,7 +273,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_18",
         "subject": "Anatomi",
-        "question": "Plexus brachialis'in fasciculus lateralis ve fasciculus medialis'inin birleşmesiyle oluşan ve kolda (brachium) seyri boyunca dal vermeyen sinir hangisidir?",
+        "question": "Plexus brachialis'in fasciculus lateralis ve fasciculus medialis'inin birleşmesiyle oluşan ve kolda seyri boyunca dal vermeyen sinir hangisidir?",
         "options": [
             "Nervus ulnaris",
             "Nervus radialis",
@@ -288,7 +288,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_19",
         "subject": "Anatomi",
-        "question": "Ovarium'un (yumurtalık) arteriyel kanlanmasını sağlayan arteria ovarica, aşağıdakilerden hangisinin dalıdır?",
+        "question": "Ovarium'un arteriyel kanlanmasını sağlayan arteria ovarica, aşağıdakilerden hangisinin dalıdır?",
         "options": [
             "Arteria iliaca interna",
             "Arteria iliaca externa",
@@ -303,7 +303,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_20",
         "subject": "Anatomi",
-        "question": "Aşağıdaki kaslardan hangisi N. ischiadicus tarafından innerve edilen hamstring (arka uyluk) kaslarından biri DEĞİLDİR?",
+        "question": "Aşağıdaki kaslardan hangisi N. ischiadicus tarafından innerve edilen hamstring kaslarından biri DEĞİLDİR?",
         "options": [
             "M. semimembranosus",
             "M. semitendinosus",
@@ -333,7 +333,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_22",
         "subject": "Anatomi",
-        "question": "Göğüs boşluğunda (mediastinum) kalbin arkasında, özofagus ve aorta descendens ile komşuluğu olan, en büyük lenfatik kanal hangisidir?",
+        "question": "Göğüs boşluğunda kalbin arkasında, özofagus ve aorta descendens ile komşuluğu olan, en büyük lenfatik kanal hangisidir?",
         "options": [
             "Ductus lymphaticus dexter",
             "Ductus thoracicus",
@@ -348,7 +348,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_23",
         "subject": "Anatomi",
-        "question": "Otonom sinir sisteminde, parasempatik lifleri taşıyan kafa çiftleri (cranial sinirler) aşağıdakilerden hangisinde doğru ve eksiksiz verilmiştir?",
+        "question": "Otonom sinir sisteminde, parasempatik lifleri taşıyan kafa çiftleri aşağıdakilerden hangisinde doğru ve eksiksiz verilmiştir?",
         "options": [
             "III, VII, IX, X",
             "V, VII, IX, X",
@@ -363,7 +363,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_24",
         "subject": "Anatomi",
-        "question": "Aşağıdaki bağlardan hangisi karaciğeri diafragmaya bağlayan ve karaciğerin çıplak alanını (area nuda) çevreleyen bağdır?",
+        "question": "Aşağıdaki bağlardan hangisi karaciğeri diafragmaya bağlayan ve karaciğerin çıplak alanını çevreleyen bağdır?",
         "options": [
             "Ligamentum falciforme",
             "Ligamentum teres hepatis",
@@ -393,7 +393,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_26",
         "subject": "Anatomi",
-        "question": "Hangi kemik neurocranium (beyin kafatası) kemiklerinden biri değildir?",
+        "question": "Hangi kemik neurocranium kemiklerinden biri değildir?",
         "options": [
             "Os frontale",
             "Os parietale",
@@ -408,7 +408,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_27",
         "subject": "Anatomi",
-        "question": "Medulla spinalis, yetişkin bir insanda omurga kanalında (canalis vertebralis) hangi seviyede sonlanır?",
+        "question": "Medulla spinalis, yetişkin bir insanda omurga kanalında hangi seviyede sonlanır?",
         "options": [
             "L1 - L2 omurları arası",
             "T12 - L1 omurları arası",
@@ -438,7 +438,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_29",
         "subject": "Anatomi",
-        "question": "Hangi kas, omuz eklemine (art. humeri) dış rotasyon (lateral rotasyon) yaptıran rotator cuff kaslarından biridir?",
+        "question": "Hangi kas, omuz eklemine dış rotasyon yaptıran rotator cuff kaslarından biridir?",
         "options": [
             "M. subscapularis",
             "M. teres major",
@@ -453,7 +453,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_30",
         "subject": "Anatomi",
-        "question": "Foramen epiploicum (Winslow deliği) aracılığıyla omental bursa (bursa omentalis) ile asıl periton boşluğu (cavitas peritonealis) birbirine bağlanır. Bu deliğin ön sınırını hangi yapı oluşturur?",
+        "question": "Foramen epiploicum aracılığıyla omental bursa ile asıl periton boşluğu birbirine bağlanır. Bu deliğin ön sınırını hangi yapı oluşturur?",
         "options": [
             "Vena cava inferior",
             "Lobus caudatus (Karaciğer)",
@@ -468,7 +468,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_31",
         "subject": "Anatomi",
-        "question": "Orta kulak boşluğunu (cavitas tympanica) nazofarenkse bağlayarak basınç eşitlenmesini sağlayan yapı hangisidir?",
+        "question": "Orta kulak boşluğunu nazofarenkse bağlayarak basınç eşitlenmesini sağlayan yapı hangisidir?",
         "options": [
             "Tuba auditiva (Eustachi borusu)",
             "Ductus nasolacrimalis",
@@ -498,7 +498,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_33",
         "subject": "Anatomi",
-        "question": "Aşağıdaki kaslardan hangisi dilin dışarıya doğru uzatılmasını (protrüzyon) sağlayan kastır?",
+        "question": "Aşağıdaki kaslardan hangisi dilin dışarıya doğru uzatılmasını sağlayan kastır?",
         "options": [
             "M. hyoglossus",
             "M. styloglossus",
@@ -513,7 +513,7 @@ const v8Part1 = [
     {
         "id": "v8_anat_34",
         "subject": "Anatomi",
-        "question": "Beyin omurilik sıvısının (BOS) ventriküler sistemden subaraknoid mesafeye geçişini sağlayan Foramen Magendie ve Foramen Luschka'lar hangi ventrikülün tavanı/duvarında bulunur?",
+        "question": "Beyin omurilik sıvısının ventriküler sistemden subaraknoid mesafeye geçişini sağlayan Foramen Magendie ve Foramen Luschka'lar hangi ventrikülün tavanı/duvarında bulunur?",
         "options": [
             "Ventriculus lateralis",
             "Ventriculus tertius (3. ventrikül)",
@@ -531,7 +531,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_1",
         "subject": "Fizyoloji",
-        "question": "55 yaşında obezite ve hipertansiyon öyküsü olan erkek hasta, son 6 aydır yorgunluk ve kas güçsüzlüğü şikayetiyle başvuruyor. Yapılan tetkiklerde hipernatremi, hipokalemi ve metabolik alkaloz saptanıyor. Kan basıncı 170/100 mmHg olarak ölçülen hastanın plazma renin aktivitesi çok düşük bulunurken, serum aldosteron seviyesi yüksek ölçülüyor. Bu hastadaki tablonun (Primer Hiperaldosteronizm) oluşum mekanizması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+        "question": "55 yaşında obezite ve hipertansiyon öyküsü olan erkek hasta, son 6 aydır yorgunluk ve kas güçsüzlüğü şikayetiyle başvuruyor. Yapılan tetkiklerde hipernatremi, hipokalemi ve metabolik alkaloz saptanıyor. Kan basıncı 170/100 mmHg olarak ölçülen hastanın plazma renin aktivitesi çok düşük bulunurken, serum aldosteron seviyesi yüksek ölçülüyor. Bu hastadaki tablonun oluşum mekanizması ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
         "options": [
             "Aldosteron, böbrek toplayıcı kanallarındaki esas (principal) hücrelerde ENaC kanallarının ekspresyonunu artırır.",
             "Artan sodyum geri emilimi, lümende negatif bir potansiyel yaratarak potasyumun lümene sekresyonunu hızlandırır.",
@@ -561,7 +561,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_3",
         "subject": "Fizyoloji",
-        "question": "60 yaşında bir hastada sağ kalp yetmezliği gelişmiştir. Hastanın muayenesinde boyun venlerinde dolgunluk, hepatomegali ve ayak bileklerinde şiddetli gode bırakan ödem tespit ediliyor. Starling sıvı değişim dinamikleri (kılcal damar kuvvetleri) göz önüne alındığında, bu hastada periferik ödem gelişiminden sorumlu olan birincil fizyolojik değişiklik aşağıdakilerden hangisidir?",
+        "question": "60 yaşında bir hastada sağ kalp yetmezliği gelişmiştir. Hastanın muayenesinde boyun venlerinde dolgunluk, hepatomegali ve ayak bileklerinde şiddetli gode bırakan ödem tespit ediliyor. Starling sıvı değişim dinamikleri göz önüne alındığında, bu hastada periferik ödem gelişiminden sorumlu olan birincil fizyolojik değişiklik aşağıdakilerden hangisidir?",
         "options": [
             "Kapiller hidrostatik basıncın (Pc) artması",
             "Plazma kolloid ozmotik (onkotik) basıncının (πc) düşmesi",
@@ -576,7 +576,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_4",
         "subject": "Fizyoloji",
-        "question": "Trafik kazası sonucu aşırı kan kaybeden (hemorajik şok) bir hastada, kan basıncını normale döndürmek için devreye giren baroreseptör refleks mekanizması sırasında sırasıyla hangi afferent sinirler, hangi merkez ve hangi efferent yanıt aktive olur?",
+        "question": "Trafik kazası sonucu aşırı kan kaybeden bir hastada, kan basıncını normale döndürmek için devreye giren baroreseptör refleks mekanizması sırasında sırasıyla hangi afferent sinirler, hangi merkez ve hangi efferent yanıt aktive olur?",
         "options": [
             "N. Vagus / Bulbus (VMC) / Sempatik aktivasyon ile vazodilatasyon",
             "N. Glossopharyngeus ve N. Vagus / Bulbus (Kardiyovasküler merkez) / Sempatik aktivasyon ile taşikardi ve vazokonstriksiyon",
@@ -591,7 +591,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_5",
         "subject": "Fizyoloji",
-        "question": "Elektrokardiyogram (EKG) analizinde, P dalgasının başından QRS kompleksinin başına kadar geçen süre olan PR aralığının 0.20 saniyeden uzun olduğu (örneğin 0.28 sn), ancak her P dalgasını bir QRS kompleksinin takip ettiği durum, fizyolojik olarak aşağıdaki iletim gecikmelerinden hangisini işaret eder?",
+        "question": "Elektrokardiyogram analizinde, P dalgasının başından QRS kompleksinin başına kadar geçen süre olan PR aralığının 0.20 saniyeden uzun olduğu, ancak her P dalgasını bir QRS kompleksinin takip ettiği durum, fizyolojik olarak aşağıdaki iletim gecikmelerinden hangisini işaret eder?",
         "options": [
             "SA nodda impuls üretiminin yavaşlaması (Sinüs bradikardisi)",
             "AV noddan iletimin uzaması (Birinci derece AV blok)",
@@ -606,7 +606,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_6",
         "subject": "Fizyoloji",
-        "question": "Pankreas adacık hücrelerinden insülin salgılanması fizyolojik olarak kan glukoz düzeyi ile sıkı bir şekilde düzenlenir. Beta hücresine giren glukozun insülin salgılamasına (ekzositoza) yol açan hücresel olaylar silsilesinde en son aşamada vezikül füzyonunu tetikleyen iyon kanalı değişikliği aşağıdakilerden hangisidir?",
+        "question": "Pankreas adacık hücrelerinden insülin salgılanması fizyolojik olarak kan glukoz düzeyi ile sıkı bir şekilde düzenlenir. Beta hücresine giren glukozun insülin salgılamasına yol açan hücresel olaylar silsilesinde en son aşamada vezikül füzyonunu tetikleyen iyon kanalı değişikliği aşağıdakilerden hangisidir?",
         "options": [
             "Voltaj kapılı Na+ kanallarının açılması",
             "ATP'ye duyarlı K+ kanallarının (K-ATP) açılması",
@@ -621,7 +621,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_7",
         "subject": "Fizyoloji",
-        "question": "Tiroid hormonlarının (T3 ve T4) sentez aşamaları incelendiğinde, iyodun tiroglobulindeki tirozin kalıntılarına bağlanması (organifikasyon) ve iyodotirozinlerin eşleşmesi (coupling) olaylarını katalize eden ana enzim aşağıdakilerden hangisidir?",
+        "question": "Tiroid hormonlarının sentez aşamaları incelendiğinde, iyodun tiroglobulindeki tirozin kalıntılarına bağlanması ve iyodotirozinlerin eşleşmesi olaylarını katalize eden ana enzim aşağıdakilerden hangisidir?",
         "options": [
             "Tirozin hidroksilaz",
             "Tiroglobulin sentaz",
@@ -636,7 +636,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_8",
         "subject": "Fizyoloji",
-        "question": "Bir araştırmada deneğe yoğun egzersiz yaptırılıyor. Egzersiz sırasında çizgili kaslara giden kan akımı büyük oranda artarken, splanknik ve renal dolaşıma giden kan akımı azalır. İskelet kaslarındaki bu devasa vazodilatasyonun ve artan kan akımının (aktif hiperemi) asıl nedeni aşağıdakilerden hangisidir?",
+        "question": "Bir araştırmada deneğe yoğun egzersiz yaptırılıyor. Egzersiz sırasında çizgili kaslara giden kan akımı büyük oranda artarken, splanknik ve renal dolaşıma giden kan akımı azalır. İskelet kaslarındaki bu devasa vazodilatasyonun ve artan kan akımının asıl nedeni aşağıdakilerden hangisidir?",
         "options": [
             "Artan parasempatik uyarım",
             "Kanda epinefrin seviyesinin düşmesi",
@@ -666,7 +666,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_10",
         "subject": "Fizyoloji",
-        "question": "Kan şekeri hızla düştüğünde (hipoglisemi), vücudun homeostatik yanıtı olarak hangi hormonlar sırasıyla hızlı bir şekilde devreye girerek glikojenoliz ve glukoneogenezi uyarır?",
+        "question": "Kan şekeri hızla düştüğünde, vücudun homeostatik yanıtı olarak hangi hormonlar sırasıyla hızlı bir şekilde devreye girerek glikojenoliz ve glukoneogenezi uyarır?",
         "options": [
             "Sadece Glukagon",
             "Glukagon ve Epinefrin (Adrenalin)",
@@ -683,7 +683,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_11",
         "subject": "Fizyoloji",
-        "question": "Mide pariyetal hücrelerinden asit (HCl) salgılanmasını doğrudan veya dolaylı olarak uyaran üç ana fizyolojik ajan aşağıdakilerden hangisidir?",
+        "question": "Mide pariyetal hücrelerinden asit salgılanmasını doğrudan veya dolaylı olarak uyaran üç ana fizyolojik ajan aşağıdakilerden hangisidir?",
         "options": [
             "Sekretin, Somatostatin, GİP",
             "Asetilkolin, Gastrin, Histamin",
@@ -713,7 +713,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_13",
         "subject": "Fizyoloji",
-        "question": "Sindirim sistemi motilitesinde, öğünler arasında (açlık durumunda) mide ve ince bağırsaklarda sindirilmeyen artıkları temizleyen, Motilin hormonu tarafından yönetilen göç edici motor kompleks (Migrating Motor Complex - MMC) periyodu yaklaşık ne kadar sürer?",
+        "question": "Sindirim sistemi motilitesinde, öğünler arasında mide ve ince bağırsaklarda sindirilmeyen artıkları temizleyen, Motilin hormonu tarafından yönetilen göç edici motor kompleks periyodu yaklaşık ne kadar sürer?",
         "options": [
             "10-20 dakika",
             "90-120 dakika",
@@ -728,7 +728,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_14",
         "subject": "Fizyoloji",
-        "question": "Karbonhidratların sindirimi ince bağırsak lümeninde pankreatik amilaz ile oligosakkaritlere dönüştükten sonra, son sindirim (monosakkaritlere yıkım) nerede gerçekleşir?",
+        "question": "Karbonhidratların sindirimi ince bağırsak lümeninde pankreatik amilaz ile oligosakkaritlere dönüştükten sonra, son sindirim nerede gerçekleşir?",
         "options": [
             "Midede pepsin yardımıyla",
             "Pankreas asinus hücreleri içinde",
@@ -743,7 +743,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_15",
         "subject": "Fizyoloji",
-        "question": "Safra asitleri (tuzları) ince bağırsakta yağların sindirimine ve emilimine (misel oluşumu) yardımcı olduktan sonra büyük oranda ince bağırsağın hangi kısmından aktif taşımayla geri emilerek enterohepatik dolaşıma katılır?",
+        "question": "Safra asitleri ince bağırsakta yağların sindirimine ve emilimine yardımcı olduktan sonra büyük oranda ince bağırsağın hangi kısmından aktif taşımayla geri emilerek enterohepatik dolaşıma katılır?",
         "options": [
             "Duodenum",
             "Proksimal Jejunum",
@@ -758,7 +758,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_16",
         "subject": "Fizyoloji",
-        "question": "Pariyetal hücrelerden HCl salgılanırken, hücre içindeki H+ iyonları lümene pompalanırken lümenden hücre içine hangi iyon alınır (H+/K+ ATPaz pompasının çalışma prensibi)?",
+        "question": "Pariyetal hücrelerden HCl salgılanırken, hücre içindeki H+ iyonları lümene pompalanırken lümenden hücre içine hangi iyon alınır?",
         "options": [
             "Sodyum (Na+)",
             "Klor (Cl-)",
@@ -773,7 +773,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_17",
         "subject": "Fizyoloji",
-        "question": "Tükürük salgısının oluşumunda asinus hücrelerinden izotonik olarak salgılanan primer tükürük, tükürük kanallarından (ductus) geçerken kanal hücreleri tarafından hangi iyonların emilip salgılanmasıyla son (hipotonik) halini alır?",
+        "question": "Tükürük salgısının oluşumunda asinus hücrelerinden izotonik olarak salgılanan primer tükürük, tükürük kanallarından geçerken kanal hücreleri tarafından hangi iyonların emilip salgılanmasıyla son halini alır?",
         "options": [
             "Kanal hücreleri Na+ ve Cl- emer, K+ ve HCO3- salgılar.",
             "Kanal hücreleri tüm iyonları emer, sadece su salgılar.",
@@ -790,7 +790,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_18",
         "subject": "Fizyoloji",
-        "question": "Oksihemoglobin ayrışma eğrisini sağa kaydırarak (hemoglobinin oksijene afinitesini azaltarak) dokulara oksijen bırakılmasını kolaylaştıran faktörler (Bohr etkisi) aşağıdakilerden hangisinde yanlış verilmiştir?",
+        "question": "Oksihemoglobin ayrışma eğrisini sağa kaydırarak dokulara oksijen bırakılmasını kolaylaştıran faktörler aşağıdakilerden hangisinde yanlış verilmiştir?",
         "options": [
             "PCO2 artışı",
             "Kan pH'sının düşmesi (H+ artışı)",
@@ -805,7 +805,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_19",
         "subject": "Fizyoloji",
-        "question": "Akciğer hacim ve kapasiteleri düşünüldüğünde, normal sakin bir soluk verme (ekspirasyon) sonrasında akciğerlerde kalan hava hacmine ne ad verilir?",
+        "question": "Akciğer hacim ve kapasiteleri düşünüldüğünde, normal sakin bir soluk verme sonrasında akciğerlerde kalan hava hacmine ne ad verilir?",
         "options": [
             "Tidal Volüm (TV)",
             "Rezerv Ekspirasyon Volümü (ERV)",
@@ -820,7 +820,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_20",
         "subject": "Fizyoloji",
-        "question": "Tip II alveolar hücreler tarafından salgılanan surfaktan (yüzey aktif madde), alveollerin kapanmasını (kollaps) önler. Surfaktanın temel fonksiyonu Laplace yasasına göre nasıl açıklanır?",
+        "question": "Tip II alveolar hücreler tarafından salgılanan surfaktan, alveollerin kapanmasını önler. Surfaktanın temel fonksiyonu Laplace yasasına göre nasıl açıklanır?",
         "options": [
             "Küçük alveollerde yüzey gerilimini büyük alveollere göre daha fazla düşürerek basınç farkını eşitler.",
             "Alveol içindeki hidrostatik basıncı artırarak duvarı gergin tutar.",
@@ -835,7 +835,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_21",
         "subject": "Fizyoloji",
-        "question": "Santral kemoreseptörler, medullada yer alır ve beyin omurilik sıvısının (BOS) kimyasal bileşimine duyarlıdırlar. Solunumun dakikalık hacmini artırmak için santral kemoreseptörleri en hızlı ve en güçlü şekilde uyaran değişiklik aşağıdakilerden hangisidir?",
+        "question": "Santral kemoreseptörler, medullada yer alır ve beyin omurilik sıvısının kimyasal bileşimine duyarlıdırlar. Solunumun dakikalık hacmini artırmak için santral kemoreseptörleri en hızlı ve en güçlü şekilde uyaran değişiklik aşağıdakilerden hangisidir?",
         "options": [
             "Arteriyel kanda PO2'nin 60 mmHg'nin altına inmesi",
             "Arteriyel kanda laktik asit artışına bağlı H+ iyonu yükselmesi",
@@ -850,7 +850,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_22",
         "subject": "Fizyoloji",
-        "question": "Kan dolaşımında karbondioksitin (CO2) dokulardan akciğerlere taşınmasında en büyük paya sahip olan (yaklaşık %70) taşıma şekli aşağıdakilerden hangisidir?",
+        "question": "Kan dolaşımında karbondioksitin dokulardan akciğerlere taşınmasında en büyük paya sahip olan taşıma şekli aşağıdakilerden hangisidir?",
         "options": [
             "Plazmada fiziksel olarak çözünmüş CO2",
             "Hemoglobine bağlı karbaminohemoglobin şeklinde",
@@ -880,7 +880,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_24",
         "subject": "Fizyoloji",
-        "question": "Zorlu inspirasyon sırasında hava akımına karşı oluşan direnci (havayolu direnci) otonomik olarak azaltan (bronkodilatasyon yapan) asıl fizyolojik uyarı nedir?",
+        "question": "Zorlu inspirasyon sırasında hava akımına karşı oluşan direnci otonomik olarak azaltan asıl fizyolojik uyarı nedir?",
         "options": [
             "Sempatik sistemin beta-2 reseptörler üzerinden aktivasyonu",
             "Parasempatik sistemin muskarinik reseptörler üzerinden aktivasyonu",
@@ -897,7 +897,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_25",
         "subject": "Fizyoloji",
-        "question": "Böbrekte Glomerüler Filtrasyon Hızı'nın (GFR) düzenlenmesinde rol oynayan Miyojenik Mekanizma nasıl çalışır?",
+        "question": "Böbrekte Glomerüler Filtrasyon Hızı'nın düzenlenmesinde rol oynayan Miyojenik Mekanizma nasıl çalışır?",
         "options": [
             "Kan basıncı artınca makula densa NaCl algılayarak afferent arteriyolü daraltır.",
             "Kan basıncı düşünce renin salgılanarak anjiyotensin II oluşturulur.",
@@ -912,7 +912,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_26",
         "subject": "Fizyoloji",
-        "question": "Proksimal tübülde sodyum, glukoz, aminoasitler ve suyun geri emilimi (reabsorpsiyon) sürecini enerjetik olarak sürdüren temel itici güç (motor kuvvet) aşağıdakilerden hangisidir?",
+        "question": "Proksimal tübülde sodyum, glukoz, aminoasitler ve suyun geri emilimi sürecini enerjetik olarak sürdüren temel itici güç aşağıdakilerden hangisidir?",
         "options": [
             "Lümendeki yüksek onkotik basınç",
             "Tübül hücrelerinin bazolateral zarında bulunan Na+/K+ ATPaz pompası",
@@ -927,7 +927,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_27",
         "subject": "Fizyoloji",
-        "question": "Henle kulbunun çıkan kalın kolu (Thick Ascending Limb) fonksiyonel olarak hangi özelliğe sahiptir ve bu özelliği sayesinde medüller interstisyumda hiperozmolarite oluşturur?",
+        "question": "Henle kulbunun çıkan kalın kolu fonksiyonel olarak hangi özelliğe sahiptir ve bu özelliği sayesinde medüller interstisyumda hiperozmolarite oluşturur?",
         "options": [
             "Suya karşı tamamen geçirgendir, ancak iyon pompaları yoktur.",
             "Suya karşı geçirimsizdir (su geçemez), ancak lümenden sodyum, potasyum ve kloru (Na-K-2Cl pompası) aktif olarak interstisyuma pompalar.",
@@ -942,7 +942,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_28",
         "subject": "Fizyoloji",
-        "question": "Böbrekte asit-baz dengesinin sağlanmasında, proksimal tübülde HCO3- (bikarbonat) geri emilimi nasıl gerçekleşir?",
+        "question": "Böbrekte asit-baz dengesinin sağlanmasında, proksimal tübülde HCO3- geri emilimi nasıl gerçekleşir?",
         "options": [
             "Bikarbonat doğrudan apikal zardaki kanallardan hücreye girer.",
             "Lümene salgılanan H+ iyonu ile lümendeki HCO3- birleşerek H2CO3'ü, o da CO2 ve H2O'yu oluşturur. CO2 hücreye girip tekrar HCO3-'e dönüşerek kana verilir.",
@@ -957,7 +957,7 @@ const v8Part1 = [
     {
         "id": "v8_fiz_29",
         "subject": "Fizyoloji",
-        "question": "Vazopressin (ADH) hormonu, suyun toplayıcı kanallardan kana geri emilimini artırmak için hedef hücrelerde (principal hücreler) hangi hücresel mekanizmayı kullanır?",
+        "question": "Vazopressin hormonu, suyun toplayıcı kanallardan kana geri emilimini artırmak için hedef hücrelerde hangi hücresel mekanizmayı kullanır?",
         "options": [
             "Hücre çekirdeğine giderek yeni su kanalları transkripsiyonunu başlatır.",
             "V1 reseptörlerine bağlanıp fosfolipaz C'yi aktive eder.",

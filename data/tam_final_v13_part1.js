@@ -12,7 +12,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_1",
         "subject": "Anatomi",
-        "question": "Motosiklet kazasında omuz üzerine düşme gibi, boyun ile omuz arasındaki açının şiddetle açılması sonucu Plexus Brachialis'in üst kütüğü (Truncus superior / C5-C6 kökleri) zedelenebilir. Hastanın kolunun gövdeye yapışık, içe dönük ve el bileğinin fleksiyonda olduğu 'bahşiş isteyen garson eli' görünümüyle karakterize bu felç tablosu aşağıdakilerden hangisidir?",
+        "question": "Motosiklet kazasında omuz üzerine düşme gibi, boyun ile omuz arasındaki açının şiddetle açılması sonucu Plexus Brachialis'in üst kütüğü zedelenebilir. Hastanın kolunun gövdeye yapışık, içe dönük ve el bileğinin fleksiyonda olduğu 'bahşiş isteyen garson eli' görünümüyle karakterize bu felç tablosu aşağıdakilerden hangisidir?",
         "options": [
             "Klumpke felci",
             "Erb-Duchenne felci",
@@ -27,7 +27,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_2",
         "subject": "Anatomi",
-        "question": "Omuz eklemi (Articulatio humeri) insan vücudunun en hareketli ancak en kolay çıkan eklemidir. Omuz çıkıkları en sık hangi yöne doğru olur ve bu çıkık sırasında koltuk altından geçen HANGİ SİNİR en fazla zedelenme riski altındadır?",
+        "question": "Omuz eklemi insan vücudunun en hareketli ancak en kolay çıkan eklemidir. Omuz çıkıkları en sık hangi yöne doğru olur ve bu çıkık sırasında koltuk altından geçen HANGİ SİNİR en fazla zedelenme riski altındadır?",
         "options": [
             "Arka çıkık / N. radialis",
             "Ön-Aşağı (Anteroinferior) çıkık / N. axillaris",
@@ -42,7 +42,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_3",
         "subject": "Anatomi",
-        "question": "Omurilikte gövdeden gelen AĞRI ve ISI duyusunu taşıyan yollar (Tractus spinothalamicus lateralis), omuriliğe girdikten sonra nerede ÇAPRAZ yaparak karşı tarafa geçerler?",
+        "question": "Omurilikte gövdeden gelen AĞRI ve ISI duyusunu taşıyan yollar, omuriliğe girdikten sonra nerede ÇAPRAZ yaparak karşı tarafa geçerler?",
         "options": [
             "Bulbus'ta (Decussatio pyramidum)",
             "Pons'ta",
@@ -57,7 +57,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_4",
         "subject": "Anatomi",
-        "question": "Orta kulak iltihabı (Otitis media) zamanında tedavi edilmezse, orta kulak boşluğunun arka duvarındaki (Paries mastoideus) açıklıktan geçerek hangi kemik içindeki havalı boşluklara (hücrelere) yayılır ve tehlikeli bir 'Mastoidit' tablosuna yol açar?",
+        "question": "Orta kulak iltihabı zamanında tedavi edilmezse, orta kulak boşluğunun arka duvarındaki açıklıktan geçerek hangi kemik içindeki havalı boşluklara yayılır ve tehlikeli bir 'Mastoidit' tablosuna yol açar?",
         "options": [
             "Os frontale",
             "Os sphenoidale",
@@ -72,7 +72,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_5",
         "subject": "Anatomi",
-        "question": "Boyun bölgesindeki fasyaların yaprakları arasında yer alan ve yutağın (pharynx) arkasında bulunan 'Spatium retropharyngeum' (Retrofarengeal aralık), tehlikeli bir aralıktır çünkü buradaki apseler doğrudan aşağıya nereye yayılabilir?",
+        "question": "Boyun bölgesindeki fasyaların yaprakları arasında yer alan ve yutağın arkasında bulunan 'Spatium retropharyngeum', tehlikeli bir aralıktır çünkü buradaki apseler doğrudan aşağıya nereye yayılabilir?",
         "options": [
             "Kafatası içine (Kranium)",
             "Mediastinum'a (Göğüs boşluğuna)",
@@ -87,7 +87,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_6",
         "subject": "Anatomi",
-        "question": "Uzun süre hareketsiz kalan bir hastada (örneğin uçak yolculuğu veya ameliyat sonrası) bacak derin toplardamarlarında (DVT) oluşan bir kan pıhtısı (Trombüs) koparak dolaşıma katılırsa (Emboli), kalbe ulaştıktan sonra HANGİ DAMARI tıkayarak ölümcül 'Pulmoner Emboli'ye neden olur?",
+        "question": "Uzun süre hareketsiz kalan bir hastada bacak derin toplardamarlarında oluşan bir kan pıhtısı koparak dolaşıma katılırsa, kalbe ulaştıktan sonra HANGİ DAMARI tıkayarak ölümcül 'Pulmoner Emboli'ye neden olur?",
         "options": [
             "V. cava inferior",
             "Aorta",
@@ -102,7 +102,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_7",
         "subject": "Anatomi",
-        "question": "Tiroid bezi ameliyatlarında (Guatr eksizyonu), bezin alt kısmını besleyen A. thyroidea inferior bağlanırken çok dikkatli olunmalıdır. Çünkü bu damarla çaprazlaşarak gırtlağa giden ve zedelenmesi halinde hastanın SES TELLERİNİN (vokal kordların) felç olmasına neden olan sinir hangisidir?",
+        "question": "Tiroid bezi ameliyatlarında, bezin alt kısmını besleyen A. thyroidea inferior bağlanırken çok dikkatli olunmalıdır. Çünkü bu damarla çaprazlaşarak gırtlağa giden ve zedelenmesi halinde hastanın SES TELLERİNİN felç olmasına neden olan sinir hangisidir?",
         "options": [
             "N. laryngeus superior",
             "N. hypoglossus",
@@ -117,7 +117,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_8",
         "subject": "Anatomi",
-        "question": "Femoral Fıtıklar (Hernia femoralis), uylukta kasık bağının (Lig. inguinale) hemen altında meydana gelir ve boğulma (strangülasyon) riski yüksektir. Bu fıtıkların dışarı çıktığı, medial sınırını Lig. lacunare'nin oluşturduğu ve normalde sadece bir lenf düğümü barındıran zayıf halka neresidir?",
+        "question": "Femoral Fıtıklar, uylukta kasık bağının hemen altında meydana gelir ve boğulma riski yüksektir. Bu fıtıkların dışarı çıktığı, medial sınırını Lig. lacunare'nin oluşturduğu ve normalde sadece bir lenf düğümü barındıran zayıf halka neresidir?",
         "options": [
             "Anulus inguinalis superficialis",
             "Anulus inguinalis profundus",
@@ -133,7 +133,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_9",
         "subject": "Anatomi",
-        "question": "Sırtta yer alan, omuza ve kola kuvvetli iç rotasyon, adduksiyon ve ekstansiyon hareketlerini (yüzme, kürek çekme, barfiks veya koltuk değneği kullanma hareketleri) yaptıran çok geniş kasın (M. latissimus dorsi) motor siniri aşağıdakilerden hangisidir?",
+        "question": "Sırtta yer alan, omuza ve kola kuvvetli iç rotasyon, adduksiyon ve ekstansiyon hareketlerini yaptıran çok geniş kasın motor siniri aşağıdakilerden hangisidir?",
         "options": [
             "N. axillaris",
             "N. thoracodorsalis",
@@ -148,7 +148,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_10",
         "subject": "Anatomi",
-        "question": "Omuz ekleminin ön-iç yüzünde (Fossa subscapularis) yerleşen ve kola sadece İÇ ROTASYON yaptıran (Rotator manşet kasları içinde dış rotasyon yaptırmayan tek kas olan) M. subscapularis'in motor siniri hangisidir?",
+        "question": "Omuz ekleminin ön-iç yüzünde yerleşen ve kola sadece İÇ ROTASYON yaptıran M. subscapularis'in motor siniri hangisidir?",
         "options": [
             "N. subscapularis (superior ve inferior)",
             "N. suprascapularis",
@@ -163,7 +163,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_11",
         "subject": "Anatomi",
-        "question": "Ön kolun ön (anterior) kompartmanındaki fleksör ve pronatör kasların büyük çoğunluğunu uyaran, daha sonra el bileğinde 'Karpal Tünel' içinden geçerek ele ulaşan motor sinir hangisidir?",
+        "question": "Ön kolun ön kompartmanındaki fleksör ve pronatör kasların büyük çoğunluğunu uyaran, daha sonra el bileğinde 'Karpal Tünel' içinden geçerek ele ulaşan motor sinir hangisidir?",
         "options": [
             "N. ulnaris",
             "N. radialis",
@@ -178,7 +178,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_12",
         "subject": "Anatomi",
-        "question": "Karın aortasından (Aorta abdominalis) diyaframın hemen altında çıkan ve mide, karaciğer, dalak gibi ön bağırsak organlarını besleyen büyük çölyak kökün (Truncus celiacus) EN KALIN ve kıvrımlı seyreden dalı hangisidir?",
+        "question": "Karın aortasından diyaframın hemen altında çıkan ve mide, karaciğer, dalak gibi ön bağırsak organlarını besleyen büyük çölyak kökün EN KALIN ve kıvrımlı seyreden dalı hangisidir?",
         "options": [
             "A. gastrica sinistra",
             "A. hepatica communis",
@@ -193,7 +193,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_13",
         "subject": "Anatomi",
-        "question": "Kafatasının yan tarafında (Pterion bölgesi) kemiğin ince olması nedeniyle dışarıdan alınan darbelerde kolayca kırılabilir. Bu kırıklarda kemiğin hemen altından geçen hangi atardamar yırtılarak ölümcül 'Epidural Hematom'a (Kanama) yol açar?",
+        "question": "Kafatasının yan tarafında kemiğin ince olması nedeniyle dışarıdan alınan darbelerde kolayca kırılabilir. Bu kırıklarda kemiğin hemen altından geçen hangi atardamar yırtılarak ölümcül 'Epidural Hematom'a yol açar?",
         "options": [
             "A. carotis interna",
             "A. cerebri media",
@@ -208,7 +208,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_14",
         "subject": "Anatomi",
-        "question": "Bağırsak sisteminde onikiparmak bağırsağının yarısından başlayıp, ince bağırsakların tamamını (Jejunum, Ileum) ve kalın bağırsağın sağ yarısını (Caecum, Colon ascendens) besleyen Aorta abdominalis dalı hangisidir?",
+        "question": "Bağırsak sisteminde onikiparmak bağırsağının yarısından başlayıp, ince bağırsakların tamamını ve kalın bağırsağın sağ yarısını besleyen Aorta abdominalis dalı hangisidir?",
         "options": [
             "Truncus celiacus",
             "A. mesenterica superior",
@@ -223,7 +223,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_15",
         "subject": "Anatomi",
-        "question": "Karaciğerin kanlanması kendine özgüdür. Karaciğere gelen kanın %70-75'lik kısmını sağlayan, mide ve bağırsaklardan emilen besinleri (toksinler dahil) süzülmesi ve işlenmesi için karaciğere getiren BÜYÜK TOPLARDAMAR hangisidir?",
+        "question": "Karaciğerin kanlanması kendine özgüdür. Karaciğere gelen kanın %70-75'lik kısmını sağlayan, mide ve bağırsaklardan emilen besinleri süzülmesi ve işlenmesi için karaciğere getiren BÜYÜK TOPLARDAMAR hangisidir?",
         "options": [
             "Vena cava inferior",
             "Vena hepatica",
@@ -253,7 +253,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_17",
         "subject": "Anatomi",
-        "question": "Bacağın ön (anterior) kompartmanında yer alan ve ayağa yukarı doğru kaldırma (dorsifleksiyon - ekstansiyon) hareketi yaptıran kasların motor siniri hangisidir? (Felcinde 'düşük ayak' görülür).",
+        "question": "Bacağın ön kompartmanında yer alan ve ayağa yukarı doğru kaldırma hareketi yaptıran kasların motor siniri hangisidir?.",
         "options": [
             "N. fibularis superficialis",
             "N. fibularis profundus",
@@ -269,7 +269,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_18",
         "subject": "Anatomi",
-        "question": "Akciğerlerin (Pulmones) mediastinal (iç) yüzeyinde bulunan, ana bronşların, akciğer atardamar ve toplardamarlarının (A. V. pulmonalis), lenf damarları ve sinirlerin akciğere GİRİŞ-ÇIKIŞ yaptığı (kök oluşturduğu) anatomik geçit (kapı) bölgesine ne ad verilir?",
+        "question": "Akciğerlerin mediastinal yüzeyinde bulunan, ana bronşların, akciğer atardamar ve toplardamarlarının, lenf damarları ve sinirlerin akciğere GİRİŞ-ÇIKIŞ yaptığı anatomik geçit bölgesine ne ad verilir?",
         "options": [
             "Apex pulmonis",
             "Basis pulmonis",
@@ -284,7 +284,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_19",
         "subject": "Anatomi",
-        "question": "Midenin (Gaster) çıkışında yer alan, midenin içindeki asidik içeriğin (kimus) onikiparmak bağırsağına (Duodenum) kontrollü ve yavaş geçişini sağlayan güçlü dairesel (sfinkter) kas tabakasına ne ad verilir?",
+        "question": "Midenin çıkışında yer alan, midenin içindeki asidik içeriğin onikiparmak bağırsağına kontrollü ve yavaş geçişini sağlayan güçlü dairesel kas tabakasına ne ad verilir?",
         "options": [
             "Cardia",
             "Fundus",
@@ -299,7 +299,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_20",
         "subject": "Anatomi",
-        "question": "Kalın bağırsakları (Intestinum crassum) ince bağırsaklardan ayıran makroskopik (gözle görülür) anatomik farklar vardır. Kolonların dış yüzeyinde uzunlamasına (longitudinal) seyreden 3 adet kalın, parlak şerit şeklindeki kas bantlarına ne ad verilir?",
+        "question": "Kalın bağırsakları ince bağırsaklardan ayıran makroskopik anatomik farklar vardır. Kolonların dış yüzeyinde uzunlamasına seyreden 3 adet kalın, parlak şerit şeklindeki kas bantlarına ne ad verilir?",
         "options": [
             "Haustra coli",
             "Teniae coli",
@@ -314,7 +314,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_21",
         "subject": "Anatomi",
-        "question": "Kan dolaşımında, akciğerlerde oksijenlenerek temizlenen kanı kalbe getiren V. pulmonalis'ler (genellikle 4 adet), kalpte İLK OLARAK hangi odacığa dökülür?",
+        "question": "Kan dolaşımında, akciğerlerde oksijenlenerek temizlenen kanı kalbe getiren V. pulmonalis'ler, kalpte İLK OLARAK hangi odacığa dökülür?",
         "options": [
             "Atrium dextrum (Sağ Atriyum)",
             "Ventriculus dexter (Sağ Ventrikül)",
@@ -329,7 +329,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_22",
         "subject": "Anatomi",
-        "question": "Erkek üreme sisteminde, testislerdeki seminifer tübüllerde üretilen olgunlaşmamış spermlerin aktarıldığı, burada 1-3 hafta kadar depolanarak HAREKET (yüzme) kabiliyeti kazandıkları testisin arka-üst kısmına yerleşik kıvrımlı tübüler organ hangisidir?",
+        "question": "Erkek üreme sisteminde, testislerdeki seminifer tübüllerde üretilen olgunlaşmamış spermlerin aktarıldığı, burada 1-3 hafta kadar depolanarak HAREKET kabiliyeti kazandıkları testisin arka-üst kısmına yerleşik kıvrımlı tübüler organ hangisidir?",
         "options": [
             "Ductus deferens",
             "Vesicula seminalis",
@@ -344,7 +344,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_23",
         "subject": "Anatomi",
-        "question": "Kadın iç üreme organlarında, yumurtalıklardan (Ovaryum) atılan oositi (yumurtayı) fimbriyaları ile huni gibi içine çeken ve DÖLLENMENİN (Sperm ile yumurtanın birleşmesinin) normalde gerçekleştiği kanal neresidir?",
+        "question": "Kadın iç üreme organlarında, yumurtalıklardan atılan oositi fimbriyaları ile huni gibi içine çeken ve DÖLLENMENİN normalde gerçekleştiği kanal neresidir?",
         "options": [
             "Uterus (Rahim) boşluğu",
             "Vagina",
@@ -359,7 +359,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_24",
         "subject": "Anatomi",
-        "question": "Boşaltım (Üriner) sisteminde, böbreklerin havuzcuğunda (Pelvis renalis) biriken idrarı, peristaltik kasılmalarla aşağıya idrar kesesine (Vesica urinaria - Mesane) taşıyan 25-30 cm uzunluğundaki dar borulara ne ad verilir?",
+        "question": "Boşaltım sisteminde, böbreklerin havuzcuğunda biriken idrarı, peristaltik kasılmalarla aşağıya idrar kesesine taşıyan 25-30 cm uzunluğundaki dar borulara ne ad verilir?",
         "options": [
             "Urethra",
             "Ureter",
@@ -374,7 +374,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_25",
         "subject": "Anatomi",
-        "question": "Lenfoid sistemin en büyük organı olan Dalak (Lien / Splen), karın boşluğunda (Abdomen) anatomik olarak hangi kadran veya bölgede yerleşmiştir?",
+        "question": "Lenfoid sistemin en büyük organı olan Dalak, karın boşluğunda anatomik olarak hangi kadran veya bölgede yerleşmiştir?",
         "options": [
             "Regio hypochondriaca dextra (Sağ üst - karaciğer yanı)",
             "Regio iliaca dextra (Sağ alt - apandisit bölgesi)",
@@ -389,7 +389,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_26",
         "subject": "Anatomi",
-        "question": "Karaciğerin (Hepar) anatomisinde, karaciğeri anatomik olarak (önden bakıldığında) Sağ Lob ve Sol Lob olmak üzere ikiye ayıran ve onu karın ön duvarına asan periton bağı aşağıdakilerden hangisidir?",
+        "question": "Karaciğerin anatomisinde, karaciğeri anatomik olarak Sağ Lob ve Sol Lob olmak üzere ikiye ayıran ve onu karın ön duvarına asan periton bağı aşağıdakilerden hangisidir?",
         "options": [
             "Omentum minus",
             "Ligamentum coronarium",
@@ -405,7 +405,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_27",
         "subject": "Anatomi",
-        "question": "İskelet sisteminde, üst ekstremiteyi (kolu) gövdeye (göğüs kafesine) bağlayan TEK kemiksel eklem noktasını (Art. sternoclavicularis) oluşturan ve cilt altında kolayca hissedilen S harfi şeklindeki yatay kemik hangisidir?",
+        "question": "İskelet sisteminde, üst ekstremiteyi gövdeye bağlayan TEK kemiksel eklem noktasını oluşturan ve cilt altında kolayca hissedilen S harfi şeklindeki yatay kemik hangisidir?",
         "options": [
             "Scapula (Kürek kemiği)",
             "Sternum (İman tahtası)",
@@ -420,7 +420,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_28",
         "subject": "Anatomi",
-        "question": "İnsan omurgasını (Columna vertebralis) oluşturan omurların (vertebraların) yukarıdan aşağıya (Boyun, Sırt, Bel, Sağrı, Kuyruk) bölgelere göre sayısal dağılımı hangi seçenekte DOĞRU verilmiştir?",
+        "question": "İnsan omurgasını oluşturan omurların yukarıdan aşağıya bölgelere göre sayısal dağılımı hangi seçenekte DOĞRU verilmiştir?",
         "options": [
             "7 Servikal, 10 Torakal, 5 Lumbar, 5 Sakral",
             "8 Servikal, 12 Torakal, 5 Lumbar, 5 Sakral",
@@ -435,7 +435,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_29",
         "subject": "Anatomi",
-        "question": "Beyin ventriküler sisteminde, Diensefalon'un ortasında yer alan 3. Ventrikül ile beyin sapı/serebellum arasındaki 4. Ventrikülü birbirine bağlayan, Orta Beyin'in (Mesencephalon) içinden geçen dar kanalın adı nedir?",
+        "question": "Beyin ventriküler sisteminde, Diensefalon'un ortasında yer alan 3. Ventrikül ile beyin sapı/serebellum arasındaki 4. Ventrikülü birbirine bağlayan, Orta Beyin'in içinden geçen dar kanalın adı nedir?",
         "options": [
             "Foramen Monroi (Foramen interventriculare)",
             "Canalis centralis",
@@ -450,7 +450,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_30",
         "subject": "Anatomi",
-        "question": "Santral Sinir Sisteminde (MSS), Sağ ve Sol beyin yarımkürelerini (Hemisferleri) birbirine bağlayan, beynin en büyük komissüral (bağlantı) beyaz cevher demeti aşağıdakilerden hangisidir?",
+        "question": "Santral Sinir Sisteminde, Sağ ve Sol beyin yarımkürelerini birbirine bağlayan, beynin en büyük komissüral beyaz cevher demeti aşağıdakilerden hangisidir?",
         "options": [
             "Capsula interna",
             "Fornix",
@@ -465,7 +465,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_31",
         "subject": "Anatomi",
-        "question": "Üst ekstremite iskeletinde, anatomik duruş (avuç içleri karşıya bakar pozisyon) dikkate alındığında, ön kolda dış tarafta (lateralde - başparmak hizasında) yer alan uzun kemik hangisidir?",
+        "question": "Üst ekstremite iskeletinde, anatomik duruş dikkate alındığında, ön kolda dış tarafta yer alan uzun kemik hangisidir?",
         "options": [
             "Ulna",
             "Radius",
@@ -480,7 +480,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_32",
         "subject": "Anatomi",
-        "question": "Kafatası kubbesinde (Calvaria), öndeki Alın kemiği (Os frontale) ile arkadaki Yan kafa kemiklerini (Ossa parietalia) birbirinden ayıran enine (transvers) seyirli taç şeklindeki kemik dikişine (sutura) ne ad verilir?",
+        "question": "Kafatası kubbesinde, öndeki Alın kemiği ile arkadaki Yan kafa kemiklerini birbirinden ayıran enine seyirli taç şeklindeki kemik dikişine ne ad verilir?",
         "options": [
             "Sutura sagittalis",
             "Sutura lambdoidea",
@@ -495,7 +495,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_33",
         "subject": "Anatomi",
-        "question": "İnsan iskeletinin anatomik yapısında, kalça eklemi (Articulatio coxae) ile diz eklemi (Articulatio genus) arasında yer alan, vücudun EN UZUN, EN AĞIR ve EN GÜÇLÜ kemiği hangisidir?",
+        "question": "İnsan iskeletinin anatomik yapısında, kalça eklemi ile diz eklemi arasında yer alan, vücudun EN UZUN, EN AĞIR ve EN GÜÇLÜ kemiği hangisidir?",
         "options": [
             "Humerus",
             "Tibia",
@@ -510,7 +510,7 @@ const v13Part1 = [
     {
         "id": "v13_anat_34",
         "subject": "Anatomi",
-        "question": "Merkezi Sinir Sistemini (Beyin ve Omurilik) dış darbelerden koruyan zarlar (Meninksler) kafatası kemiğinden beyin dokusuna (Dıştan İçe doğru) HANGİ SIRAYLA dizilmiştir?",
+        "question": "Merkezi Sinir Sistemini dış darbelerden koruyan zarlar kafatası kemiğinden beyin dokusuna HANGİ SIRAYLA dizilmiştir?",
         "options": [
             "Pia mater -> Arachnoidea mater -> Dura mater",
             "Arachnoidea mater -> Dura mater -> Pia mater",
@@ -525,7 +525,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_1",
         "subject": "Fizyoloji",
-        "question": "Otonom sinir sisteminin PARASEMPATİK uyarısı altında vücutta HANGİ fizyolojik tepki MEYDANA GELİR (Dinlen ve Sindir fazı)?",
+        "question": "Otonom sinir sisteminin PARASEMPATİK uyarısı altında vücutta HANGİ fizyolojik tepki MEYDANA GELİR?",
         "options": [
             "Kalp atım hızı artar",
             "Bronşlar genişler (Bronkodilatasyon)",
@@ -555,7 +555,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_3",
         "subject": "Fizyoloji",
-        "question": "Böbrek fizyolojisinde idrarı EN ÇOK YOĞUNLAŞTIRAN (konsantre eden) ve Henle kulbunda kurulan 'Zıt Akım Çoğaltıcı Sistem'in (Countercurrent Multiplier) çalışmasını sağlayan TEMEL İYON POMPASI nefronun hangi kısmındadır?",
+        "question": "Böbrek fizyolojisinde idrarı EN ÇOK YOĞUNLAŞTIRAN ve Henle kulbunda kurulan 'Zıt Akım Çoğaltıcı Sistem'in çalışmasını sağlayan TEMEL İYON POMPASI nefronun hangi kısmındadır?",
         "options": [
             "Proksimal tübüldeki SGLT pompası",
             "Henle kulbunun inen kolundaki Aquaporinler",
@@ -570,7 +570,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_4",
         "subject": "Fizyoloji",
-        "question": "Kalp kasında, kalp krizini (Miyokard enfarktüsü / Hücre ölümü) kan tahlilinde saptamak için kullanılan, özgüllüğü EN YÜKSEK (Sadece kalpte bulunan) ve kanda saatler içinde yükselip günlerce yüksek kalan belirteç hangisidir?",
+        "question": "Kalp kasında, kalp krizini kan tahlilinde saptamak için kullanılan, özgüllüğü EN YÜKSEK ve kanda saatler içinde yükselip günlerce yüksek kalan belirteç hangisidir?",
         "options": [
             "Miyoglobin",
             "Kreatin Kinaz (CK)",
@@ -585,7 +585,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_5",
         "subject": "Fizyoloji",
-        "question": "Mide fizyolojisinde 'Parietal' hücrelerin HCl (Mide asidi) salgılamak için kanın (plazmanın) CO2'sini kullanarak ürettiği asidin yan ürünü olan ve KANA VERİLEREK (Özellikle yemek sonrası) kanı hafif bazik yapan fenomene ne ad verilir?",
+        "question": "Mide fizyolojisinde 'Parietal' hücrelerin HCl salgılamak için kanın CO2'sini kullanarak ürettiği asidin yan ürünü olan ve KANA VERİLEREK kanı hafif bazik yapan fenomene ne ad verilir?",
         "options": [
             "Asit gel-giti",
             "Alkali Tide (Alkali Dalga)",
@@ -600,7 +600,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_6",
         "subject": "Fizyoloji",
-        "question": "İnsülin hormonu eksikliğinde (Tip 1 Diyabet) vücut hücreleri glukozu (şekeri) enerji için kullanamaz. Enerji krizine giren vücut aşırı yağ yakmaya başlar ve bunun sonucunda kanda birikerek DİYABETİK KOMASI (Ketoasidoz) yapan zehirli (asidik) maddeler nelerdir?",
+        "question": "İnsülin hormonu eksikliğinde vücut hücreleri glukozu enerji için kullanamaz. Enerji krizine giren vücut aşırı yağ yakmaya başlar ve bunun sonucunda kanda birikerek DİYABETİK KOMASI yapan zehirli maddeler nelerdir?",
         "options": [
             "Laktik asitler",
             "Ürik asit kristalleri",
@@ -615,7 +615,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_7",
         "subject": "Fizyoloji",
-        "question": "Kan gruplarının uyuşmazlığında görülen 'Eritroblastozis Fetalis' (Yenidoğan Hemolitik Hastalığı), ANNE ve BEBEK arasında hangi kan grubu faktörünün uyuşmazlığı sonucu (ve özellikle 2. gebelikte) meydana gelir?",
+        "question": "Kan gruplarının uyuşmazlığında görülen 'Eritroblastozis Fetalis', ANNE ve BEBEK arasında hangi kan grubu faktörünün uyuşmazlığı sonucu meydana gelir?",
         "options": [
             "Anne ABO(+) / Bebek ABO(-)",
             "Anne Rh(-) / Bebek Rh(+)",
@@ -630,7 +630,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_8",
         "subject": "Fizyoloji",
-        "question": "Düz kasların (özellikle mide-bağırsak sistemindeki visseral tek üniteli düz kasların) ritmik ve kendiliğinden (otomatik) kasılmasını sağlayan 'Yavaş Dalgaları (Slow waves)' üreten ve GİS'in kalp pili (pacemaker) sayılan hücreler hangileridir?",
+        "question": "Düz kasların ritmik ve kendiliğinden kasılmasını sağlayan 'Yavaş Dalgaları' üreten ve GİS'in kalp pili sayılan hücreler hangileridir?",
         "options": [
             "Parietal hücreler",
             "Cajal'ın İnterstisyel Hücreleri (ICC)",
@@ -645,7 +645,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_9",
         "subject": "Fizyoloji",
-        "question": "İskelet kaslarında 'Kayan Flamanlar Teorisi'ne göre kasılma sırasında kasın mikroskobik bantlarında (A, I, H, Z) hangi boyutsal değişiklik GÖRÜLÜR?",
+        "question": "İskelet kaslarında 'Kayan Flamanlar Teorisi'ne göre kasılma sırasında kasın mikroskobik bantlarında hangi boyutsal değişiklik GÖRÜLÜR?",
         "options": [
             "A bandı boyu KISALIR",
             "Miyozin flamanlarının fiziksel boyu KISALIR",
@@ -660,7 +660,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_10",
         "subject": "Fizyoloji",
-        "question": "Solunum mekaniğinde, akciğerleri genişletmeye çalışan inspirasyon kaslarına KARŞI KOYAN (akciğeri küçültmeye çalışan) 2 temel kuvvet vardır: 1) Elastik liflerin büzüşme isteği, 2) Alveol içindeki yüzey gerilimi. Yüzey gerilimini DÜŞÜREREK alveollerin sönmesini (kapanmasını) engelleyen ve Tip II Pnömositlerce salgılanan madde hangisidir?",
+        "question": "Solunum mekaniğinde, akciğerleri genişletmeye çalışan inspirasyon kaslarına KARŞI KOYAN 2 temel kuvvet vardır: 1) Elastik liflerin büzüşme isteği, 2) Alveol içindeki yüzey gerilimi. Yüzey gerilimini DÜŞÜREREK alveollerin sönmesini engelleyen ve Tip II Pnömositlerce salgılanan madde hangisidir?",
         "options": [
             "Müsin",
             "Histamin",
@@ -675,7 +675,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_11",
         "subject": "Fizyoloji",
-        "question": "Böbrek tübüllerinden salgılanan ADH (Antidiüretik Hormon) eksikliğinde (Merkezi Diabetes İnsipidus hastalığında), hastada HANGİ İDRAR BULGUSU görülür?",
+        "question": "Böbrek tübüllerinden salgılanan ADH eksikliğinde, hastada HANGİ İDRAR BULGUSU görülür?",
         "options": [
             "Çok az miktarda, bal renginde koyu idrar",
             "İdrarda aşırı glukoz (şeker) çıkması",
@@ -690,7 +690,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_12",
         "subject": "Fizyoloji",
-        "question": "Merkezi sinir sisteminde 'Motor Homonkulus' (Vücudun korteksteki temsili haritası) incelendiğinde, alanın büyüklüğü kasın kütlesine göre değil, hareketin HASSASİYETİNE (inceliğine) göre belirlenir. Bu haritada KORTEKSTE EN GENİŞ ALANI kaplayan vücut bölümleri hangileridir?",
+        "question": "Merkezi sinir sisteminde 'Motor Homonkulus' incelendiğinde, alanın büyüklüğü kasın kütlesine göre değil, hareketin HASSASİYETİNE göre belirlenir. Bu haritada KORTEKSTE EN GENİŞ ALANI kaplayan vücut bölümleri hangileridir?",
         "options": [
             "Sırt ve Göğüs (Gövde)",
             "Bacak ve Ayak",
@@ -705,7 +705,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_13",
         "subject": "Fizyoloji",
-        "question": "Kadınlarda (Ovaryum siklusunda) ortalama 14. günde 'Ovülasyonu (Yumurtlamayı)' gerçekleştiren ve folikülün çatlamasını sağlayan HANGİ HORMONUN kan düzeyinde aniden 'Zirve (Pik)' yapmasıdır?",
+        "question": "Kadınlarda ortalama 14. günde 'Ovülasyonu' gerçekleştiren ve folikülün çatlamasını sağlayan HANGİ HORMONUN kan düzeyinde aniden 'Zirve' yapmasıdır?",
         "options": [
             "FSH (Folikül Uyarıcı Hormon)",
             "Östrojen",
@@ -720,7 +720,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_14",
         "subject": "Fizyoloji",
-        "question": "Aksiyon potansiyelinin başlaması (Eşik değerin aşılması) için uyarının özelliği olan 'Hep ya da Hiç Yasası (All-or-None Law)' ne anlama gelir?",
+        "question": "Aksiyon potansiyelinin başlaması için uyarının özelliği olan 'Hep ya da Hiç Yasası' ne anlama gelir?",
         "options": [
             "Uyarı ne kadar şiddetliyse, aksiyon potansiyelinin boyutu (Amplitüdü) o kadar BÜYÜK olur.",
             "Uyarı eşik değere ulaşmazsa aksiyon potansiyeli hiç oluşmaz; Eşik değere ulaşırsa (veya geçerse) tek bir sabit boyutta tam (maksimum) aksiyon potansiyeli oluşur.",
@@ -735,7 +735,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_15",
         "subject": "Fizyoloji",
-        "question": "Kan şekeri düştüğünde (Hipoglisemide) Pankreasın Alfa hücrelerinden salgılanan ve Karaciğerde glikojenin parçalanmasını (Glikojenoliz) uyararak KAN ŞEKERİNİ YÜKSELTEN hormon hangisidir?",
+        "question": "Kan şekeri düştüğünde Pankreasın Alfa hücrelerinden salgılanan ve Karaciğerde glikojenin parçalanmasını uyararak KAN ŞEKERİNİ YÜKSELTEN hormon hangisidir?",
         "options": [
             "İnsülin",
             "Somatostatin",
@@ -750,7 +750,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_16",
         "subject": "Fizyoloji",
-        "question": "Düz kasların (özellikle çok üniteli olan göz/damar düz kaslarının) veya çizgili kasların uzun süre kısmi bir şekilde kasılı kalarak (tonus oluşturarak) çok az ATP harcaması ve YORULMAMASI durumunu sağlayan ve miyozin başlarının aktine kilitli kalmasına dayanan fizyolojik mekanizmaya ne ad verilir?",
+        "question": "Düz kasların veya çizgili kasların uzun süre kısmi bir şekilde kasılı kalarak çok az ATP harcaması ve YORULMAMASI durumunu sağlayan ve miyozin başlarının aktine kilitli kalmasına dayanan fizyolojik mekanizmaya ne ad verilir?",
         "options": [
             "Rigor mortis",
             "Latch mekanizması (Sürgü / Kilitlenme mekanizması)",
@@ -765,7 +765,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_17",
         "subject": "Fizyoloji",
-        "question": "Solunum fonksiyon testlerinde (Spirometri) kullanılan TİDAL VOLÜM (Soluk Hacmi) normal sağlıklı erişkin bir insanda istirahat halindeyken ortalama kaç mililitredir?",
+        "question": "Solunum fonksiyon testlerinde kullanılan TİDAL VOLÜM normal sağlıklı erişkin bir insanda istirahat halindeyken ortalama kaç mililitredir?",
         "options": [
             "150 mL",
             "500 mL",
@@ -780,7 +780,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_18",
         "subject": "Fizyoloji",
-        "question": "Otonom sinir sisteminin reseptörleri incelendiğinde, SEMPATİK sistemin etkilerini organlarda (kalp, akciğer, damarlar) ortaya çıkaran reseptörlerin GENEL (üst) sınıfının adı nedir?",
+        "question": "Otonom sinir sisteminin reseptörleri incelendiğinde, SEMPATİK sistemin etkilerini organlarda ortaya çıkaran reseptörlerin GENEL sınıfının adı nedir?",
         "options": [
             "Muskarinik reseptörler",
             "Nikotinik reseptörler",
@@ -795,7 +795,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_19",
         "subject": "Fizyoloji",
-        "question": "Tiroid hormonunun (T3) vücuttaki bazal metabolizmayı ve ısı üretimini artırmasının (kalorijenik etki) hücresel mekanizması genellikle hücre zarlarındaki HANGİ ENZİMİN sayısını ve aktivitesini ARTIRMASINA bağlanır?",
+        "question": "Tiroid hormonunun vücuttaki bazal metabolizmayı ve ısı üretimini artırmasının hücresel mekanizması genellikle hücre zarlarındaki HANGİ ENZİMİN sayısını ve aktivitesini ARTIRMASINA bağlanır?",
         "options": [
             "Adenilat Siklaz",
             "Na+/K+ ATPaz pompası",
@@ -810,7 +810,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_20",
         "subject": "Fizyoloji",
-        "question": "Bağırsaklarda karbonhidrat (şeker) emiliminde, bağırsak lümeninden (içinden) epitel hücresine Glikoz ve Galaktoz SGLT1 ile girer. Peki, meyve şekeri olan 'FRUKTOZ', hücreye enerji harcamadan sadece konsantrasyon farkıyla (Kolaylaştırılmış difüzyonla) HANGİ taşıyıcı üzerinden girer?",
+        "question": "Bağırsaklarda karbonhidrat emiliminde, bağırsak lümeninden epitel hücresine Glikoz ve Galaktoz SGLT1 ile girer. Peki, meyve şekeri olan 'FRUKTOZ', hücreye enerji harcamadan sadece konsantrasyon farkıyla HANGİ taşıyıcı üzerinden girer?",
         "options": [
             "GLUT 1",
             "GLUT 2",
@@ -825,7 +825,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_21",
         "subject": "Fizyoloji",
-        "question": "Mekanoreseptörler deride dokunma, basınç ve titreşimi (vibrasyon) algılar. Aşağıdaki reseptörlerden hangisi derine yerleşmiş, soğana benzeyen, adaptasyonu ÇOK HIZLI olan ve özellikle 'Yüksek frekanslı titreşimi (Örn: Matkap hissini)' algılayan reseptördür?",
+        "question": "Mekanoreseptörler deride dokunma, basınç ve titreşimi algılar. Aşağıdaki reseptörlerden hangisi derine yerleşmiş, soğana benzeyen, adaptasyonu ÇOK HIZLI olan ve özellikle 'Yüksek frekanslı titreşimi' algılayan reseptördür?",
         "options": [
             "Merkel diskleri",
             "Ruffini sonlanmaları",
@@ -840,7 +840,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_22",
         "subject": "Fizyoloji",
-        "question": "Sağlıklı bir kişide kanın plazma hacmini ve damar içi basıncını koruyan, suyu (ozmotik basınçla) damar içinde tutarak dokulara kaçmasını (ödemi) ENGELLEYEN en önemli plazma proteini aşağıdakilerden hangisidir?",
+        "question": "Sağlıklı bir kişide kanın plazma hacmini ve damar içi basıncını koruyan, suyu damar içinde tutarak dokulara kaçmasını ENGELLEYEN en önemli plazma proteini aşağıdakilerden hangisidir?",
         "options": [
             "Gama Globulinler",
             "Fibrinojen",
@@ -855,7 +855,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_23",
         "subject": "Fizyoloji",
-        "question": "İşitme fizyolojisinde ses dalgaları kokleanın içindeki sıvıyı titreştirir. Farklı frekanslardaki (kalın veya ince) seslerin ayırt edilmesi, membrana basilaris'in (baziler zar) neresinin titreştiği ile belirlenir. YÜKSEK FREKANSLI (Tiz/İnce) sesler kokleanın neresini titreştirerek algılanır?",
+        "question": "İşitme fizyolojisinde ses dalgaları kokleanın içindeki sıvıyı titreştirir. Farklı frekanslardaki seslerin ayırt edilmesi, membrana basilaris'in neresinin titreştiği ile belirlenir. YÜKSEK FREKANSLI sesler kokleanın neresini titreştirerek algılanır?",
         "options": [
             "Helikotremada (Apeks - Kokleanın tepe kısmında)",
             "Oval pencereye yakın olan TABAN (Bazal) kısmında",
@@ -870,7 +870,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_24",
         "subject": "Fizyoloji",
-        "question": "Kadın doğum fizyolojisinde, döllenmiş yumurta (zigot) blastokist aşamasına gelip uterusa tutunduktan (İmplantasyon) hemen sonra hücreleri (Sinsityotrofoblastlar) tarafından kanda HANGİ HORMON üretilmeye başlar? (Gebelik testlerinde idrarda aranan hormon)",
+        "question": "Kadın doğum fizyolojisinde, döllenmiş yumurta blastokist aşamasına gelip uterusa tutunduktan hemen sonra hücreleri tarafından kanda HANGİ HORMON üretilmeye başlar?",
         "options": [
             "Progesteron",
             "Östrojen",
@@ -885,7 +885,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_25",
         "subject": "Fizyoloji",
-        "question": "Eritrositlerin (Alyuvarların) enerji (ATP) metabolizması nasıldır?",
+        "question": "Eritrositlerin enerji metabolizması nasıldır?",
         "options": [
             "Mitokondrilerinde Oksidatif Fosforilasyon ile 38 ATP üretirler",
             "Oksijenli solunum yaparlar",
@@ -915,7 +915,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_27",
         "subject": "Fizyoloji",
-        "question": "Elektroensefalografi (EEG) kayıtlarında, gözleri AÇIK, uyanık, aktif olarak problem çözen (düşünen) veya aşırı dikkatli bir insanın beyninde ağırlıklı olarak hangi EEG dalgası görülür?",
+        "question": "Elektroensefalografi kayıtlarında, gözleri AÇIK, uyanık, aktif olarak problem çözen veya aşırı dikkatli bir insanın beyninde ağırlıklı olarak hangi EEG dalgası görülür?",
         "options": [
             "Alfa dalgaları (8-13 Hz)",
             "Beta dalgaları (14-30 Hz)",
@@ -930,7 +930,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_28",
         "subject": "Fizyoloji",
-        "question": "Sıcak ve soğuğun algılanması derideki termoreseptörlerle olur. Soğuk algılayan reseptörlerin iyon kanalı ile naneyi yediğimizde ağzımızda hissettiğimiz 'Serinlik/Ferahlık' hissini yaratan madde için çalışan kanal AYNIDIR. Bu reseptör kanalının (veya maddenin) adı nedir?",
+        "question": "Sıcak ve soğuğun algılanması derideki termoreseptörlerle olur. Soğuk algılayan reseptörlerin iyon kanalı ile naneyi yediğimizde ağzımızda hissettiğimiz 'Serinlik/Ferahlık' hissini yaratan madde için çalışan kanal AYNIDIR. Bu reseptör kanalının adı nedir?",
         "options": [
             "TRPV1 / Kapsaisin",
             "TRPM8 / Mentol",
@@ -945,7 +945,7 @@ const v13Part1 = [
     {
         "id": "v13_fiz_29",
         "subject": "Fizyoloji",
-        "question": "Aşırı yükseklikteki (Dağcılık gibi) hipoksik ortamlarda uzun süre (haftalarca) kalan bir kişide, vücudun bu duruma uyum sağlamak (Aklimatizasyon) için geliştirdiği FİZYOLOJİK değişikliklerden biri DEĞİLDİR?",
+        "question": "Aşırı yükseklikteki hipoksik ortamlarda uzun süre kalan bir kişide, vücudun bu duruma uyum sağlamak için geliştirdiği FİZYOLOJİK değişikliklerden biri DEĞİLDİR?",
         "options": [
             "Solunum hızında ve derinliğinde kalıcı artış (Hiperventilasyon)",
             "Böbreklerden Eritropoietin (EPO) salgısının artarak alyuvar sayısının (Hematokritin) yükselmesi",

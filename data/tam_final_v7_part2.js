@@ -12,7 +12,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki plazma proteinlerinden hangisi bakır (Cu) taşınmasında görev alır ve Wilson hastalığında (karaciğer/beyinde bakır birikimi) kan düzeyi belirgin olarak DÜŞER?",
+        "question": "Aşağıdaki plazma proteinlerinden hangisi bakır taşınmasında görev alır ve Wilson hastalığında kan düzeyi belirgin olarak DÜŞER?",
         "options": [
             "Transferrin",
             "Haptoglobin",
@@ -27,7 +27,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Karbonhidrat metabolizmasında Fruktozun karaciğerdeki yıkımı sırasında, eksikliği sonucu şiddetli 'Fruktoz İntoleransına' (meyve yiyince hipoglisemi, sarılık ve karaciğer yetmezliği) neden olan enzim hangisidir?",
+        "question": "Karbonhidrat metabolizmasında Fruktozun karaciğerdeki yıkımı sırasında, eksikliği sonucu şiddetli 'Fruktoz İntoleransına' neden olan enzim hangisidir?",
         "options": [
             "Fruktokinaz",
             "Aldolaz B",
@@ -57,7 +57,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Adrenal medulladan salgılanan katekolaminlerin (Adrenalin ve Noradrenalin) yıkımında görev alan temel enzimler COMT (Katekol-O-Metil Transferaz) ve MAO (Monoamin Oksidaz)'dur. Bu yıkımın sonucunda idrarla atılan ve feokromositoma tanısında ölçülen nihai son ürün (metabolit) hangisidir?",
+        "question": "Adrenal medulladan salgılanan katekolaminlerin yıkımında görev alan temel enzimler COMT ve MAO'dur. Bu yıkımın sonucunda idrarla atılan ve feokromositoma tanısında ölçülen nihai son ürün hangisidir?",
         "options": [
             "Vanilmandelik asit (VMA)",
             "Homovanilik asit (HVA)",
@@ -73,7 +73,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı amonyak (hiperamonyemi) beyin için son derece toksiktir (hepatik ensefalopati). Beyin dokusu kandaki fazla amonyağı nötralize edip detoksifiye etmek için glutamat ile birleştirerek hangi molekülü sentezler?",
+        "question": "Aşırı amonyak beyin için son derece toksiktir. Beyin dokusu kandaki fazla amonyağı nötralize edip detoksifiye etmek için glutamat ile birleştirerek hangi molekülü sentezler?",
         "options": [
             "Üre",
             "Kreatinin",
@@ -88,7 +88,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Uzun süreli alkol tüketimi (kronik alkolizm) sonucu gelişen B1 Vitamini (Tiamin) eksikliğinde Wernicke-Korsakoff sendromu görülür. Tiamin pirofosfat (TPP) hangi enzimin koenzimidir ve eksikliğinde ATP üretimi sekteye uğrar?",
+        "question": "Uzun süreli alkol tüketimi sonucu gelişen B1 Vitamini eksikliğinde Wernicke-Korsakoff sendromu görülür. Tiamin pirofosfat hangi enzimin koenzimidir ve eksikliğinde ATP üretimi sekteye uğrar?",
         "options": [
             "Pirüvat Kinaz",
             "Süksinat Dehidrogenaz",
@@ -133,7 +133,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Yenidoğan sarılığı (hiperbilirubinemi) tedavisinde bebeğe uygulanan 'Fototerapi (Mavi-Yeşil Işık)' tedavisinin fizyolojik/biyokimyasal amacı nedir?",
+        "question": "Yenidoğan sarılığı tedavisinde bebeğe uygulanan 'Fototerapi' tedavisinin fizyolojik/biyokimyasal amacı nedir?",
         "options": [
             "Bilirubini karaciğere geri döndürmek.",
             "Direkt bilirubini (konjuge) safra kanalına itmek.",
@@ -148,7 +148,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_10",
         "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda lipoliz (yağ yıkımı) ile açığa çıkan serbest yağ asitlerinin kanda taşınmasını sağlayan plazma proteini hangisidir?",
+        "question": "Açlık durumunda lipoliz ile açığa çıkan serbest yağ asitlerinin kanda taşınmasını sağlayan plazma proteini hangisidir?",
         "options": [
             "Albumin",
             "Transferrin",
@@ -163,7 +163,7 @@ const v7Part2 = [
     {
         "id": "v7_biyo_11",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdakilerden hangisi glikolizin hız kısıtlayıcı enzimidir ve yüksek ATP/Sitrat seviyelerinde (hücre enerjiye doymuşsa) allosterik olarak inhibe olur?",
+        "question": "Aşağıdakilerden hangisi glikolizin hız kısıtlayıcı enzimidir ve yüksek ATP/Sitrat seviyelerinde allosterik olarak inhibe olur?",
         "options": [
             "Hekzokinaz",
             "Fosfofruktokinaz-1 (PFK-1)",
@@ -181,7 +181,7 @@ const v7Part2 = [
     {
         "id": "v7_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Antidepresan ilaçlardan SSRI grubundan (örn. Fluoksetin) kullanan bir hastaya şiddetli baş ağrısı için bir MAO inhibitörü veya yüksek dozda Sumatriptan (Serotonin agonisti) verilirse ortaya çıkabilecek ölümcül ilaç etkileşim tablosu hangisidir?",
+        "question": "Antidepresan ilaçlardan SSRI grubundan kullanan bir hastaya şiddetli baş ağrısı için bir MAO inhibitörü veya yüksek dozda Sumatriptan verilirse ortaya çıkabilecek ölümcül ilaç etkileşim tablosu hangisidir?",
         "options": [
             "Serotonin Sendromu (Hipertermi, rijidite, ajitasyon)",
             "Nöroleptik Malign Sendrom",
@@ -196,7 +196,7 @@ const v7Part2 = [
     {
         "id": "v7_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Kardiyak aritmilerde veya tansiyonda kullanılan Kalsiyum Kanal Blokerleri (örn. Verapamil, Diltiazem) ile Beta Blokerlerin (örn. Metoprolol) birlikte reçete edilmesinin tehlikesi nedir?",
+        "question": "Kardiyak aritmilerde veya tansiyonda kullanılan Kalsiyum Kanal Blokerleri ile Beta Blokerlerin birlikte reçete edilmesinin tehlikesi nedir?",
         "options": [
             "Kan basıncının aşırı yükselerek (Hipertansif kriz) beyin kanaması yapması.",
             "Kalp atım hızının çok fazla düşmesi (Şiddetli Bradikardi) ve AV tam blok (kalp durması) gelişmesi.",
@@ -212,7 +212,7 @@ const v7Part2 = [
     {
         "id": "v7_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Diüretiklerden (İdrar söktürücü) Henle kulpunun çıkan kalın kolundaki 'Na-K-2Cl' ko-transporterini (taşıyıcısını) bloke ederek en güçlü su atımını (diürezi) sağlayan 'Loop Diüretik' ilacı aşağıdakilerden hangisidir?",
+        "question": "Diüretiklerden Henle kulpunun çıkan kalın kolundaki 'Na-K-2Cl' ko-transporterini bloke ederek en güçlü su atımını sağlayan 'Loop Diüretik' ilacı aşağıdakilerden hangisidir?",
         "options": [
             "Hidroklorotiyazid",
             "Furosemid",
@@ -227,7 +227,7 @@ const v7Part2 = [
     {
         "id": "v7_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Bakterilerde protein sentezini engelleyen antibiyotiklerden, ribozomun 30S alt birimine geri dönüşümsüz bağlanarak mRNA okuma hatasına (yanlış protein yapımına) neden olan ve nefrotoksisite/ototoksisite (işitme kaybı) yan etkisi belirgin olan grup hangisidir?",
+        "question": "Bakterilerde protein sentezini engelleyen antibiyotiklerden, ribozomun 30S alt birimine geri dönüşümsüz bağlanarak mRNA okuma hatasına neden olan ve nefrotoksisite/ototoksisite yan etkisi belirgin olan grup hangisidir?",
         "options": [
             "Aminoglikozitler (Örn. Gentamisin)",
             "Makrolidler (Örn. Eritromisin)",
@@ -242,7 +242,7 @@ const v7Part2 = [
     {
         "id": "v7_farma_5",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Ağrı tedavisinde kullanılan NSAİİ (Non Steroid Anti İnflamatuar İlaçlar - Örn: İbuprofen, Aspirin) ilaçların ortak etki mekanizması hangisidir?",
+        "question": "Ağrı tedavisinde kullanılan NSAİİ ilaçların ortak etki mekanizması hangisidir?",
         "options": [
             "Fosfolipaz A2 enzimini inhibe ederek araşidonik asit salınımını durdurmak",
             "Siklooksijenaz (COX) enzimini inhibe ederek Prostaglandin sentezini durdurmak",
@@ -257,7 +257,7 @@ const v7Part2 = [
     {
         "id": "v7_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Organofosfat (Tarım ilacı / Böcek ilacı) zehirlenmesinde, hasta aşırı tükürük, gözyaşı, ishal, kas seğirmesi ve nefes darlığı yaşar (Aşırı Parasempatik aktivite). Bu zehirlenmede hayat kurtarıcı olarak kullanılan parasempatolitik (muskarinik blokör) ilaç aşağıdakilerden hangisidir?",
+        "question": "Organofosfat zehirlenmesinde, hasta aşırı tükürük, gözyaşı, ishal, kas seğirmesi ve nefes darlığı yaşar. Bu zehirlenmede hayat kurtarıcı olarak kullanılan parasempatolitik ilaç aşağıdakilerden hangisidir?",
         "options": [
             "Atropin",
             "Naloksan",
@@ -272,7 +272,7 @@ const v7Part2 = [
     {
         "id": "v7_farma_7",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Diyabet (Şeker hastalığı) tedavisinde insülin direncini kıran, karaciğerde glukoneogenezi baskılayan (şeker yapımını durduran), ancak yan etki olarak kilo aldırmayan (hatta zayıflatabilen) Tip 2 diyabetin ilk basamak ilacı hangisidir?",
+        "question": "Diyabet tedavisinde insülin direncini kıran, karaciğerde glukoneogenezi baskılayan, ancak yan etki olarak kilo aldırmayan Tip 2 diyabetin ilk basamak ilacı hangisidir?",
         "options": [
             "Glibenklamid (Sülfonilüre)",
             "Metformin (Biguanid)",
@@ -290,7 +290,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_1",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kıkırdak ve kas gelişimini sağlayan faringeal arkuslardan, hem Tirokortik kıkırdağı hem de Krikoid kıkırdağı oluşturan, ses tellerini (larynx kaslarını) yapan ve N. Vagus'un (X) inerve ettiği arkus çifti hangisidir?",
+        "question": "Kıkırdak ve kas gelişimini sağlayan faringeal arkuslardan, hem Tirokortik kıkırdağı hem de Krikoid kıkırdağı oluşturan, ses tellerini yapan ve N. Vagus'un inerve ettiği arkus çifti hangisidir?",
         "options": [
             "1. ve 2. Faringeal Arkuslar",
             "2. ve 3. Faringeal Arkuslar",
@@ -320,7 +320,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_3",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Tiroid bezinde, foliküllerin arasında yerleşen (parafoliküler hücreler / C hücreleri) ve embriyolojik kökenini nöral krista hücrelerinden (ultimobrankiyal cisimcik / 4. faringeal cep) alan hücrelerin salgıladığı hormon nedir?",
+        "question": "Tiroid bezinde, foliküllerin arasında yerleşen ve embriyolojik kökenini nöral krista hücrelerinden alan hücrelerin salgıladığı hormon nedir?",
         "options": [
             "Parathormon (PTH)",
             "Tiroksin (T4)",
@@ -335,7 +335,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_4",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Hipofiz bezi embriyolojik olarak iki farklı kökenden gelişir. Adenohipofiz (ön lob) Rathke kesesinden (oral ektoderm) gelişirken, Nörohipofiz (arka lob) nereden gelişir?",
+        "question": "Hipofiz bezi embriyolojik olarak iki farklı kökenden gelişir. Adenohipofiz Rathke kesesinden gelişirken, Nörohipofiz nereden gelişir?",
         "options": [
             "Faringeal kavis mezodermi",
             "Nöroektodermden (Diensefalonun aşağı uzantısı olan infundibulumdan)",
@@ -351,7 +351,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyolojide döllenme (fertilizasyon) tuba uterinanın ampulla bölgesinde gerçekleştikten sonra zigot bölünerek ilerler. Yaklaşık 5-6. günde uterusa ulaştığında (implantasyon evresinde) içi sıvı dolu olan ve etrafı trofoblast hücreleriyle sarılı olan yapıya ne ad verilir?",
+        "question": "Embriyolojide döllenme tuba uterinanın ampulla bölgesinde gerçekleştikten sonra zigot bölünerek ilerler. Yaklaşık 5-6. günde uterusa ulaştığında içi sıvı dolu olan ve etrafı trofoblast hücreleriyle sarılı olan yapıya ne ad verilir?",
         "options": [
             "Morula",
             "Blastokist",
@@ -366,7 +366,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_6",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Gastrulasyon (3. hafta) döneminde embriyo üç germ yaprağına (Ektoderm, Mezoderm, Endoderm) ayrılır. İskelet kasları, kemikler, kıkırdak ve dolaşım sistemi (kalp-damarlar) hangi yapraktan gelişir?",
+        "question": "Gastrulasyon döneminde embriyo üç germ yaprağına ayrılır. İskelet kasları, kemikler, kıkırdak ve dolaşım sistemi hangi yapraktan gelişir?",
         "options": [
             "Ektoderm",
             "Mezoderm",
@@ -396,7 +396,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Hücre zarı bağlantı (junction) komplekslerinden hangisi, hücreleri birbirine sıkıca dikerek (Zonula occludens) epitel dokusunun apikal yüzeyinden madde sızmasını tamamen engeller ve kan-beyin gibi doku bariyerlerini oluşturur?",
+        "question": "Hücre zarı bağlantı komplekslerinden hangisi, hücreleri birbirine sıkıca dikerek epitel dokusunun apikal yüzeyinden madde sızmasını tamamen engeller ve kan-beyin gibi doku bariyerlerini oluşturur?",
         "options": [
             "Zonula adherens (Kuşak dezmozom)",
             "Macula adherens (Dezmozom)",
@@ -426,7 +426,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_10",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kanda en fazla bulunan antikor (İmmünoglobulin) sınıfı olup, plasentadan geçerek anne karnındaki fetüse bağışıklık sağlayan TEK antikor tipi hangisidir?",
+        "question": "Kanda en fazla bulunan antikor sınıfı olup, plasentadan geçerek anne karnındaki fetüse bağışıklık sağlayan TEK antikor tipi hangisidir?",
         "options": [
             "IgM",
             "IgA",
@@ -441,7 +441,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_11",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Aşağıdaki hücrelerden hangisi bağ dokusunun temel hücresidir ve yara iyileşmesinde (skar/nedbe) aşırı çoğalarak kollajen lif sentezini gerçekleştirir?",
+        "question": "Aşağıdaki hücrelerden hangisi bağ dokusunun temel hücresidir ve yara iyileşmesinde aşırı çoğalarak kollajen lif sentezini gerçekleştirir?",
         "options": [
             "Makrofaj",
             "Mast hücresi",
@@ -456,7 +456,7 @@ const v7Part2 = [
     {
         "id": "v7_histo_12",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Erkek üreme sisteminde spermatidlerin kuyruklu, hareketli ve olgun spermatozoalara (sperm) dönüşme evresine (Şekil değiştirme evresi) ne ad verilir?",
+        "question": "Erkek üreme sisteminde spermatidlerin kuyruklu, hareketli ve olgun spermatozoalara dönüşme evresine ne ad verilir?",
         "options": [
             "Spermatositogenez",
             "Spermiyogenez",
@@ -489,7 +489,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_1",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Hücre zarı fonksiyonunu bozarak etki eden antimikrobiyaller incelendiğinde; ergosterol sentezini veya ergosterole bağlanarak mantar hücresinin (fungus) zar geçirgenliğini artıran ve hücreyi öldüren 'Sistemik Antifungal' ilaç grubu aşağıdakilerden hangisidir?",
+        "question": "Hücre zarı fonksiyonunu bozarak etki eden antimikrobiyaller incelendiğinde; ergosterol sentezini veya ergosterole bağlanarak mantar hücresinin zar geçirgenliğini artıran ve hücreyi öldüren 'Sistemik Antifungal' ilaç grubu aşağıdakilerden hangisidir?",
         "options": [
             "Polienler (Amfoterisin B) ve Azoller (Flukonazol)",
             "Makrolidler (Eritromisin)",
@@ -504,7 +504,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_2",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Mycoplasma cinsinin özellikleri düşünüldüğünde, hastane kaynaklı zatürre (Pnömoni) tedavilerinde çok sık kullanılan ve peptidoglikan yıkımına dayanan Sefalosporinler neden Mycoplasma enfeksiyonunda etkisiz kalır?",
+        "question": "Mycoplasma cinsinin özellikleri düşünüldüğünde, hastane kaynaklı zatürre tedavilerinde çok sık kullanılan ve peptidoglikan yıkımına dayanan Sefalosporinler neden Mycoplasma enfeksiyonunda etkisiz kalır?",
         "options": [
             "Mycoplasma'nın hücre duvarının bulunmaması",
             "Hücrenin etrafında yıkılmaz bir mumsu kapsül olması",
@@ -519,7 +519,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Kolera toksini (Vibrio cholerae'nin salgıladığı enterotoksin) bağırsak epitel hücresinde hangi mekanizmayı kullanarak şiddetli ve bol sulu ('pirinç suyu') ishale neden olur?",
+        "question": "Kolera toksini bağırsak epitel hücresinde hangi mekanizmayı kullanarak şiddetli ve bol sulu ishale neden olur?",
         "options": [
             "Hücre zarını delerek (Por oluşumu) kanamaya yol açar.",
             "Protein sentezini durdurarak epitel hücresini öldürür.",
@@ -535,7 +535,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_4",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Sifiliz (Frengi) hastalığının etkeni olan, spiroket yapısındaki helezonik bakteri aşağıdakilerden hangisidir?",
+        "question": "Sifiliz hastalığının etkeni olan, spiroket yapısındaki helezonik bakteri aşağıdakilerden hangisidir?",
         "options": [
             "Neisseria gonorrhoeae",
             "Chlamydia trachomatis",
@@ -550,7 +550,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Tüberküloz (Verem) hastalığında PPD (Tüberkülin cilt) testi pozitifliği, bağışıklık sisteminin hangi tür aşırı duyarlılık reaksiyonunu (Hipersensitivite) kullandığını gösterir?",
+        "question": "Tüberküloz hastalığında PPD testi pozitifliği, bağışıklık sisteminin hangi tür aşırı duyarlılık reaksiyonunu kullandığını gösterir?",
         "options": [
             "Tip I (Anafilaktik, IgE aracılı)",
             "Tip II (Sitotoksik, Antikor aracılı)",
@@ -565,7 +565,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_6",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Viral hepatitler içinde, dışkı-ağız (Fekal-oral) yoluyla bulaşan ve KESİNLİKLE kronikleşmeyen (karaciğer kanserine yol açmayan), çocuklarda sadece akut sarılık yapan hepatit virüsü hangisidir?",
+        "question": "Viral hepatitler içinde, dışkı-ağız yoluyla bulaşan ve KESİNLİKLE kronikleşmeyen, çocuklarda sadece akut sarılık yapan hepatit virüsü hangisidir?",
         "options": [
             "Hepatit B",
             "Hepatit C",
@@ -580,7 +580,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Epstein-Barr Virüsünün (EBV) etken olduğu, lise/üniversite çağındaki gençlerde tükürükle ('öpüşme hastalığı') bulaşan, ateş, şiddetli boğaz ağrısı, yaygın lenf bezi büyümesi (adenopati) ve dalak büyüklüğüyle giden hastalık hangisidir?",
+        "question": "Epstein-Barr Virüsünün etken olduğu, lise/üniversite çağındaki gençlerde tükürükle bulaşan, ateş, şiddetli boğaz ağrısı, yaygın lenf bezi büyümesi ve dalak büyüklüğüyle giden hastalık hangisidir?",
         "options": [
             "İnfeksiyöz Mononükleoz",
             "Suçiçeği (Varicella)",
@@ -595,7 +595,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_8",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki bakterilerden hangisi 'Soğuk zenginleştirme (+4 derecede üreme artışı)' yapılarak dışkıdan izole edilen ve kanlı ishalin yanında sağ alt kadran ağrısıyla Apandisiti (Yalancı apandisit) taklit eden enterik bakteridir?",
+        "question": "Aşağıdaki bakterilerden hangisi 'Soğuk zenginleştirme' yapılarak dışkıdan izole edilen ve kanlı ishalin yanında sağ alt kadran ağrısıyla Apandisiti taklit eden enterik bakteridir?",
         "options": [
             "Shigella dysenteriae",
             "Yersinia enterocolitica",
@@ -610,7 +610,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_9",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Mantarlar (Funguslar) ile ilgili genel özelliklerden hangisi YANLIŞTIR?",
+        "question": "Mantarlar ile ilgili genel özelliklerden hangisi YANLIŞTIR?",
         "options": [
             "Tamamı ökaryotik hücre yapısındadır.",
             "Hücre duvarlarında peptidoglikan bulunur ve penisiline duyarlıdırlar.",
@@ -625,7 +625,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Sıtma hastalığının (Plasmodium) kesin konağı (seksüel üremenin olduğu) ve vektörü olan böcek aşağıdakilerden hangisidir?",
+        "question": "Sıtma hastalığının kesin konağı ve vektörü olan böcek aşağıdakilerden hangisidir?",
         "options": [
             "Anopheles (Anofel) cinsi dişi sivrisinek",
             "Aedes cinsi sivrisinek",
@@ -640,7 +640,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Laboratuvarda kültür plağında, Staphylococcus aureus'un kanlı agarda yaptığı hemoliz zonunun çevresinde, başka bir bakterinin (Örn. H. influenzae) S. aureus'a doğru daha gür üreyip kolonilerinin onun etrafında toplanması olayına ne ad verilir?",
+        "question": "Laboratuvarda kültür plağında, Staphylococcus aureus'un kanlı agarda yaptığı hemoliz zonunun çevresinde, başka bir bakterinin S. aureus'a doğru daha gür üreyip kolonilerinin onun etrafında toplanması olayına ne ad verilir?",
         "options": [
             "Sinerjizm",
             "Aglütinasyon",
@@ -655,7 +655,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_12",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gram pozitif, üzüm salkımı şeklinde kümelenen (Stafilokok) ve plazmayı pıhtılaştırma (Koagülaz) testi POZİTİF olan, apseler ve hastane enfeksiyonlarının en sık etkeni olan bakteri hangisidir?",
+        "question": "Gram pozitif, üzüm salkımı şeklinde kümelenen ve plazmayı pıhtılaştırma testi POZİTİF olan, apseler ve hastane enfeksiyonlarının en sık etkeni olan bakteri hangisidir?",
         "options": [
             "Staphylococcus epidermidis",
             "Staphylococcus saprophyticus",
@@ -670,7 +670,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşağıdaki virüs gruplarından hangisi zarfsızdır (dış lipid kılıfı yoktur) ve bu sayede sabun, alkol ve asitlere (mide asidine) karşı son derece DİRENÇLİDİR?",
+        "question": "Aşağıdaki virüs gruplarından hangisi zarfsızdır ve bu sayede sabun, alkol ve asitlere karşı son derece DİRENÇLİDİR?",
         "options": [
             "Coronavirus",
             "Influenza (Grip) virüsü",
@@ -685,7 +685,7 @@ const v7Part2 = [
     {
         "id": "v7_mikro_14",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşırı duyarlılık (Alerji/Hipersensitivite) reaksiyonlarından Tip I (Anafilaksi, Astım, Alerjik Rinit) mekanizmasında, allerjen ile birleşerek Mast hücrelerinden Histamin patlamasına (degranülasyon) neden olan yüzey antikoru hangisidir?",
+        "question": "Aşırı duyarlılık reaksiyonlarından Tip I mekanizmasında, allerjen ile birleşerek Mast hücrelerinden Histamin patlamasına neden olan yüzey antikoru hangisidir?",
         "options": [
             "IgG",
             "IgA",
@@ -703,7 +703,7 @@ const v7Part2 = [
     {
         "id": "v7_biyofizik_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarının dinlenim (İstirahat) membran potansiyelinin (-70 mV / -90 mV) hüce içinin eksi yüklü olmasından asıl sorumlu olan mekanizma / iyon sızıntısı aşağıdakilerden hangisidir?",
+        "question": "Hücre zarının dinlenim membran potansiyelinin hüce içinin eksi yüklü olmasından asıl sorumlu olan mekanizma / iyon sızıntısı aşağıdakilerden hangisidir?",
         "options": [
             "Sodyumun sızma kanallarından hücreye sızması",
             "Potasyumun (K+) sızma kanallarından sürekli hücre dışına sızması ve içeride eksi yüklü proteinleri bırakması",
@@ -718,7 +718,7 @@ const v7Part2 = [
     {
         "id": "v7_biyofizik_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Radyoaktivite ile ilgili olarak, bir atomun çekirdeğinden aynı anda 2 proton ve 2 nötron fırlatması şeklindeki ışıma (radyasyon) türü hangisidir?",
+        "question": "Radyoaktivite ile ilgili olarak, bir atomun çekirdeğinden aynı anda 2 proton ve 2 nötron fırlatması şeklindeki ışıma türü hangisidir?",
         "options": [
             "Alfa ışıması",
             "Beta (elektron) ışıması",
@@ -733,7 +733,7 @@ const v7Part2 = [
     {
         "id": "v7_biyofizik_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "Göz optiğinde uzağı net göremeyen (Miyopi) hastalarda, göz küresi normalden UZUN olduğu için görüntü retinanın (sarı lekenin) neresine odaklanır ve bu durumu düzeltmek için hangi tür mercek kullanılır?",
+        "question": "Göz optiğinde uzağı net göremeyen hastalarda, göz küresi normalden UZUN olduğu için görüntü retinanın neresine odaklanır ve bu durumu düzeltmek için hangi tür mercek kullanılır?",
         "options": [
             "Retinanın arkasına odaklanır / İnce kenarlı (Dışbükey) mercek",
             "Retinanın arkasına odaklanır / Kalın kenarlı (İçbükey) mercek",
@@ -748,7 +748,7 @@ const v7Part2 = [
     {
         "id": "v7_biyofizik_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kan dolaşımı fiziğinde akışkanlar mekaniği kullanıldığında, daralmış bir kalp kapağından (örn. Aort stenozu) geçen kanın HIZI çok fazla artar, ancak akım sırasında oluşturduğu YAN BASINÇ kanalda düşer. Bu durum kanın girdap (türbülans) yapmasına ve 'üfürüm' duyulmasına sebep olur. Bu olguyu açıklayan fiziksel yasa hangisidir?",
+        "question": "Kan dolaşımı fiziğinde akışkanlar mekaniği kullanıldığında, daralmış bir kalp kapağından geçen kanın HIZI çok fazla artar, ancak akım sırasında oluşturduğu YAN BASINÇ kanalda düşer. Bu durum kanın girdap yapmasına ve 'üfürüm' duyulmasına sebep olur. Bu olguyu açıklayan fiziksel yasa hangisidir?",
         "options": [
             "Ohm Yasası",
             "Bernoulli İlkesi",
@@ -764,7 +764,7 @@ const v7Part2 = [
     {
         "id": "v7_patoloji_1",
         "subject": "Tıbbi Patoloji",
-        "question": "Kanser hücresinin (Malign tümör) özellikleri incelendiğinde, normal hücrenin aksine sınırsız bölünme yeteneğine sahip olmasını (ölümsüzleşmesini) sağlayan ve kromozom uçlarındaki telomerlerin kısalmasını önleyen enzim aşağıdakilerden hangisidir?",
+        "question": "Kanser hücresinin özellikleri incelendiğinde, normal hücrenin aksine sınırsız bölünme yeteneğine sahip olmasını sağlayan ve kromozom uçlarındaki telomerlerin kısalmasını önleyen enzim aşağıdakilerden hangisidir?",
         "options": [
             "Kaspaz-3",
             "DNA Polimeraz",
@@ -779,7 +779,7 @@ const v7Part2 = [
     {
         "id": "v7_patoloji_2",
         "subject": "Tıbbi Patoloji",
-        "question": "Doku ölümü formlarından 'Apoptoz' (Programlı hücre ölümü) ile 'Nekroz' arasındaki temel patolojik FARK aşağıdakilerden hangisidir?",
+        "question": "Doku ölümü formlarından 'Apoptoz' ile 'Nekroz' arasındaki temel patolojik FARK aşağıdakilerden hangisidir?",
         "options": [
             "Nekroz hücresel büzülmeyle giderken, apoptozda hücre şişip patlar.",
             "Apoptozda hücre içeriği dışarı dökülür ve şiddetli iltihap (inflamasyon) başlar.",
@@ -810,7 +810,7 @@ const v7Part2 = [
     {
         "id": "v7_iletisim_2",
         "subject": "İletişim Becerileri",
-        "question": "Ölümcül bir hastalık tanısı konulan veya kötü bir tıbbi haber verilecek olan hastaya (Kötü Haber Verme süreci), hangi yaklaşımın sergilenmesi TIBBİ İLETİŞİM AÇISINDAN YANLIŞTIR?",
+        "question": "Ölümcül bir hastalık tanısı konulan veya kötü bir tıbbi haber verilecek olan hastaya, hangi yaklaşımın sergilenmesi TIBBİ İLETİŞİM AÇISINDAN YANLIŞTIR?",
         "options": [
             "Haberi verirken hastanın ne kadar bilgi öğrenmek istediğini baştan sormak.",
             "Oturarak, sessiz ve özel bir odada konuşmayı gerçekleştirmek.",
@@ -841,7 +841,7 @@ const v7Part2 = [
     {
         "id": "v7_tarihetik_2",
         "subject": "Tıp Tarihi ve Etik",
-        "question": "Hekimin, hastasına ilişkin öğrendiği sırları, yasal bir zorunluluk (bildirimi zorunlu bulaşıcı hastalık vb.) veya başkalarının hayatına yönelik açık bir tehdit (cinayet kastı vb.) olmadıkça kimseyle paylaşmaması yükümlülüğüne ne ad verilir?",
+        "question": "Hekimin, hastasına ilişkin öğrendiği sırları, yasal bir zorunluluk veya başkalarının hayatına yönelik açık bir tehdit olmadıkça kimseyle paylaşmaması yükümlülüğüne ne ad verilir?",
         "options": [
             "Sadakat ilkesi",
             "Aydınlatılmış onam",
@@ -857,7 +857,7 @@ const v7Part2 = [
     {
         "id": "v7_bak_1",
         "subject": "Bilimsel Araştırma",
-        "question": "Bilimsel araştırmalarda 'Körleme (Blinding)' yönteminin (Örn: Çift kör çalışma) temel amacı nedir?",
+        "question": "Bilimsel araştırmalarda 'Körleme' yönteminin temel amacı nedir?",
         "options": [
             "İstatiksel anlamlılığı artırmak",
             "Araştırmacının ve hastanın hangi ilacı/plaseboyu aldığını bilmesini engelleyerek, sonuçlar üzerindeki psikolojik veya yönlendirici 'Taraf tutma (Bias)' hatalarını önlemek",
@@ -873,7 +873,7 @@ const v7Part2 = [
     {
         "id": "v7_toplum_1",
         "subject": "Toplum Sağlığı",
-        "question": "Halk sağlığında koruyucu sağlık hizmetleri seviyelere ayrılır. Hastalık ortaya ÇIKMADAN ÖNCE, hastalığı engellemek için yapılan aşılama (immunizasyon), el yıkama, temiz su sağlama gibi temel uygulamalar hangi düzey korumadır?",
+        "question": "Halk sağlığında koruyucu sağlık hizmetleri seviyelere ayrılır. Hastalık ortaya ÇIKMADAN ÖNCE, hastalığı engellemek için yapılan aşılama, el yıkama, temiz su sağlama gibi temel uygulamalar hangi düzey korumadır?",
         "options": [
             "Birincil (Primer) Koruma",
             "İkincil (Sekonder) Koruma",

@@ -5,7 +5,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_1",
         "subject": "Tıbbi Biyokimya",
-        "question": "Metabolizmada Pentoz Fosfat Yolu'nun (Heksoz Monofosfat Şantı) esas biyokimyasal amacı aşağıdakilerden hangisidir?",
+        "question": "Metabolizmada Pentoz Fosfat Yolu'nun esas biyokimyasal amacı aşağıdakilerden hangisidir?",
         "options": [
             "Hücrenin ATP ihtiyacının tamamını karşılamak",
             "Glukozdan laktat üreterek anaerobik enerji sağlamak",
@@ -20,7 +20,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_2",
         "subject": "Tıbbi Biyokimya",
-        "question": "Mitokondride Elektron Taşıma Sistemi'nde (ETS), Kompleks I, III ve IV üzerinden hidrojenler (H+) zarlar arası boşluğa pompalanırken, elektronların Kompleks III'ten Kompleks IV'e taşınmasını sağlayan, suda çözünebilen ve mobil olan elektron taşıyıcısı protein hangisidir?",
+        "question": "Mitokondride Elektron Taşıma Sistemi'nde, Kompleks I, III ve IV üzerinden hidrojenler zarlar arası boşluğa pompalanırken, elektronların Kompleks III'ten Kompleks IV'e taşınmasını sağlayan, suda çözünebilen ve mobil olan elektron taşıyıcısı protein hangisidir?",
         "options": [
             "Koenzim Q (Ubikinon)",
             "Sitokrom c",
@@ -35,7 +35,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_3",
         "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki lipit fraksiyonlarından hangisi, kan dolaşımında en fazla 'Trigliserit' taşıyan ve yemeklerden sonra lenf yoluyla kana geçerek plazmanın bulanık (lipemik) görünmesine neden olan lipoproteindir?",
+        "question": "Aşağıdaki lipit fraksiyonlarından hangisi, kan dolaşımında en fazla 'Trigliserit' taşıyan ve yemeklerden sonra lenf yoluyla kana geçerek plazmanın bulanık görünmesine neden olan lipoproteindir?",
         "options": [
             "HDL (Yüksek yoğunluklu lipoprotein)",
             "LDL (Düşük yoğunluklu lipoprotein)",
@@ -50,7 +50,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_4",
         "subject": "Tıbbi Biyokimya",
-        "question": "Kolajen sentezinde, protein zincirindeki prolin ve lizin amino asitlerinin hidroksilasyonu (hidroksiprolin ve hidroksilizin oluşumu) çapraz bağların kurulması için şarttır. Bu hidroksilasyon reaksiyonlarında 'Prozil hidroksilaz' enzimine kofaktör olarak gereken ve eksikliğinde Skorbüt (Scurvy) hastalığına yol açan vitamin hangisidir?",
+        "question": "Kolajen sentezinde, protein zincirindeki prolin ve lizin amino asitlerinin hidroksilasyonu çapraz bağların kurulması için şarttır. Bu hidroksilasyon reaksiyonlarında 'Prozil hidroksilaz' enzimine kofaktör olarak gereken ve eksikliğinde Skorbüt hastalığına yol açan vitamin hangisidir?",
         "options": [
             "A vitamini (Retinol)",
             "B1 vitamini (Tiamin)",
@@ -65,7 +65,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_5",
         "subject": "Tıbbi Biyokimya",
-        "question": "Karaciğerde amonyağın üreye dönüştürüldüğü Üre Döngüsü'nün hız kısıtlayıcı ana enzimi (Karbamoil fosfat sentetaz I), allosterik olarak hangi molekül tarafından aktive edilir?",
+        "question": "Karaciğerde amonyağın üreye dönüştürüldüğü Üre Döngüsü'nün hız kısıtlayıcı ana enzimi, allosterik olarak hangi molekül tarafından aktive edilir?",
         "options": [
             "N-Asetilglutamat (NAG)",
             "Ornitin",
@@ -80,7 +80,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_6",
         "subject": "Tıbbi Biyokimya",
-        "question": "Vücutta purin nükleotidlerinin (Adenin ve Guanin) yıkımının son ürünü olan ve kanda aşırı biriktiğinde (hiperürisemi) eklemlerde kristalleşerek 'Gut Hastalığı'na (Gout) neden olan molekül hangisidir?",
+        "question": "Vücutta purin nükleotidlerinin yıkımının son ürünü olan ve kanda aşırı biriktiğinde eklemlerde kristalleşerek 'Gut Hastalığı'na neden olan molekül hangisidir?",
         "options": [
             "Üre",
             "Kreatinin",
@@ -95,7 +95,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_7",
         "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerin (kırmızı kan hücreleri) enerji üretmek için sahip oldukları TEK metabolik yol hangisidir?",
+        "question": "Eritrositlerin enerji üretmek için sahip oldukları TEK metabolik yol hangisidir?",
         "options": [
             "Aerobik glikoliz",
             "Krebs (TCA) döngüsü",
@@ -125,7 +125,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_9",
         "subject": "Tıbbi Biyokimya",
-        "question": "Yağ asitlerinin beta-oksidasyonu (yıkımı) için sitoplazmadan mitokondri matriksine taşınmaları gerekir. Uzun zincirli yağ asitlerini mitokondri iç zarından geçiren bu özel taşıyıcı molekül aşağıdakilerden hangisidir?",
+        "question": "Yağ asitlerinin beta-oksidasyonu için sitoplazmadan mitokondri matriksine taşınmaları gerekir. Uzun zincirli yağ asitlerini mitokondri iç zarından geçiren bu özel taşıyıcı molekül aşağıdakilerden hangisidir?",
         "options": [
             "Karnitin",
             "Sitrat",
@@ -140,7 +140,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_10",
         "subject": "Tıbbi Biyokimya",
-        "question": "Açlıkta yağ asidi yıkımının artmasıyla karaciğerde sentezlenen ve beyin, kalp, kas gibi ekstrahepatik dokular tarafından enerji kaynağı olarak kullanılabilen (kan-beyin bariyerini geçen) keton cisimleri aşağıdakilerden hangileridir?",
+        "question": "Açlıkta yağ asidi yıkımının artmasıyla karaciğerde sentezlenen ve beyin, kalp, kas gibi ekstrahepatik dokular tarafından enerji kaynağı olarak kullanılabilen keton cisimleri aşağıdakilerden hangileridir?",
         "options": [
             "Pirüvat, Laktat, Alanin",
             "Asetoasetat, Beta-hidroksibütirat, Aseton",
@@ -155,7 +155,7 @@ const v10Part2 = [
     {
         "id": "v10_biyo_11",
         "subject": "Tıbbi Biyokimya",
-        "question": "Hangi vitaminin eksikliğinde Wernicke-Korsakoff sendromu (konfüzyon, ataksi, oftalmopleji ve hafıza kaybı) görülür ve bu vitamin eritrositlerde Transketolaz enziminin koenzimi olarak görev yapar?",
+        "question": "Hangi vitaminin eksikliğinde Wernicke-Korsakoff sendromu görülür ve bu vitamin eritrositlerde Transketolaz enziminin koenzimi olarak görev yapar?",
         "options": [
             "B1 Vitamini (Tiamin)",
             "B2 Vitamini (Riboflavin)",
@@ -172,7 +172,7 @@ const v10Part2 = [
     {
         "id": "v10_farma_1",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Aspirin dışındaki Non-Steroid Anti-İnflamatuar İlaçlar (NSAİİ - örn. İbuprofen, Diklofenak), inflamasyon (iltihap), ağrı ve ateş süreçlerinden sorumlu olan prostaglandinlerin sentezini hangi enzimi inhibe ederek durdururlar?",
+        "question": "Aspirin dışındaki Non-Steroid Anti-İnflamatuar İlaçlar, inflamasyon, ağrı ve ateş süreçlerinden sorumlu olan prostaglandinlerin sentezini hangi enzimi inhibe ederek durdururlar?",
         "options": [
             "Lipooksijenaz (LOX)",
             "Fosfolipaz A2",
@@ -187,7 +187,7 @@ const v10Part2 = [
     {
         "id": "v10_farma_2",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Farmakokinetik parametrelerden olan 'Yarılanma Ömrü (t1/2)', ilacın plazma konsantrasyonunun yarıya inmesi için geçen süredir. Sürekli (kronik) ilaç kullanımında, ilacın kanda kararlı (sabit) bir tedavi seviyesine (Kararlı durum / Steady-state) ulaşması için ortalama KAC yarı ömür geçmesi gerekir?",
+        "question": "Farmakokinetik parametrelerden olan 'Yarılanma Ömrü', ilacın plazma konsantrasyonunun yarıya inmesi için geçen süredir. Sürekli ilaç kullanımında, ilacın kanda kararlı bir tedavi seviyesine ulaşması için ortalama KAC yarı ömür geçmesi gerekir?",
         "options": [
             "1 yarı ömür",
             "2 yarı ömür",
@@ -202,7 +202,7 @@ const v10Part2 = [
     {
         "id": "v10_farma_3",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Organofosfatlı tarım ilaçları (veya sinir gazları) zehirlenmesinde, hasta salya sümük (hipersekresyon), ishal, idrar kaçırma, kas seğirmeleri ve daralmış göz bebekleri (miyozis) ile acile getirilir. Bu toksik tablonun nedeni hangi enzimin irreversibl (geri dönüşümsüz) olarak inhibe edilmesidir?",
+        "question": "Organofosfatlı tarım ilaçları zehirlenmesinde, hasta salya sümük, ishal, idrar kaçırma, kas seğirmeleri ve daralmış göz bebekleri ile acile getirilir. Bu toksik tablonun nedeni hangi enzimin irreversibl olarak inhibe edilmesidir?",
         "options": [
             "Monoamin oksidaz (MAO)",
             "Kolin asetiltransferaz",
@@ -217,7 +217,7 @@ const v10Part2 = [
     {
         "id": "v10_farma_4",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Mide ülseri tedavisinde kullanılan, mide paryetal hücrelerindeki asit sekresyonunun son basamağı olan H+/K+ ATPaz pompasını (Proton pompası) irreversibl olarak bloke eden ve en güçlü asit baskılayıcı olan ilaç grubu hangisidir?",
+        "question": "Mide ülseri tedavisinde kullanılan, mide paryetal hücrelerindeki asit sekresyonunun son basamağı olan H+/K+ ATPaz pompasını irreversibl olarak bloke eden ve en güçlü asit baskılayıcı olan ilaç grubu hangisidir?",
         "options": [
             "H2 reseptör blokerleri (Famotidin, Ranitidin)",
             "Antiasitler (Alüminyum hidroksit)",
@@ -232,7 +232,7 @@ const v10Part2 = [
     {
         "id": "v10_farma_5",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Astım tedavisinde 'Kurtarıcı (Reliever)' ilaç olarak krizi anında çözmek (bronkodilatasyon) amacıyla inhalasyon (fısfıs) yoluyla kullanılan, kısa etkili Selektif Beta-2 adrenerjik agonist ilaç aşağıdakilerden hangisidir?",
+        "question": "Astım tedavisinde 'Kurtarıcı' ilaç olarak krizi anında çözmek amacıyla inhalasyon yoluyla kullanılan, kısa etkili Selektif Beta-2 adrenerjik agonist ilaç aşağıdakilerden hangisidir?",
         "options": [
             "Salbutamol (Albuterol)",
             "İpratropium",
@@ -247,7 +247,7 @@ const v10Part2 = [
     {
         "id": "v10_farma_6",
         "subject": "Tıbbi Farmakoloji",
-        "question": "İdrar söktürücü (Diüretik) ilaçlar arasında yer alan ve Henle kulbunun çıkan kalın kolundaki Na+/K+/2Cl- taşıyıcısını bloke ederek ÇOK GÜÇLÜ (High ceiling) su ve tuz atılımı sağlayan, acil akciğer ödemi tedavisinde kullanılan ilaç hangisidir?",
+        "question": "İdrar söktürücü ilaçlar arasında yer alan ve Henle kulbunun çıkan kalın kolundaki Na+/K+/2Cl- taşıyıcısını bloke ederek ÇOK GÜÇLÜ su ve tuz atılımı sağlayan, acil akciğer ödemi tedavisinde kullanılan ilaç hangisidir?",
         "options": [
             "Hidroklorotiyazid",
             "Spironolakton",
@@ -262,7 +262,7 @@ const v10Part2 = [
     {
         "id": "v10_farma_7",
         "subject": "Tıbbi Farmakoloji",
-        "question": "Tıbbi terminolojide bir ilacın dozunu giderek artırsak bile, ilacın yaratabileceği MAKSİMUM etki gücünün (tavan etkisinin) daha fazla artamadığı noktaya ulaşıldığında bahsedilen farmakodinamik kavram aşağıdakilerden hangisidir?",
+        "question": "Tıbbi terminolojide bir ilacın dozunu giderek artırsak bile, ilacın yaratabileceği MAKSİMUM etki gücünün daha fazla artamadığı noktaya ulaşıldığında bahsedilen farmakodinamik kavram aşağıdakilerden hangisidir?",
         "options": [
             "Potens (Güç)",
             "Efikasi (Etkililik / Efficacy)",
@@ -279,7 +279,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_1",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyolojide, fertilizasyon (döllenme) Fallop tüplerinde ampulla bölgesinde gerçekleşir. Döllenen zigotun, mitoz bölünmelerle oluşturduğu ve 16-32 hücreli, dışı zona pellucida ile kaplı üzüm salkımı benzeri evreye ne ad verilir?",
+        "question": "Embriyolojide, fertilizasyon Fallop tüplerinde ampulla bölgesinde gerçekleşir. Döllenen zigotun, mitoz bölünmelerle oluşturduğu ve 16-32 hücreli, dışı zona pellucida ile kaplı üzüm salkımı benzeri evreye ne ad verilir?",
         "options": [
             "Blastokist",
             "Morula",
@@ -309,7 +309,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_3",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kan dokusunda immün savunmadan sorumlu Lökositlerin (beyaz kan hücreleri) granüllü olanlarından (Granülosit) biridir. Çekirdekleri genellikle iki loblu (gözlük şeklinde) olup alerjik reaksiyonlarda ve paraziter enfeksiyonlarda sayıları artan hücre aşağıdakilerden hangisidir?",
+        "question": "Kan dokusunda immün savunmadan sorumlu Lökositlerin granüllü olanlarından biridir. Çekirdekleri genellikle iki loblu olup alerjik reaksiyonlarda ve paraziter enfeksiyonlarda sayıları artan hücre aşağıdakilerden hangisidir?",
         "options": [
             "Nötrofil",
             "Eozinofil",
@@ -324,7 +324,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_4",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Lenfatik sistemin bir organı olan ve lenfatik damar bağlantısı (afferent/efferent lenfatiği) BULUNMAYAN, doğrudan kandan lenfositlerin (T-hücrelerinin) olgunlaşması için bir okul/timik eğitim yeri olarak görev yapan primer lenfoid organ hangisidir?",
+        "question": "Lenfatik sistemin bir organı olan ve lenfatik damar bağlantısı BULUNMAYAN, doğrudan kandan lenfositlerin olgunlaşması için bir okul/timik eğitim yeri olarak görev yapan primer lenfoid organ hangisidir?",
         "options": [
             "Dalak (Lien)",
             "Timus",
@@ -339,7 +339,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_5",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Solunum sisteminde (Trakea ve Bronşlarda) mukoza epitelini oluşturan, yüzeyinde siller (cilia) bulunan epitelin tam mikroskobik sınıflandırması aşağıdakilerden hangisidir?",
+        "question": "Solunum sisteminde mukoza epitelini oluşturan, yüzeyinde siller bulunan epitelin tam mikroskobik sınıflandırması aşağıdakilerden hangisidir?",
         "options": [
             "Çok katlı yassı keratinize epitel",
             "Tek katlı kübik epitel",
@@ -354,7 +354,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_6",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Karaciğerin mikroskobik (histolojik) yapısında, hepatosit kordonları arasında uzanan geniş kan damarları olan 'Sinüzoid'lerin lümeninde yerleşmiş olan ve kandan gelen yaşlı eritrositleri, bakterileri fagositozla yok eden karaciğere özgü makrofajlara ne ad verilir?",
+        "question": "Karaciğerin mikroskobik yapısında, hepatosit kordonları arasında uzanan geniş kan damarları olan 'Sinüzoid'lerin lümeninde yerleşmiş olan ve kandan gelen yaşlı eritrositleri, bakterileri fagositozla yok eden karaciğere özgü makrofajlara ne ad verilir?",
         "options": [
             "Kupffer hücreleri",
             "Ito (Stellat) hücreleri",
@@ -369,7 +369,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_7",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Pankreas bezinin Endokrin (hormon salgılayan) kısmını oluşturan, ekzokrin asinusların arasına soluk boyanan adacıklar şeklinde serpilmiş yapılara Langerhans Adacıkları denir. Bu adacıklarda bulunan B (Beta) hücrelerinin salgıladığı ana hormon hangisidir?",
+        "question": "Pankreas bezinin Endokrin kısmını oluşturan, ekzokrin asinusların arasına soluk boyanan adacıklar şeklinde serpilmiş yapılara Langerhans Adacıkları denir. Bu adacıklarda bulunan B hücrelerinin salgıladığı ana hormon hangisidir?",
         "options": [
             "Glukagon",
             "Somatostatin",
@@ -384,7 +384,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_8",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Mide mukozasında yer alan ve Gastrik Bezleri (Glandula gastrica) oluşturan hücrelerden hangisi, B12 vitamininin ince bağırsaklardan emilebilmesi için şart olan İntrinsik Faktörü (İç Faktör) ve Mide asidini (HCl) salgılar?",
+        "question": "Mide mukozasında yer alan ve Gastrik Bezleri oluşturan hücrelerden hangisi, B12 vitamininin ince bağırsaklardan emilebilmesi için şart olan İntrinsik Faktörü ve Mide asidini salgılar?",
         "options": [
             "Esas (Şef / Zimojenik) hücreler",
             "Paryetal (Oksintik) hücreler",
@@ -399,7 +399,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_9",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kadın üreme sisteminde ovaryum (yumurtalık) içinde yer alan folliküllerin gelişimi sırasında, oositin (yumurtanın) etrafını sıkıca saran ve sadece sperm başındaki akrozomal enzimlerle delinip geçilebilen zengin glikoprotein yapısındaki zara ne ad verilir?",
+        "question": "Kadın üreme sisteminde ovaryum içinde yer alan folliküllerin gelişimi sırasında, oositin etrafını sıkıca saran ve sadece sperm başındaki akrozomal enzimlerle delinip geçilebilen zengin glikoprotein yapısındaki zara ne ad verilir?",
         "options": [
             "Corona radiata",
             "Zona pellucida",
@@ -414,7 +414,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_10",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Böbrek nefronlarında, kandan süzülen suyun ve amino asitler, glukoz, sodyum gibi moleküllerin büyük çoğunluğunun (%65) vücuda GERİ EMİLDİĞİ, lümene bakan yüzünde çok yoğun mikrovilluslar (fırçamsı kenar) bulunan tübül yapısı hangisidir?",
+        "question": "Böbrek nefronlarında, kandan süzülen suyun ve amino asitler, glukoz, sodyum gibi moleküllerin büyük çoğunluğunun vücuda GERİ EMİLDİĞİ, lümene bakan yüzünde çok yoğun mikrovilluslar bulunan tübül yapısı hangisidir?",
         "options": [
             "Glomerül (Bowman) kapsülü",
             "Henle kulbunun ince kolu",
@@ -429,7 +429,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_11",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Sinir dokusunda merkezi sinir sistemini (Beyin ve Omurilik) saran miyelin kılıfını, birden fazla aksonun etrafına kollarını uzatarak sentezleyen ve nöronların elektriksel yalıtımını (hızlı iletimi) sağlayan glia hücresi hangisidir?",
+        "question": "Sinir dokusunda merkezi sinir sistemini saran miyelin kılıfını, birden fazla aksonun etrafına kollarını uzatarak sentezleyen ve nöronların elektriksel yalıtımını sağlayan glia hücresi hangisidir?",
         "options": [
             "Astrosit",
             "Mikroglia",
@@ -444,7 +444,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_12",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Bağ dokusu hücreleri içinde alerjik (anafilaktik) reaksiyonlarda IgE antikorları aracılığıyla uyarıldıklarında, içlerindeki Histamin ve Heparin dolu granülleri hızla dışarı boşaltarak (degranülasyon) kaşıntı, ödem ve vazodilatasyona neden olan hücre hangisidir?",
+        "question": "Bağ dokusu hücreleri içinde alerjik reaksiyonlarda IgE antikorları aracılığıyla uyarıldıklarında, içlerindeki Histamin ve Heparin dolu granülleri hızla dışarı boşaltarak kaşıntı, ödem ve vazodilatasyona neden olan hücre hangisidir?",
         "options": [
             "Plazma hücresi",
             "Mast hücresi",
@@ -459,7 +459,7 @@ const v10Part2 = [
     {
         "id": "v10_histo_13",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Erken embriyolojik dönemde (Gastrulasyon aşaması), 3. haftada epiblast hücrelerinin primitive streak (ilkel çizgi) üzerinden içeri göç ederek oluşturduğu üç temel germ yaprağı (ektoderm, mezoderm, endoderm) olayına ne ad verilir?",
+        "question": "Erken embriyolojik dönemde, 3. haftada epiblast hücrelerinin primitive streak üzerinden içeri göç ederek oluşturduğu üç temel germ yaprağı olayına ne ad verilir?",
         "options": [
             "Yarıklanma (Cleavage)",
             "Blastulasyon",
@@ -476,7 +476,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_1",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Cilt enfeksiyonları (Fronkül, karbonkül), gıda zehirlenmesi, Toksik Şok Sendromu ve hastane enfeksiyonlarına neden olabilen, mikroskopta Gram (+) üzüm salkımları şeklinde görülen ve 'Katalaz pozitif', 'Koagülaz pozitif' olan bakteri hangisidir?",
+        "question": "Cilt enfeksiyonları, gıda zehirlenmesi, Toksik Şok Sendromu ve hastane enfeksiyonlarına neden olabilen, mikroskopta Gram üzüm salkımları şeklinde görülen ve 'Katalaz pozitif', 'Koagülaz pozitif' olan bakteri hangisidir?",
         "options": [
             "Streptococcus pyogenes",
             "Staphylococcus epidermidis",
@@ -491,7 +491,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_2",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Özellikle kış aylarında çocuklarda görülen 'A Grubu Beta Hemolitik Streptokok (Streptococcus pyogenes)' kaynaklı akut bademcik iltihabı (Tonsillofarenjit) tedavi edilmezse, haftalar sonra otoimmün bir mekanizma ile kalpte kalıcı kapak hasarı yapabilen hangi hastalık komplikasyonuna yol açar?",
+        "question": "Özellikle kış aylarında çocuklarda görülen 'A Grubu Beta Hemolitik Streptokok' kaynaklı akut bademcik iltihabı tedavi edilmezse, haftalar sonra otoimmün bir mekanizma ile kalpte kalıcı kapak hasarı yapabilen hangi hastalık komplikasyonuna yol açar?",
         "options": [
             "Akut Romatizmal Ateş (ARA)",
             "Kızıl (Scarlatina)",
@@ -506,7 +506,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Virüslerin nükleik asitini (DNA veya RNA) dış etkenlerden koruyan, protein alt birimlerinden (kapsomerlerden) oluşan simetrik (ikozhedral veya helikal) dış kılıfa ne ad verilir?",
+        "question": "Virüslerin nükleik asitini dış etkenlerden koruyan, protein alt birimlerinden oluşan simetrik dış kılıfa ne ad verilir?",
         "options": [
             "Zarf (Envelope)",
             "Kapsid",
@@ -536,7 +536,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Cinsel yolla bulaşan (STD), ağrısız ve sert kenarlı ülser (Şankr / Chancre) ile başlayan, ilerleyen yıllarda döküntü (ikincil evre) ve sinir sistemi/kalp tutulumuna (Tersiyer evre / Nörosifiliz) neden olan Frengi (Sifiliz) hastalığının etkeni olan spiroket bakteri hangisidir?",
+        "question": "Cinsel yolla bulaşan, ağrısız ve sert kenarlı ülser ile başlayan, ilerleyen yıllarda döküntü ve sinir sistemi/kalp tutulumuna neden olan Frengi hastalığının etkeni olan spiroket bakteri hangisidir?",
         "options": [
             "Neisseria gonorrhoeae",
             "Treponema pallidum",
@@ -551,7 +551,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_6",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Barsaklarda doğal florada (probiyotik) bulunmayan, antibiyotik (özellikle Klindamisin, Ampisilin) kullanımı sonucu rakipleri ölünce hızla çoğalan ve ürettiği toksinlerle Pseudomembranöz Enterokolit (ağır, yalancı zarlı ishal) yapan fırsatçı bakteri hangisidir?",
+        "question": "Barsaklarda doğal florada bulunmayan, antibiyotik kullanımı sonucu rakipleri ölünce hızla çoğalan ve ürettiği toksinlerle Pseudomembranöz Enterokolit yapan fırsatçı bakteri hangisidir?",
         "options": [
             "Clostridioides difficile (C. diff)",
             "Escherichia coli (EHEC)",
@@ -566,7 +566,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_7",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Karaciğere yerleşerek siroz ve hepatosellüler karsinoma (karaciğer kanseri) yol açabilen Hepatit B Virüsü (HBV), nükleik asit yapısı itibariyle diğer hepatit (A, C, D, E) virüslerinden HANGİ yönüyle KESİN OLARAK ayrılır?",
+        "question": "Karaciğere yerleşerek siroz ve hepatosellüler karsinoma yol açabilen Hepatit B Virüsü, nükleik asit yapısı itibariyle diğer hepatit virüslerinden HANGİ yönüyle KESİN OLARAK ayrılır?",
         "options": [
             "Zarfsız olmasıyla",
             "Tek sarmallı RNA (ssRNA) içermesiyle",
@@ -581,7 +581,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_8",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Sıtma (Malaria) hastalığına neden olan Plasmodium (örn. P. falciparum, P. vivax) türü parazitlerin insanlara bulaşmasını (vektörlüğünü) sağlayan canlının ismi aşağıdakilerden hangisidir?",
+        "question": "Sıtma hastalığına neden olan Plasmodium türü parazitlerin insanlara bulaşmasını sağlayan canlının ismi aşağıdakilerden hangisidir?",
         "options": [
             "Aedes sivrisineği",
             "Culex sivrisineği",
@@ -596,7 +596,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_9",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Hayvanlardan insanlara bulaşan (Zoonotik), pastörize edilmemiş çiğ süt veya taze peynir tüketimiyle bulaşarak ateşin gün içinde inip çıkmasına (Ondülan ateş / Malta humması), gece terlemelerine ve eklem ağrılarına neden olan hücre içi bakteri hangisidir?",
+        "question": "Hayvanlardan insanlara bulaşan, pastörize edilmemiş çiğ süt veya taze peynir tüketimiyle bulaşarak ateşin gün içinde inip çıkmasına, gece terlemelerine ve eklem ağrılarına neden olan hücre içi bakteri hangisidir?",
         "options": [
             "Bacillus anthracis (Şarbon)",
             "Brucella spp. (Bruselloz)",
@@ -611,7 +611,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_10",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bakterilerin hücre duvarını sentezlerken peptidoglikan zincirlerini birbirine bağlayan 'Transpeptidaz' enzimlerini (Penisilin Bağlayan Proteinler - PBP) geri dönüşümsüz olarak bloke eden ve bakteriyi patlatarak (bakterisidal) öldüren antibiyotik grubu hangisidir?",
+        "question": "Bakterilerin hücre duvarını sentezlerken peptidoglikan zincirlerini birbirine bağlayan 'Transpeptidaz' enzimlerini geri dönüşümsüz olarak bloke eden ve bakteriyi patlatarak öldüren antibiyotik grubu hangisidir?",
         "options": [
             "Makrolidler (Eritromisin)",
             "Kinolonlar (Siprofloksasin)",
@@ -626,7 +626,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Mantarlar (Funguslar) ile insan hücreleri (Memeliler) arasındaki yapısal olarak en belirgin farklılıklardan biri hücre zarlarındaki sterol içeriğidir. Mantar hücre zarında bulunan ve birçok antifungal ilacın (örn: Amfoterisin B) bağlandığı sterol hangisidir?",
+        "question": "Mantarlar ile insan hücreleri arasındaki yapısal olarak en belirgin farklılıklardan biri hücre zarlarındaki sterol içeriğidir. Mantar hücre zarında bulunan ve birçok antifungal ilacın bağlandığı sterol hangisidir?",
         "options": [
             "Kolesterol",
             "Ergosterol",
@@ -641,7 +641,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_12",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Aşırı duyarlılık (Hipersensitivite) reaksiyonlarından hangisi, kan uyuşmazlığı (Rh faktörü), yanlış kan transfüzyonu ve Otoimmün Hemolitik Anemi gibi durumlarda, hücre yüzeyindeki antijenlere karşı gelişen IgG/IgM antikorlarının Kompleman sistemini aktive ederek o hücreyi parçalaması olayını (Sitotoksik reaksiyon) tanımlar?",
+        "question": "Aşırı duyarlılık reaksiyonlarından hangisi, kan uyuşmazlığı, yanlış kan transfüzyonu ve Otoimmün Hemolitik Anemi gibi durumlarda, hücre yüzeyindeki antijenlere karşı gelişen IgG/IgM antikorlarının Kompleman sistemini aktive ederek o hücreyi parçalaması olayını tanımlar?",
         "options": [
             "Tip I Aşırı Duyarlılık (Anafilaktik)",
             "Tip II Aşırı Duyarlılık (Sitotoksik)",
@@ -656,7 +656,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Bakterilerin zorlu ortam koşullarında (besinsizlik, yüksek ısı, radyasyon, kuraklık) hayatta kalabilmek için hücre içindeki suyunu boşaltıp DNA'sını çok kalın (Dipikolinik asitli) bir kılıfla kaplayarak girdiği 'uykudaki dirençli formuna' ne ad verilir?",
+        "question": "Bakterilerin zorlu ortam koşullarında hayatta kalabilmek için hücre içindeki suyunu boşaltıp DNA'sını çok kalın bir kılıfla kaplayarak girdiği 'uykudaki dirençli formuna' ne ad verilir?",
         "options": [
             "Kapsül",
             "Spor (Endospor)",
@@ -671,7 +671,7 @@ const v10Part2 = [
     {
         "id": "v10_mikro_14",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Deri üzerinde yerleşen ve saç, tırnak, deri gibi dokulardaki 'Keratin' proteinini sindirerek beslenen (Keratinofilik), halk arasında 'Tinea (Mantar)' enfeksiyonlarına (Örn: Ayak mantarı - Tinea pedis, Saçkıran - Tinea capitis) neden olan FUNGUS grubuna ne ad verilir?",
+        "question": "Deri üzerinde yerleşen ve saç, tırnak, deri gibi dokulardaki 'Keratin' proteinini sindirerek beslenen, halk arasında 'Tinea' enfeksiyonlarına neden olan FUNGUS grubuna ne ad verilir?",
         "options": [
             "Dermatofitler",
             "Mayalar (Candida)",
@@ -688,7 +688,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_1",
         "subject": "Tıbbi Patoloji",
-        "question": "Bir tümörün özelliklerini inceleyen patolog, hücrelerin tamamen diferansiye olduğunu (orijinal sağlıklı dokuya çok benzediğini), çevre dokuya yayılmadığını (invazyon yok), kapsülle çevrili olduğunu ve yavaş büyüdüğünü raporlarsa bu tümör büyük olasılıkla nasıl sınıflandırılır?",
+        "question": "Bir tümörün özelliklerini inceleyen patolog, hücrelerin tamamen diferansiye olduğunu, çevre dokuya yayılmadığını, kapsülle çevrili olduğunu ve yavaş büyüdüğünü raporlarsa bu tümör büyük olasılıkla nasıl sınıflandırılır?",
         "options": [
             "Karsinoma in situ",
             "Malign (Kötü huylu) epiteliyal tümör",
@@ -703,7 +703,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_2",
         "subject": "Tıbbi Patoloji",
-        "question": "Geri dönüşümsüz hücre hasarında (Hücre Ölümü), bir hücrenin içerdiği lizozomal enzimlerle kendi kendini sindirmesi, zarının yırtılıp içeriğin dokuya dökülmesiyle DOKUDA HER ZAMAN İLTİHAP (İnflamasyon) oluşturan 'patolojik' ölüm tipi hangisidir?",
+        "question": "Geri dönüşümsüz hücre hasarında, bir hücrenin içerdiği lizozomal enzimlerle kendi kendini sindirmesi, zarının yırtılıp içeriğin dokuya dökülmesiyle DOKUDA HER ZAMAN İLTİHAP oluşturan 'patolojik' ölüm tipi hangisidir?",
         "options": [
             "Apoptoz (Programlı hücre ölümü)",
             "Otofaji",
@@ -718,7 +718,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_3",
         "subject": "Tıbbi Patoloji",
-        "question": "Sigara içen bir kişinin solunum yolundaki silli prizmatik epitel hücrelerinin (solunum epiteli), kronik dumana (irritasyona) dayanabilmek için zamanla daha dirençli olan 'Çok katlı yassı (skuamöz) epitel' hücrelerine DÖNÜŞMESİ olayına ne ad verilir?",
+        "question": "Sigara içen bir kişinin solunum yolundaki silli prizmatik epitel hücrelerinin, kronik dumana dayanabilmek için zamanla daha dirençli olan 'Çok katlı yassı epitel' hücrelerine DÖNÜŞMESİ olayına ne ad verilir?",
         "options": [
             "Displazi",
             "Metaplazi",
@@ -733,7 +733,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_4",
         "subject": "Biyofizik",
-        "question": "Miyopik bir gözde (Uzağı görememe) ışık ışınlarının kırılma fizyolojisi nasıldır ve düzeltmek için hangi tür mercek (lens) kullanılır?",
+        "question": "Miyopik bir gözde ışık ışınlarının kırılma fizyolojisi nasıldır ve düzeltmek için hangi tür mercek kullanılır?",
         "options": [
             "Işık retinanın önüne düşer / Kalın kenarlı (İraksak/Konkav) mercek kullanılır.",
             "Işık retinanın arkasına düşer / İnce kenarlı (Yakınsak/Konveks) mercek kullanılır.",
@@ -748,7 +748,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_5",
         "subject": "Biyofizik",
-        "question": "Kanın damar içindeki akışını (Hemodinamiği) açıklayan Poiseuille (Hagen-Poiseuille) Kanununa göre, damardan geçen kanın AKIM HIZI veya DEBİSİ (Q), aşağıdakilerden hangisinin 'DÖRDÜNCÜ KUVVETİYLE' (r^4) doğru orantılı olarak değişir?",
+        "question": "Kanın damar içindeki akışını açıklayan Poiseuille Kanununa göre, damardan geçen kanın AKIM HIZI veya DEBİSİ, aşağıdakilerden hangisinin 'DÖRDÜNCÜ KUVVETİYLE' doğru orantılı olarak değişir?",
         "options": [
             "Damarın uzunluğu (L)",
             "Kanın vizkozitesi/kıvamı (n)",
@@ -763,7 +763,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_6",
         "subject": "Toplum Sağlığı",
-        "question": "Aşılamanın toplum sağlığındaki en büyük amacı, toplumun belirli bir yüzdesini bağışık (antikor sahibi) hale getirerek, hastalığın o toplum içindeki bulaşma zincirini kırmak ve aşı olamayan (bağışıklığı zayıf, bebek vs.) bireyleri korumaktır. Bu kavrama ne ad verilir?",
+        "question": "Aşılamanın toplum sağlığındaki en büyük amacı, toplumun belirli bir yüzdesini bağışık hale getirerek, hastalığın o toplum içindeki bulaşma zincirini kırmak ve aşı olamayan bireyleri korumaktır. Bu kavrama ne ad verilir?",
         "options": [
             "Aktif bağışıklık",
             "Pasif bağışıklık",
@@ -778,7 +778,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_7",
         "subject": "Toplum Sağlığı",
-        "question": "Bir toplumda belirli bir zaman dilimi içinde 'YENİ ortaya çıkan' hastalık olgularının hızını (sıklığını) belirten epidemiyolojik ölçüt aşağıdakilerden hangisidir?",
+        "question": "Bir toplumda belirli bir zaman dilimi içinde 'YENİ ortaya çıkan' hastalık olgularının hızını belirten epidemiyolojik ölçüt aşağıdakilerden hangisidir?",
         "options": [
             "Prevalans",
             "İnsidans",
@@ -793,7 +793,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_8",
         "subject": "İletişim Becerileri",
-        "question": "Hekimin hasta ile iletişim kurarken, kendi görüş, duygu ve değer yargılarını bir kenara bırakarak, kendini tam olarak 'hastanın yerine koyup' onun duygu ve düşüncelerini doğru anlamaya çalışması (onun gibi hissedebilmesi) becerisine ne ad verilir?",
+        "question": "Hekimin hasta ile iletişim kurarken, kendi görüş, duygu ve değer yargılarını bir kenara bırakarak, kendini tam olarak 'hastanın yerine koyup' onun duygu ve düşüncelerini doğru anlamaya çalışması becerisine ne ad verilir?",
         "options": [
             "Sempatik olmak",
             "Apatik yaklaşım",
@@ -808,7 +808,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_9",
         "subject": "Tıbbi Etik",
-        "question": "Tedavisi mümkün olmayan, terminal (son) dönemindeki kanserli bir hastanın dayanılmaz ağrılarını dindirmek için hekimin yüksek doz morfin uygulaması, bu dozun solunumu baskılayarak hastanın yaşamını kısaltma riskini bilmesine rağmen etik olarak kabul edilebilir. Bu durum 'Ağrıyı dindirme iyiliği, doğabilecek kötü sonuca üstündür' şeklindeki hangi doktrinle açıklanır?",
+        "question": "Tedavisi mümkün olmayan, terminal dönemindeki kanserli bir hastanın dayanılmaz ağrılarını dindirmek için hekimin yüksek doz morfin uygulaması, bu dozun solunumu baskılayarak hastanın yaşamını kısaltma riskini bilmesine rağmen etik olarak kabul edilebilir. Bu durum 'Ağrıyı dindirme iyiliği, doğabilecek kötü sonuca üstündür' şeklindeki hangi doktrinle açıklanır?",
         "options": [
             "Helsinki Bildirgesi",
             "Çifte Etki (Double Effect) Doktrini",
@@ -823,7 +823,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_10",
         "subject": "Bilimsel Araştırma",
-        "question": "Kanıta dayalı tıpta kanıt düzeyi EN YÜKSEK (Piramidin en tepesinde) olarak kabul edilen, daha önce aynı konuda yapılmış çok sayıdaki (birbirinden bağımsız) randomize kontrollü çalışmanın sonuçlarının birleştirilip matematiksel ve istatistiksel olarak yeniden analiz edildiği çalışma tipi hangisidir?",
+        "question": "Kanıta dayalı tıpta kanıt düzeyi EN YÜKSEK olarak kabul edilen, daha önce aynı konuda yapılmış çok sayıdaki randomize kontrollü çalışmanın sonuçlarının birleştirilip matematiksel ve istatistiksel olarak yeniden analiz edildiği çalışma tipi hangisidir?",
         "options": [
             "Vaka takdimi (Case report)",
             "Uzman görüşü",
@@ -838,7 +838,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_11",
         "subject": "İletişim Becerileri",
-        "question": "Hastaya ciddi veya kötü bir haber verirken (kanser tanısı, ölüm haberi vb.) SPIKES protokolünün kullanılmasında hekimin uyması gereken temel yaklaşımlardan BİRİ DEĞİLDİR?",
+        "question": "Hastaya ciddi veya kötü bir haber verirken SPIKES protokolünün kullanılmasında hekimin uyması gereken temel yaklaşımlardan BİRİ DEĞİLDİR?",
         "options": [
             "Haberi verirken hastayı ayakta tutarak veya kapı eşiğinde söylemek",
             "Öncelikle hastanın ne bildiğini ve hastalığı nasıl algıladığını sormak",
@@ -853,7 +853,7 @@ const v10Part2 = [
     {
         "id": "v10_diger_12",
         "subject": "Toplum Sağlığı",
-        "question": "Sağlıklı bireylere yapılan tarama testlerinde (Kanser taraması, diyabet testi vb.), 'Testin hasta olanları hasta olarak saptayabilme (gerçek pozitifleri bulma) yeteneğine' ne ad verilir?",
+        "question": "Sağlıklı bireylere yapılan tarama testlerinde, 'Testin hasta olanları hasta olarak saptayabilme yeteneğine' ne ad verilir?",
         "options": [
             "Spesifisite (Seçicilik)",
             "Sensitivite (Duyarlılık)",

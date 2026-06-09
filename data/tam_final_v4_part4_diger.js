@@ -15,7 +15,7 @@ const digerQuestions = [
         "id": "v4_histo_1",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Embriyolojik gelişim sırasında, kasları çiğneme kaslarını (m. masseter, m. temporalis vb.) oluşturan ve kıkırdağından (Meckel kıkırdağı) mandibulanın geliştiği faringeal arkus aşağıdakilerden hangisidir?",
+        "question": "Embriyolojik gelişim sırasında, kasları çiğneme kaslarını oluşturan ve kıkırdağından mandibulanın geliştiği faringeal arkus aşağıdakilerden hangisidir?",
         "options": [
             "1. Faringeal arkus",
             "2. Faringeal arkus",
@@ -49,7 +49,7 @@ const digerQuestions = [
         "id": "v4_histo_3",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Tiroid bezinin histolojik incelemesinde, foliküllerin arasında yer alan (para-foliküler) ve kalsitonin hormonu salgılayan hücreler (C hücreleri) embriyolojik olarak hangi yapıdan köken alır?",
+        "question": "Tiroid bezinin histolojik incelemesinde, foliküllerin arasında yer alan ve kalsitonin hormonu salgılayan hücreler embriyolojik olarak hangi yapıdan köken alır?",
         "options": [
             "Endodermin foramen çekum çıkıntısı",
             "Tiroglossal duktus kistleri",
@@ -66,7 +66,7 @@ const digerQuestions = [
         "id": "v4_histo_4",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Hipofiz bezinin (Glandula pituitaria) embriyolojik gelişimi ve histolojisi düşünüldüğünde, adenohipofiz (ön lob) aşağıdaki yapılardan hangisinin yukarı doğru büyümesiyle oluşur?",
+        "question": "Hipofiz bezinin embriyolojik gelişimi ve histolojisi düşünüldüğünde, adenohipofiz aşağıdaki yapılardan hangisinin yukarı doğru büyümesiyle oluşur?",
         "options": [
             "Diensefalon tabanı",
             "Nörohipofizyal tomurcuk",
@@ -85,7 +85,7 @@ const digerQuestions = [
         "id": "v4_histo_5",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Sindirim kanalı (gastrointestinal sistem) duvarı içten dışa doğru sıralandığında mukoza, submukoza, muskularis eksterna ve seroza/adventisya tabakalarından oluşur. Meissner pleksusu (Plexus submucosus) bu tabakalardan hangisinde bulunur?",
+        "question": "Sindirim kanalı duvarı içten dışa doğru sıralandığında mukoza, submukoza, muskularis eksterna ve seroza/adventisya tabakalarından oluşur. Meissner pleksusu bu tabakalardan hangisinde bulunur?",
         "options": [
             "Lamina propria",
             "Submukoza",
@@ -102,7 +102,7 @@ const digerQuestions = [
         "id": "v4_histo_6",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Erkek üreme sisteminde spermatogenez (sperm üretimi) testislerde nerede gerçekleşir?",
+        "question": "Erkek üreme sisteminde spermatogenez testislerde nerede gerçekleşir?",
         "options": [
             "Rete testis",
             "Tubuli seminiferi contorti (Seminifer tübüller)",
@@ -119,7 +119,7 @@ const digerQuestions = [
         "id": "v4_histo_7",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Böbrekte kanı filtre eden glomerüler yumakçığı (Glomerül) saran Bowman kapsülünün iç (visseral) yaprağında bulunan, parmak benzeri uzantılarıyla filtrasyon yarıklarını oluşturan özelleşmiş hücrelere ne ad verilir?",
+        "question": "Böbrekte kanı filtre eden glomerüler yumakçığı saran Bowman kapsülünün iç yaprağında bulunan, parmak benzeri uzantılarıyla filtrasyon yarıklarını oluşturan özelleşmiş hücrelere ne ad verilir?",
         "options": [
             "Mezangiyal hücreler",
             "Makula densa hücreleri",
@@ -136,7 +136,7 @@ const digerQuestions = [
         "id": "v4_histo_8",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Kadın üreme sisteminde ovulasyon (yumurtlama) sonrası geride kalan folikül hücrelerinin hipertrofiye uğrayarak lipidden zengin sarımsı bir beze dönüştüğü ve gebelik oluşursa progesteron salgılamaya devam eden yapı aşağıdakilerden hangisidir?",
+        "question": "Kadın üreme sisteminde ovulasyon sonrası geride kalan folikül hücrelerinin hipertrofiye uğrayarak lipidden zengin sarımsı bir beze dönüştüğü ve gebelik oluşursa progesteron salgılamaya devam eden yapı aşağıdakilerden hangisidir?",
         "options": [
             "Korpus albikans",
             "Korpus luteum",
@@ -153,7 +153,7 @@ const digerQuestions = [
         "id": "v4_histo_9",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Santral sinir sisteminin temel destek hücrelerinden (nöroglia) olan ve kan-beyin bariyerinin oluşumuna katkı sağlayan, aynı zamanda hasar sonrası skar dokusu (gliozis) oluşturan yıldız şekilli hücreler hangisidir?",
+        "question": "Santral sinir sisteminin temel destek hücrelerinden olan ve kan-beyin bariyerinin oluşumuna katkı sağlayan, aynı zamanda hasar sonrası skar dokusu oluşturan yıldız şekilli hücreler hangisidir?",
         "options": [
             "Oligodendrositler",
             "Astrositler",
@@ -170,7 +170,7 @@ const digerQuestions = [
         "id": "v4_histo_10",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Gastrointestinal kanalda sadece ince bağırsaklarda (özellikle jejunum ve ileum) bulunan, mukozayı epitel ve lamina propria ile birlikte lümene doğru iten kalıcı dairesel mukoza kıvrımlarına ne ad verilir?",
+        "question": "Gastrointestinal kanalda sadece ince bağırsaklarda bulunan, mukozayı epitel ve lamina propria ile birlikte lümene doğru iten kalıcı dairesel mukoza kıvrımlarına ne ad verilir?",
         "options": [
             "Plica circulares (Kerckring kapakçıkları)",
             "Villus intestinalis",
@@ -187,7 +187,7 @@ const digerQuestions = [
         "id": "v4_histo_11",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Karaciğerin klasik lobül modeline göre, lobülün merkezinde (ortasında) aşağıdakilerden hangisi yer alır?",
+        "question": "Karaciğerin klasik lobül modeline göre, lobülün merkezinde aşağıdakilerden hangisi yer alır?",
         "options": [
             "Vena portae dalı",
             "Arteria hepatica propria dalı",
@@ -204,7 +204,7 @@ const digerQuestions = [
         "id": "v4_histo_12",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Solunum sisteminde gaz değişiminin gerçekleştiği alveolleri döşeyen, sayıca çok olmalarına rağmen yüzey alanının çoğunu kaplayan ince, yassı şekilli hücreler (kan-hava bariyerini oluşturanlar) hangileridir?",
+        "question": "Solunum sisteminde gaz değişiminin gerçekleştiği alveolleri döşeyen, sayıca çok olmalarına rağmen yüzey alanının çoğunu kaplayan ince, yassı şekilli hücreler hangileridir?",
         "options": [
             "Tip II pnömosit",
             "Tip I pnömosit",
@@ -221,7 +221,7 @@ const digerQuestions = [
         "id": "v4_histo_13",
         "subject": "Histoloji ve Embriyoloji",
         "subject": "Histoloji ve Embriyoloji",
-        "question": "Oogenez (yumurta gelişimi) sürecinde, dişinin doğumunda yumurtalıklarında bulunan ve ergenliğe kadar dinlenme fazında (diktiyoten evresi) bekleyen hücreler hangi aşamadadır?",
+        "question": "Oogenez sürecinde, dişinin doğumunda yumurtalıklarında bulunan ve ergenliğe kadar dinlenme fazında bekleyen hücreler hangi aşamadadır?",
         "options": [
             "Oogonium",
             "Primer oosit",
@@ -258,7 +258,7 @@ const digerQuestions = [
         "id": "v4_mikro_2",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Hücre duvarı bulunmayan (bu nedenle Beta-laktam antibiyotiklere doğal dirençli olan), sterol içeren hücre zarına sahip ve atipik pnömoninin (yürüyen pnömoni) en sık nedeni olan bakteri cinsi aşağıdakilerden hangisidir?",
+        "question": "Hücre duvarı bulunmayan, sterol içeren hücre zarına sahip ve atipik pnömoninin en sık nedeni olan bakteri cinsi aşağıdakilerden hangisidir?",
         "options": [
             "Rickettsia",
             "Chlamydia",
@@ -275,7 +275,7 @@ const digerQuestions = [
         "id": "v4_mikro_3",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Gram negatif, virgül şeklinde (kıvrımlı) basil olan ve kontamine suların içilmesiyle bulaşarak 'pirinç suyu' görünümünde masif ve şiddetli sulu ishale neden olan bakteri hangisidir?",
+        "question": "Gram negatif, virgül şeklinde basil olan ve kontamine suların içilmesiyle bulaşarak 'pirinç suyu' görünümünde masif ve şiddetli sulu ishale neden olan bakteri hangisidir?",
         "options": [
             "Vibrio cholerae",
             "Escherichia coli (ETEC)",
@@ -311,7 +311,7 @@ const digerQuestions = [
         "id": "v4_mikro_5",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Sıtma (Malaria) hastalığına neden olan Plasmodium türlerini insanlara bulaştıran vektör (taşıyıcı) canlı aşağıdakilerden hangisidir?",
+        "question": "Sıtma hastalığına neden olan Plasmodium türlerini insanlara bulaştıran vektör canlı aşağıdakilerden hangisidir?",
         "options": [
             "Aedes sivrisineği",
             "Anopheles cinsi dişi sivrisinek",
@@ -362,7 +362,7 @@ const digerQuestions = [
         "id": "v4_mikro_8",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Hastane enfeksiyonlarının (nazokomiyal) en önemli nedenlerinden biri olan, Gram pozitif, üzüm salkımı şeklinde kümelenen, katalaz ve koagülaz testleri pozitif olan bakteri hangisidir?",
+        "question": "Hastane enfeksiyonlarının en önemli nedenlerinden biri olan, Gram pozitif, üzüm salkımı şeklinde kümelenen, katalaz ve koagülaz testleri pozitif olan bakteri hangisidir?",
         "options": [
             "Streptococcus pyogenes",
             "Staphylococcus aureus",
@@ -379,7 +379,7 @@ const digerQuestions = [
         "id": "v4_mikro_9",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Zarflı (kılıflı) bir virüsün dış ortamdaki dayanıklılığı ile ilgili hangisi doğrudur?",
+        "question": "Zarflı bir virüsün dış ortamdaki dayanıklılığı ile ilgili hangisi doğrudur?",
         "options": [
             "Zarfsız virüslere göre dış ortama çok daha dayanıklıdırlar.",
             "Alkol ve deterjan gibi yağ çözücülere (lipid solventlere) karşı oldukça duyarlıdırlar.",
@@ -413,7 +413,7 @@ const digerQuestions = [
         "id": "v4_mikro_11",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Çocuk felci (poliomyelit) hastalığına neden olan Poliovirüs, hangi virüs ailesine mensuptur?",
+        "question": "Çocuk felci hastalığına neden olan Poliovirüs, hangi virüs ailesine mensuptur?",
         "options": [
             "Herpesviridae",
             "Picornaviridae",
@@ -430,7 +430,7 @@ const digerQuestions = [
         "id": "v4_mikro_12",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Ateş, boğaz ağrısı ve lenfadenopati bulgularıyla seyreden 'İnfeksiyöz Mononükleoz' (Öpücük hastalığı) sendromunun birincil etkeni olan virüs aşağıdakilerden hangisidir?",
+        "question": "Ateş, boğaz ağrısı ve lenfadenopati bulgularıyla seyreden 'İnfeksiyöz Mononükleoz' sendromunun birincil etkeni olan virüs aşağıdakilerden hangisidir?",
         "options": [
             "Epstein-Barr Virüs (EBV)",
             "Sitomegalovirüs (CMV)",
@@ -447,7 +447,7 @@ const digerQuestions = [
         "id": "v4_mikro_13",
         "subject": "Tıbbi Mikrobiyoloji",
         "subject": "Tıbbi Mikrobiyoloji",
-        "question": "Frengi (Sifiliz) hastalığının etkeni olan spiroket cinsi bakteri aşağıdakilerden hangisidir?",
+        "question": "Frengi hastalığının etkeni olan spiroket cinsi bakteri aşağıdakilerden hangisidir?",
         "options": [
             "Borrelia burgdorferi",
             "Leptospira interrogans",
@@ -483,7 +483,7 @@ const digerQuestions = [
         "id": "v4_biyofizik_1",
         "subject": "Biyofizik",
         "subject": "Biyofizik",
-        "question": "Hücre zarında dinlenim potansiyelinin (resting membrane potential) oluşmasında en çok katkısı olan iyon ve kanal mekanizması hangisidir?",
+        "question": "Hücre zarında dinlenim potansiyelinin oluşmasında en çok katkısı olan iyon ve kanal mekanizması hangisidir?",
         "options": [
             "Sodyum sızma kanalları",
             "Kalsiyum pompası",
@@ -534,7 +534,7 @@ const digerQuestions = [
         "id": "v4_biyofizik_4",
         "subject": "Biyofizik",
         "subject": "Biyofizik",
-        "question": "Tıbbi görüntülemede kullanılan Manyetik Rezonans Görüntüleme (MRG) teknolojisinde görüntü elde etmek için ağırlıklı olarak vücuttaki hangi elementin çekirdek özellikleri (spini) kullanılır?",
+        "question": "Tıbbi görüntülemede kullanılan Manyetik Rezonans Görüntüleme teknolojisinde görüntü elde etmek için ağırlıklı olarak vücuttaki hangi elementin çekirdek özellikleri kullanılır?",
         "options": [
             "Karbon",
             "Kalsiyum",
@@ -553,7 +553,7 @@ const digerQuestions = [
         "id": "v4_patoloji_1",
         "subject": "Tıbbi Patoloji",
         "subject": "Tıbbi Patoloji",
-        "question": "Hücre uyum mekanizmalarından (adaptasyon) biri olan 'Metaplazi'nin tanımı aşağıdakilerden hangisidir?",
+        "question": "Hücre uyum mekanizmalarından biri olan 'Metaplazi'nin tanımı aşağıdakilerden hangisidir?",
         "options": [
             "Hücrelerin boyutunda azalma",
             "Hücrelerin sayısında artış",
@@ -606,7 +606,7 @@ const digerQuestions = [
         "id": "v4_iletisim_2",
         "subject": "İletişim Becerileri",
         "subject": "İletişim Becerileri",
-        "question": "Kötü haber verme sürecinde sıklıkla kullanılan SPIKES protokolünde, 'E' (Empathy) basamağının temel amacı nedir?",
+        "question": "Kötü haber verme sürecinde sıklıkla kullanılan SPIKES protokolünde, 'E' basamağının temel amacı nedir?",
         "options": [
             "Hastanın ne kadarını bilmek istediğini sormak",
             "Kötü haberi doğrudan söylemek",
@@ -623,7 +623,7 @@ const digerQuestions = [
         "id": "v4_tarihetik_1",
         "subject": "Tıp Tarihi ve Etik",
         "subject": "Tıp Tarihi ve Etik",
-        "question": "Tıbbi etik ilkelerinden 'Özerkliğe Saygı (Otonomi)' ilkesinin klinikteki en önemli yansıması aşağıdakilerden hangisidir?",
+        "question": "Tıbbi etik ilkelerinden 'Özerkliğe Saygı' ilkesinin klinikteki en önemli yansıması aşağıdakilerden hangisidir?",
         "options": [
             "Hastaya fayda sağlamak",
             "Hastaya zarar vermemek",
@@ -674,7 +674,7 @@ const digerQuestions = [
         "id": "v4_toplum_1",
         "subject": "Toplum Sağlığı",
         "subject": "Toplum Sağlığı",
-        "question": "Toplum Sağlığı (Halk Sağlığı) koruyucu hekimlik düzeylerinde; hastalık ortaya çıkmadan önce kişileri hastalıktan korumaya yönelik yapılan uygulamalara (örneğin aşılanma, emniyet kemeri takma, temiz su sağlama) ne ad verilir?",
+        "question": "Toplum Sağlığı koruyucu hekimlik düzeylerinde; hastalık ortaya çıkmadan önce kişileri hastalıktan korumaya yönelik yapılan uygulamalara ne ad verilir?",
         "options": [
             "Birincil (Primer) Koruma",
             "İkincil (Sekonder) Koruma",
