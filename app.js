@@ -554,7 +554,8 @@ function selectOption(selectedIndex, btnElement) {
     }
     
     // Show explanation
-    elements.explanationText.textContent = activeExamData.explanations[state.currentIndex] || "Açıklama bulunamadı.";
+    const explanationsArray = activeExamData.explanations || [];
+    elements.explanationText.textContent = q.explanation || explanationsArray[state.currentIndex] || "Açıklama bulunamadı.";
     elements.explanationContainer.style.display = 'block';
     
     updateJokerUI(true);
