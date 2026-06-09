@@ -1,0 +1,327 @@
+[
+  {
+    "id": "new_anat_k1_1",
+    "q": "Acil servise sağ kol ve yüzünde felç, konuşamama şikayetiyle getirilen bir hastada beynin lateral yüzünü besleyen hangi arterin tıkanmış olması en olasıdır?",
+    "opts": [
+      "A) A. cerebri anterior",
+      "B) A. cerebri media",
+      "C) A. cerebri posterior",
+      "D) A. basilaris",
+      "E) A. vertebralis"
+    ],
+    "a": "B) A. cerebri media",
+    "exp": "A. cerebri media (MCA), beynin lateral yüzünün büyük kısmını sular ve Broca/Wernicke gibi konuşma alanları ile yüz/kol motor alanlarını besler."
+  },
+  {
+    "id": "new_anat_k1_2",
+    "q": "Motor planlama ve istemli hareketlerle ilgili inen motor yollar (tractus corticospinalis) capsula interna'nın hangi bölümünden geçer?",
+    "opts": [
+      "A) Crus anterius",
+      "B) Genu",
+      "C) Crus posterius",
+      "D) Pars retrolentiformis",
+      "E) Pars sublentiformis"
+    ],
+    "a": "C) Crus posterius",
+    "exp": "Capsula interna'nın crus posterius'undan kortikospinal inen motor yollar (ve talamokortikal duyu yolları) geçer."
+  },
+  {
+    "id": "new_anat_k1_3",
+    "q": "Her iki beyin yarımküresini birbirine bağlayan en büyük komissural lif (beyaz cevher yolu) aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Corpus callosum",
+      "B) Commisura anterior",
+      "C) Fasciculus arcuatus",
+      "D) Capsula interna",
+      "E) Fornix"
+    ],
+    "a": "A) Corpus callosum",
+    "exp": "Corpus callosum, her iki beyin hemisferini birbirine bağlayan komissural liflerin en büyüğüdür."
+  },
+  {
+    "id": "new_anat_k1_4",
+    "q": "Beyin hemisferlerinin birbirine bakan medial yüzünü ve bacak-ayak motor/duyu bölgesini kanlandıran arter aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) A. cerebri media",
+      "B) A. cerebri posterior",
+      "C) A. communicans posterior",
+      "D) A. cerebri anterior",
+      "E) A. choroidea anterior"
+    ],
+    "a": "D) A. cerebri anterior",
+    "exp": "A. cerebri anterior (ACA), serebral hemisferlerin medial yüzünü besler ve homunculus'ta bacak-ayak bölgesine karşılık gelir."
+  },
+  {
+    "id": "new_anat_k1_5",
+    "q": "Wernicke (anlama) ve Broca (konuşma) alanlarını birbirine bağlayan asosiyasyon yolu aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Fasciculus gracilis",
+      "B) Fasciculus arcuatus",
+      "C) Tr. spinothalamicus lateralis",
+      "D) Lemniscus medialis",
+      "E) Pedunculus cerebri"
+    ],
+    "a": "B) Fasciculus arcuatus",
+    "exp": "Fasciculus arcuatus, aynı hemisferdeki Wernicke ve Broca alanlarını birbirine bağlayan asosiyasyon lifidir."
+  },
+  {
+    "id": "new_anat_k1_6",
+    "q": "Görme alanı kaybı şikayetiyle başvuran bir hastada, oksipital lobu kanlandıran hangi damarın sulama alanında bir tıkanıklık düşünülür?",
+    "opts": [
+      "A) A. cerebri anterior",
+      "B) A. cerebri media",
+      "C) A. cerebri posterior",
+      "D) A. communicans anterior",
+      "E) A. ophthalmica"
+    ],
+    "a": "C) A. cerebri posterior",
+    "exp": "A. cerebri posterior (PCA), oksipital lobu (görme merkezi) ve temporal lobun alt yüzünü kanlandırır."
+  },
+  {
+    "id": "new_anat_k1_7",
+    "q": "Medulla spinalis'in ön yüzünde bulunan fissura mediana anterior'un içinde hangi yapı seyreder?",
+    "opts": [
+      "A) A. spinalis posterior",
+      "B) A. basilaris",
+      "C) V. cerebri magna",
+      "D) A. spinalis anterior",
+      "E) A. vertebralis"
+    ],
+    "a": "D) A. spinalis anterior",
+    "exp": "Medulla spinalis'in ön yüzündeki derin yarık olan fissura mediana anterior'un içerisinde a. spinalis anterior seyreder."
+  },
+  {
+    "id": "new_anat_k1_8",
+    "q": "Pons'un ön yüzünde yer alan sulcus basilaris'in içinde aşağıdaki arterlerden hangisi yer alır?",
+    "opts": [
+      "A) A. carotis interna",
+      "B) A. cerebri media",
+      "C) A. basilaris",
+      "D) A. communicans posterior",
+      "E) A. vertebralis"
+    ],
+    "a": "C) A. basilaris",
+    "exp": "Pons'un ön yüzündeki sulcus basilaris içerisinden A. basilaris geçmektedir."
+  },
+  {
+    "id": "new_anat_k1_9",
+    "q": "Pons ile bulbus arasındaki sınır olan sulcus bulbopontinus'tan içten dışa doğru sırasıyla hangi kranial sinirler çıkar?",
+    "opts": [
+      "A) CN III, IV, V",
+      "B) CN VI, VII, VIII",
+      "C) CN IX, X, XI",
+      "D) CN V, VI, VII",
+      "E) CN VII, VIII, IX"
+    ],
+    "a": "B) CN VI, VII, VIII",
+    "exp": "Sulcus bulbopontinus'tan içten dışa doğru sırasıyla N. abducens (VI), N. facialis (VII) ve N. vestibulocochlearis (VIII) çıkar."
+  },
+  {
+    "id": "new_anat_k1_10",
+    "q": "Beyin sapını arka yüzünden terk eden tek kranial sinir olan N. trochlearis (CN IV), hangi yapının hemen altından çıkar?",
+    "opts": [
+      "A) Colliculus superior",
+      "B) Oliva",
+      "C) Colliculus inferior",
+      "D) Pyramis",
+      "E) Pedunculus cerebellaris medius"
+    ],
+    "a": "C) Colliculus inferior",
+    "exp": "N. trochlearis, mesencephalon'da colliculus inferior'un altından çapraz yaparak beyin sapını arkadan terk eder."
+  },
+  {
+    "id": "new_anat_k1_11",
+    "q": "Dura mater'in uzantılarından biri olan tentorium cerebelli, cerebrum'un oksipital lobu ile aşağıdaki hangi yapı arasına girer?",
+    "opts": [
+      "A) Pons",
+      "B) Bulbus",
+      "C) Cerebellum",
+      "D) Mesencephalon",
+      "E) Thalamus"
+    ],
+    "a": "C) Cerebellum",
+    "exp": "Tentorium cerebelli, cerebrum'un oksipital lobu ile cerebellum arasına girerek cerebellum'u bir çadır gibi örter."
+  },
+  {
+    "id": "new_anat_k1_12",
+    "q": "Bulbus'un ön yüzünde pyramis ile oliva arasındaki oluktan (sulcus preolivaris) hangi kranial sinir kökleri çıkar?",
+    "opts": [
+      "A) N. glossopharyngeus",
+      "B) N. vagus",
+      "C) N. accessorius",
+      "D) N. hypoglossus",
+      "E) N. abducens"
+    ],
+    "a": "D) N. hypoglossus",
+    "exp": "Pyramis ile oliva arasındaki sulcus preolivaris'ten N. hypoglossus (CN XII) çıkar."
+  },
+  {
+    "id": "new_anat_k1_13",
+    "q": "Sinus cavernosus'un tam içinden (lümeninden) A. carotis interna ile birlikte geçen kranial sinir aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) N. oculomotorius (CN III)",
+      "B) N. trochlearis (CN IV)",
+      "C) N. abducens (CN VI)",
+      "D) N. ophthalmicus (CN V1)",
+      "E) N. maxillaris (CN V2)"
+    ],
+    "a": "C) N. abducens (CN VI)",
+    "exp": "N. abducens (CN VI), sinus cavernosus'un içinden A. carotis interna ile komşu olarak geçer. Diğerleri lateral duvardadır."
+  },
+  {
+    "id": "new_anat_k1_14",
+    "q": "Aşağıdaki kranial sinirlerden hangisi sinus cavernosus'un lateral duvarından geçmez?",
+    "opts": [
+      "A) N. oculomotorius (CN III)",
+      "B) N. trochlearis (CN IV)",
+      "C) N. ophthalmicus (CN V1)",
+      "D) N. maxillaris (CN V2)",
+      "E) N. mandibularis (CN V3)"
+    ],
+    "a": "E) N. mandibularis (CN V3)",
+    "exp": "N. mandibularis (CN V3), sinus cavernosus'tan geçmez. Sinüsün dış duvarından CN III, IV, V1 ve V2 geçer."
+  },
+  {
+    "id": "new_anat_k1_15",
+    "q": "Beyin tabanındaki Willis poligonunu (circulus arteriosus cerebri) oluşturan arterler arasında aşağıdakilerden hangisi yer almaz?",
+    "opts": [
+      "A) A. cerebri anterior",
+      "B) A. communicans anterior",
+      "C) A. cerebri media",
+      "D) A. communicans posterior",
+      "E) A. cerebri posterior"
+    ],
+    "a": "C) A. cerebri media",
+    "exp": "A. cerebri media (MCA), A. carotis interna'nın kalın bir dalı olmasına rağmen Willis poligonunun oluşumuna katılmaz."
+  },
+  {
+    "id": "new_anat_k1_16",
+    "q": "Foramen magnum'dan girerek kafatasına ulaşan ve bulbus-pons bileşkesinde birleşerek a. basilaris'i oluşturan damar çifti aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) A. carotis interna",
+      "B) A. carotis externa",
+      "C) A. vertebralis",
+      "D) A. subclavia",
+      "E) A. meningea media"
+    ],
+    "a": "C) A. vertebralis",
+    "exp": "A. subclavia'nın dalı olan A. vertebralis'ler foramen magnum'dan geçip beyin sapı önünde birleşerek A. basilaris'i oluşturur."
+  },
+  {
+    "id": "new_anat_k1_17",
+    "q": "A. carotis interna kafatası içinde hangi venöz sinüsün içerisinden geçer?",
+    "opts": [
+      "A) Sinus sagittalis superior",
+      "B) Sinus transversus",
+      "C) Sinus cavernosus",
+      "D) Sinus sigmoideus",
+      "E) Sinus rectus"
+    ],
+    "a": "C) Sinus cavernosus",
+    "exp": "A. carotis interna, sella turcica'nın iki yanında bulunan sinus cavernosus'un içinden geçer."
+  },
+  {
+    "id": "new_anat_k1_18",
+    "q": "Bulbus'un arka-alt yüzünü besleyen PICA (A. cerebelli inferior posterior) aşağıdaki arterlerden hangisinin dalıdır?",
+    "opts": [
+      "A) A. basilaris",
+      "B) A. vertebralis",
+      "C) A. carotis interna",
+      "D) A. cerebri posterior",
+      "E) A. subclavia"
+    ],
+    "a": "B) A. vertebralis",
+    "exp": "A. cerebelli inferior posterior (PICA), A. vertebralis'in dalıdır ve Wallenberg sendromunda tıkanan damardır."
+  },
+  {
+    "id": "new_anat_k1_19",
+    "q": "Beyin omurilik sıvısının (BOS) büyük bir kısmını üreten yapı aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Granulationes arachnoideae",
+      "B) Plexus choroideus",
+      "C) Ependim hücreleri",
+      "D) Sinus sagittalis superior",
+      "E) Pia mater"
+    ],
+    "a": "B) Plexus choroideus",
+    "exp": "BOS'un %70'i, ventriküllerin içinde yer alan plexus choroideus'lar tarafından üretilir."
+  },
+  {
+    "id": "new_anat_k1_20",
+    "q": "Lateral ventriküller ile üçüncü ventrikül arasındaki bağlantıyı sağlayan ve BOS'un geçiş yaptığı delik aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Foramen Magendie",
+      "B) Foramen Luschka",
+      "C) Aqueductus mesencephali",
+      "D) Foramen interventriculare (Monro)",
+      "E) Canalis centralis"
+    ],
+    "a": "D) Foramen interventriculare (Monro)",
+    "exp": "Foramen interventriculare (Monro deliği), lateral ventriküller ile 3. ventrikülü birbirine bağlar."
+  },
+  {
+    "id": "new_anat_k1_21",
+    "q": "4. ventrikül tavanında ortada yer alan ve BOS'un subaraknoid mesafeye (cisterna magna'ya) geçişini sağlayan açıklık aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Foramen Luschka",
+      "B) Foramen Magendie",
+      "C) Foramen Monro",
+      "D) Aqueductus Sylvius",
+      "E) Granulationes arachnoideae"
+    ],
+    "a": "B) Foramen Magendie",
+    "exp": "Foramen Magendie (apertura mediana), 4. ventriküldeki BOS'un subaraknoid aralığa çıktığı tek orta deliktir."
+  },
+  {
+    "id": "new_anat_k1_22",
+    "q": "Primer motor korteks (istemli kas hareketleri merkezi), frontal lobda hangi yapının üzerinde bulunur?",
+    "opts": [
+      "A) Gyrus postcentralis",
+      "B) Gyrus temporalis superior",
+      "C) Gyrus cinguli",
+      "D) Gyrus precentralis",
+      "E) Gyrus angularis"
+    ],
+    "a": "D) Gyrus precentralis",
+    "exp": "Frontal lobda yer alan gyrus precentralis, primer motor korteksi (Brodmann Alan 4) barındırır."
+  },
+  {
+    "id": "new_anat_k1_23",
+    "q": "Primer görme korteksi (Alan 17) beynin hangi lobunda yer alır?",
+    "opts": [
+      "A) Frontal lob",
+      "B) Parietal lob",
+      "C) Temporal lob",
+      "D) Oksipital lob",
+      "E) İnsula"
+    ],
+    "a": "D) Oksipital lob",
+    "exp": "Primer görme korteksi, oksipital lobda sulcus calcarinus etrafında yer alır."
+  },
+  {
+    "id": "new_anat_k1_24",
+    "q": "Üçüncü ve dördüncü ventrikülleri birbirine bağlayan ve BOS dolaşımının en dar yeri olan geçit aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Foramen Luschka",
+      "B) Foramen Magendie",
+      "C) Foramen interventriculare",
+      "D) Aqueductus mesencephali (Sylvius)",
+      "E) Cisterna magna"
+    ],
+    "a": "D) Aqueductus mesencephali (Sylvius)",
+    "exp": "Mesencephalon'un içinden geçen Aqueductus mesencephali (Sylvius kanalı), 3. ve 4. ventrikülleri bağlar ve tıkanıklığında hidrosefali görülür."
+  },
+  {
+    "id": "new_anat_k1_25",
+    "q": "İşitme yollarının merkezlerinden biri olan Heschl gyrusları beynin hangi lobunda yer alır?",
+    "opts": [
+      "A) Parietal lob",
+      "B) Frontal lob",
+      "C) Oksipital lob",
+      "D) Temporal lob",
+      "E) Limbik lob"
+    ],
+    "a": "D) Temporal lob",
+    "exp": "Primer işitme korteksi (Alan 41, 42) olan Heschl gyrusları temporal lobda bulunur."
+  }
+]

@@ -8,526 +8,520 @@ window.examsData['tam_kapsamli_final_v12'] = window.examsData['tam_kapsamli_fina
 
 const v12Part1 = [
     // --- ANATOMİ (34 Soru) ---
-
-    // 1. Prof. Dr. Cem Kopuz (9 Soru)
+    // Ömer Can Kızılay (8 Soru - Klinik)
     {
         "id": "v12_anat_1",
         "subject": "Anatomi",
-        "question": "Omuriliğin arka kordonunda (Fasciculus gracilis ve Fasciculus cuneatus) ilerleyen ve şuurlu propriyosepsiyon, iki nokta ayrımı ile vibrasyon duyularını taşıyan lifler, Medulla oblongata'daki (Bulbus) çekirdeklerinde sinaps yaptıktan SONRA iç kavisli lifler (fibrae arcuatae internae) olarak HANGİ isimle çapraz (Decussatio lemniscorum) yaparlar?",
+        "question": "Dirsek eklemi çevresi kırıklarında (özellikle humerus'un medial epikondil kırıklarında) kemiğin arka-iç yüzeyindeki olukta (sulcus nervi ulnaris) seyreden sinir çok sık zedelenir. Halka arasında 'elektrik çarpma' hissi veren bu sinirin zedelenmesinde elde 'pençe el' görünümü ve küçük parmakta his kaybı oluşur. Bahsedilen sinir hangisidir?",
         "options": [
-            "Lemniscus medialis",
-            "Lemniscus lateralis",
-            "Lemniscus spinalis",
-            "Tractus spinothalamicus lateralis",
-            "Fasciculus longitudinalis medialis (FLM)"
+            "N. medianus",
+            "N. radialis",
+            "N. ulnaris",
+            "N. musculocutaneus",
+            "N. axillaris"
         ],
-        "answer": "Lemniscus medialis",
-        "correctAnswer": 0,
-        "explanation": "Arka kordon yolları (Goll ve Burdach - gracilis ve cuneatus), bulbustaki aynı isimli nükleuslarında sinaps yapar. Buradan çıkan 2. nöron uzantıları karşı tarafa çapraz yaparak (Decussatio lemniscorum) yukarı doğru 'Lemniscus medialis' adıyla talamusa (VPL) çıkarlar."
+        "answer": "N. ulnaris",
+        "correctAnswer": 2,
+        "explanation": "N. ulnaris, dirsekte medial epikondilin arkasından yüzeyel olarak geçer. Bu bölgedeki kırıklarda (veya dirseği masaya çarpmada) kolayca zedelenir ve elde pençe el (claw hand) oluşur."
     },
     {
         "id": "v12_anat_2",
         "subject": "Anatomi",
-        "question": "Erkek üreme sisteminde, testislerin içindeki seminifer tübüllerden çıkan sperm hücrelerini Epididimis'e taşıyan ve mediastinum testis'ten (Rete testis) köken alan kıvrımlı ince kanalcıklar aşağıdakilerden hangisidir?",
+        "question": "Ayak bileğinin iç tarafında (malleolus medialis'in arkasında) bulunan 'Tarsal Tünel' içinden geçen yapıların sıkışması sonucu Tarsal Tünel Sendromu oluşur. Bu sendromda ayak tabanında yanma, uyuşma ve karıncalanma şikayetlerine neden olan sinir hangisidir?",
         "options": [
-            "Ductus deferens",
-            "Ductus ejaculatorius",
-            "Ductuli efferentes testis",
-            "Tubuli seminiferi recti",
-            "Ductus deferens'in ampullası"
+            "N. fibularis communis",
+            "N. fibularis profundus",
+            "N. saphenus",
+            "N. suralis",
+            "N. tibialis"
         ],
-        "answer": "Ductuli efferentes testis",
-        "correctAnswer": 2,
-        "explanation": "Spermler Tubuli seminiferi contorti'de (kıvrımlı) üretilir, düzleşerek Tubuli seminiferi recti adını alır ve Rete testis ağını oluştururlar. Bu ağdan çıkan 10-15 adet kanalcık (Ductuli efferentes testis), spermleri baş kısımdan Epididimis'e taşır."
+        "answer": "N. tibialis",
+        "correctAnswer": 4,
+        "explanation": "N. tibialis, iç malleolün arkasında (Tarsal tünelde) sıkışabilir. Bu sinirin uç dalları ayak tabanının (plantar yüz) duyu ve motor fonksiyonunu sağlar."
     },
     {
         "id": "v12_anat_3",
         "subject": "Anatomi",
-        "question": "Göz küresinin (Bulbus oculi) dış tabakası (Tunica fibrosa) Sklera ve Kornea'dan oluşur. Gözün beyaz kısmı olan Sklera ile saydam kısmı olan Kornea'nın birleştiği sınıra (limbus) komşu olan ve göz içi sıvısının (humor aquosus) drene olduğu venöz kanal hangisidir?",
+        "question": "Kalp krizi (Miyokard infarktüsü) geçiren bir hastada göğüs ağrısı tipik olarak sol kola, omuza ve boyna yayılır (yansıyan ağrı). Kalpteki iskemi (oksijensizlik) ağrısını merkezi sinir sistemine taşıyan viseral afferent sinir lifleri hangi yolla omuriliğe (T1-T4 segmentlerine) ulaşır?",
         "options": [
-            "Canalis hyaloideus (Cloquet kanalı)",
-            "Sinus venosus sclerae (Schlemm kanalı)",
-            "Vena ophthalmica superior",
-            "Vena centralis retinae",
-            "Ductus nasolacrimalis"
+            "Parasempatik (N. vagus) yolla",
+            "Sempatik sinirlerin afferent lifleri yoluyla",
+            "N. phrenicus yoluyla",
+            "N. intercostobrachialis yoluyla",
+            "N. supraclavicularis yoluyla"
         ],
-        "answer": "Sinus venosus sclerae (Schlemm kanalı)",
+        "answer": "Sempatik sinirlerin afferent lifleri yoluyla",
         "correctAnswer": 1,
-        "explanation": "Korpus siliare'den salgılanan humor aquosus, arka kamaradan pupilla aracılığıyla ön kamaraya geçer ve kornea-iris açısındaki (iridokorneal açı) trabeküler ağdan süzülerek Schlemm kanalına (Sinus venosus sclerae) dökülür. Bu yol tıkanırsa göz içi basıncı artar (Glokom/Karasu)."
+        "explanation": "Kalbin ağrı duyusu, sempatik sinirlerin (T1-T4/T5) yolları üzerinden omuriliğe taşınır. Bu nedenle ağrı aynı spinal segmentten (T1-T4) duyu alan sol kolun iç yüzüne (somatik dermatomlara) yansır."
     },
     {
         "id": "v12_anat_4",
         "subject": "Anatomi",
-        "question": "Kulakta (Auris) ses dalgalarını ileten kemikçiklerin (Malleus, Incus, Stapes) etrafında iki önemli kas bulunur. Yüksek şiddetli seslerde kasılarak iç kulağı koruyan ve N. facialis (CN VII) tarafından inerve edilen kas aşağıdakilerden hangisidir?",
+        "question": "Boyun ön üçgeninde (Trigonum caroticum) yer alan 'Karotis Kılıfı' (Vagina carotica), hayati öneme sahip damar ve sinirleri barındırır. A. carotis communis ve V. jugularis interna'nın arasında, bu kılıfın İÇİNDE seyreden kranial sinir aşağıdakilerden hangisidir?",
         "options": [
-            "Musculus tensor tympani",
-            "Musculus stapedius",
-            "Musculus levator veli palatini",
-            "Musculus tensor veli palatini",
-            "Musculus salpingopharyngeus"
+            "N. accessorius (XI)",
+            "N. hypoglossus (XII)",
+            "N. glossopharyngeus (IX)",
+            "N. vagus (X)",
+            "N. laryngeus recurrens"
         ],
-        "answer": "Musculus stapedius",
-        "correctAnswer": 1,
-        "explanation": "Orta kulaktaki iki kastan M. stapedius (N. facialis tarafından uyarılır) üzengi kemiğini (Stapes) çekerek pencereye fazlaca vurmasını engeller, şiddetli sesten korur (Akustik refleks). M. tensor tympani (N. mandibularis) ise kulak zarını gerer. Fasiyal felçte m. stapedius çalışmaz ve hastada 'Hiperakuzi' (sesleri aşırı yüksek/rahatsız edici duyma) olur."
+        "answer": "N. vagus (X)",
+        "correctAnswer": 3,
+        "explanation": "Vagina carotica (Karotis kılıfı) içinde 3 temel yapı bulunur: İçte A. carotis communis (veya interna), dışta V. jugularis interna, ikisinin arkasında ise N. vagus yer alır."
     },
     {
         "id": "v12_anat_5",
         "subject": "Anatomi",
-        "question": "Bacağın (crus) ön bölgesindeki kasları (M. tibialis anterior vb.) inerve eden ve ayak sırtına ekstansiyon (dorsifleksiyon) yaptıran sinir hangisidir?",
+        "question": "Çene altı (Glandula submandibularis) ve dil altı (Glandula sublingualis) tükürük bezlerinin salgı yapmasını sağlayan parasempatik lifler hangi kranial sinir (ve onun dalı) tarafından taşınır?",
         "options": [
-            "Nervus fibularis (peroneus) superficialis",
-            "Nervus fibularis (peroneus) profundus",
-            "Nervus tibialis",
-            "Nervus plantaris medialis",
-            "Nervus suralis"
+            "N. trigeminus - N. lingualis",
+            "N. facialis - Chorda tympani",
+            "N. glossopharyngeus - N. tympanicus",
+            "N. vagus - N. laryngeus superior",
+            "N. oculomotorius"
         ],
-        "answer": "Nervus fibularis (peroneus) profundus",
+        "answer": "N. facialis - Chorda tympani",
         "correctAnswer": 1,
-        "explanation": "Siyatik sinirin dalı olan N. fibularis communis fibula boynunda ikiye ayrılır. Derin dalı (N. fibularis profundus) bacağın ön kompartımanını (dorsifleksörleri) uyarır. Yüzeyel dalı (superficialis) bacağın dış kompartımanını (eversiyon) uyarır. Derin dal zedelendiğinde 'düşük ayak (drop foot)' görülür."
+        "explanation": "N. facialis'in (VII) dalı olan Chorda tympani, Glandula submandibularis ve sublingualis'in sekretomotor (parasempatik) innervasyonunu ve dilin 2/3 ön tat duyusunu sağlar."
     },
     {
         "id": "v12_anat_6",
         "subject": "Anatomi",
-        "question": "Karın ön yan duvarını oluşturan kasların aponevrozları, ortada (Linea alba) birleşmeden önce M. rectus abdominis kasını bir kılıf (Vagina musculi recti abdominis) gibi sararlar. Kası saran arka kılıfın aniden sonlandığı, alt kısımda (göbeğin altında) sadece fasyanın (Fascia transversalis) kaldığı kavisli çizgiye ne ad verilir?",
+        "question": "Kalça kaslarından M. gluteus medius ve M. gluteus minimus felcinde (örneğin hatalı enjeksiyon sonucu), hasta bir ayağını kaldırdığında leğen kemiği (pelvis) desteklenemediği için sağlam (havadaki) tarafa doğru düşer (Trendelenburg belirtisi). Bu klinik tablodan sorumlu zedelenmiş sinir hangisidir?",
         "options": [
-            "Linea semilunaris",
-            "Linea arcuata (Douglas çizgisi)",
-            "Linea aspera",
-            "Ligamentum inguinale (Poupart bağı)",
-            "Plica umbilicalis mediana"
+            "N. gluteus inferior",
+            "N. ischiadicus",
+            "N. obturatorius",
+            "N. femoralis",
+            "N. gluteus superior"
         ],
-        "answer": "Linea arcuata (Douglas çizgisi)",
-        "correctAnswer": 1,
-        "explanation": "Rektus kası kılıfı, göbek deliğinin yaklaşık 3-4 cm altında karakter değiştirir. Tüm kas aponevrozları öne geçer, kasın arkasında sadece fasia transversalis kalır. Arka kılıfın bittiği bu keskin sınıra Linea arcuata (Douglas çizgisi / Linea semicircularis) denir."
+        "answer": "N. gluteus superior",
+        "correctAnswer": 4,
+        "explanation": "M. gluteus medius ve minimus uyluğun güçlü abduktorlarıdır. Motor sinirleri N. gluteus superior'dur. Bu kaslar felç olunca yürüme sırasında pelvis yatay duramaz ve karşı tarafa düşer (Pozitif Trendelenburg testi)."
     },
     {
         "id": "v12_anat_7",
         "subject": "Anatomi",
-        "question": "Kranial sinirlerin (Kafa çiftleri) beyin sapını (Truncus encephali) terk ettikleri yerler incelendiğinde, tek BEYİN SAPININ ARKA YÜZÜNDEN (dorsalinden) çıkan kranial sinir aşağıdakilerden hangisidir?",
+        "question": "Koroner bypass ameliyatı için bacağın iç yüzündeki V. saphena magna (Büyük safen ven) cerrahi olarak çıkarılırken, vene eşlik eden bir sinir zedelenebilir. Bu zedelenme sonucu bacağın ön-iç (medial) tarafında duyu kaybı oluşan bu sinir hangisidir?",
         "options": [
-            "Nervus Oculomotorius (CN 3)",
-            "Nervus Trochlearis (CN 4)",
-            "Nervus Trigeminus (CN 5)",
-            "Nervus Abducens (CN 6)",
-            "Nervus Vagus (CN 10)"
+            "N. suralis",
+            "N. fibularis superficialis",
+            "N. saphenus",
+            "N. tibialis",
+            "N. obturatorius"
         ],
-        "answer": "Nervus Trochlearis (CN 4)",
-        "correctAnswer": 1,
-        "explanation": "N. trochlearis (CN 4), beynin dorsal yüzünden (orta beynin arkasından, colliculus inferior'ların altından) çıkan TEK kafa çiftidir. Ayrıca kranial sinirler içinde en uzun intrakranial (kafa içi) seyre sahip olan ve çapı en ince olan sinirdir."
+        "answer": "N. saphenus",
+        "correctAnswer": 2,
+        "explanation": "V. saphena magna ile N. saphenus bacağın medial yüzünde birlikte seyreder. N. saphenus bacağın iç (medial) yüzünün genel duyusunu alan (N. femoralis dalı) uzun bir sinirdir."
     },
     {
         "id": "v12_anat_8",
         "subject": "Anatomi",
-        "question": "Larenks (Gırtlak) kıkırdakları arasında, en büyük kıkırdak olan ve erkeklerde boyun ön yüzünde 'Adem elması (Prominentia laryngea)' çıkıntısını oluşturan, tiroid bezine komşu kıkırdak hangisidir?",
+        "question": "Göğüs boşluğunda sıvı (plevral efüzyon) veya hava (pnömotoraks) birikmesi durumunda uygulanan tüp torakostomi işlemi sırasında, kaburgalar arasındaki (interkostal) damar ve sinir paketinin zedelenmemesi çok önemlidir. Bu anatomik yapıların seyri göz önüne alındığında iğne veya tüp girişimi neresinden (hangi hattan) yapılmalıdır?",
         "options": [
-            "Cartilago cricoidea",
-            "Cartilago arytenoidea",
-            "Cartilago epiglottica",
-            "Cartilago thyroidea",
-            "Cartilago corniculata"
+            "İlgili aralığı sınırlayan ÜST kaburganın alt kenarının hemen altından",
+            "İlgili aralığı sınırlayan ALT kaburganın üst kenarının hemen üstünden",
+            "Kaburgalar arası boşluğun tam ortasından",
+            "Costokondral eklem üzerinden",
+            "Sternumun hemen yanından"
         ],
-        "answer": "Cartilago thyroidea",
-        "correctAnswer": 3,
-        "explanation": "Cartilago thyroidea (Tiroid kıkırdak), larenksin en büyük kıkırdağıdır. İki laminası ön tarafta birleşerek Prominentia laryngea'yı (Adem elması) oluşturur. Altında halka şeklinde krikoid kıkırdak bulunur."
+        "answer": "İlgili aralığı sınırlayan ALT kaburganın üst kenarının hemen üstünden",
+        "correctAnswer": 1,
+        "explanation": "İnterkostal damar-sinir paketi (VAN: Ven-Arter-Sinir) her bir kaburganın alt kenarında bulunan sulcus costae'nin içinde seyreder. Bu nedenle göğüs boşluğuna (plevraya) girilirken her zaman ALT kaburganın üst kenarı sıyırılarak (hemen üstünden) girilmelidir."
     },
+    // Cem Kopuz (9 Soru - Eşleşme / Temel)
     {
         "id": "v12_anat_9",
         "subject": "Anatomi",
-        "question": "Pelvis tabanını (Diaphragma pelvis) döşeyen ve anüsü yukarı doğru çekerek sfinkterik fonksiyona yardım eden EN BÜYÜK ve EN ÖNEMLİ kas grubu aşağıdakilerden hangisidir?",
+        "question": "Omuz eklemine abduksiyon (kolu yana açma) hareketini başlatan (ilk 15 dereceyi yaptıran) ve Rotator manşet (Rotator cuff) yırtıklarında en sık yaralanan kas olan M. supraspinatus'un motor siniri aşağıdakilerden hangisidir?",
         "options": [
-            "Musculus levator ani",
-            "Musculus piriformis",
-            "Musculus obturatorius internus",
-            "Musculus gluteus maximus",
-            "Musculus ischiocavernosus"
+            "N. axillaris",
+            "N. suprascapularis",
+            "N. subscapularis",
+            "N. thoracodorsalis",
+            "N. pectoralis lateralis"
         ],
-        "answer": "Musculus levator ani",
-        "correctAnswer": 0,
-        "explanation": "Diaphragma pelvis'in büyük kısmını, huni şeklinde pelvik tabanı döşeyen M. levator ani (M. puborectalis, M. pubococcygeus, M. iliococcygeus alt kısımlarından oluşur) ve M. coccygeus kasları oluşturur. Pelvik organları (uterus, mesane, rektum) alttan bir hamak gibi destekler."
+        "answer": "N. suprascapularis",
+        "correctAnswer": 1,
+        "explanation": "M. supraspinatus ve M. infraspinatus kaslarının motor siniri N. suprascapularis'tir. Omuza ilk 15 derece abduksiyon yaptırır."
     },
-
-    // 2. Dr. Öğr. Üyesi Ufuk Çorumlu (9 Soru)
     {
         "id": "v12_anat_10",
         "subject": "Anatomi",
-        "question": "Uterus'u (Rahim) yerinde tutan bağlar içinde en güçlü olan ve cervix uteri'yi her iki yandan pelvis duvarına bağlayarak uterusun aşağı sarkmasını (prolapsus) engelleyen ESAS BAĞ hangisidir?",
+        "question": "Omuza kabarıklığını veren, 15 dereceden sonra 90 dereceye kadar omuz abduksiyonunu (kolu yana açmayı) devam ettiren ana kas olan M. deltoideus'un motor siniri hangisidir?",
         "options": [
-            "Ligamentum teres uteri (Round ligament)",
-            "Ligamentum latum uteri (Broad ligament)",
-            "Ligamentum cardinale (Mackenrodt bağı / Lig. transversum cervicis)",
-            "Ligamentum suspensorium ovarii",
-            "Ligamentum uterosacrale"
+            "N. radialis",
+            "N. axillaris",
+            "N. musculocutaneus",
+            "N. thoracicus longus",
+            "N. ulnaris"
         ],
-        "answer": "Ligamentum cardinale (Mackenrodt bağı / Lig. transversum cervicis)",
-        "correctAnswer": 2,
-        "explanation": "Ligamentum cardinale (Mackenrodt), cervix'i (boyun) pelvis yan duvarlarına bağlayan kalın bir fasya dokusudur. Uterusu yerinde tutan en önemli ve en güçlü pasif destektir. Bu bağın zayıflaması rahim sarkmasına yol açar."
+        "answer": "N. axillaris",
+        "correctAnswer": 1,
+        "explanation": "Omuzun güçlü abduktoru olan M. deltoideus kasının (ve ayrıca M. teres minor'un) siniri N. axillaris'tir."
     },
     {
         "id": "v12_anat_11",
         "subject": "Anatomi",
-        "question": "Böbreklerin (Ren) hilumundan (kapısından) giren ve çıkan yapıların (V.A.U kuralı) ÖNDEN ARKAYA doğru anatomik sıralaması aşağıdakilerden hangisidir?",
+        "question": "Bacağın arka kompartmanında (baldırda) yer alan, yürüme ve koşmada vücudu yukarı/öne iten en güçlü plantarfleksör kasların (M. gastrocnemius ve M. soleus - Triceps surae) motor siniri aşağıdakilerden hangisidir?",
         "options": [
-            "Arter - Ven - Pelvis renalis (Üreter)",
-            "Pelvis renalis - Arter - Ven",
-            "Ven - Arter - Pelvis renalis (Üreter)",
-            "Ven - Pelvis renalis - Arter",
-            "Arter - Pelvis renalis - Ven"
+            "N. fibularis superficialis",
+            "N. fibularis profundus",
+            "N. tibialis",
+            "N. saphenus",
+            "N. femoralis"
         ],
-        "answer": "Ven - Arter - Pelvis renalis (Üreter)",
+        "answer": "N. tibialis",
         "correctAnswer": 2,
-        "explanation": "Böbrek hilumunda (Hilum renale) yapılar önden arkaya doğru V.A.U. olarak sıralanır: En önde V. renalis, ortada A. renalis, en arkada Ureterin genişlemiş kısmı olan Pelvis renalis bulunur."
+        "explanation": "Tüm bacak arka kompartman kaslarının motor siniri N. tibialis'tir. (Ön yüzün siniri fibularis profundus, dış yüzün siniri fibularis superficialis'tir)."
     },
     {
         "id": "v12_anat_12",
         "subject": "Anatomi",
-        "question": "Kalpte (Cor) sağ atriyum iç yüzeyini incelerken, sağ atriyum kaslı duvarında (auricula ve atriyum serbest duvarında) paralel tarak dişleri şeklinde uzanan kas kabartılarına ne ad verilir?",
+        "question": "Meme kanseri metastazlarının en sık izlediği yol lenfatik sistemdir. Memenin lenf drenajının büyük bir kısmı (yaklaşık %75'i) hangi lenf düğümlerine (nodlarına) dökülür?",
         "options": [
-            "Trabeculae carneae",
-            "Musculi papillares",
-            "Musculi pectinati",
-            "Chordae tendineae",
-            "Crista terminalis"
+            "Nodi lymphatici parasternales",
+            "Nodi lymphatici inguinales",
+            "Nodi lymphatici cervicales",
+            "Nodi lymphatici axillares (Koltuk altı)",
+            "Nodi lymphatici mediastinales"
         ],
-        "answer": "Musculi pectinati",
-        "correctAnswer": 2,
-        "explanation": "Sağ atriyumdaki (ve aurikulalardaki) tarak şeklindeki kas kabartılarına Mm. pectinati denir. Ventriküllerdeki daha kalın ağ şeklindeki kas kabartılarına Trabeculae carneae, ventriküllerden çıkıp kapaklara tutunan kaslara ise Mm. papillares denir."
+        "answer": "Nodi lymphatici axillares (Koltuk altı)",
+        "correctAnswer": 3,
+        "explanation": "Memenin dış (lateral) ve merkez kadranlarından gelen lenf akımı (memenin lenfinin %75 kadarı) Nodi lymphatici axillares'e (Koltuk altı lenf düğümleri) boşalır."
     },
     {
         "id": "v12_anat_13",
         "subject": "Anatomi",
-        "question": "Koroner dolaşımda, kalbin kendi Venöz kanının yaklaşık %60'ını toplayan ve sağ atriyuma (diğer venlerden bağımsız, kendine ait bir delikle) dökülen kalbin en büyük veni aşağıdakilerden hangisidir?",
+        "question": "Karın boşluğunda yer alan böbrekleri (Renes) besleyen büyük çaplı böbrek atardamarı (A. renalis), doğrudan hangi ana damarın dalıdır?",
         "options": [
-            "Vena cardiaca magna",
-            "Vena cardiaca media",
-            "Sinus coronarius",
-            "Vena cava superior",
-            "Vena cava inferior"
+            "Truncus celiacus",
+            "A. mesenterica superior",
+            "Aorta abdominalis",
+            "A. iliaca communis",
+            "A. mesenterica inferior"
         ],
-        "answer": "Sinus coronarius",
+        "answer": "Aorta abdominalis",
         "correctAnswer": 2,
-        "explanation": "Sinus coronarius, kalbin arka yüzünde sulcus coronarius'ta (atriyoventriküler oluk) seyreden, V. cardiaca magna, media ve parva'nın birleştiği dev venöz kesedir. Kalbin kendi kirli kanını Ostium sinus coronarii aracılığıyla doğrudan Sağ Atriyuma döker."
+        "explanation": "A. renalis (sağ ve sol böbrek arterleri), L1-L2 vertebra seviyesinde doğrudan Aorta abdominalis'ten yanlara doğru çıkan kalın dallardır."
     },
     {
         "id": "v12_anat_14",
         "subject": "Anatomi",
-        "question": "Pankreasın kanlanması iki ayrı arter sisteminin anastomoz yaptığı bir bölgedir. Pankreas başı (Caput) ve duodenumu birlikte besleyen Arteria pancreaticoduodenalis superior hangi arterin bir dalıdır?",
+        "question": "Kol atardamarının (A. brachialis) verdiği ilk ve en büyük dal olan, Humerus gövdesinin arkasındaki spiral olukta (sulcus nervi radialis) N. radialis ile birlikte seyreden derin kol arteri aşağıdakilerden hangisidir?",
         "options": [
-            "Arteria mesenterica superior",
-            "Arteria gastroduodenalis (Truncus coeliacus kökenli)",
-            "Arteria mesenterica inferior",
-            "Arteria lienalis (Dalak arteri)",
-            "Arteria hepatica propria"
+            "A. circumflexa humeri posterior",
+            "A. ulnaris",
+            "A. profunda brachii",
+            "A. radialis collateralis",
+            "A. suprascapularis"
         ],
-        "answer": "Arteria gastroduodenalis (Truncus coeliacus kökenli)",
-        "correctAnswer": 1,
-        "explanation": "Pankreas başı anastomotik bir ağla beslenir. A. pancreaticoduodenalis superior (Truncus coeliacus'un dalı olan A. gastroduodenalis'ten çıkar) ile A. pancreaticoduodenalis inferior (A. mesenterica superior'dan çıkar) birleşir. Pankreasın gövde ve kuyruk kısmı ise A. lienalis'ten beslenir."
+        "answer": "A. profunda brachii",
+        "correctAnswer": 2,
+        "explanation": "A. profunda brachii, kolun arka kompartmanını besler ve humerus gövdesi oluğunda N. radialis ile çok yakın komşuluk yapar."
     },
     {
         "id": "v12_anat_15",
         "subject": "Anatomi",
-        "question": "Beyin sapında (Pons-Bulbus) inen yollardan 'Tractus Corticospinalis'in (Piramidal yolun) çok büyük bir kısmının (%80-90) omuriliğe geçmeden önce karşı tarafa ÇAPRAZ YAPTIĞI anatomik bölge aşağıdakilerden hangisidir?",
+        "question": "Beynin oksipital (arka) lobunun medial yüzünü ve görme merkezini (Kortikal vizüel korteks) besleyen ana beyin atardamarı aşağıdakilerden hangisidir?",
         "options": [
-            "Tegmentum mesencephali",
-            "Decussatio lemniscorum",
-            "Decussatio pyramidum (Bulbus'un alt sınırında)",
-            "Commissura alba anterior (Spinal kordda)",
-            "Pons tabanı"
+            "A. cerebri anterior",
+            "A. cerebri media",
+            "A. cerebri posterior",
+            "A. carotis interna",
+            "A. cerebelli inferior posterior (PICA)"
         ],
-        "answer": "Decussatio pyramidum (Bulbus'un alt sınırında)",
+        "answer": "A. cerebri posterior",
         "correctAnswer": 2,
-        "explanation": "Tractus corticospinalis, Bulbus'un (Medulla oblongata) alt kısmında ön yüzde görülen pyramis'te liflerinin %80-90'ını karşı tarafa geçirir (Motor çapraz = Decussatio pyramidum). Karşıya geçen lifler Tr. corticospinalis lateralis adıyla omuriliğe iner."
+        "explanation": "A. cerebri posterior (ACP), beynin arka kısımlarını (oksipital lobun medial ve inferior yüzlerini, temporal lobun altını) ve görme merkezini besleyen ana damardır."
     },
     {
         "id": "v12_anat_16",
         "subject": "Anatomi",
-        "question": "Erkek üreme sisteminde bulunan ve içinden üretra geçtiği için yaşlılıkta büyümesiyle (BPH) idrar yapma zorluğuna neden olan, asidik salgısıyla spermin hareketliliğine yardımcı bez hangisidir?",
+        "question": "Alt ekstremiteler ve karın boşluğundan (özellikle bağırsaklardan emilen yağlı -şilomikronlu- lenf sıvısını) gelen tüm lenf sıvısını toplayarak yukarı doğru (göğüs boşluğunda) çıkaran ve sol venöz açıya dökülen vücudun EN BÜYÜK lenf kanalı hangisidir?",
         "options": [
-            "Vesicula seminalis (Glandula vesiculosa)",
-            "Glandula bulbourethralis (Cowper bezi)",
-            "Prostata (Prostat)",
-            "Glandulae urethrales (Littre bezleri)",
-            "Epididimis"
+            "Ductus lymphaticus dexter",
+            "Cisterna chyli",
+            "Truncus jugularis",
+            "Ductus thoracicus",
+            "Vena cava superior"
         ],
-        "answer": "Prostata (Prostat)",
-        "correctAnswer": 2,
-        "explanation": "Prostat bezi, mesanenin hemen altında yer alır ve içerisinden Urethra'nın prostatik parçası geçer. Büyüdüğünde üretrayı sıkıştırır ve idrarı zorlaştırır. Salgısı (PSA, asit fosfataz) ejakülatın pıhtılaşmasını ve sonra tekrar sıvılaşmasını (likofaksiyon) sağlayarak spermi korur."
+        "answer": "Ductus thoracicus",
+        "correctAnswer": 3,
+        "explanation": "Ductus thoracicus (Göğüs kanalı), sağ baş-boyun-kol dışında kalan tüm vücudun (%75) lenf sıvısını toplayarak venöz sisteme aktaran devasa lenf kanalıdır."
     },
     {
         "id": "v12_anat_17",
         "subject": "Anatomi",
-        "question": "Kafa iskeletinde, Burun boşluğunu (Cavitas nasi) ortadan ikiye bölen 'Septum Nasi' (Burun bölmesi) yapısında, aşağıdaki kemiklerden hangisi YER ALMAZ?",
+        "question": "Uyluğun ön yüzünde bulunan, diz eklemine güçlü ekstansiyon (bacağı düzleştirme) yaptıran kas grubunun (M. quadriceps femoris, M. sartorius vb.) motor siniri aşağıdakilerden hangisidir?",
         "options": [
-            "Vomer (Sapan kemiği)",
-            "Os ethmoidale (Lamina perpendicularis)",
-            "Os palatinum (Crista nasalis bölümleri)",
-            "Concha nasalis inferior",
-            "Maxilla (Crista nasalis parçası)"
+            "N. obturatorius",
+            "N. ischiadicus",
+            "N. tibialis",
+            "N. femoralis",
+            "N. gluteus superior"
         ],
-        "answer": "Concha nasalis inferior",
+        "answer": "N. femoralis",
         "correctAnswer": 3,
-        "explanation": "Septum nasi'yi oluşturan üç ana yapı vardır: 1) Üst arkada Os ethmoidale'nin lamina perpendicularis'i, 2) Alt arkada Vomer, 3) Önde kıkırdak yapı (Cartilago septi nasi). Concha nasalis inferior ise burun dış yan duvarlarında yer alan bağımsız bir kemiktir, septuma girmez."
+        "explanation": "N. femoralis (L2-L4), uyluğun ön (ekstansör) kompartmanının kaslarını uyaran ana sinirdir."
     },
+    // Ufuk Çorumlu (9 Soru - Komşuluk / Temel)
     {
         "id": "v12_anat_18",
         "subject": "Anatomi",
-        "question": "Ekg elektrotlarının göğüs kafesine (Prekordiyal) yerleşimi sırasında V4 elektrodu (Genellikle apex) anatomi olarak tam olarak nereye yerleştirilir?",
+        "question": "Solunum sisteminin ana organı akciğerlerin (Pulmones) lob sayıları, göğüs kafesi içindeki kalp yerleşiminden dolayı sağda ve solda farklıdır. İnsan anatomisinde sağ ve sol akciğerlerin LOB SAYILARI sırasıyla aşağıdakilerden hangisinde doğru verilmiştir?",
         "options": [
-            "Sol 2. interkostal aralık, sternum sol kenarı",
-            "Sol 4. interkostal aralık, sternum sol kenarı",
-            "Sol 5. interkostal aralık ile Linea midclavicularis kesişimi",
-            "Sol 5. interkostal aralık ile Linea axillaris anterior kesişimi",
-            "Sağ 4. interkostal aralık"
+            "Sağ 2, Sol 2 lob",
+            "Sağ 2, Sol 3 lob",
+            "Sağ 3, Sol 2 lob",
+            "Sağ 3, Sol 3 lob",
+            "Sağ 4, Sol 2 lob"
         ],
-        "answer": "Sol 5. interkostal aralık ile Linea midclavicularis kesişimi",
+        "answer": "Sağ 3, Sol 2 lob",
         "correctAnswer": 2,
-        "explanation": "EKG'de V4 elektrodu, kalbin apeksinin en iyi duyulduğu yer olan Sol 5. İnterkostal aralığın Midklaviküler çizgi (köprücük kemiğinin ortasından inen çizgi) ile kesiştiği noktaya konur. V5 ön koltukaltı, V6 orta koltukaltı çizgisinde devam eder."
+        "explanation": "Pulmo dexter (Sağ akciğer) 3 loba (superior, medius, inferior), Pulmo sinister (Sol akciğer) kalbin sola yerleşiminden ötürü hacimce daha küçük olup 2 loba (superior, inferior) ayrılır."
     },
-
-    // 3. Dr. Öğr. Üyesi Sezer Akçer (8 Soru)
     {
         "id": "v12_anat_19",
         "subject": "Anatomi",
-        "question": "Karaciğerin (Hepar) karın ön duvarına asılmasını sağlayan ve göbek kordonu içindeki Vena umbilicalis'in kapanmasıyla oluşan 'Ligamentum teres hepatis'i (Yuvarlak bağ) KENDİ İÇİNDE barındıran periton yaprağı (bağı) hangisidir?",
+        "question": "Midenin alt bölümleri incelendiğinde, gövde (Corpus) kısmından sonra gelen ve onikiparmak bağırsağı (Duodenum) sfinkterine doğru daralan, asit ve gastrin salgısı açısından zengin HÜNİ şeklindeki alt geniş bölümüne ne ad verilir?",
         "options": [
-            "Ligamentum falciforme",
-            "Ligamentum coronarium",
-            "Ligamentum triangulare",
-            "Omentum minus (Lig. hepatoduodenale)",
-            "Ligamentum venosum"
+            "Fundus gastricus",
+            "Antrum pyloricum",
+            "Cardia",
+            "Incisura angularis",
+            "Curvatura minor"
         ],
-        "answer": "Ligamentum falciforme",
-        "correctAnswer": 0,
-        "explanation": "Lig. falciforme, karaciğeri karın ön duvarına (ve diyafragmaya) bağlayan orak şeklindeki periton kıvrımıdır. Alt serbest kenarı içinde anne karnında fetüse kan taşıyan v. umbilicalis'in kalıntısı olan Ligamentum teres hepatis bulunur."
+        "answer": "Antrum pyloricum",
+        "correctAnswer": 1,
+        "explanation": "Midenin distalinde, korpustan hemen sonra başlayan ve pylor kanalına doğru uzanan geniş kısıma Antrum (Antrum pyloricum) denir. (Gastrin hücrelerinin yoğun olduğu yerdir)."
     },
     {
         "id": "v12_anat_20",
         "subject": "Anatomi",
-        "question": "Beyin omurilik sıvısının (BOS) sentezlendiği yapılar olan Plexus choroideus'lar, ventriküllerin duvarlarında bulunur. Aşağıdaki beyin boşluklarından hangisinde Plexus Choroideus BULUNMAZ?",
+        "question": "İnce bağırsakların anatomik bölümleri sırasıyla Duodenum, Jejunum ve Ileum'dur. Yaklaşık 3-4 metre uzunluğu ile ince bağırsakların en uzun, en kıvrımlı olan ve karnın daha çok sağ alt kadranında yer alıp kalın bağırsağa bağlanan SON BÖLÜMÜ hangisidir?",
         "options": [
-            "Lateral ventriküllerin pars centralis (gövde) kısmı",
-            "Lateral ventriküllerin cornu inferius (temporal boynuz) kısmı",
-            "3. Ventrikül tavanı",
-            "4. Ventrikül çatısı",
-            "Lateral ventriküllerin cornu anterius (frontal boynuz) ve cornu posterius (oksipital boynuz) kısımları"
+            "Caecum (Kör bağırsak)",
+            "Jejunum",
+            "Duodenum",
+            "Ileum",
+            "Colon sigmoideum"
         ],
-        "answer": "Lateral ventriküllerin cornu anterius (frontal boynuz) ve cornu posterius (oksipital boynuz) kısımları",
-        "correctAnswer": 4,
-        "explanation": "Koroid pleksus lateral ventrikülün gövde ve alt (temporal) boynuzunda bulunur. Ancak ön (frontal) boynuz ve arka (oksipital) boynuzlarda KESİNLİKLE BULUNMAZ. 3. ve 4. ventrikülde de koroid pleksus vardır."
+        "answer": "Ileum",
+        "correctAnswer": 3,
+        "explanation": "İnce bağırsağın son ve en uzun kısmı Ileum'dur. Sağ kasık çukuruna yakın bir bölgede Ostium ileale vasıtasıyla kalın bağırsağın ilk kısmı olan Caecum'a açılır."
     },
     {
         "id": "v12_anat_21",
         "subject": "Anatomi",
-        "question": "Akciğerlerin (Pulmones) köküne 'Radix pulmonis (Hilum)' denir. Hİlumda akciğere giren ve çıkan yapılardan EN ÜSTTE bulunan yapı anatomik olarak hangisidir (Genel veya sağ akciğer kuralı)?",
+        "question": "Kalbi bir torba gibi dıştan saran, dışta sağlam lifli bir tabaka (fibroz) içte ise iki yapraklı zarımsı (seröz) tabakadan oluşan ve yaprakları arasındaki sıvıyla kalbin sürtünmesini engelleyen keseye ne ad verilir?",
         "options": [
-            "Vena pulmonalis superior",
-            "Arteria pulmonalis (Özellikle sağda ep arteryel bronştan sonraki en üst yapı)",
-            "Ana Bronş (Sağ akciğerde Bronchus eparterialis en üsttedir)",
-            "Vena pulmonalis inferior",
-            "Lenfatik damarlar"
+            "Endocardium",
+            "Myocardium",
+            "Pericardium (Perikard)",
+            "Pleura",
+            "Peritoneum"
         ],
-        "answer": "Ana Bronş (Sağ akciğerde Bronchus eparterialis en üsttedir)",
+        "answer": "Pericardium (Perikard)",
         "correctAnswer": 2,
-        "explanation": "SAĞ akciğer hilumunda trakeadan yüksekte ayrılan 'Bronchus eparterialis' adı verilen bir üst lob bronşu bulunduğu için en üstteki yapı BRONŞTUR (A. pulmonalisin de üstündedir). SOL akciğerde ise en üstte Arteria pulmonalis yer alır. Bu bilgi akciğer sağ/sol ayrımında anatomik bir kuraldır."
+        "explanation": "Kalbi koruyan ve rahat çalışmasını (kaymasını) sağlayan dış koruyucu zarına Pericardium (Perikard kesesi) adı verilir."
     },
     {
         "id": "v12_anat_22",
         "subject": "Anatomi",
-        "question": "Cerebellum (Beyincik) fonksiyonel olarak 3 kısma ayrılır. Vestibüler sistemden (iç kulak) lifler alarak göz hareketleri ve vücudun DENGE merkezini oluşturan, filogenetik olarak en eski olan 'Archicerebellum' bölümü neresidir?",
+        "question": "Her iki böbreğin (Renes) üst kutuplarının (Polus superior) üzerine birer şapka gibi oturmuş olan ve Adrenalin, Kortizol, Aldosteron gibi hayati hormonlar salgılayan endokrin (iç salgı) bezine ne ad verilir?",
         "options": [
-            "Lobus anterior",
-            "Lobus posterior",
-            "Lobus flocculonodularis",
-            "Vermis",
-            "Tonsilla cerebelli"
+            "Glandula thyroidea (Tiroid)",
+            "Glandula parathyroidea",
+            "Glandula suprarenalis (Adrenal bez / Böbrek üstü bezi)",
+            "Pancreas",
+            "Hipofiz"
         ],
-        "answer": "Lobus flocculonodularis",
+        "answer": "Glandula suprarenalis (Adrenal bez / Böbrek üstü bezi)",
         "correctAnswer": 2,
-        "explanation": "Lobus flocculonodularis, serebellumun evrimsel olarak en eski kısmıdır (Archicerebellum/Vestibulocerebellum). Doğrudan iç kulaktaki denge organından lif alır. Hasarında hasta sarhoş gibi yürür, dengesini sağlayamaz (Gövde ataksisi)."
+        "explanation": "Böbreklerin (Renal) üstünde (Supra) yer aldıkları için Glandula suprarenalis (Böbrek üstü bezi) olarak isimlendirilirler."
     },
     {
         "id": "v12_anat_23",
         "subject": "Anatomi",
-        "question": "Otonom Sinir Sisteminde (OSS), parasempatik sinirlerin (Kraniosakral sistem) hücre gövdeleri (merkezleri) sadece beyin sapında (Kranial 3,7,9,10) ve omuriliğin belli bir bölgesinde (Sakral) bulunur. Parasempatik lif İÇERMEYEN kranial sinir aşağıdakilerden hangisidir?",
+        "question": "Kadın iç üreme organlarında, döllenmiş yumurtanın (embriyonun) iç mukozasına (endometrium) tutunarak (implantasyon) 9 ay boyunca geliştiği kalın kaslı organ hangisidir?",
         "options": [
-            "Nervus Oculomotorius (CN 3)",
-            "Nervus Facialis (CN 7)",
-            "Nervus Glossopharyngeus (CN 9)",
-            "Nervus Vagus (CN 10)",
-            "Nervus Trigeminus (CN 5)"
+            "Tuba uterina (Fallop tüpü)",
+            "Ovarium (Yumurtalık)",
+            "Vagina",
+            "Uterus (Rahim)",
+            "Cervix"
         ],
-        "answer": "Nervus Trigeminus (CN 5)",
-        "correctAnswer": 4,
-        "explanation": "Parasempatik nükleus barındıran sadece 4 kranial sinir vardır: CN 3 (Edinger-Westphal), CN 7 (N. salivatorius superior), CN 9 (N. salivatorius inferior) ve CN 10 (N. dorsalis nervi vagi). Trigeminal sinir (CN 5) parasempatik lif taşımaz, sadece postgangliyonik liflerin bezlere giderken üzerine binmesine izin verir."
+        "answer": "Uterus (Rahim)",
+        "correctAnswer": 3,
+        "explanation": "Uterus (Rahim), gebeliğin barındığı ve büyüdüğü asıl üreme organıdır."
     },
     {
         "id": "v12_anat_24",
         "subject": "Anatomi",
-        "question": "Kafatasını (Cranium) önden (norma frontalis) incelerken, alın kemiğini (Os frontale) ile üst çene kemiklerini (Maxilla) birbirine bağlayan ve her iki burun kemiğinin (Os nasale) üstünde iki kaşın arasına denk gelen hafif çıkıntılı bölgeye (Dikiş noktasına) ne ad verilir?",
+        "question": "Erkek üreme sisteminde, idrar kesesinin (Mesane - Vesica urinaria) hemen altında yer alan, içinden erkek üretra'sının geçtiği (Pars prostatica) ve meniye (semene) beyaz/süt rengi ve bazik karakter veren sıvıyı salgılayan bez hangisidir?",
         "options": [
-            "Pterion",
-            "Glabella",
-            "Bregma",
-            "Lambda",
-            "Asterion"
+            "Vesicula seminalis",
+            "Epididymis",
+            "Testis",
+            "Prostata (Prostat bezi)",
+            "Glandula bulbourethralis (Cowper bezi)"
         ],
-        "answer": "Glabella",
-        "correctAnswer": 1,
-        "explanation": "Glabella, iki kaş arasında, burun kökünün hemen üstündeki Os frontale üzerindeki kılsız (düz) ve hafif çıkıntılı alandır. Pterion ise şakaklarda (temporal) 4 kemiğin birleştiği zayıf ve ince bölgedir (A. meningea media kanamasına yatkındır)."
+        "answer": "Prostata (Prostat bezi)",
+        "correctAnswer": 3,
+        "explanation": "Prostata (Prostat bezi), mesane tabanında bulunan ve yaşlılıkla büyüyerek idrar yolunu (üretra) daraltabilen (BPH) ceviz büyüklüğündeki üreme bezidir."
     },
     {
         "id": "v12_anat_25",
         "subject": "Anatomi",
-        "question": "Gırtlakta (Larenks) bulunan ve yutkunma sırasında larenksin girişini (Aditus laryngis) kapatarak besinlerin soluk borusuna kaçmasını engelleyen, elastik kıkırdak yapısındaki kıkırdak hangisidir?",
+        "question": "Pankreas organının anatomik yerleşimi incelendiğinde, baş kısmı sağda duodenum kıvrımındayken; sola doğru Midenin arkasından geçip, Dalağın hilumuna (kapısına) kadar uzanan EN SOLDAKİ / en uç kısmına ne ad verilir?",
         "options": [
-            "Cartilago thyroidea",
-            "Cartilago cricoidea",
-            "Cartilago arytenoidea",
-            "Cartilago epiglottica (Epiglottis)",
-            "Cartilago cuneiformis"
+            "Caput pancreatis",
+            "Corpus pancreatis",
+            "Cauda pancreatis (Kuyruk)",
+            "Collum pancreatis",
+            "Processus uncinatus"
         ],
-        "answer": "Cartilago epiglottica (Epiglottis)",
-        "correctAnswer": 3,
-        "explanation": "Epiglottis (Gırtlak kapağı), yaprak şeklinde elastik kıkırdaktır. Yutkunma eylemi sırasında dil kökünün arkasında geriye doğru kapanarak Aditus laryngis'i (Larenks girişini) tamamen kapatır ve lokmanın solunum yolu yerine yemek borusuna (Özofagusa) geçmesini zorunlu kılar."
+        "answer": "Cauda pancreatis (Kuyruk)",
+        "correctAnswer": 2,
+        "explanation": "Pankreasın en sol uç kısmına Cauda (Kuyruk) denir ve dalağın kapısına (Hilum splenicum) kadar ulaşır."
     },
     {
         "id": "v12_anat_26",
         "subject": "Anatomi",
-        "question": "Beyin tabanında Willis Poligonu (Circulus arteriosus cerebri) adı verilen anastomotik bir damar halkası bulunur. Beynin ön, orta ve arka kısımlarını birbirine bağlayan bu Willis poligonunun yapısına AŞAĞIDAKİ DAMARLARDAN HANGİSİ doğrudan KATILMAZ?",
+        "question": "Karaciğerin (Hepar) viseral (alt) yüzüne bakıldığında, sağ lob (Lobus dexter) ile kare lob (Lobus quadratus) arasına yerleşmiş olan ve içinde üretilen safrayı yoğunlaştırıp depolayan (armut şeklindeki) kese hangisidir?",
         "options": [
-            "Arteria cerebri anterior",
-            "Arteria communicans anterior",
-            "Arteria communicans posterior",
-            "Arteria cerebri posterior",
-            "Arteria cerebri media"
+            "Vesica urinaria",
+            "Vesica biliaris / fellea (Safra kesesi)",
+            "Ampulla hepatopancreatica",
+            "Bursa omentalis",
+            "Vena portae"
         ],
-        "answer": "Arteria cerebri media",
-        "correctAnswer": 4,
-        "explanation": "Arteria cerebri media, A. carotis interna'nın en büyük dalıdır ve beynin dış yüzeyinin büyük kısmını besler, ANCAK Willis poligonunun HALKASINA katılmaz; poligonun dışında lateral sulkusa doğru seyreder. Halkayı A. cerebri anterior, communicans ant., communicans post., ve A. cerebri posterior oluşturur."
+        "answer": "Vesica biliaris / fellea (Safra kesesi)",
+        "correctAnswer": 1,
+        "explanation": "Karaciğerin alt yüzündeki fossa vesicae biliaris'e (safra kesesi çukuruna) yerleşen, safrayı depolayan kese Vesica biliaris (Safra kesesi) dir."
     },
-
-    // 4. Dr. Öğr. Üyesi Ömer Can Kızılay (8 Soru)
+    // Sezer Akçer (8 Soru - Kemik/Zar/MSS)
     {
         "id": "v12_anat_27",
         "subject": "Anatomi",
-        "question": "Klinikte çok sık karşılaşılan 'Karpal Tünel Sendromu'nda, el bileğindeki retinaculum flexorum'un (transvers karpal bağın) altında sıkışan ve elde ilk üç parmakta uyuşma/ağrı (tenar bölge atrofisi) yapan sinir aşağıdakilerden hangisidir?",
+        "question": "Kafatasında kemiklerin büyük çoğunluğu birbirine oynamaz eklemlerle (sutura) sıkıca bağlıdır. Ancak Çene Eklemini (Articulatio temporomandibularis) oluşturmak üzere Alt Çene Kemiği (Mandibula) ile HAREKETLİ eklem yapan TEK kafa kemiği hangisidir?",
         "options": [
-            "Nervus ulnaris",
-            "Nervus radialis",
-            "Nervus medianus",
-            "Nervus musculocutaneus",
-            "Nervus axillaris"
+            "Os sphenoidale",
+            "Os zygomaticum",
+            "Os frontale",
+            "Os temporale (Şakak kemiği)",
+            "Maxilla"
         ],
-        "answer": "Nervus medianus",
-        "correctAnswer": 2,
-        "explanation": "N. medianus, el bileğindeki karpal tünelden geçen TEK sinirdir. 9 adet fleksör kas tendonu ile birlikte geçer. Bu bölgedeki şişlik veya bağ sertleşmeleri siniri ezer (Karpal tünel sendromu). Hastanın ilk 3.5 parmağında duyu kaybı ve başparmak hareketlerinde (oppozisyon) zayıflık oluşur."
+        "answer": "Os temporale (Şakak kemiği)",
+        "correctAnswer": 3,
+        "explanation": "Alt çene (Mandibula), şakak kemiğindeki (Os temporale) fossa mandibularis'e oturarak çene eklemini oluşturur. Bu, kafatasının tek hareketli eklemidir."
     },
     {
         "id": "v12_anat_28",
         "subject": "Anatomi",
-        "question": "Erken embriyolojik dönemde (Gastrulasyon), 3 tabakalı embriyonun (Ektoderm, Mesoderm, Endoderm) oluşmasını başlatan, embriyonun kuyruk (kaudal) bölgesinde beliren çizgisel oluşuma ne ad verilir?",
+        "question": "İnsan omurgasında (Columna vertebralis), kafatasını taşıyan, gövdesi (Corpus) olmayan ve halka şeklinde olan Birinci Boyun Omurunun (C1) özel adı aşağıdakilerden hangisidir?",
         "options": [
-            "Notochord (Korda dorsalis)",
-            "Çizgili çizgi (Primitive streak)",
-            "Nöral tüp (Neural tube)",
-            "Somitler",
-            "Amniyon kesesi"
+            "Axis (C2)",
+            "Vertebra prominens (C7)",
+            "Atlas (C1)",
+            "Sacrum",
+            "Coccyx"
         ],
-        "answer": "Çizgili çizgi (Primitive streak)",
-        "correctAnswer": 1,
-        "explanation": "Gastrulasyon (3 tabakalı embriyo diski oluşumu), epiblast yüzeyinde 'Primitive streak (İlkel çizgi)'in belirmesiyle başlar. Epiblast hücreleri bu çizgiden içeriye doğru göç ederek mezodermi ve endodermi oluşturur."
+        "answer": "Atlas (C1)",
+        "correctAnswer": 2,
+        "explanation": "Birinci servikal omura, mitolojide gökyüzünü omuzlarında taşıyan titandan (Atlas) esinlenilerek başı taşıdığı için Atlas (C1) adı verilmiştir."
     },
     {
         "id": "v12_anat_29",
         "subject": "Anatomi",
-        "question": "Periton zarı organların üzerini örterken bazı çıkmazlar (recessus) yaratır. Ayakta duran bir insanda, karın boşluğu içindeki sıvı veya kanın yerçekimi etkisiyle (özellikle batın içi enfeksiyon/asitte) pelviste BİRİKTİĞİ EN DERİN çıkmaz (erkekte) aşağıdakilerden hangisidir?",
+        "question": "Beyin ventriküllerinde üretilen ve beyni dıştan saran subaraknoid mesafede dolaşan Beyin Omurilik Sıvısı (BOS), sürekli üretildiği için sürekli emilmek zorundadır. BOS'u subaraknoid aralıktan alarak venöz sinüslere (özellikle Sinus sagittalis superior'a) süzerek boşaltan, örümceksi zarın karnabahar görünümündeki çıkıntılarına ne ad verilir?",
         "options": [
-            "Excavatio rectouterina (Douglas)",
-            "Excavatio vesicouterina",
-            "Excavatio rectovesicalis",
-            "Recessus subphrenicus",
-            "Bursa omentalis"
+            "Plexus choroideus",
+            "Granulationes arachnoideae (Pacchioni cisimcikleri)",
+            "Cisterna magna",
+            "Foramen Magendie",
+            "Apertura lateralis (Luschka)"
         ],
-        "answer": "Excavatio rectovesicalis",
-        "correctAnswer": 2,
-        "explanation": "Pelvis içindeki en derin periton çıkmazı kadında Excavatio rectouterina (Douglas çıkmazı) iken, uterus olmadığı için ERKEKTE rektum ile mesane arasındaki Excavatio rectovesicalis'tir. Periton içi sıvı ilk buralarda toplanır."
+        "answer": "Granulationes arachnoideae (Pacchioni cisimcikleri)",
+        "correctAnswer": 1,
+        "explanation": "Plexus choroideus BOS'u 'ÜRETİR'. Subaraknoid mesafedeki BOS'u kana (venöz sinüslere) 'GERİ EMEN' (direnajını sağlayan) yapılar ise Arachnoid villuslar veya Granulationes arachnoideae (Pacchioni cisimcikleri) dir."
     },
     {
         "id": "v12_anat_30",
         "subject": "Anatomi",
-        "question": "Omurilik zarları (Meninges spinales) arasında, içerisinde Beyin Omurilik Sıvısı (BOS) bulunan ve lomber ponksiyon (BOS alma) işlemi sırasında iğne ucunun girmesi hedeflenen gerçek boşluğa ne ad verilir?",
+        "question": "Beyin korteksinde (Cerebrum), ses dalgalarının algılandığı ve İŞİTME duyusunun işlendiği Primer İşitme Merkezi (Heschl girusları) beynin hangi lobunda yer alır?",
         "options": [
-            "Epidural aralık (Spatium epidurale)",
-            "Subdural aralık (Spatium subdurale)",
-            "Subaraknoid aralık (Spatium subarachnoideum)",
-            "Spatium perivasculare",
-            "Canalis centralis"
+            "Lobus temporalis (Şakak lobu)",
+            "Lobus occipitalis (Arka lob)",
+            "Lobus parietalis (Yan lob)",
+            "Lobus frontalis (Ön lob)",
+            "Insula"
         ],
-        "answer": "Subaraknoid aralık (Spatium subarachnoideum)",
-        "correctAnswer": 2,
-        "explanation": "BOS, araknoid zar ile pia mater arasındaki 'Spatium subarachnoideum'da (Subaraknoid aralık) dolaşır. Omurilik L1-L2 hizasında bitse de bu zar kese (cisterna lumbalis) S2'ye kadar uzanır. Belden su alma işlemi (LP) omuriliğe zarar vermemek için L3-L4 veya L4-L5 arasından bu boşluğa girilerek yapılır."
+        "answer": "Lobus temporalis (Şakak lobu)",
+        "correctAnswer": 0,
+        "explanation": "İşitme merkezi Lobus temporalis'te (Gyrus temporalis superior / Heschl girusları) bulunur."
     },
     {
         "id": "v12_anat_31",
         "subject": "Anatomi",
-        "question": "Trakea'nın kıkırdak halkaları C harfi şeklindedir (Arka kısmı açıktır). Kıkırdağın olmadığı trakea'nın arka (dorsal) duvarını kapatan düz kasa (Musculus trachealis) anatomik olarak hangi organ yaslanmıştır?",
+        "question": "Ayak iskeletinde, ayağın kaval (Tibia) ve baldır (Fibula) kemikleriyle eklemleşerek (Articulatio talocruralis) ayak bileğini oluşturan ve vücut ağırlığını ayağa aktaran TEK tarsal kemik hangisidir?",
         "options": [
-            "Aorta",
-            "Oesophagus (Yemek borusu)",
-            "Timus bezi",
-            "Vena cava superior",
-            "Kalp"
+            "Calcaneus (Topuk kemiği)",
+            "Os naviculare",
+            "Talus (Aşık kemiği)",
+            "Os cuboideum",
+            "Ossa cuneiformia"
         ],
-        "answer": "Oesophagus (Yemek borusu)",
-        "correctAnswer": 1,
-        "explanation": "Trakeanın arka komşuluğunda Oesophagus (Yemek borusu) yer alır. Trakea kıkırdaklarının tam bir halka (O) değil, C şeklinde olmasının nedeni; arkasındaki özofagustan büyük bir lokma geçerken, kıkırdağın özofagusa baskı yapmasını engellemek, özofagusun trakea içine doğru (yumuşak kas kısmından) esnemesine olanak tanımaktır."
+        "answer": "Talus (Aşık kemiği)",
+        "correctAnswer": 2,
+        "explanation": "Bacak kemikleriyle (tibia ve fibula) doğrudan eklemleşen tek ayak kemiği Talus'tur. Calcaneus (topuk) ise talusun altına yerleşerek yükü yere iletir."
     },
     {
         "id": "v12_anat_32",
         "subject": "Anatomi",
-        "question": "Boyunda şah damarının (A. carotis communis) dallara ayrıldığı bölgede (Bifurcatio carotidis), kandaki OKSİJEN ve KARBONDİOKSİT (pO2, pCO2) ile pH değişimlerini algılayan çok önemli KEMORESEPTÖR organ aşağıdakilerden hangisidir?",
+        "question": "Göğüs kafesi (Thorax) anatomisinde, ön orta hatta yer alan, kaburgaların (costa) ön uçlarındaki kıkırdaklarla tutunduğu kılıç şeklindeki 'İman Tahtası' kemiği hangisidir?",
         "options": [
-            "Sinus caroticus",
-            "Glomus caroticum",
-            "Glomus aorticum",
-            "Corpus pineale",
-            "Ganglion cervicale superius"
+            "Clavicula",
+            "Scapula",
+            "Sternum",
+            "Vertebra thoracica",
+            "Manubrium"
         ],
-        "answer": "Glomus caroticum",
-        "correctAnswer": 1,
-        "explanation": "Glomus caroticum (Karotis cisimciği), A. carotis externa ile internanın ayrıldığı çatalda (bifurkasyon) bulunan bir kemoreseptördür. Kandaki O2 düşüklüğünü veya CO2 yüksekliğini algılayıp solunumu hızlandırır. 'Sinus caroticus' ise damar duvarındaki BARORESEPTÖR (tansiyon/basınç algılayıcı) genişlemedir."
+        "answer": "Sternum",
+        "correctAnswer": 2,
+        "explanation": "Göğüs kafesini önden kapatan ve kalp masajı uygulanan yassı kemik Sternum'dur."
     },
     {
         "id": "v12_anat_33",
         "subject": "Anatomi",
-        "question": "Talamus, beyinde duyu yollarının kortekse gitmeden önce uğradığı ana sekreterdir. Ancak insan vücudundaki duyulardan TEK BİR TANESİ Talamus'a uğramadan DOĞRUDAN serebral kortekse ulaşır. Bu duyu hangisidir?",
+        "question": "Solunum sisteminde, soluk verme (ekspirasyon) sırasında akciğerlerdeki alveollerin kapanmasını (kollaps/büzüşme) engelleyen ve yüzey gerilimini düşüren, lipid-protein yapısındaki 'Sürfaktan' maddesini üreten hücreler aşağıdakilerden hangisidir?",
         "options": [
-            "Görme duyusu",
-            "İşitme duyusu",
-            "Koku duyusu (Olfaction)",
-            "Ağrı ve ısı duyusu",
-            "Tat duyusu"
+            "Tip I Pnömösitler",
+            "Alveoler makrofajlar",
+            "Kadeh (Goblet) hücreleri",
+            "Clara (Club) hücreleri",
+            "Tip II Pnömösitler"
         ],
-        "answer": "Koku duyusu (Olfaction)",
-        "correctAnswer": 2,
-        "explanation": "Tüm bilinçli duyularımız (Görme, işitme, tat, somatik dokunma) kortekse gitmeden önce Talamus'ta (ilgili çekirdeklerde) sinaps yapmak ZORUNDADIR. Bunun TEK istisnası KOKU (Olfaction) duyusudur. Tractus olfactorius talamusa uğramadan doğrudan primer koku korteksine (Temporal loba) gider."
+        "answer": "Tip II Pnömösitler",
+        "correctAnswer": 4,
+        "explanation": "Alveol duvarını döşeyen hücrelerden Tip I Pnömösitler gaz değişimini sağlarken (yassıdır), Tip II Pnömösitler kübiktir ve alveolleri açık tutan 'Sürfaktan' sentezleyerek salgılar. Erken doğan bebeklerde sürfaktan yetersizliği solunum sıkıntısı sendromuna (RDS) yol açar."
     },
     {
         "id": "v12_anat_34",
         "subject": "Anatomi",
-        "question": "Femoral üçgenin (Trigonum femorale / Scarpa üçgeni) içinden geçen oluşumlar dıştan içe doğru (Lateralden Mediale) NAVL (Nerve, Artery, Vein, Lymphatics) şeklinde sıralanır. Medial (iç) tarafta en son bulunan ve Fıtıkların (Hernia femoralis) çıktığı lenf damarlarının geçtiği zayıf kanalın adı nedir?",
+        "question": "Santral Sinir Sisteminde (MSS) beyin sapının (Truncus cerebri) en alt bölümü olan, omuriliğin hemen üzerinde yer alan; solunum, kan basıncı, kalp atım hızı ile yutma ve kusma gibi hayati refleks merkezlerini içinde barındıran bölüm hangisidir?",
         "options": [
-            "Nervus femoralis",
-            "Arteria femoralis",
-            "Vena femoralis",
-            "Canalis femoralis",
-            "Canalis inguinalis"
+            "Mesencephalon (Orta beyin)",
+            "Pons (Köprü)",
+            "Bulbus (Medulla oblongata / Soğanilik)",
+            "Cerebellum (Beyincik)",
+            "Diencephalon"
         ],
-        "answer": "Canalis femoralis",
-        "correctAnswer": 3,
-        "explanation": "Femoral kılıfın en medial bölmesinde Canalis femoralis bulunur. İçinde Cloquet lenf düğümü ve yağ dokusu vardır. Boş bir alan olduğu için karın içi basınç artışlarında bağırsakların bacak içine doğru sarkmasına (Femoral Fıtık) çok müsaittir (Özellikle kadınlarda daha sıktır)."
-    },
-
-    // --- FİZYOLOJİ (29 Soru) ---
+        "answer": "Bulbus (Medulla oblongata / Soğanilik)",
+        "correctAnswer": 2,
+        "explanation": "Bulbus (Soğanilik / Medulla oblongata), omurilik ile beyin sapını bağlar. Kalp, solunum, damar çapı regülasyonu gibi en hayati, yaşamla bağdaşan bazal otonom reflekslerin merkezidir (Zedelenmesi hızla ölüme yol açar)."
+    },    // --- FİZYOLOJİ (29 Soru) ---
     {
         "id": "v12_fiz_1",
         "subject": "Fizyoloji",
@@ -965,3 +959,4 @@ const v12Part1 = [
 ];
 
 window.examsData['tam_kapsamli_final_v12'].questions.push(...v12Part1);
+

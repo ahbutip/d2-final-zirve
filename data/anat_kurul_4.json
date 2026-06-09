@@ -1,0 +1,327 @@
+[
+  {
+    "id": "new_anat_k4_1",
+    "q": "Göz çukurunun (orbita) medial duvarı (lamina papyracea) ile komşu olan paranasal sinüs hangisidir?",
+    "opts": [
+      "Sinus maxillaris",
+      "Sinus frontalis",
+      "Sinus sphenoidalis",
+      "Sinus ethmoidalis",
+      "Cellulae mastoideae"
+    ],
+    "a": "Sinus ethmoidalis",
+    "exp": "Sinus ethmoidalis, orbitanın medial duvarı ile komşudur."
+  },
+  {
+    "id": "new_anat_k4_2",
+    "q": "Üst çene (maxilla) molar ve premolar diş kökleri tabanıyla komşuluk yapan en büyük paranasal sinüs hangisidir?",
+    "opts": [
+      "Sinus frontalis",
+      "Sinus ethmoidalis",
+      "Sinus maxillaris",
+      "Sinus sphenoidalis",
+      "Concha nasalis media"
+    ],
+    "a": "Sinus maxillaris",
+    "exp": "Sinus maxillaris'in tabanı, üst çene arka dişlerinin kökleri ile komşudur."
+  },
+  {
+    "id": "new_anat_k4_3",
+    "q": "Üstte chiasma opticum ve hipofiz bezi, yanda ise sinus cavernosus ve A. carotis interna ile komşuluğu bulunan sinüs hangisidir?",
+    "opts": [
+      "Sinus ethmoidalis",
+      "Sinus sphenoidalis",
+      "Sinus maxillaris",
+      "Sinus frontalis",
+      "Vestibulum nasi"
+    ],
+    "a": "Sinus sphenoidalis",
+    "exp": "Sinus sphenoidalis, sella turcica'nın altında yer alır ve hipofiz bezi, sinus cavernosus gibi yapılarla komşudur."
+  },
+  {
+    "id": "new_anat_k4_4",
+    "q": "Burun boşluğunda meatus nasi inferior (alt burun yolu) ile komşuluk kurarak buraya açılan gözyaşı kanalı hangisidir?",
+    "opts": [
+      "Sinus frontalis",
+      "Ductus nasolacrimalis",
+      "Sinus sphenoidalis",
+      "Bulla ethmoidalis",
+      "Sinus maxillaris"
+    ],
+    "a": "Ductus nasolacrimalis",
+    "exp": "Gözyaşı kanalı olan ductus nasolacrimalis, alt burun yoluna (meatus nasi inferior) açılır."
+  },
+  {
+    "id": "new_anat_k4_5",
+    "q": "Larynx kıkırdaklarından hangisi tam bir halka (yüzük) şeklinde olup solunum yolunun tek tam kıkırdak halkasını isimlendirir?",
+    "opts": [
+      "Cartilago thyroidea",
+      "Cartilago cricoidea",
+      "Cartilago epiglottica",
+      "Cartilago arytenoidea",
+      "Cartilago corniculata"
+    ],
+    "a": "Cartilago cricoidea",
+    "exp": "Cartilago cricoidea, yüzük şeklinde olup solunum yolunun tek tam kıkırdak halkasıdır."
+  },
+  {
+    "id": "new_anat_k4_6",
+    "q": "Adem elması olarak da bilinen 'prominentia laryngea' yapısını oluşturan en büyük larynx kıkırdağı hangisi olarak isimlendirilir?",
+    "opts": [
+      "Cartilago cricoidea",
+      "Cartilago arytenoidea",
+      "Cartilago cuneiformis",
+      "Cartilago thyroidea",
+      "Cartilago epiglottica"
+    ],
+    "a": "Cartilago thyroidea",
+    "exp": "Cartilago thyroidea, önde prominentia laryngea (Adem elması) çıkıntısını oluşturur."
+  },
+  {
+    "id": "new_anat_k4_7",
+    "q": "Yutkunma sırasında larynx girişini kapatarak gıdaların soluk borusuna kaçmasını önleyen yaprak şeklindeki kıkırdak nasıl isimlendirilir?",
+    "opts": [
+      "Cartilago thyroidea",
+      "Cartilago arytenoidea",
+      "Cartilago epiglottica",
+      "Cartilago cricoidea",
+      "Cartilago corniculata"
+    ],
+    "a": "Cartilago epiglottica",
+    "exp": "Cartilago epiglottica (Epiglot), yutkunma sırasında larynx girişini (aditus laryngis) kapatır."
+  },
+  {
+    "id": "new_anat_k4_8",
+    "q": "Diyaframın ortasında yer alan ve kas liflerinin sonlandığı yonca yaprağı şeklindeki tendona ne isim verilir?",
+    "opts": [
+      "Crus dextrum",
+      "Crus sinistrum",
+      "Centrum tendineum",
+      "Ligamentum arcuatum medianum",
+      "Hiatus aorticus"
+    ],
+    "a": "Centrum tendineum",
+    "exp": "Diyaframın merkezindeki yonca yaprağı şeklindeki fibröz yapıya centrum tendineum denir."
+  },
+  {
+    "id": "new_anat_k4_9",
+    "q": "T8 vertebra seviyesinde diyaframdan geçen ve Vena cava inferior'un içinden geçtiği deliğin ismi nedir?",
+    "opts": [
+      "Hiatus oesophageus",
+      "Hiatus aorticus",
+      "Foramen venae cavae",
+      "Trigonum sternocostale",
+      "Trigonum lumbocostale"
+    ],
+    "a": "Foramen venae cavae",
+    "exp": "T8 seviyesinde centrum tendineum üzerinde bulunan ve V. cava inferior'un geçtiği delik Foramen venae cavae'dir."
+  },
+  {
+    "id": "new_anat_k4_10",
+    "q": "Ses tellerini açan (abduksiyon) tek larynx kası hangisi olarak isimlendirilir?",
+    "opts": [
+      "M. cricothyroideus",
+      "M. cricoarytenoideus posterior",
+      "M. arytenoideus transversus",
+      "M. thyroarytenoideus",
+      "M. vocalis"
+    ],
+    "a": "M. cricoarytenoideus posterior",
+    "exp": "M. cricoarytenoideus posterior (Posticus), ses tellerini açan (abduktor) tek kastır."
+  },
+  {
+    "id": "new_anat_k4_11",
+    "q": "3 yaşındaki erkek çocuk oyun oynarken aniden öksürmeye başlıyor ve nefes darlığı gelişiyor. Çekilen akciğer grafisinde sağ akciğerde havalanma azlığı saptanıyor. Yabancı cismin (fıstık) en büyük olasılıkla sağ ana bronşa kaçmasının anatomik nedeni aşağıdakilerden hangisidir?",
+    "opts": [
+      "Sol ana bronşun daha kısa olması",
+      "Sağ ana bronşun daha geniş, kısa ve dik olması",
+      "Sağ ana bronşun daha dar ve yatay olması",
+      "Trakeanın sağa doğru kavis yapması",
+      "Sağ ana bronşun üzerinden Arcus aortae geçmesi"
+    ],
+    "a": "Sağ ana bronşun daha geniş, kısa ve dik olması",
+    "exp": "Sağ ana bronş trakeanın dikey eksenine daha yakın (dik), daha kısa ve geniş olduğu için yabancı cisimler genellikle sağa kaçar."
+  },
+  {
+    "id": "new_anat_k4_12",
+    "q": "Acil servise nefes darlığı şikayetiyle başvuran hastanın akciğer zarında (plevra) sıvı toplandığı tespit ediliyor. Ayakta duran bu hastada sıvı yerçekimi etkisiyle ilk olarak hangi plevral çıkmazda birikir?",
+    "opts": [
+      "Recessus costomediastinalis",
+      "Recessus costodiaphragmaticus",
+      "Cupula pleurae",
+      "Sinus obliquus",
+      "Mediastinum superius"
+    ],
+    "a": "Recessus costodiaphragmaticus",
+    "exp": "Plevra boşluğunun en derin kısmı recessus costodiaphragmaticus'tur ve ayakta duran hastada sıvı ilk burada birikir."
+  },
+  {
+    "id": "new_anat_k4_13",
+    "q": "Tiroid bezi ameliyatı geçiren bir hastada operasyon sonrası ses kısıklığı gelişiyor. Trakea ile özofagus arasındaki olukta (sulcus tracheoesophagealis) seyreden ve hasar görme ihtimali yüksek olan sinir hangisidir?",
+    "opts": [
+      "N. phrenicus",
+      "N. vagus",
+      "N. laryngeus superior",
+      "N. laryngeus recurrens",
+      "N. glossopharyngeus"
+    ],
+    "a": "N. laryngeus recurrens",
+    "exp": "N. laryngeus recurrens, trakea ile özofagus arasındaki olukta yukarı çıkar ve tiroid cerrahilerinde hasar görebilir."
+  },
+  {
+    "id": "new_anat_k4_14",
+    "q": "Göğüs ağrısı olan bir hastaya akciğer zarından sıvı çekme (torasentez) işlemi yapılacaktır. İğne batırıldığında hastanın şiddetli ağrı hissetmesine neden olan, somatik sinirlerle innerve edilen plevra yaprağı hangisidir?",
+    "opts": [
+      "Pleura visceralis",
+      "Pleura parietalis",
+      "Pleura pulmonalis",
+      "Pleura mediastinalis",
+      "Fissura obliqua"
+    ],
+    "a": "Pleura parietalis",
+    "exp": "Pleura parietalis, göğüs duvarını döşer ve somatik sinirlerle innerve olduğu için ağrıya çok duyarlıdır."
+  },
+  {
+    "id": "new_anat_k4_15",
+    "q": "Trafik kazası sonrası T4-T5 intervertebral disk seviyesindeki sanal düzlemin üstünde kalan bölgede (Mediastinum superius) kanama tespit edilmiştir. Aşağıdaki yapılardan hangisi bu bölgede yer alır?",
+    "opts": [
+      "Kalp",
+      "Aorta ascendens",
+      "Arcus aortae",
+      "Oesophagus'un alt kısmı",
+      "Vena cava inferior"
+    ],
+    "a": "Arcus aortae",
+    "exp": "Arcus aortae ve büyük dalları Mediastinum superius'ta bulunur."
+  },
+  {
+    "id": "new_anat_k4_16",
+    "q": "Kalp damar cerrahisi geçiren hastada, sternum ile perikard arasındaki bölgede (Mediastinum anterius) enfeksiyon gelişiyor. Bu bölgede aşağıdaki yapılardan hangisi bulunur?",
+    "opts": [
+      "Oesophagus",
+      "Thymus artıkları",
+      "Aorta descendens",
+      "Ductus thoracicus",
+      "Vena azygos"
+    ],
+    "a": "Thymus artıkları",
+    "exp": "Mediastinum inferius-anterior'da thymus artıkları, yağ dokusu ve sternoperikardiyal bağlar bulunur."
+  },
+  {
+    "id": "new_anat_k4_17",
+    "q": "Yutkunma güçlüğü ve retrosternal ağrı şikayetiyle gelen hastada özofagusa yönelik inceleme yapılacaktır. Oesophagus, toraks içinde hangi mediastinum bölümlerinde seyreder?",
+    "opts": [
+      "Mediastinum anterius ve medius",
+      "Sadece mediastinum medius",
+      "Mediastinum superius ve posterior",
+      "Mediastinum superius ve anterius",
+      "Pleura boşluğu"
+    ],
+    "a": "Mediastinum superius ve posterior",
+    "exp": "Oesophagus, yukarıdan aşağıya doğru mediastinum superius ve posterior içinde seyreder."
+  },
+  {
+    "id": "new_anat_k4_18",
+    "q": "Sağ akciğer anatomik olarak fissura obliqua ve fissura horizontalis aracılığıyla kaç loba ayrılır?",
+    "opts": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "a": "3",
+    "exp": "Sağ akciğer; superior, medius ve inferior olmak üzere 3 loba ayrılır."
+  },
+  {
+    "id": "new_anat_k4_19",
+    "q": "Sol akciğerde kalbin yerleşimi nedeniyle oluşan incisura cardiaca'nın hemen altında yer alan, sağ akciğerdeki orta lobun (lobus medius) fonksiyonel karşılığı olan dil şeklindeki segment uzantısı hangisidir?",
+    "opts": [
+      "Cupula pleurae",
+      "Lingula pulmonis",
+      "Apex pulmonis",
+      "Segmentum basale",
+      "Carina tracheae"
+    ],
+    "a": "Lingula pulmonis",
+    "exp": "Sol akciğer üst lobun alt kısmındaki dil şeklindeki yapıya lingula pulmonis denir."
+  },
+  {
+    "id": "new_anat_k4_20",
+    "q": "Sırtüstü yatan ve yutma refleksi bozulmuş bir hastada mide içeriğinin akciğerde en sık yerleştiği akciğer segmenti aşağıdakilerden hangisidir?",
+    "opts": [
+      "Lobus superior - Segmentum apicale",
+      "Lobus medius - Segmentum laterale",
+      "Lobus inferior - Segmentum superius (apicale)",
+      "Lobus inferior - Segmentum basale anterius",
+      "Lingula - Segmentum superius"
+    ],
+    "a": "Lobus inferior - Segmentum superius (apicale)",
+    "exp": "Sırtüstü yatan hastada aspirasyon materyali en sık alt lobun superior (apikal) segmentine (6. segment) kaçar."
+  },
+  {
+    "id": "new_anat_k4_21",
+    "q": "Sol akciğer hilumuna (akciğer köküne) giren yapıların yukarıdan aşağıya doğru diziliminde en üstte yer alan yapı aşağıdakilerden hangisidir?",
+    "opts": [
+      "A. pulmonalis sinistra",
+      "Bronchus principalis sinister",
+      "V. pulmonalis superior",
+      "V. pulmonalis inferior",
+      "A. bronchialis"
+    ],
+    "a": "A. pulmonalis sinistra",
+    "exp": "Sol akciğer hilum diziliminde en üstte A. pulmonalis sinistra yer alır."
+  },
+  {
+    "id": "new_anat_k4_22",
+    "q": "Sağ akciğer hilumunda en üstte yer alan ve A. pulmonalis'in üzerinden geçtiği için 'Eparterial bronş' olarak da adlandırılan yapı hangisidir?",
+    "opts": [
+      "Bronchus principalis dexter",
+      "A. pulmonalis dextra",
+      "Bronchus lobaris superior",
+      "V. pulmonalis superior",
+      "V. pulmonalis inferior"
+    ],
+    "a": "Bronchus lobaris superior",
+    "exp": "Sağda üst lob bronşu (Bronchus lobaris superior), arterin üzerinden geçer ve hilumda en üstte yer alır."
+  },
+  {
+    "id": "new_anat_k4_23",
+    "q": "Diyaframın T10 seviyesindeki deliğinden (Hiatus oesophageus) özofagus ile birlikte geçen önemli sinir aşağıdakilerden hangisidir?",
+    "opts": [
+      "N. phrenicus",
+      "N. laryngeus recurrens",
+      "N. vagus",
+      "N. splanchnicus major",
+      "Truncus sympathicus"
+    ],
+    "a": "N. vagus",
+    "exp": "Hiatus oesophageus'tan özofagus ile birlikte sağ ve sol N. vagus (truncus vagalis anterior/posterior) geçer."
+  },
+  {
+    "id": "new_anat_k4_24",
+    "q": "Burun boşluğunda, burun kanamalarının (epistaksis) en sık kaynağı olan Little Alanı'na (Locus Kiesselbachii) hangi arter katılmaz?",
+    "opts": [
+      "A. sphenopalatina",
+      "A. palatina major",
+      "A. ethmoidalis posterior",
+      "A. labialis superior",
+      "A. ethmoidalis anterior"
+    ],
+    "a": "A. ethmoidalis posterior",
+    "exp": "Locus Kiesselbachii anastomozuna A. ethmoidalis posterior katılmaz."
+  },
+  {
+    "id": "new_anat_k4_25",
+    "q": "Boyun kökünde yer alan scalen üçgenden (Trigonum scalenorum) Plexus brachialis ile birlikte geçen önemli damar hangisidir?",
+    "opts": [
+      "Vena subclavia",
+      "Vena jugularis interna",
+      "Arteria carotis communis",
+      "Arteria subclavia",
+      "Arteria vertebralis"
+    ],
+    "a": "Arteria subclavia",
+    "exp": "M. scalenus anterior ve medius arasından (scalen üçgen) A. subclavia ve plexus brachialis geçer."
+  }
+]

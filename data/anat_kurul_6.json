@@ -1,0 +1,302 @@
+[
+  {
+    "soru_no": 1,
+    "soru": "Sağ böbreğin ön yüz komşuluklarından hangisi retroperitoneal alanda klinik olarak en kritik olanıdır?",
+    "secenekler": {
+      "A": "Mide (Facies gastrica)",
+      "B": "Dalak (Facies splenica)",
+      "C": "Pankreasın kuyruğu",
+      "D": "Duodenum'un 2. parçası (Pars descendens)",
+      "E": "Jejunum kıvrımları"
+    },
+    "dogru_cevap": "D"
+  },
+  {
+    "soru_no": 2,
+    "soru": "Sol böbrek ön yüzünde splenektomi (dalak ameliyatı) sırasında zedelenme riski taşıyan hangi yapıyla komşudur?",
+    "secenekler": {
+      "A": "Karaciğer",
+      "B": "Pankreas kuyruğu (Cauda pancreatis)",
+      "C": "Duodenum 2. parçası",
+      "D": "Safra kesesi",
+      "E": "Mide antrumu"
+    },
+    "dogru_cevap": "B"
+  },
+  {
+    "soru_no": 3,
+    "soru": "Her iki böbreğin arka yüzünün doğrudan komşuluk yaptığı, bel bölgesinde yer alan kas aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "M. psoas major",
+      "B": "M. rectus abdominis",
+      "C": "M. latissimus dorsi",
+      "D": "M. gluteus maximus",
+      "E": "M. iliacus"
+    },
+    "dogru_cevap": "A"
+  },
+  {
+    "soru_no": 4,
+    "soru": "Boş iken tamamen pelvis minörde yer alan mesane, idrarla dolduğunda karın ön duvarında hangi yapıya doğru yükselerek komşuluk gösterir?",
+    "secenekler": {
+      "A": "Diaphragma",
+      "B": "Karaciğer",
+      "C": "Umbilicus (Göbek deliği)",
+      "D": "Mide",
+      "E": "Symphysis pubica"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 5,
+    "soru": "Erkeklerde mesane boynunu ve üretranın başlangıç kısmını saran komşu bez aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Vesicula seminalis",
+      "B": "Glandula bulbourethralis",
+      "C": "Bartholin bezi",
+      "D": "Prostat bezi",
+      "E": "Epididymis"
+    },
+    "dogru_cevap": "D"
+  },
+  {
+    "soru_no": 6,
+    "soru": "Mesanenin mukozasında arka-alt kısımda bulunan ve her zaman düz olan trigonum vesicae'nin üst dış köşelerinde hangi yapının delikleri (ostium) bulunur?",
+    "secenekler": {
+      "A": "Uterus",
+      "B": "Üretra",
+      "C": "Üreter",
+      "D": "Prostat kanalları",
+      "E": "Vas deferens"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 7,
+    "soru": "Kadın pelvisinde, periton boşluğunun en derin yeri olan Douglas çıkmazı (Excavatio rectouterina), vajinanın hangi bölmesi ile doğrudan komşudur?",
+    "secenekler": {
+      "A": "Fornix anterior",
+      "B": "Fornix lateralis",
+      "C": "Fornix posterior",
+      "D": "Vestibulum vaginae",
+      "E": "Labium minus"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 8,
+    "soru": "Ovarium'un (yumurtalık) arka komşuluğunda bulunan ve yumurtalık kistlerinde basıya uğrayarak uyluk iç yüzüne vuran ağrı yapabilen sinir hangisidir?",
+    "secenekler": {
+      "A": "N. ischiadicus",
+      "B": "N. femoralis",
+      "C": "N. obturatorius",
+      "D": "N. pudendus",
+      "E": "N. genitofemoralis"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 9,
+    "soru": "Kadınlarda üreter, pelviste aşağı doğru ilerlerken hangi damarın altından geçerek kritik bir komşuluk yapar?",
+    "secenekler": {
+      "A": "A. ovarica",
+      "B": "A. uterina",
+      "C": "A. vaginalis",
+      "D": "A. iliaca externa",
+      "E": "A. pudenda interna"
+    },
+    "dogru_cevap": "B"
+  },
+  {
+    "soru_no": 10,
+    "soru": "Testisi besleyen ana arter olan Arteria testicularis, doğrudan hangi büyük damardan ayrılır?",
+    "secenekler": {
+      "A": "A. iliaca communis",
+      "B": "A. iliaca interna",
+      "C": "Aorta abdominalis",
+      "D": "A. renalis",
+      "E": "A. pudenda externa"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 11,
+    "soru": "Sağ testisin venöz drenajını sağlayan ven (V. testicularis dextra) doğrudan hangi vene dökülür?",
+    "secenekler": {
+      "A": "V. iliaca interna",
+      "B": "V. renalis dextra",
+      "C": "V. iliaca communis",
+      "D": "Vena cava inferior",
+      "E": "V. mesenterica inferior"
+    },
+    "dogru_cevap": "D"
+  },
+  {
+    "soru_no": 12,
+    "soru": "Skrotumu yukarı çeken kremaster refleksini sağlayan M. cremaster kasını innerve eden sinir aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "N. ilioinguinalis",
+      "B": "N. pudendus",
+      "C": "N. obturatorius",
+      "D": "N. femoralis",
+      "E": "N. genitofemoralis (ramus genitalis)"
+    },
+    "dogru_cevap": "E"
+  },
+  {
+    "soru_no": 13,
+    "soru": "Fossa ischioanalis'in dış yan duvarındaki Alcock kanalı içinden geçen ve perine bölgesini uyaran ana sinir hangisidir?",
+    "secenekler": {
+      "A": "N. gluteus inferior",
+      "B": "N. ischiadicus",
+      "C": "N. pudendus",
+      "D": "N. cutaneus femoris posterior",
+      "E": "N. genitofemoralis"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 14,
+    "soru": "Pelvis döşemesini oluşturan M. levator ani kasının temel motor innervasyonu hangi spinal sinir segmentlerinden doğrudan dallar alır?",
+    "secenekler": {
+      "A": "T12-L1",
+      "B": "L2-L3",
+      "C": "L4-L5",
+      "D": "S3-S4",
+      "E": "Co1"
+    },
+    "dogru_cevap": "D"
+  },
+  {
+    "soru_no": 15,
+    "soru": "Hipofiz bezinin nörohipofiz (arka lob) bölgesinin temel fonksiyonu aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Kendi hormonlarını sentezleyip kana vermek",
+      "B": "Hipotalamusta üretilen ADH ve Oksitosin'i depolamak ve kana vermek",
+      "C": "Melatonin salgılayarak uykuyu düzenlemek",
+      "D": "TSH üreterek tiroid bezini uyarmak",
+      "E": "ACTH sentezleyerek böbreküstü bezini uyarmak"
+    },
+    "dogru_cevap": "B"
+  },
+  {
+    "soru_no": 16,
+    "soru": "Adenohipofiz (ön lob), kendi ürettiği hormonları salgılayabilmek için salgılatıcı (releasing) faktörleri hipotalamustan hangi yol ile alır?",
+    "secenekler": {
+      "A": "Lenfatik damarlar",
+      "B": "Tractus retinohypothalamicus",
+      "C": "Hipotalamo-hipofizer portal venöz sistem",
+      "D": "Beyin omurilik sıvısı (BOS)",
+      "E": "N. vagus lifleri"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 17,
+    "soru": "Glandula pinealis (epifiz bezi), karanlıkta salgısını artırarak vücudun sirkadiyen ritmini düzenleyen hangi hormonu üretir?",
+    "secenekler": {
+      "A": "Serotonin",
+      "B": "Dopamin",
+      "C": "Adrenalin",
+      "D": "Melatonin",
+      "E": "Oksitosin"
+    },
+    "dogru_cevap": "D"
+  },
+  {
+    "soru_no": 18,
+    "soru": "Sol böbreküstü bezi tümörü nedeniyle ameliyat edilen (sol adrenalektomi) bir hastada cerrah, sol böbreküstü venini bağlarken yanlışlıkla bağladığı ana damar hangisi olabilir?",
+    "secenekler": {
+      "A": "Vena cava inferior",
+      "B": "Sol V. renalis",
+      "C": "Sol V. testicularis",
+      "D": "V. mesenterica superior",
+      "E": "V. iliaca communis"
+    },
+    "dogru_cevap": "B"
+  },
+  {
+    "soru_no": 19,
+    "soru": "Karın arka duvarı ameliyatında böbrekleri besleyen A. renalis kazara bağlanmıştır. Bu durumda böbreküstü bezini besleyen damarlardan hangisinin kan akımı sekonder olarak kesintiye uğrar?",
+    "secenekler": {
+      "A": "A. suprarenalis superior",
+      "B": "A. suprarenalis media",
+      "C": "A. suprarenalis inferior",
+      "D": "A. phrenica inferior",
+      "E": "Truncus celiacus"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 20,
+    "soru": "Tiroidektomi ameliyatında tiroid bezinin üst kutbunu besleyen arter (A. thyroidea superior) bağlanırken kazara bir sinir zedelenmiş ve hasta ince (tiz) ses çıkaramaz olmuştur. Bu cerrahi komplikasyonda zedelenen sinir hangisidir?",
+    "secenekler": {
+      "A": "N. laryngeus recurrens",
+      "B": "N. laryngeus superior ramus externus",
+      "C": "N. vagus",
+      "D": "N. phrenicus",
+      "E": "N. hypoglossus"
+    },
+    "dogru_cevap": "B"
+  },
+  {
+    "soru_no": 21,
+    "soru": "Guatr ameliyatı sırasında tiroid bezinin alt kutbunu kanlandıran Arteria thyroidea inferior bağlanırken, hemen komşuluğundaki bir sinir kesilmiş ve hastada ses kısıklığı görülmüştür. Bu komplikasyonda hasar gören sinir hangisidir?",
+    "secenekler": {
+      "A": "N. laryngeus superior ramus internus",
+      "B": "N. laryngeus recurrens",
+      "C": "N. glossopharyngeus",
+      "D": "Truncus sympathicus",
+      "E": "N. accessorius"
+    },
+    "dogru_cevap": "B"
+  },
+  {
+    "soru_no": 22,
+    "soru": "Acil havayolu açmak için orta hattan trakeostomi yapılan bir hastada, tiroid isthmus'unun altından geçen varyatif bir arter kesilmiş ve durdurulması zor bir kanamaya yol açmıştır. Bu damar hangisidir?",
+    "secenekler": {
+      "A": "A. carotis communis",
+      "B": "A. thyroidea superior",
+      "C": "A. laryngea superior",
+      "D": "A. thyroidea ima",
+      "E": "A. subclavia"
+    },
+    "dogru_cevap": "D"
+  },
+  {
+    "soru_no": 23,
+    "soru": "Üreterin böbrekten mesaneye uzanan seyri boyunca, taş takılma riski en yüksek olan ve anatomik olarak en dar kabul edilen bölgesi neresidir?",
+    "secenekler": {
+      "A": "Pelviüreterik bileşke",
+      "B": "Linea terminalis çaprazı",
+      "C": "Pars intramuralis (Üreterovezikal bileşke)",
+      "D": "A. uterina çaprazı",
+      "E": "N. genitofemoralis çaprazı"
+    },
+    "dogru_cevap": "C"
+  },
+  {
+    "soru_no": 24,
+    "soru": "Erkek üretrasının (Urethra masculina) prostat bezi içinde kalan, ejakülatör kanalların açıldığı ve en fazla genişleyebilen parçasına ne ad verilir?",
+    "secenekler": {
+      "A": "Pars preprostatica",
+      "B": "Pars prostatica",
+      "C": "Pars membranacea",
+      "D": "Pars spongiosa",
+      "E": "Fossa navicularis"
+    },
+    "dogru_cevap": "B"
+  },
+  {
+    "soru_no": 25,
+    "soru": "Kadın genital sisteminde, sperm ile yumurtanın döllenmesinin (fertilizasyon) en sık gerçekleştiği tuba uterina (fallop tüpü) bölümü aşağıdakilerden hangisidir?",
+    "secenekler": {
+      "A": "Infundibulum",
+      "B": "Ampulla",
+      "C": "Isthmus",
+      "D": "Pars uterina",
+      "E": "Fimbria ovarica"
+    },
+    "dogru_cevap": "B"
+  }
+]

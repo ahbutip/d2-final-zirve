@@ -1,0 +1,327 @@
+[
+  {
+    "id": "new_anat_k3_1",
+    "q": "Toraks girişini (Apertura thoracis superior) önden sınırlayan yapı aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Clavicula",
+      "B) T1 vertebra",
+      "C) Manubrium sterni",
+      "D) 1. costalar",
+      "E) Processus xiphoideus"
+    ],
+    "a": "C) Manubrium sterni",
+    "exp": "Apertura thoracis superior önde manubrium sterni'nin üst kenarı ile sınırlanır."
+  },
+  {
+    "id": "new_anat_k3_2",
+    "q": "Mediastinum superius ile mediastinum inferius'u birbirinden ayıran hayali düzlem hangi seviyeden geçer?",
+    "opts": [
+      "A) T1-T2 arası",
+      "B) T4-T5 arası (Angulus sterni)",
+      "C) T8 seviyesi",
+      "D) T10 seviyesi",
+      "E) T12 seviyesi"
+    ],
+    "a": "B) T4-T5 arası (Angulus sterni)",
+    "exp": "Mediastinum, angulus sterni'den (T4-T5) geçen hayali bir düzlemle superior ve inferior olarak ikiye ayrılır."
+  },
+  {
+    "id": "new_anat_k3_3",
+    "q": "Ufuk Çorumlu Hoca'nın vurguladığı gibi; mitral kapak darlığı olan bir hastada büyüyen sol atriyum (basis cordis), hemen arkasındaki hangi yapıya bası yaparak yutma güçlüğüne (disfaji) neden olur?",
+    "opts": [
+      "A) Trachea",
+      "B) Aorta ascendens",
+      "C) Truncus pulmonalis",
+      "D) Esophagus",
+      "E) Vena cava superior"
+    ],
+    "a": "D) Esophagus",
+    "exp": "Kalbin arka yüzü (basis cordis) esas olarak sol atriyumdan oluşur ve arkasında doğrudan esophagus (yemek borusu) ile komşudur."
+  },
+  {
+    "id": "new_anat_k3_4",
+    "q": "Ömer Can Kızılay Hoca'nın acil vakalarından: Göğsünden bıçaklanan bir hastada boyun venlerinde dolgunluk, hipotansiyon ve derinden gelen kalp sesleri (Beck Triadı) saptanmıştır. Bu durum, kanın fibröz perikardın esnememesi nedeniyle nerede birikmesinden kaynaklanır?",
+    "opts": [
+      "A) Plevra boşluğu",
+      "B) Cavitas pericardiaca",
+      "C) Sağ atriyum",
+      "D) Fossa ovalis",
+      "E) Mediastinum superius"
+    ],
+    "a": "B) Cavitas pericardiaca",
+    "exp": "Bu tablo Kalp Tamponadı'dır. Kan, cavitas pericardiaca'da birikir ve kalbin genişlemesini (diyastol) engeller."
+  },
+  {
+    "id": "new_anat_k3_5",
+    "q": "Kalbin ön yüzünü (Facies sternocostalis) esas olarak aşağıdaki kalp boşluklarından hangisi oluşturur?",
+    "opts": [
+      "A) Sağ atriyum",
+      "B) Sol atriyum",
+      "C) Sağ ventrikül",
+      "D) Sol ventrikül",
+      "E) Sinus coronarius"
+    ],
+    "a": "C) Sağ ventrikül",
+    "exp": "Facies sternocostalis (kalbin ön yüzü) esas olarak sağ ventrikül tarafından oluşturulur."
+  },
+  {
+    "id": "new_anat_k3_6",
+    "q": "Cem Kopuz Hoca'nın belirttiği gibi, kalbin ileti sisteminde uyarının ventriküllere geçişini yaklaşık 0.1 saniye geciktirerek atriyumların tamamen boşalmasını sağlayan yapı hangisidir?",
+    "opts": [
+      "A) SA nod",
+      "B) AV nod",
+      "C) His huzmesi",
+      "D) Purkinje lifleri",
+      "E) Moderator band"
+    ],
+    "a": "B) AV nod",
+    "exp": "AV nod, uyarıyı kısa bir süre (0.1 sn) geciktirerek atriyum sistolünün tamamlanmasına olanak tanır."
+  },
+  {
+    "id": "new_anat_k3_7",
+    "q": "Klinikte 'dul bırakan' damar olarak bilinen ve kalbin septumunun ön 2/3'lük kısmını besleyen koroner arter dalı hangisidir?",
+    "opts": [
+      "A) Arteria coronaria dextra",
+      "B) Ramus circumflexus (Cx)",
+      "C) Posterior Descending Artery (PDA)",
+      "D) Ramus marginalis dexter",
+      "E) Left Anterior Descending (LAD)"
+    ],
+    "a": "E) Left Anterior Descending (LAD)",
+    "exp": "LAD, sol koroner arterin önemli bir dalıdır ve septumun büyük kısmını kanlandırır."
+  },
+  {
+    "id": "new_anat_k3_8",
+    "q": "Sezer Akçer Hoca'nın büyük damarlar konusundaki uyarısına göre; aşağıdakilerden hangisi Arcus aortae'nın doğrudan dallarından biri DEĞİLDİR?",
+    "opts": [
+      "A) Truncus brachiocephalicus",
+      "B) A. carotis communis sinistra",
+      "C) A. subclavia sinistra",
+      "D) A. coronaria dextra",
+      "E) Hiçbiri"
+    ],
+    "a": "D) A. coronaria dextra",
+    "exp": "A. coronaria dextra (sağ koroner arter), arcus aortae'nın değil, aorta ascendens'in dalıdır."
+  },
+  {
+    "id": "new_anat_k3_9",
+    "q": "Ömer Can Kızılay Hoca'nın lenf vakalarından: 40 yaşında testis kanseri şüphesi olan bir hastada kanserin lenfatik yolla ilk olarak hangi lenf düğümlerine metastaz yapması beklenir?",
+    "opts": [
+      "A) Nodi inguinales superficiales",
+      "B) Nodi axillares",
+      "C) Nodi lymphatici lumbales (Para-aortik)",
+      "D) Nodi iliaci interni",
+      "E) Nodi cervicales profundi"
+    ],
+    "a": "C) Nodi lymphatici lumbales (Para-aortik)",
+    "exp": "Testisler embriyolojik olarak abdomenden indiği için lenf drenajı doğrudan para-aortik (lumbal) lenf nodlarınadır."
+  },
+  {
+    "id": "new_anat_k3_10",
+    "q": "Cem Kopuz Hoca'nın alt ekstremite eşleşmelerine göre; bacağın ön kompartımanında A. tibialis anterior ile birlikte seyreden sinir aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) N. tibialis",
+      "B) N. fibularis profundus",
+      "C) N. suralis",
+      "D) N. saphenus",
+      "E) N. ischiadicus"
+    ],
+    "a": "B) N. fibularis profundus",
+    "exp": "Bacağın ön kompartımanında A. tibialis anterior ile N. fibularis profundus kopmaz bir ikilidir."
+  },
+  {
+    "id": "new_anat_k3_11",
+    "q": "Ömer Can Kızılay Hoca'nın cerrahi vaka örneği: Koroner bypass ameliyatı için bacağın iç yüzünden V. saphena magna çıkarılırken (ven grefti) hemen yanında seyrettiği için yanlışlıkla kesilme riski olan ve bacağın medialinde duyu kaybına yol açan sinir hangisidir?",
+    "opts": [
+      "A) N. suralis",
+      "B) N. fibularis communis",
+      "C) N. saphenus",
+      "D) N. ischiadicus",
+      "E) N. femoralis"
+    ],
+    "a": "C) N. saphenus",
+    "exp": "V. saphena magna, alt ekstremitede N. saphenus ile birlikte seyreder."
+  },
+  {
+    "id": "new_anat_k3_12",
+    "q": "Ömer Can Kızılay Hoca'nın travma örneği: Humerus cisim kırığı (mid-shaft fraktürü) geçiren ve düşük el gelişen bir hastada, sulcus nervi radialis içinde hangi arter-sinir ikilisi zedelenmiştir?",
+    "opts": [
+      "A) A. brachialis - N. medianus",
+      "B) A. axillaris - N. axillaris",
+      "C) A. ulnaris - N. ulnaris",
+      "D) A. profunda brachii - N. radialis",
+      "E) A. radialis - N. musculocutaneus"
+    ],
+    "a": "D) A. profunda brachii - N. radialis",
+    "exp": "Humerus corpus'unda N. radialis, A. profunda brachii ile birlikte seyreder."
+  },
+  {
+    "id": "new_anat_k3_13",
+    "q": "Ufuk Çorumlu Hoca'nın fossa cubiti komşuluk notlarına göre; dirsek ön yüzünde aponeurosis bicipitalis'in (lacertus fibrosus) hemen altında yer alan ve damar yolu açılırken korunması gereken arter hangisidir?",
+    "opts": [
+      "A) A. ulnaris",
+      "B) A. radialis",
+      "C) A. brachialis",
+      "D) A. axillaris",
+      "E) A. profunda brachii"
+    ],
+    "a": "C) A. brachialis",
+    "exp": "Fossa cubiti'de N. medianus ile birlikte bulunan A. brachialis, V. mediana cubiti'den kan alınırken aponeuroz sayesinde korunur."
+  },
+  {
+    "id": "new_anat_k3_14",
+    "q": "Sezer Akçer Hoca'nın fetal dolaşım yollarına göre; fetüste oksijenasyonu en yüksek (yaklaşık %80) kanı taşıyan damar aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Aorta",
+      "B) Vena cava inferior",
+      "C) Arteria umbilicalis",
+      "D) Vena umbilicalis",
+      "E) Truncus pulmonalis"
+    ],
+    "a": "D) Vena umbilicalis",
+    "exp": "Plasentadan gelen temiz kanı taşıyan tek ven V. umbilicalis'tir."
+  },
+  {
+    "id": "new_anat_k3_15",
+    "q": "Doğum sonrasında fetal dolaşım yollarının kapanmasıyla V. umbilicalis'in dönüştüğü anatomik yapı (kalıntı) aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Ligamentum arteriosum",
+      "B) Fossa ovalis",
+      "C) Ligamentum venosum",
+      "D) Ligamentum teres hepatis",
+      "E) Plica umbilicalis medialis"
+    ],
+    "a": "D) Ligamentum teres hepatis",
+    "exp": "Vena umbilicalis doğumdan sonra kapanarak Ligamentum teres hepatis halini alır."
+  },
+  {
+    "id": "new_anat_k3_16",
+    "q": "Sezer Akçer Hoca'nın lenfatik yollar notlarına göre; vücudun %75'inin lenfini toplayan ve sol angulus venosus'a dökülen ana lenfatik kanal hangisidir?",
+    "opts": [
+      "A) Ductus lymphaticus dexter",
+      "B) Cisterna chyli",
+      "C) Truncus jugularis sinister",
+      "D) Truncus subclavius",
+      "E) Ductus thoracicus"
+    ],
+    "a": "E) Ductus thoracicus",
+    "exp": "Ductus thoracicus; vücudun sol yarısı ile karın ve bacakların tamamının lenfini toplayan en büyük kanaldır."
+  },
+  {
+    "id": "new_anat_k3_17",
+    "q": "Aşağıdaki büyük damarlardan hangisi diaphragmayı T8 (Thorakal 8) vertebra seviyesinde delerek göğüs boşluğuna girer?",
+    "opts": [
+      "A) Vena cava inferior",
+      "B) Aorta descendens",
+      "C) Esophagus",
+      "D) Vena azygos",
+      "E) Vena cava superior"
+    ],
+    "a": "A) Vena cava inferior",
+    "exp": "Vena cava inferior diaphragma'yı T8 seviyesinden geçer."
+  },
+  {
+    "id": "new_anat_k3_18",
+    "q": "Kalbin ileti sisteminde uyarının dakikada 4 metre gibi en yüksek hıza ulaşarak tüm ventrikül kasının aynı anda kasılmasını sağlayan yapı hangisidir?",
+    "opts": [
+      "A) SA nod",
+      "B) AV nod",
+      "C) Koch üçgeni",
+      "D) Purkinje lifleri",
+      "E) Todaro tendonu"
+    ],
+    "a": "D) Purkinje lifleri",
+    "exp": "İleti hızının en yüksek olduğu yapı Purkinje lifleridir, böylece ventrikül güçlü ve eşzamanlı bir sistol yapar."
+  },
+  {
+    "id": "new_anat_k3_19",
+    "q": "Alt ekstremitenin yüzeyel venlerinden Vena saphena parva, ayak bileği seviyesinde hangi kemik çıkıntının ARKASINDAN geçer?",
+    "opts": [
+      "A) Malleolus medialis",
+      "B) Malleolus lateralis",
+      "C) Calcaneus",
+      "D) Os naviculare",
+      "E) Talus"
+    ],
+    "a": "B) Malleolus lateralis",
+    "exp": "V. saphena parva malleolus lateralis'in arkasından, V. saphena magna ise malleolus medialis'in önünden geçer."
+  },
+  {
+    "id": "new_anat_k3_20",
+    "q": "Cem Kopuz Hoca'nın alt ekstremite eşleşmelerine göre; bacağın arka kompartımanında ve canalis tarsi içinde A. tibialis posterior ile birlikte seyreden sinir hangisidir?",
+    "opts": [
+      "A) N. suralis",
+      "B) N. ischiadicus",
+      "C) N. tibialis",
+      "D) N. fibularis profundus",
+      "E) N. saphenus"
+    ],
+    "a": "C) N. tibialis",
+    "exp": "Bacağın arkasında A. tibialis posterior ve N. tibialis her zaman beraberdir."
+  },
+  {
+    "id": "new_anat_k3_21",
+    "q": "A. brachialis, kolda aşağı doğru inerken hangi sinirle yakın komşuluk gösterir?",
+    "opts": [
+      "A) N. radialis",
+      "B) N. ulnaris",
+      "C) N. axillaris",
+      "D) N. medianus",
+      "E) N. musculocutaneus"
+    ],
+    "a": "D) N. medianus",
+    "exp": "Kolda ve fossa cubiti'de A. brachialis ve N. medianus kopmaz ikilidir (supracondylar kırıklarda da beraber zedelenirler)."
+  },
+  {
+    "id": "new_anat_k3_22",
+    "q": "Ömer Can Kızılay Hoca'nın klinik vaka örneği: Sol böbrek karsinomu olan bir hastada sol testiste varikosel (venöz genişleme) saptanmıştır. Bunun temel anatomik nedeni nedir?",
+    "opts": [
+      "A) V. testicularis dextra'nın doğrudan VCI'ye açılması",
+      "B) V. testicularis sinistra'nın V. renalis sinistra'ya dökülmesi",
+      "C) V. saphena magna yetmezliği",
+      "D) Nodi lymphatici lumbales'in tıkanması",
+      "E) Ductus deferens kompresyonu"
+    ],
+    "a": "B) V. testicularis sinistra'nın V. renalis sinistra'ya dökülmesi",
+    "exp": "Sol testicular ven, sol renal vene dik açıyla dökülür; sol böbrek tümörleri bu veni tıkayarak kanın testiste göllenmesine neden olur."
+  },
+  {
+    "id": "new_anat_k3_23",
+    "q": "Kalp cerrahisinde kanamayı kontrol etmek için, cerrahın aorta ascendens ve truncus pulmonalis'in arkasından parmak atarak komprese ettiği perikard boşluğu aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Sinus obliquus pericardii (Haller)",
+      "B) Sinus transversus pericardii (Theile)",
+      "C) Sinus venosus",
+      "D) Fossa ovalis",
+      "E) Cavitas pericardiaca"
+    ],
+    "a": "B) Sinus transversus pericardii (Theile)",
+    "exp": "Önde aorta ve pulmoner trunkus, arkada VCS ve pulmoner venlerin olduğu boşluk sinus transversus pericardii'dir."
+  },
+  {
+    "id": "new_anat_k3_24",
+    "q": "Fetal dönemde sağ atriyumdaki kanın akciğerleri pas geçerek doğrudan sol atriyuma geçişini sağlayan, doğumdan sonra kapanarak 'Fossa ovalis' adını alan yapı aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Ductus venosus",
+      "B) Ductus arteriosus",
+      "C) Foramen ovale",
+      "D) Sinus coronarius",
+      "E) Truncus pulmonalis"
+    ],
+    "a": "C) Foramen ovale",
+    "exp": "Foramen ovale, atriyumlar arası kan geçişini sağlayan fetal bir şanttır ve doğum sonrası fossa ovalis'e dönüşür."
+  },
+  {
+    "id": "new_anat_k3_25",
+    "q": "Diz arkasındaki fossa poplitea'nın en derinde (kemiğe en yakın) yer alan yapısı aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) N. ischiadicus",
+      "B) N. tibialis",
+      "C) V. poplitea",
+      "D) A. poplitea",
+      "E) V. saphena parva"
+    ],
+    "a": "D) A. poplitea",
+    "exp": "Fossa poplitea'da dıştan içe / yüzeyelden derine doğru inildiğinde en derinde A. poplitea bulunur."
+  }
+]

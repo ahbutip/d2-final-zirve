@@ -371,7 +371,7 @@ const v7Part1 = [
         ],
         "answer": "Langerhans adacıkları",
         "correctAnswer": 1,
-        "explanation": "Pankreas endokrin ve ekzokrin bezdir. Endokrin hormonları (İnsülin, Glukagon vb.) Langerhans adacıkları adı verilen hücre gruplarından kana verilir."
+        "explanation": "Pankreas endokrin ve ekzokrin bezdir. Endokrin hormonları (İnsülin, Glukagon vb.) Langerhans adacıkları adı verilen hücre gruplarından kana verilir. Langerhans adacıkları pankreasın hücrelerinin %2-3'ünü oluşturur."
     },
     {
         "id": "v7_anat_25",

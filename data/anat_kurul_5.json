@@ -1,0 +1,327 @@
+[
+  {
+    "id": "new_anat_k5_1",
+    "q": "Kasık bölgesinde şişlik şikayetiyle ameliyata alınan bir hastada, fıtık kesesinin A. epigastrica inferior'un medialinden çıktığı ve Hesselbach üçgeninden geçtiği görülüyor. Bu hastadaki fıtık tipi aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) İndirekt inguinal herni",
+      "B) Direkt inguinal herni",
+      "C) Femoral herni",
+      "D) Umbilikal herni",
+      "E) İnsizyonel herni"
+    ],
+    "a": "B) Direkt inguinal herni",
+    "exp": "Hesselbach üçgeninden ve A. epigastrica inferior'un medialinden direkt olarak çıkan fıtıklar direkt inguinal hernilerdir."
+  },
+  {
+    "id": "new_anat_k5_2",
+    "q": "İnce bağırsağın son kısmında (terminal ileum) emilimi bozulan bir hastada, B12 vitamini eksikliğine bağlı anemi ve safra tuzu emilim bozukluğu geliştiği görülüyor. Hastada etkilenen bağırsak bölümü neresidir?",
+    "opts": [
+      "A) Duodenum",
+      "B) Jejunum",
+      "C) İleum",
+      "D) Çekum",
+      "E) Kolon"
+    ],
+    "a": "C) İleum",
+    "exp": "B12 vitamini ve safra tuzları ince bağırsağın son kısmı olan terminal ileumdan emilir."
+  },
+  {
+    "id": "new_anat_k5_3",
+    "q": "Karın içi kanaması olan bir hastada cerrah, omentum minus içindeki lig. hepatoduodenale'yi sıkarak kanamayı durdurmaya çalışıyor. Bursa omentalis'e geçişi sağlayan Winslow deliğinin ön sınırını oluşturan bu bağın içinde aşağıdakilerden hangisi bulunmaz?",
+    "opts": [
+      "A) V. portae hepatis",
+      "B) A. hepatica propria",
+      "C) Ductus choledochus",
+      "D) V. cava inferior",
+      "E) Portal triad yapıları"
+    ],
+    "a": "D) V. cava inferior",
+    "exp": "Lig. hepatoduodenale içinde portal triad (V. portae, A. hepatica propria, Ductus choledochus) bulunur. V. cava inferior ise foramen omentale'nin arka sınırıdır."
+  },
+  {
+    "id": "new_anat_k5_4",
+    "q": "Siroza bağlı portal hipertansiyonu olan bir hastada, alt özofagusta kanamalı damar genişlemeleri saptanıyor. Bu durum, portal ven ile kaval sistem arasındaki hangi anatomik bağlantı sonucu oluşur?",
+    "opts": [
+      "A) Gastro-Özofageal anastomoz",
+      "B) Ano-Rektal anastomoz",
+      "C) Umbilikal anastomoz",
+      "D) Retroperitoneal anastomoz",
+      "E) Peli-kaval anastomoz"
+    ],
+    "a": "A) Gastro-Özofageal anastomoz",
+    "exp": "V. gastrica sinistra (portal) ile özofageal venler (kaval) arasındaki gastro-özofageal anastomoz portal hipertansiyonda varislere yol açar."
+  },
+  {
+    "id": "new_anat_k5_5",
+    "q": "Yeni doğan bir bebekte bağırsakların embriyolojik gelişimi inceleniyor. Kanlanması Arteria mesenterica superior (midgut) ve inferior (hindgut) tarafından sağlanan bölgelerin kalın bağırsaktaki embriyolojik ayrım noktası neresidir?",
+    "opts": [
+      "A) Çekum",
+      "B) Flexura coli dextra",
+      "C) Flexura coli sinistra (Splenik fleksura)",
+      "D) Rektum",
+      "E) Sigmoid kolon"
+    ],
+    "a": "C) Flexura coli sinistra (Splenik fleksura)",
+    "exp": "Midgut ve hindgut sınırı, colon transversum'un 2/3 sağ kısmı ile 1/3 sol kısmı arasıdır (flexura coli sinistra civarı)."
+  },
+  {
+    "id": "new_anat_k5_6",
+    "q": "Şiddetli karın ağrısı ile gelen hastada kalın barsak dokusu inceleniyor. Kalın barsakta bulunan tipik yapıların (Taenia coli, Haustra coli) bazı bölümlerde bulunmadığı hatırlanıyor. Aşağıdaki barsak bölümlerinden hangisinde bu yapılar bulunmaz?",
+    "opts": [
+      "A) Çekum",
+      "B) Colon ascendens",
+      "C": "Colon transversum",
+      "D) Colon descendens",
+      "E) Rektum"
+    ],
+    "a": "E) Rektum",
+    "exp": "Rektumda teniae coli, haustra coli ve appendices epiploicae bulunmaz."
+  },
+  {
+    "id": "new_anat_k5_7",
+    "q": "İnce bağırsak tıkanıklığı şüphesiyle ameliyata alınan hastada, etkilenen bağırsak bölümünün çok sıralı arteriyal arkadlara ve kısa vasa recta'lara (düz damarlar) sahip olduğu görülüyor. Peyer plakları da içeren bu bölüm hangisidir?",
+    "opts": [
+      "A) Duodenum pars superior",
+      "B) Jejunum",
+      "C) İleum",
+      "D) Çekum",
+      "E) Rektum"
+    ],
+    "a": "C) İleum",
+    "exp": "İleum; çok sıralı arkadlara, kısa vasa rectaya ve Peyer plaklarına sahiptir."
+  },
+  {
+    "id": "new_anat_k5_8",
+    "q": "Mide arka duvarında perforasyon (delinme) olan bir hastada, mide içeriği bursa omentalis'e akmıştır. Bu durumda mide içeriği komşuluğu sebebiyle ilk olarak hangi organa temas eder?",
+    "opts": [
+      "A) Karaciğer",
+      "B) Pankreas gövdesi",
+      "C) Dalak",
+      "D) Sol böbrek alt kutbu",
+      "E) Safra kesesi"
+    ],
+    "a": "B) Pankreas gövdesi",
+    "exp": "Midenin hemen arkasında bursa omentalis aracılığıyla pankreas gövdesi yer alır."
+  },
+  {
+    "id": "new_anat_k5_9",
+    "q": "Mide kanaması şüphesiyle endoskopi yapılan hastada, duodenumun pars superior (1. kıta) arka duvarında kanayan bir ülser saptanıyor. Bu bölgedeki kanamaya komşuluğundan dolayı büyük ihtimalle hangi arter neden olmaktadır?",
+    "opts": [
+      "A) A. mesenterica superior",
+      "B) A. splenica",
+      "C) A. gastroduodenalis",
+      "D) A. hepatica propria",
+      "E) A. gastrica sinistra"
+    ],
+    "a": "C) A. gastroduodenalis",
+    "exp": "Duodenum 1. parçasının arkasından A. gastroduodenalis geçer."
+  },
+  {
+    "id": "new_anat_k5_10",
+    "q": "Pankreas başı kanseri olan bir hastada sarılık (tıkanma sarılığı) geliştiği gözlemleniyor. Bu durum pankreas başının hemen komşuluğunda bulunan hangi kanalın tümör tarafından sıkıştırılmasından kaynaklanır?",
+    "opts": [
+      "A) Ductus pancreaticus (Wirsung)",
+      "B) Ductus hepaticus dexter",
+      "C) Ductus cysticus",
+      "D) Ductus choledochus (Koledok)",
+      "E) Ductus submandibularis"
+    ],
+    "a": "D) Ductus choledochus (Koledok)",
+    "exp": "Ductus choledochus (Koledok) pankreas başının arkasından veya içinden geçerek duodenuma açılır."
+  },
+  {
+    "id": "new_anat_k5_11",
+    "q": "Submandibular tükürük bezi taşı olan bir hastada, Wharton kanalının ağız tabanındaki seyri sırasında hemen altından çapraz yaparak geçen sinir hasar görebilir. Bu komşu sinir hangisidir?",
+    "opts": [
+      "A) N. facialis",
+      "B) N. hypoglossus",
+      "C) N. lingualis",
+      "D) N. glossopharyngeus",
+      "E) N. vagus"
+    ],
+    "a": "C) N. lingualis",
+    "exp": "N. lingualis ağız tabanında ductus submandibularis'in altından çaprazlar."
+  },
+  {
+    "id": "new_anat_k5_12",
+    "q": "Pankreasın anatomik komşulukları incelendiğinde, boyun (collum) kısmının hemen arkasında Vena mesenterica superior ile Vena splenica birleşerek vücudun en büyük damarlarından birini oluşturur. Bu ven hangisidir?",
+    "opts": [
+      "A) V. cava inferior",
+      "B) V. portae hepatis",
+      "C) V. renalis",
+      "D) V. azygos",
+      "E) V. iliaca communis"
+    ],
+    "a": "B) V. portae hepatis",
+    "exp": "V. portae hepatis, pankreas boynunun (collum pancreatis) arkasında v. mesenterica superior ve v. splenica'nın birleşmesiyle oluşur."
+  },
+  {
+    "id": "new_anat_k5_13",
+    "q": "Pankreasın processus uncinatus adlı çıkıntısı, komşuluk yaptığı damarlar ve organlar arasında sıkışabilir. Bu çıkıntı, önde A. mesenterica superior ile arkada duodenumun hangi parçası arasında yer alır?",
+    "opts": [
+      "A) Pars superior (1. kıta)",
+      "B) Pars descendens (2. kıta)",
+      "C) Pars horizontalis (3. kıta)",
+      "D) Pars ascendens (4. kıta)",
+      "E) Pilor"
+    ],
+    "a": "C) Pars horizontalis (3. kıta)",
+    "exp": "Processus uncinatus, önde A. mesenterica superior ve arkada duodenum'un pars horizontalis'i arasında uzanır."
+  },
+  {
+    "id": "new_anat_k5_14",
+    "q": "Karın ön duvarı kaslarından biri olan ve alt kenarındaki aponevrozu katlanarak kasık bağını (ligamentum inguinale) oluşturan kas hangisidir?",
+    "opts": [
+      "A) M. rectus abdominis",
+      "B) M. transversus abdominis",
+      "C) M. obliquus internus abdominis",
+      "D) M. obliquus externus abdominis",
+      "E) M. pyramidalis"
+    ],
+    "a": "D) M. obliquus externus abdominis",
+    "exp": "Ligamentum inguinale, M. obliquus externus abdominis aponevrozunun alt kenarının katlanmasıyla oluşur."
+  },
+  {
+    "id": "new_anat_k5_15",
+    "q": "Ağız boşluğunda sindirime yardımcı olan tükürük salgısının büyük bir kısmını üreten ve kanalı dil altına açılan tükürük bezi aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Glandula parotidea",
+      "B) Glandula submandibularis",
+      "C) Glandula sublingualis",
+      "D) Glandula palatina",
+      "E) Glandula labialis"
+    ],
+    "a": "B) Glandula submandibularis",
+    "exp": "Tükürük salgısının büyük kısmını (%70) üreten Glandula submandibularis'in kanalı (Wharton) dil altındaki caruncula sublingualis'e açılır."
+  },
+  {
+    "id": "new_anat_k5_16",
+    "q": "Kanalis analis'te, ağrıya duyarlı olan ve somatik sinirler (N. pudendus) tarafından innerve edilen, aynı zamanda dış hemoroidlerin oluştuğu fonksiyonel bölge hangi çizginin altında kalır?",
+    "opts": [
+      "A) Linea alba",
+      "B) Linea semilunaris",
+      "C) Linea dentata (pectinata)",
+      "D) Linea aspera",
+      "E) Linea terminalis"
+    ],
+    "a": "C) Linea dentata (pectinata)",
+    "exp": "Linea dentata'nın altı somatik inervasyona sahiptir ve ağrıya duyarlıdır (dış hemoroidler burada oluşur)."
+  },
+  {
+    "id": "new_anat_k5_17",
+    "q": "Yüzün mimik kaslarını uyaran N. facialis, motor işlevini yerine getirebilmek için hangi büyük tükürük bezinin içinden geçerek dallarına ayrılır?",
+    "opts": [
+      "A) Glandula sublingualis",
+      "B) Glandula submandibularis",
+      "C) Glandula parotidea",
+      "D) Glandula thyroidea",
+      "E) Glandula lacrimalis"
+    ],
+    "a": "C) Glandula parotidea",
+    "exp": "N. facialis, parotis bezi (Glandula parotidea) içinden geçer ve 5 uç dalına ayrılır."
+  },
+  {
+    "id": "new_anat_k5_18",
+    "q": "Sıcaklık değişimlerinde testisleri yukarı çeken (fonksiyonel bir refleks olan) M. cremaster kası, karın duvarındaki hangi kastan ayrılan liflerden oluşur?",
+    "opts": [
+      "A) M. obliquus externus abdominis",
+      "B) M. obliquus internus abdominis",
+      "C) M. transversus abdominis",
+      "D) M. rectus abdominis",
+      "E) M. psoas major"
+    ],
+    "a": "B) M. obliquus internus abdominis",
+    "exp": "M. cremaster, M. obliquus internus abdominis kasının alt liflerinin testis ile birlikte aşağı inmesiyle oluşur."
+  },
+  {
+    "id": "new_anat_k5_19",
+    "q": "Rektum fonksiyonlarında portal-kaval anastomozlar önem taşır. Linea dentata'nın üst kısmından venöz kanı toplayıp portal sisteme taşıyan ve iç hemoroid ile ilişkili olan ven hangisidir?",
+    "opts": [
+      "A) V. rectalis superior",
+      "B) V. rectalis media",
+      "C) V. rectalis inferior",
+      "D) V. iliaca interna",
+      "E) V. pudenda interna"
+    ],
+    "a": "A) V. rectalis superior",
+    "exp": "V. rectalis superior portal sisteme (V. mesenterica inferior) dökülür ve iç hemoroidin kaynağıdır."
+  },
+  {
+    "id": "new_anat_k5_20",
+    "q": "Karaciğer dışarıdan bakıldığında anatomik olarak 4 loba ayrılır. Cerrahi operasyonlarda (rezeksiyon) temel alınan ve damar/safra dağılımına göre belirlenen Couinaud sınıflandırmasında karaciğer kaç fonksiyonel segmente ayrılır?",
+    "opts": [
+      "A) 4",
+      "B) 6",
+      "C) 8",
+      "D) 10",
+      "E) 12"
+    ],
+    "a": "C) 8",
+    "exp": "Couinaud sınıflandırmasına göre karaciğer bağımsız 8 fonksiyel segmente ayrılır."
+  },
+  {
+    "id": "new_anat_k5_21",
+    "q": "Karaciğerin sağ ve sol fizyolojik loblarını birbirinden ayıran, üzerinden Vena media hepatica'nın geçtiği ve fossa vesicae biliaris ile sulcus venae cavae arasından geçen hayali çizgiye ne ad verilir?",
+    "opts": [
+      "A) Linea alba",
+      "B) Cantlie çizgisi",
+      "C) Linea semilunaris",
+      "D) Douglas çizgisi",
+      "E) Treitz çizgisi"
+    ],
+    "a": "B) Cantlie çizgisi",
+    "exp": "Fossa vesicae biliaris ile VCI arasından geçen hatta Cantlie çizgisi (fizyolojik orta hat) denir."
+  },
+  {
+    "id": "new_anat_k5_22",
+    "q": "Karaciğerin visseral (alt) yüzüne bakıldığında, önde yer alan anatomik loba ne ad verilir?",
+    "opts": [
+      "A) Lobus dexter",
+      "B) Lobus sinister",
+      "C) Lobus caudatus",
+      "D) Lobus quadratus",
+      "E) Lobus spigelii"
+    ],
+    "a": "D) Lobus quadratus",
+    "exp": "Karaciğerin alt (visseral) yüzünde, önde safra kesesi çukuru ile lig. teres hepatis arasında Lobus quadratus bulunur."
+  },
+  {
+    "id": "new_anat_k5_23",
+    "q": "Özofagusun (yemek borusu) 3 temel darlığı vardır. Boyun (servikal) bölgesinde bulunan ve aynı zamanda en dar yerini oluşturan darlık hangi kas seviyesindedir?",
+    "opts": [
+      "A) M. constrictor pharyngis superior",
+      "B) M. cricopharyngeus",
+      "C) M. stylopharyngeus",
+      "D) M. palatopharyngeus",
+      "E) Diyafragma"
+    ],
+    "a": "B) M. cricopharyngeus",
+    "exp": "Özofagusun başlangıcındaki (servikal) en dar yeri M. cricopharyngeus hizasındadır."
+  },
+  {
+    "id": "new_anat_k5_24",
+    "q": "Omentum minus'un arka sınırında bursa omentalis'e giriş kapısı olan Foramen omentale'nin üst sınırını karaciğerin hangi lobu oluşturur?",
+    "opts": [
+      "A) Lobus quadratus",
+      "B) Lobus caudatus",
+      "C) Lobus dexter",
+      "D) Lobus sinister",
+      "E) Fossa vesicae biliaris"
+    ],
+    "a": "B) Lobus caudatus",
+    "exp": "Winslow deliğinin (foramen omentale) üst sınırını karaciğerin Lobus caudatus'u oluşturur."
+  },
+  {
+    "id": "new_anat_k5_25",
+    "q": "Özofagusun torasik (göğüs içi) bölümünde, aort yayı (arkus aorta) hangi vertebra seviyesinde yemek borusuna baskı yaparak bir darlık oluşturur?",
+    "opts": [
+      "A) T2",
+      "B) T4",
+      "C) T6",
+      "D) T8",
+      "E) T10"
+    ],
+    "a": "B) T4",
+    "exp": "Arcus aortae T4 seviyesinde arkaya dönerken özofagusa sol önden baskı yapar."
+  }
+]

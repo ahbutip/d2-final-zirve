@@ -1,0 +1,327 @@
+[
+  {
+    "id": "new_anat_k2_1",
+    "q": "Yüksek sese maruz kaldığında rahatsızlık hisseden (hiperakuzi) bir hastada, aşağıdaki kaslardan hangisinin felci düşünülmelidir?",
+    "opts": [
+      "A) M. tensor tympani",
+      "B) M. stapedius",
+      "C) M. levator veli palatini",
+      "D) M. stylopharyngeus",
+      "E) M. palatoglossus"
+    ],
+    "a": "B) M. stapedius",
+    "exp": "M. stapedius felcinde yüksek sese karşı koruyucu refleks kaybolduğu için hiperakuzi görülür."
+  },
+  {
+    "id": "new_anat_k2_2",
+    "q": "Geçirdiği beyin enfeksiyonu sonrası yeni anıları kaydedemeyen (anterograd amnezi) bir hastada, limbik sistemin hangi yapısının hasar gördüğü düşünülür?",
+    "opts": [
+      "A) Amigdala",
+      "B) Fornix",
+      "C) Hipokampüs",
+      "D) Gyrus cinguli",
+      "E) Corpus mamillare"
+    ],
+    "a": "C) Hipokampüs",
+    "exp": "Hipokampüs, kısa süreli hafızanın uzun süreli hafızaya çevrilmesinden (konsolidasyon) sorumludur."
+  },
+  {
+    "id": "new_anat_k2_3",
+    "q": "Klinikte korkusuzluk ve hiperseksüalite belirtileri (Kluver-Bucy sendromu) gösteren bir hastada, aşağıdaki limbik sistem yapılarından hangisinin bilateral hasarı beklenir?",
+    "opts": [
+      "A) Hipokampüs",
+      "B) Amigdala",
+      "C) Epifiz bezi",
+      "D) Corpus callosum",
+      "E) Nucleus caudatus"
+    ],
+    "a": "B) Amigdala",
+    "exp": "Amigdala; korku, öfke ve kaçma tepkileriyle ilgilidir. Lezyonunda Kluver-Bucy sendromu gelişir."
+  },
+  {
+    "id": "new_anat_k2_4",
+    "q": "Merdiven inmekte zorlanan ve aşağı bakışta problem yaşayan bir hastada, aşağıdaki kranial sinirlerden hangisinin felci düşünülür?",
+    "opts": [
+      "A) N. oculomotorius (CN III)",
+      "B) N. trochlearis (CN IV)",
+      "C) N. abducens (CN VI)",
+      "D) N. facialis (CN VII)",
+      "E) N. opticus (CN II)"
+    ],
+    "a": "B) N. trochlearis (CN IV)",
+    "exp": "N. trochlearis (CN IV), gözü aşağı ve dışa baktıran m. obliquus superior kasını innerve eder."
+  },
+  {
+    "id": "new_anat_k2_5",
+    "q": "Göz muayenesinde ışık refleksi alınamayan ve pupillası dilate (genişlemiş) olan bir hastada, hangi kranial sinirin parasempatik liflerinde hasar vardır?",
+    "opts": [
+      "A) N. opticus (CN II)",
+      "B) N. oculomotorius (CN III)",
+      "C) N. trochlearis (CN IV)",
+      "D) N. abducens (CN VI)",
+      "E) N. trigeminus (CN V)"
+    ],
+    "a": "B) N. oculomotorius (CN III)",
+    "exp": "N. oculomotorius (CN III) içindeki Edinger-Westphal çekirdeğine ait parasempatik lifler m. sphincter pupillae'yi uyararak pupillayı daraltır."
+  },
+  {
+    "id": "new_anat_k2_6",
+    "q": "Çiğneme kaslarında zayıflık ve yüzünün sağ tarafında duyu kaybı şikayetiyle gelen bir hastada, aşağıdaki kranial sinirlerden hangisinde lezyon olduğu düşünülür?",
+    "opts": [
+      "A) N. facialis (CN VII)",
+      "B) N. trigeminus (CN V)",
+      "C) N. glossopharyngeus (CN IX)",
+      "D) N. vagus (CN X)",
+      "E) N. hypoglossus (CN XII)"
+    ],
+    "a": "B) N. trigeminus (CN V)",
+    "exp": "N. trigeminus (CN V), yüzün genel duyusunu taşır ve çiğneme kaslarının motor inervasyonunu sağlar."
+  },
+  {
+    "id": "new_anat_k2_7",
+    "q": "Arabada aniden hızlanma sırasında baş dönmesi hisseden bir hastada, doğrusal (lineer) ivmelenmeyi algılayan iç kulak yapıları aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Canales semicirculares",
+      "B) Utriculus ve Sacculus",
+      "C) Cochlea",
+      "D) Tuba auditiva",
+      "E) Membrana tympanica"
+    ],
+    "a": "B) Utriculus ve Sacculus",
+    "exp": "Vestibül içindeki utriculus ve sacculus, makulaları sayesinde çizgisel (lineer) ivmelenmeyi algılar."
+  },
+  {
+    "id": "new_anat_k2_8",
+    "q": "Diensefalon yapıları olan talamus ve hipotalamus, aşağıdaki beyin boşluklarından hangisinin duvarını oluşturur?",
+    "opts": [
+      "A) Ventriculus lateralis",
+      "B) Ventriculus tertius (3. ventrikül)",
+      "C) Aqueductus cerebri",
+      "D) Ventriculus quartus (4. ventrikül)",
+      "E) Canalis centralis"
+    ],
+    "a": "B) Ventriculus tertius (3. ventrikül)",
+    "exp": "Talamus ve hipotalamus gibi diensefalon yapıları, 3. ventrikülün yan duvarlarını oluşturur."
+  },
+  {
+    "id": "new_anat_k2_9",
+    "q": "Medulla spinalis'in servikal segmentlerinden başlayıp foramen magnum'dan kafatasına giren ve daha sonra komşu olduğu foramen jugulare'den çıkarak kafatasını terk eden kranial sinir hangisidir?",
+    "opts": [
+      "A) N. glossopharyngeus (CN IX)",
+      "B) N. vagus (CN X)",
+      "C) N. accessorius (CN XI)",
+      "D) N. hypoglossus (CN XII)",
+      "E) N. facialis (CN VII)"
+    ],
+    "a": "C) N. accessorius (CN XI)",
+    "exp": "N. accessorius (CN XI) servikal segmentlerden başlayıp foramen magnum'dan girer ve foramen jugulare'den çıkar."
+  },
+  {
+    "id": "new_anat_k2_10",
+    "q": "Tüm duyuların (koku hariç) serebral kortekse gitmeden önce uğradığı ve komşuluğu itibariyle diensefalonun en büyük bölümünü oluşturan çekirdek grubu aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Hipotalamus",
+      "B) Epitalamus",
+      "C) Subtalamus",
+      "D) Talamus",
+      "E) Bazal gangliyonlar"
+    ],
+    "a": "D) Talamus",
+    "exp": "Talamus, koku hariç tüm duyuların kortekse ulaşmadan önce röle yaptığı büyük diensefalon yapısıdır."
+  },
+  {
+    "id": "new_anat_k2_11",
+    "q": "Aşağıdaki kranial sinirlerden hangisi kafatasından çıkarken foramen jugulare'yi kullanmaz ve komşularından ayrılır?",
+    "opts": [
+      "A) N. glossopharyngeus (CN IX)",
+      "B) N. vagus (CN X)",
+      "C) N. accessorius (CN XI)",
+      "D) N. hypoglossus (CN XII)",
+      "E) Seçeneklerin hepsi çıkar"
+    ],
+    "a": "D) N. hypoglossus (CN XII)",
+    "exp": "CN 9, 10 ve 11 foramen jugulare'den çıkarken, CN 12 canalis nervi hypoglossi'den çıkar."
+  },
+  {
+    "id": "new_anat_k2_12",
+    "q": "Vagus siniri (CN X) boyun ve torakstan aşağı inip batın içine girerken hangi gastrointestinal yapıya kadar uzanarak parasempatik inervasyon sağlar?",
+    "opts": [
+      "A) Mide pylor kapağı",
+      "B) Duodenum başlangıcı",
+      "C) Flexura coli dextra",
+      "D) Flexura coli sinistra",
+      "E) Rektum"
+    ],
+    "a": "D) Flexura coli sinistra",
+    "exp": "N. vagus, gastrointestinal sistemde flexura coli sinistra'ya kadar uzanarak otonom ağlara katılır."
+  },
+  {
+    "id": "new_anat_k2_13",
+    "q": "Diensefalonun arka üst kısmında (epitalamus) yer alan ve melatonin salgılayarak sirkadiyen ritmi düzenleyen yapı aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Hipofiz bezi",
+      "B) Glandula pinealis (Epifiz)",
+      "C) Subtalamus",
+      "D) Talamus",
+      "E) Globus pallidus"
+    ],
+    "a": "B) Glandula pinealis (Epifiz)",
+    "exp": "Epitalamus'ta bulunan glandula pinealis (epifiz bezi) melatonin salgılayarak uyku-uyanıklık döngüsünü ayarlar."
+  },
+  {
+    "id": "new_anat_k2_14",
+    "q": "Göz küresinin tabakaları ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "opts": [
+      "A) Sklera - Tunica fibrosa",
+      "B) Koroid - Tunica vasculosa",
+      "C) Kornea - Tunica fibrosa",
+      "D) Retina - Tunica nervosa",
+      "E) İris - Tunica fibrosa"
+    ],
+    "a": "E) İris - Tunica fibrosa",
+    "exp": "İris, tunica vasculosa (uvea) tabakasının bir parçasıdır, tunica fibrosa değil."
+  },
+  {
+    "id": "new_anat_k2_15",
+    "q": "Göz dışı kaslar ve onları innerve eden kranial sinirler ile ilgili yapılan eşleştirmelerden hangisi yanlıştır?",
+    "opts": [
+      "A) M. rectus superior - CN III",
+      "B) M. rectus lateralis - CN VI",
+      "C) M. obliquus superior - CN IV",
+      "D) M. obliquus inferior - CN III",
+      "E) M. rectus medialis - CN IV"
+    ],
+    "a": "E) M. rectus medialis - CN IV",
+    "exp": "M. rectus medialis N. oculomotorius (CN III) tarafından innerve edilir, CN IV sadece m. obliquus superior'u innerve eder."
+  },
+  {
+    "id": "new_anat_k2_16",
+    "q": "Göz anatomisindeki yapılar ve işlevleri ile ilgili hangi eşleştirme yanlıştır?",
+    "opts": [
+      "A) Kornea - Avaskülerdir, gözyaşı ile beslenir",
+      "B) Corpus ciliare - Humör aköz üretimi",
+      "C) Makula lutea - Keskin görme alanı",
+      "D) İris - Pupilla çapını ayarlar",
+      "E) Sklera - Işığa duyarlı fotoreseptörleri barındırır"
+    ],
+    "a": "E) Sklera - Işığa duyarlı fotoreseptörleri barındırır",
+    "exp": "Işığa duyarlı fotoreseptörleri (koni ve basiller) barındıran tabaka Retina'dır, sklera değil."
+  },
+  {
+    "id": "new_anat_k2_17",
+    "q": "Görme ve işitme yollarının talamustaki röle merkezleriyle eşleştirilmesi hangi seçenekte doğru verilmiştir?",
+    "opts": [
+      "A) Görme: CGL / İşitme: VPL",
+      "B) Görme: CGM / İşitme: CGL",
+      "C) Görme: VPL / İşitme: VPM",
+      "D) Görme: CGL / İşitme: CGM",
+      "E) Görme: VPM / İşitme: VPL"
+    ],
+    "a": "D) Görme: CGL / İşitme: CGM",
+    "exp": "Görme yolu Corpus Geniculatum Laterale (CGL) çekirdeğine, işitme yolu ise Corpus Geniculatum Mediale (CGM) çekirdeğine uğrar."
+  },
+  {
+    "id": "new_anat_k2_18",
+    "q": "Orbita duvarını oluşturan kemikler ve konumları eşleştirmelerinden hangisi doğrudur?",
+    "opts": [
+      "A) Medial duvar - Os ethmoidale (Lamina papyracea)",
+      "B) Taban - Os frontale",
+      "C) Lateral duvar - Os maxilla",
+      "D) Çatı - Os zygomaticum",
+      "E) Medial duvar - Os sphenoidale"
+    ],
+    "a": "A) Medial duvar - Os ethmoidale (Lamina papyracea)",
+    "exp": "Orbitanın medial duvarını en ince duvar olan os ethmoidale (lamina papyracea) oluşturur."
+  },
+  {
+    "id": "new_anat_k2_19",
+    "q": "İstemli hareketlerin başlatılması ve planlanmasında görev alan bazal gangliyonların ana giriş (afferent) kapısı olarak işlev gören yapı aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Globus pallidus internus",
+      "B) Striatum (Nuc. Caudatus + Putamen)",
+      "C) Substantia nigra",
+      "D) Nucleus subthalamicus",
+      "E) Talamus"
+    ],
+    "a": "B) Striatum (Nuc. Caudatus + Putamen)",
+    "exp": "Striatum, bazal gangliyonlara korteksten gelen afferent liflerin ana giriş kapısıdır."
+  },
+  {
+    "id": "new_anat_k2_20",
+    "q": "Bazal gangliyonların indirekt yolu uyarıldığında temel işlevi olarak ne olması beklenir?",
+    "opts": [
+      "A) Hareketi başlatmak",
+      "B) Hareketi baskılamak (inhibe etmek)",
+      "C) Kas tonusunu yok etmek",
+      "D) Talamusu uyarmak",
+      "E) Çiğneme refleksini başlatmak"
+    ],
+    "a": "B) Hareketi baskılamak (inhibe etmek)",
+    "exp": "Bazal gangliyonlarda direkt yol hareketi başlatırken, indirekt yol talamusu şiddetle inhibe ederek hareketi baskılar."
+  },
+  {
+    "id": "new_anat_k2_21",
+    "q": "Sempatik sinir sisteminin temel fizyolojik işlevleri göz önüne alındığında aşağıdakilerden hangisi beklenmez?",
+    "opts": [
+      "A) Pupillanın genişlemesi (midriyazis)",
+      "B) Bronşların genişlemesi",
+      "C) Tükürük salgısının koyulaşması",
+      "D) Gastrointestinal sistem motilitesinde artış",
+      "E) Ter bezlerinin uyarılması"
+    ],
+    "a": "D) Gastrointestinal sistem motilitesinde artış",
+    "exp": "Sempatik sistem gastrointestinal motiliteyi azaltırken, parasempatik sistem GİS motilitesini artırır."
+  },
+  {
+    "id": "new_anat_k2_22",
+    "q": "Parasempatik sinir sistemine ait kraniosakral lifler aşağıdaki kranial sinirlerden hangisi ile taşınmaz?",
+    "opts": [
+      "A) CN III (N. oculomotorius)",
+      "B) CN V (N. trigeminus)",
+      "C) CN VII (N. facialis)",
+      "D) CN IX (N. glossopharyngeus)",
+      "E) CN X (N. vagus)"
+    ],
+    "a": "B) CN V (N. trigeminus)",
+    "exp": "Parasempatik sistem lifleri 3, 7, 9 ve 10. kranial sinirler ile sakral (S2-S4) segmentlerden taşınır."
+  },
+  {
+    "id": "new_anat_k2_23",
+    "q": "Gözyaşı bezinin (Gl. lacrimalis) salgı yapmasını sağlayan parasempatik uyarının geçtiği ve otonom işlev gören gangliyon aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Ganglion ciliare",
+      "B) Ganglion oticum",
+      "C) Ganglion submandibulare",
+      "D) Ganglion pterygopalatinum",
+      "E) Ganglion cervicale superius"
+    ],
+    "a": "D) Ganglion pterygopalatinum",
+    "exp": "Gözyaşı bezinin parasempatik inervasyonu N. facialis üzerinden Ganglion pterygopalatinum aracılığıyla sağlanır."
+  },
+  {
+    "id": "new_anat_k2_24",
+    "q": "Medulla spinalis'te ağrı duyusunun modülasyonunda (kapı kontrol teorisi) çok önemli rol oynayan ve Lamina II bölgesine denk gelen gri cevher çekirdeği aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Nucleus proprius",
+      "B) Substantia gelatinosa",
+      "C) Nucleus marginalis",
+      "D) Clarke sütunu (Nuc. dorsalis)",
+      "E) Nucleus intermediolateralis"
+    ],
+    "a": "B) Substantia gelatinosa",
+    "exp": "Lamina II seviyesinde bulunan Substantia Gelatinosa, ağrı modülasyonunda anahtar rol oynayan merkezdir."
+  },
+  {
+    "id": "new_anat_k2_25",
+    "q": "Üst ekstremiteden gelen şuurlu propriyosepsiyon, iki nokta diskriminasyonu ve vibrasyon duyularını taşıyan çıkan yol aşağıdakilerden hangisidir?",
+    "opts": [
+      "A) Fasciculus gracilis (Goll)",
+      "B) Fasciculus cuneatus (Burdach)",
+      "C) Tractus spinothalamicus lateralis",
+      "D) Tractus spinothalamicus anterior",
+      "E) Tractus spinocerebellaris anterior"
+    ],
+    "a": "B) Fasciculus cuneatus (Burdach)",
+    "exp": "Üst ekstremiteden (T6 üstü) gelen bu duyuları Fasciculus Cuneatus, alt ekstremiteden (T6 altı) gelenleri ise Fasciculus Gracilis taşır."
+  }
+]
