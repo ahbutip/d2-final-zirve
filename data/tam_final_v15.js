@@ -1,14 +1,9 @@
 window.examsData = window.examsData || {};
 
-window.examsData['tam_kapsamli_final_v15'] = window.examsData['tam_kapsamli_final_v15'] || {
+window.examsData['tam_kapsamli_final_v15'] = {
     "title": "Zirve Deneme Sınavı 11 (V15 Kusursuz Dağılım)",
     "description": "Antigravity tarafından tamamen hocaların yerel notlarına, güncel kurul ayrımına ve belirtilen soru analiz tüyolarına (yüzeyel/çıkmış/zorluk) %100 uyumlu olarak hazırlanmış dev final denemesidir.",
-    "questions": []
-};
-
-const v15Part1 = [
-    // --- ANATOMİ (34 Soru) ---
-    // Cem Kopuz (9 Soru) - Pelvis/Perine, Baş-Boyun (Larynx, Göz, Kulak), Temel MSS, Kranial Sinirler (6,7,12)
+    "questions": [
     {
         "id": "v15_anat_1",
         "subject": "Anatomi",
@@ -144,8 +139,6 @@ const v15Part1 = [
         "correctAnswer": 2,
         "explanation": "Diaphragma pelvis'in en büyük ve en önemli kası M. levator ani'dir. Cem Kopuz pelvis/perine bölgesinin en temel yapı taşlarını yüzeyel bir şekilde sorar."
     },
-
-    // Ufuk Çorumlu (9 Soru) - KVS, Ürogenital, İnen Nöral Yollar, Pankreas/Dalak, Duodenum
     {
         "id": "v15_anat_10",
         "subject": "Anatomi",
@@ -280,8 +273,6 @@ const v15Part1 = [
         "correctAnswer": 3,
         "explanation": "A. coronaria dextra ve sinistra, aort kapağının hemen üstündeki sinus aortae'lerden (Aorta ascendens'in kökünden) çıkarlar."
     },
-
-    // Sezer Akçer (8 Soru) - Akciğerler, Mide/Özofagus, Karaciğer, Hipofiz/Epifiz, Bazal Gangliyonlar, Toraks/Alt Ekstremite, Otonom
     {
         "id": "v15_anat_19",
         "subject": "Anatomi",
@@ -402,8 +393,6 @@ const v15Part1 = [
         "correctAnswer": 1,
         "explanation": "Vesica biliaris (fellea) karaciğerin alt yüzünde safrayı depolayan kese yapısıdır. Sezer Hoca karaciğer ve safra yollarının genel anatomisini yüzeyel olarak sorar."
     },
-
-    // Ömer Can Kızılay (8 Soru) - Dolaşım Genel, Periton, Sürrenal, Klinik Vakalar, Trakea/Bronşlar
     {
         "id": "v15_anat_27",
         "subject": "Anatomi",
@@ -523,9 +512,6 @@ const v15Part1 = [
         "correctAnswer": 0,
         "explanation": "Göz duyusu: Optik sinir (2), Kulak (işitme/denge): Vestibulokoklear (8), Koku: Olfaktör sinir (1). Kranial sinirlerin temel görevleri."
     },
-
-    // --- TIBBİ BİYOKİMYA (11 Soru) ---
-    // Dr. Öğr. Üyesi Mustafa Bozkurt (4 Soru)
     {
         "id": "v15_biyo_1",
         "subject": "Biyokimya",
@@ -586,8 +572,6 @@ const v15Part1 = [
         "correctAnswer": 2,
         "explanation": "Kurşun zehirlenmesi ALA dehidrataz ve Ferroşelataz enzimlerini inhibe eder. Sonuçta kanda ALA ve Protoporfirin birikir, Hem sentezlenemediği için mikrositik anemi oluşur. (Toksik elementler - M. Bozkurt)."
     },
-
-    // Doç. Dr. Fatih Kar (2 Soru - Çıkmış / Spesifik)
     {
         "id": "v15_biyo_5",
         "subject": "Biyokimya",
@@ -618,8 +602,6 @@ const v15Part1 = [
         "correctAnswer": 1,
         "explanation": "Ksenobiyotik metabolizmasında Faz-1'in tartışmasız en büyük oyuncusu CYP450 monooksijenaz enzim sistemidir."
     },
-
-    // Prof. Dr. Sayid Altıkat (2 Soru - Reseptör / Tiroid)
     {
         "id": "v15_biyo_7",
         "subject": "Biyokimya",
@@ -650,8 +632,6 @@ const v15Part1 = [
         "correctAnswer": 0,
         "explanation": "İyodun oksidasyonu ve organifikasyonu Tiroid Peroksidaz (TPO) tarafından yapılır. Sayid Altıkat tiroid biyokimyasında bu enzimi sorar."
     },
-
-    // Dr. Öğr. Üyesi Fatmagül Can (2 Soru - Lipit / Safra)
     {
         "id": "v15_biyo_9",
         "subject": "Biyokimya",
@@ -682,8 +662,6 @@ const v15Part1 = [
         "correctAnswer": 2,
         "explanation": "Ailesel Hiperkolesterolemi, LDL reseptörü (veya onun bağlandığı Apo B-100) defekti sonucu kandan LDL'nin temizlenemediği durumdur."
     },
-
-    // Doç. Dr. Ayşe Koçak Sezgin (1 Soru)
     {
         "id": "v15_biyo_11",
         "subject": "Biyokimya",
@@ -699,9 +677,6 @@ const v15Part1 = [
         "correctAnswer": 1,
         "explanation": "Alfa-Fetoprotein (AFP), erişkinde normalde çok düşüktür ancak karaciğer hücreli kanserlerde ve bazı testis tümörlerinde kanda fırlayarak tanı koydurucu (tümör markırı) olur."
     },
-
-    // --- BİYOFİZİK (4 Soru) ---
-    // Fulya Yıkış (2 Soru), Sevgi Hoca (2 Soru)
     {
         "id": "v15_biyofiz_1",
         "subject": "Biyofizik",
@@ -761,15 +736,7 @@ const v15Part1 = [
         "answer": "Piezoelektrik kristaller",
         "correctAnswer": 1,
         "explanation": "Piezoelektrik kristaller, üzerlerine mekanik basınç (ses) geldiğinde elektrik akımı, elektrik akımı verildiğinde ise titreşerek ses dalgası üretirler (USG temel prensibi)."
-    }
-];
-
-window.examsData['tam_kapsamli_final_v15'].questions.push(...v15Part1);
-
-
-const v15Part2 = [
-    // --- FİZYOLOJİ (29 Soru) ---
-    // Prof. Dr. Raziye Akcılar (8 Soru) - Nörofizyoloji, Solunum Fizyolojisi
+    },
     {
         "id": "v15_fiz_1",
         "subject": "Fizyoloji",
@@ -890,8 +857,6 @@ const v15Part2 = [
         "correctAnswer": 0,
         "explanation": "Kemoreseptörler hemoglobinin ne kadar O2 taşıdığını değil, plazmada ne kadar çözünmüş O2 (PO2) olduğunu ölçer. CO zehirlenmesinde PO2 normaldir, sadece Hb'ye O2 bağlanamaz. Bu yüzden alarm çalmaz."
     },
-
-    // Dr. Öğr. Üyesi Esra Tekin (3 Soru) - Duyu, Çıkmış Sorular
     {
         "id": "v15_fiz_9",
         "subject": "Fizyoloji",
@@ -937,8 +902,6 @@ const v15Part2 = [
         "correctAnswer": 2,
         "explanation": "Keskin ve hızlı ağrı miyelinli A-delta lifleriyle (glutamat üzerinden), yavaş ve yanıcı ağrı ise miyelinsiz C lifleriyle (Substans P üzerinden) taşınır. Esra Tekin'in klasik çıkmış sorusudur."
     },
-
-    // Dr. Öğr. Üyesi Hatice Solak (9 Soru) - Dolaşım (EKG, Starling), Böbrek (GFR)
     {
         "id": "v15_fiz_12",
         "subject": "Fizyoloji",
@@ -1074,8 +1037,6 @@ const v15Part2 = [
         "correctAnswer": 1,
         "explanation": "İzovolümetrik kontraksiyonda kan bir yere gidemez çünkü tüm kapaklar kapalıdır. Kas kasılmaya başlar ve kanı sıkıştırarak basıncı aniden fırlatır."
     },
-
-    // Dr. Öğr. Üyesi Ali Koray Kaya (9 Soru) - GİS ve Endokrin (İnhibe eder/Aktive eder, Hormonlar)
     {
         "id": "v15_fiz_21",
         "subject": "Fizyoloji",
@@ -1211,86 +1172,81 @@ const v15Part2 = [
         "correctAnswer": 1,
         "explanation": "Sertoli hücreleri sperm üretimini destekler ve 'İnhibin' salgılayarak spesifik olarak FSH'ı baskılar. (Leydig hücreleri ise Testosteron üretip LH'yi baskılar)."
     },
-
-    // --- HİSTOLOJİ VE EMBRİYOLOJİ (13 Soru) ---
-    // Dr. Öğr. Üyesi Ayşe Çakır (5 Soru) - Sindirim, Deri, Kan
     {
         "id": "v15_histo_1",
         "subject": "Histoloji",
-        "question": "İnce bağırsak mukozasında (özellikle Lieberkühn kriptalarının tabanında) bulunan, apikal sitoplazmalarında büyük eozinofilik asidofilik granüller içeren ve antimikrobiyal enzimler (Lizozim, alfa-defensin) salgılayarak bağırsak florasını düzenleyen hücreler hangileridir?",
+        "question": "Göz histolojisinde, retinanın ışığa duyarlı olan ve fotoreseptör hücrelerini (basil ve koniler) barındıran tabakası aşağıdakilerden hangisidir?",
         "options": [
-            "Enterositler",
-            "Goblet hücreleri",
-            "Paneth hücreleri",
-            "Enteroendokrin hücreler",
-            "M (Mikrofold) hücreleri"
+            "Stratum pigmenti (Pigment epiteli)",
+            "Stratum neuroepitheliale (Fotoreseptör tabakası)",
+            "Stratum ganglionare",
+            "Stratum nucleare internum",
+            "Stratum plexiforme externum"
         ],
-        "answer": "Paneth hücreleri",
-        "correctAnswer": 2,
-        "explanation": "Paneth hücreleri kriptaların dibinde yer alır, lizozim ve defensin salgılayarak bağırsağın bağışıklığına katkı sağlar. Ayşe Çakır GİS histolojisinde hücre tiplerini çok sorar."
+        "answer": "Stratum neuroepitheliale (Fotoreseptör tabakası)",
+        "correctAnswer": 1,
+        "explanation": "Ayşe Çakır hocanın spesifik olarak sorduğu Retina tabakaları bilgisidir. Fotoreseptörler stratum neuroepitheliale (rod ve koni) tabakasında yer alır."
     },
     {
         "id": "v15_histo_2",
         "subject": "Histoloji",
-        "question": "Karaciğer histolojisinde, karaciğer sinüzoidlerinin içinde makrofaj olarak görev yapan, portal kanla gelen yaşlı eritrositleri, bakterileri ve döküntüleri fagosite eden (yiyen) hücrelere ne ad verilir?",
+        "question": "Kulak histolojisi incelendiğinde; orta kulak boşluğunda yer alan ve timpanik zardaki (kulak zarı) ses titreşimlerini alarak İÇ KULAĞIN oval penceresine (fenestra vestibuli) ileten en içteki kemikçik hangisidir?",
         "options": [
-            "Hepatositler",
-            "İto (Yıldızsı) hücreleri",
-            "Kupffer hücreleri",
-            "Kolanjiyositler",
-            "Pit hücreleri"
+            "Malleus (Çekiç)",
+            "Incus (Örs)",
+            "Stapes (Üzengi)",
+            "Modiolus",
+            "Helicotrema"
         ],
-        "answer": "Kupffer hücreleri",
+        "answer": "Stapes (Üzengi)",
         "correctAnswer": 2,
-        "explanation": "Kupffer hücreleri, karaciğerin yerleşik makrofajlarıdır ve sinüzoid boşluklarında bulunurlar."
+        "explanation": "Kulak kemikçikleri sırasıyla Malleus -> Incus -> Stapes şeklindedir. Stapes tabanı oval pencereye tutunarak titreşimi iç kulağa aktarır."
     },
     {
         "id": "v15_histo_3",
         "subject": "Histoloji",
-        "question": "Kalın deri epidermisinde bulunup ince deride BULUNMAYAN, stratum corneum'un hemen altında yer alan, ölü ve çekirdeksiz yassı hücrelerden oluşan şeffaf tabaka aşağıdakilerden hangisidir?",
+        "question": "Böbrek histolojisinde; Medulla (öz) bölgesinde bulunmayan, SADECE Korteks (kabuk) bölgesinde yer alan ve kanın ilk süzüldüğü kılcal damar yumağı ile onu saran Bowman kapsülünden oluşan yapıya ne ad verilir?",
         "options": [
-            "Stratum basale",
-            "Stratum spinosum",
-            "Stratum granulosum",
-            "Stratum lucidum",
-            "Stratum corneum"
+            "Henle kulbu",
+            "Toplayıcı kanallar",
+            "Vasa recta",
+            "Corpusculum renale (Malpighi cisimciği)",
+            "Makula densa"
         ],
-        "answer": "Stratum lucidum",
+        "answer": "Corpusculum renale (Malpighi cisimciği)",
         "correctAnswer": 3,
-        "explanation": "Stratum lucidum (parlak tabaka), sadece el ayası ve ayak tabanı gibi 'Kalın Deri' bölgelerinde bulunur. Deri histolojisinin klasik sorusudur."
+        "explanation": "Renal korpüsküller (Glomerül + Bowman kapsülü) böbreğin sadece KORTEKS tabakasında yer alır. Medullada sadece tübüller ve damarlar bulunur."
     },
     {
         "id": "v15_histo_4",
         "subject": "Histoloji",
-        "question": "Deri tabakalarından Stratum basale'de yer alan ve ultraviyole (UV) ışınlarına karşı hücre çekirdeklerini koruyan koyu renkli pigmenti (melanin) sentezleyen hücreler hangileridir?",
+        "question": "Erkek genital sisteminde, testis lobüllerinin (lobuli testis) içerisinde yer alan ve spermatogenezin (sperm üretiminin) gerçekleştiği ince, kıvrımlı tübül yapıları hangisidir?",
         "options": [
-            "Keratinositler",
-            "Melanositler",
-            "Langerhans hücreleri",
-            "Merkel hücreleri",
-            "Fibroblastlar"
+            "Ductus epididymidis",
+            "Tubuli seminiferi contorti (Seminifer tübüller)",
+            "Rete testis",
+            "Ductuli efferentes",
+            "Ductus deferens"
         ],
-        "answer": "Melanositler",
+        "answer": "Tubuli seminiferi contorti (Seminifer tübüller)",
         "correctAnswer": 1,
-        "explanation": "Melanositler, nöral krest kökenlidir ve stratum basale'de bulunarak melanin üretir, deriye rengini verir."
+        "explanation": "Erkek genital histolojisinde spermler testis içerisindeki Tubuli seminiferi contorti (Kıvrımlı seminifer tübüller) içerisinde üretilir ve olgunlaşır."
     },
     {
         "id": "v15_histo_5",
         "subject": "Histoloji",
-        "question": "Kan hücreleri (Lökositler) içerisinde sayıcı EN FAZLA olan, çok loblu çekirdeğe sahip, bakteriyel enfeksiyonlara karşı ilk yanıtı veren ve fagositoz yapan polimorfonüveli hücre hangisidir?",
+        "question": "Kadın iç genital sistem embriyolojisinde (Tuba uterina, Uterus ve Vajinanın üst 1/3'lük kısmı), embriyonik dönemde hangi kanal yapısının farklılaşmasıyla gelişir?",
         "options": [
-            "Eozinofil",
-            "Lenfosit",
-            "Monosit",
-            "Nötrofil",
-            "Bazofil"
+            "Wolff kanalı (Mezonefroz kanal)",
+            "Müller kanalı (Paramezonefroz kanal)",
+            "Gartner kanalı",
+            "Urachus",
+            "Urogenital sinüs"
         ],
-        "answer": "Nötrofil",
-        "correctAnswer": 3,
-        "explanation": "Nötrofiller kanda en yüksek oranda (%60-70) bulunan, bakterilere ilk saldıran 'Pus/Cerhat' hücreleridir."
+        "answer": "Müller kanalı (Paramezonefroz kanal)",
+        "correctAnswer": 1,
+        "explanation": "Kadın iç genital organları (tüpler, rahim ve üst vajina) Müller (Paramezonefroz) kanallarından gelişirken; erkeklerde Wolff kanallarından gelişir."
     },
-
-    // Dr. Öğr. Üyesi N. Senem Arı (4 Soru) - Faringeal arkus, Kalp tabakaları, Tiroid, Adenohipofiz
     {
         "id": "v15_histo_6",
         "subject": "Histoloji",
@@ -1351,8 +1307,6 @@ const v15Part2 = [
         "correctAnswer": 2,
         "explanation": "Adenohipofiz hücreleri boyanmalarına göre Kromofil (Boya seven: Asidofil ve Bazofil) ve Kromofob (Boya sevmeyen/soluk) olarak ayrılır. (Adenohipofiz - Senem Hoca)."
     },
-
-    // Prof. Dr. Orhan Özatik (3 Soru) - Üriner, Erkek Üreme, Solunum Embriyolojisi
     {
         "id": "v15_histo_10",
         "subject": "Histoloji",
@@ -1398,8 +1352,6 @@ const v15Part2 = [
         "correctAnswer": 2,
         "explanation": "Trakeaözofageal fistül (TEF), solunum divertikülü ile özofagusun septumla ayrılamaması durumudur ve Orhan Hoca'nın solunum embriyolojisinden banko sorusudur."
     },
-
-    // Prof. Dr. Suna Hoca (1 Soru) - Beş Duyu
     {
         "id": "v15_histo_13",
         "subject": "Histoloji",
@@ -1414,15 +1366,7 @@ const v15Part2 = [
         "answer": "Corti Organı (Organum spirale)",
         "correctAnswer": 3,
         "explanation": "Corti organı, ductus cochlearis içinde yer alan gerçek işitme organıdır. (Suna Hoca Beş Duyu/Corti/Koroid sorularından sorumludur)."
-    }
-];
-
-window.examsData['tam_kapsamli_final_v15'].questions.push(...v15Part2);
-
-
-const v15Part3 = [
-    // --- TIBBİ MİKROBİYOLOJİ (14 Soru) ---
-    // Prof. Dr. Aynur Gülcan (6 Soru) - Parazitoloji, Virüsler (DNA/RNA) - Yüzeyel tarz
+    },
     {
         "id": "v15_mikro_1",
         "subject": "Mikrobiyoloji",
@@ -1513,8 +1457,6 @@ const v15Part3 = [
         "correctAnswer": 1,
         "explanation": "HIV öncelikle CD4+ T lenfositlerini ve makrofajları hedefler. Yüzeyindeki gp120 ile CD4 reseptörüne (ve ko-reseptörlere) bağlanır."
     },
-
-    // Prof. Dr. Duygu Perçin Renders (5 Soru) - Sterilizasyon, Stafilokok, Streptokok, Salmonella/Shigella
     {
         "id": "v15_mikro_7",
         "subject": "Mikrobiyoloji",
@@ -1590,8 +1532,6 @@ const v15Part3 = [
         "correctAnswer": 1,
         "explanation": "S. aureus'un enterotoksini önceden oluşmuş bir toksindir (intoksikasyon). Bu yüzden kuluçka süresi çok kısadır (1-6 saat) ve baskın semptom kusmadır."
     },
-
-    // Dr. Öğr. Üyesi Serpil Genç (3 Soru) - Antimikrobiyaller, Atipik bakteriler (Klamidya vb.), Vibrio
     {
         "id": "v15_mikro_12",
         "subject": "Mikrobiyoloji",
@@ -1637,9 +1577,6 @@ const v15Part3 = [
         "correctAnswer": 0,
         "explanation": "Vibrio cholerae koleranın etkenidir, pirinç suyu görünümünde dışkı (mukuslu beyaz) yapar ve dehidratasyon en büyük tehlikedesidir. Serpil Hoca'nın Vibrio konusu spesifiktir."
     },
-
-    // --- TIBBİ FARMAKOLOJİ (7 Soru) ---
-    // Yasemin Tekşen, Yasemin Özatik, Ulya Keskin
     {
         "id": "v15_farma_1",
         "subject": "Farmakoloji",
@@ -1745,9 +1682,6 @@ const v15Part3 = [
         "correctAnswer": 2,
         "explanation": "Böbrek yetmezliğinde glomerüler filtrasyon hızı (GFR) düştüğü için ilaçların böbrek klirensi azalır. Bu nedenle ilaç vücutta birikir; doz ayarlanması (düşürülmesi) şarttır."
     },
-
-    // --- DİĞER BRANŞLAR (8 Soru) ---
-    // Patoloji (2 Soru) - Çıkmış
     {
         "id": "v15_pato_1",
         "subject": "Diğer Branşlar",
@@ -1778,8 +1712,6 @@ const v15Part3 = [
         "correctAnswer": 2,
         "explanation": "Beyin hariç tüm solid organların iskemik hasarlarında Koagülasyon (Pıhtılaşma) nekrozu görülür. (Beyinde sıvılaşma nekrozu görülür)."
     },
-
-    // Tarih & Etik (2 Soru)
     {
         "id": "v15_tarih_1",
         "subject": "Diğer Branşlar",
@@ -1810,8 +1742,6 @@ const v15Part3 = [
         "correctAnswer": 3,
         "explanation": "Hastanın kendi bedeni üzerindeki kararları verebilmesi ve müdahaleye onay vermesi (Aydınlatılmış onam) Otonomi ilkesinin doğrudan bir yansımasıdır."
     },
-
-    // İletişim Becerileri (2 Soru)
     {
         "id": "v15_ilet_1",
         "subject": "Diğer Branşlar",
@@ -1842,8 +1772,6 @@ const v15Part3 = [
         "correctAnswer": 2,
         "explanation": "Paraphrasing (başka sözcüklerle ifade etme), hastanın dediklerini onaylamak ve aktif dinlemeyi göstermek için kullanılan etkili bir yöntemdir."
     },
-
-    // Bilimsel Araştırma Koridoru (1 Soru) - Çıkmış soracak
     {
         "id": "v15_arastirma_1",
         "subject": "Diğer Branşlar",
@@ -1859,8 +1787,6 @@ const v15Part3 = [
         "correctAnswer": 2,
         "explanation": "Nadir hastalıklar için geriye dönük risk analizi yapan en ideal tasarım Vaka-Kontrol çalışmasıdır. Çıkmış garanti sorudur."
     },
-
-    // Toplum Sağlığı Koridoru (1 Soru)
     {
         "id": "v15_toplum_1",
         "subject": "Diğer Branşlar",
@@ -1876,6 +1802,5 @@ const v15Part3 = [
         "correctAnswer": 1,
         "explanation": "Tarama testleri (Erken tanı) hastalık zaten başlamış ama belirti vermemişken yapılır; bu nedenle İkincil korumadır. Primer koruma ise aşı veya el yıkama gibi hastalık hiç bulaşmadan yapılanlardır."
     }
-];
-
-window.examsData['tam_kapsamli_final_v15'].questions.push(...v15Part3);
+]
+};
