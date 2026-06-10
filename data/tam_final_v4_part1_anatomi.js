@@ -19,7 +19,7 @@ const anatomiQuestions = [
         "id": "v4_anat_1",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "45 yaşında bir kadın hasta, boynundaki şişlik nedeniyle tiroidektomi ameliyatına alınıyor. Ameliyat sırasında a. thyroidea inferior bağlanırken hemen komşuluğundan geçen bir sinir yanlışlıkla zedeleniyor. Ameliyat sonrası hastanın sesinin kısık olduğu fark ediliyor. \nBu hastada zedelenen sinir aşağıdakilerden hangisidir?",
+        "question": "45 yaşında bir kadın hasta, boynundaki şişlik nedeniyle tiroidektomi ameliyatına alınıyor. Ameliyat sırasında a. thyroidea inferior bağlanırken hemen komşuluğundan geçen bir sinir yanlışlıkla zedeleniyor. Ameliyat sonrası hastanın sesinin kısık olduğu fark ediliyor. Bu hastada zedelenen sinir aşağıdakilerden hangisidir?",
         "options": [
             "N. laryngeus superior",
             "N. laryngeus recurrens",
@@ -36,7 +36,7 @@ const anatomiQuestions = [
         "id": "v4_anat_2",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Acil servise şiddetli karın ağrısı ile getirilen 30 yaşındaki erkek hastaya akut apandisit teşhisi konuluyor. Ameliyata alınan hastanın appendix vermiformis'inin peritonun bir çıkmazında yer aldığı ve enfeksiyonun bu alanda hapsolduğu görülüyor. \nÖzellikle retroçekal yerleşimli apandisitlerde enfeksiyonun yayıldığı bu periton çıkmazı hangisidir?",
+        "question": "Acil servise şiddetli karın ağrısı ile getirilen 30 yaşındaki erkek hastaya akut apandisit teşhisi konuluyor. Ameliyata alınan hastanın appendix vermiformis'inin peritonun bir çıkmazında yer aldığı ve enfeksiyonun bu alanda hapsolduğu görülüyor. Özellikle retroçekal yerleşimli apandisitlerde enfeksiyonun yayıldığı bu periton çıkmazı hangisidir?",
         "options": [
             "Recessus duodenalis superior",
             "Recessus retrocecalis",
@@ -53,7 +53,7 @@ const anatomiQuestions = [
         "id": "v4_anat_3",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Çocukluk çağında geçirdiği bir yabancı cisim aspirasyonu vakası sonrası hastaneye getirilen 5 yaşındaki çocuğun çekilen akciğer röntgeninde, yabancı cismin sağ akciğere kaçtığı görülüyor. \nYabancı cisimlerin genellikle sağ ana bronşa kaçmasının temel anatomik nedeni aşağıdakilerden hangisidir?",
+        "question": "Çocukluk çağında geçirdiği bir yabancı cisim aspirasyonu vakası sonrası hastaneye getirilen 5 yaşındaki çocuğun çekilen akciğer röntgeninde, yabancı cismin sağ akciğere kaçtığı görülüyor. Yabancı cisimlerin genellikle sağ ana bronşa kaçmasının temel anatomik nedeni aşağıdakilerden hangisidir?",
         "options": [
             "Sağ ana bronşun sola göre daha dar olması",
             "Sağ ana bronşun sola göre daha uzun olması",
@@ -70,7 +70,7 @@ const anatomiQuestions = [
         "id": "v4_anat_4",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Göğüs ağrısı şikayetiyle kardiyoloji polikliniğine başvuran 55 yaşındaki hastanın koroner anjiyografisinde, kalbin apex'ini ve ventriculus sinister'in ön yüzünü besleyen koroner arter dalında %90 tıkanıklık saptanıyor. \nBu hastada tıkanıklık saptanan arter aşağıdakilerden hangisidir?",
+        "question": "Göğüs ağrısı şikayetiyle kardiyoloji polikliniğine başvuran 55 yaşındaki hastanın koroner anjiyografisinde, kalbin apex'ini ve ventriculus sinister'in ön yüzünü besleyen koroner arter dalında %90 tıkanıklık saptanıyor. Bu hastada tıkanıklık saptanan arter aşağıdakilerden hangisidir?",
         "options": [
             "Ramus circumflexus",
             "Ramus interventricularis posterior (PDA)",
@@ -104,7 +104,7 @@ const anatomiQuestions = [
         "id": "v4_anat_6",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Boyun bölgesinden kesici aletle yaralanan bir hastada, trachea'nın kıkırdak halkaları seviyesinde bir kesi olduğu saptanıyor. Kanamanın trachea'nın hemen önünden geçtiği bilinen bir venöz pleksustan kaynaklandığı düşünülüyor. \nTrachea'nın alt kısmının önünde yer alan ve kanamaya sebep olabilecek bu ven ağı aşağıdakilerden hangisidir?",
+        "question": "Boyun bölgesinden kesici aletle yaralanan bir hastada, trachea'nın kıkırdak halkaları seviyesinde bir kesi olduğu saptanıyor. Kanamanın trachea'nın hemen önünden geçtiği bilinen bir venöz pleksustan kaynaklandığı düşünülüyor. Trachea'nın alt kısmının önünde yer alan ve kanamaya sebep olabilecek bu ven ağı aşağıdakilerden hangisidir?",
         "options": [
             "Plexus venosus pharyngeus",
             "V. jugularis externa",
@@ -121,7 +121,7 @@ const anatomiQuestions = [
         "id": "v4_anat_7",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Karaciğer sirozu nedeniyle portal hipertansiyon gelişen hastada, portal ven ile sistemik venler arasındaki anastomozların açılması sonucu özofagus varis kanamaları meydana gelmektedir. \nBu klinik tabloya yol açan özofageal porto-kaval anastomoz hangi iki ven arasında gerçekleşir?",
+        "question": "Karaciğer sirozu nedeniyle portal hipertansiyon gelişen hastada, portal ven ile sistemik venler arasındaki anastomozların açılması sonucu özofagus varis kanamaları meydana gelmektedir. Bu klinik tabloya yol açan özofageal porto-kaval anastomoz hangi iki ven arasında gerçekleşir?",
         "options": [
             "V. gastrica sinistra - V. azygos / V. hemiazygos sistemi",
             "V. splenica - V. renalis sinistra",
@@ -138,7 +138,7 @@ const anatomiQuestions = [
         "id": "v4_anat_8",
         "subject": "Anatomi",
         "subject": "Anatomi",
-        "question": "Kadın doğum uzmanı, zorlu bir doğum eylemi sırasında pelvis tabanını desteklemek ve perinenin kontrolsüz yırtılmasını önlemek amacıyla epizyotomi uygulamaya karar veriyor. \nPelvis döşemesini oluşturan ve epizyotomide kesilme ihtimali olan temel kas aşağıdakilerden hangisidir?",
+        "question": "Kadın doğum uzmanı, zorlu bir doğum eylemi sırasında pelvis tabanını desteklemek ve perinenin kontrolsüz yırtılmasını önlemek amacıyla epizyotomi uygulamaya karar veriyor. Pelvis döşemesini oluşturan ve epizyotomide kesilme ihtimali olan temel kas aşağıdakilerden hangisidir?",
         "options": [
             "M. obturatorius internus",
             "M. levator ani",

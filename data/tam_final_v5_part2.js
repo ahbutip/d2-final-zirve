@@ -10,171 +10,171 @@ const v5Part2 = [
     // --- BİYOKİMYA (11 Soru) ---
     // Mustafa Bozkurt (4 Soru: Kan prot, KH, Pankreas, Adrenal)
     {
-        "id": "v5_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kan proteinlerinin elektroforetik ayrımında albumin bandından sonra gelen ve Akut Faz Reaktanlarını içeren en büyük globulin fraksiyonları aşağıdakilerden hangileridir?",
-        "options": [
-            "Gama globulinler",
-            "Beta globulinler",
-            "Alfa-1 ve Alfa-2 globulinler",
-            "Fibrinojen",
-            "Prealbumin"
-        ],
-        "answer": "Alfa-1 ve Alfa-2 globulinler",
-        "correctAnswer": 2,
-        "explanation": "Alfa-1 (örn. a1-antitripsin) ve alfa-2 (örn. haptoglobin, seruloplazmin, a2-makroglobulin) bantları, akut doku hasarı ve inflamasyon durumlarında kanda ilk yükselen akut faz proteinlerinin çoğunu barındırır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli baş ağrısı, çarpıntı ve terleme atakları ile acil servise başvuran hastada adrenal medulla kaynaklı bir tümör olan feokromositoma şüpheleniliyor. Bu hastada tanıyı kesinleştirmek için 24 saatlik idrarda bakılması gereken katekolamin yıkım son ürünü aşağıdakilerden hangisidir?",
+                "options": [
+                        "5-HIAA",
+                        "VMA (Vanilmandelik asit)",
+                        "Homojentisik asit",
+                        "Ürik asit",
+                        "Kreatinin"
+                ],
+                "answer": "VMA (Vanilmandelik asit)",
+                "correctAnswer": 1,
+                "explanation": "Katekolaminlerin (adrenalin, noradrenalin) MAO ve COMT enzimleri ile yıkımları sonucunda idrarla atılan son yıkım ürünleri VMA (Vanilmandelik asit) ve metanefrinlerdir. Feokromositoma tanısında ölçülürler.",
+                "id": "v5_biyo_1"
+        },
     {
-        "id": "v5_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Karbonhidrat metabolizmasında, kaslarda glikojenin glukoz-6-fosfata yıkılması ancak kanda serbest glukoz olarak verilememesinin sebebi hangi enzimin kas dokusunda bulunmamasıdır?",
-        "options": [
-            "Glukokinaz",
-            "Glukoz-6-Fosfataz",
-            "Hekzokinaz",
-            "Fosfofruktokinaz-1",
-            "Glikojen Fosforilaz"
-        ],
-        "answer": "Glukoz-6-Fosfataz",
-        "correctAnswer": 1,
-        "explanation": "Glukoz-6-fosfataz enzimi sadece karaciğer ve böbrekte bulunur (kaslarda yoktur). Bu nedenle kaslardaki glikojen kana glukoz olarak verilemez, sadece kasın kendi laktik asit veya enerji üretimi için kullanılır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli bir enfeksiyon tablosuyla hastaneye yatırılan hastanın laboratuvar testlerinde akut faz reaktanları inceleniyor. Aşağıdaki plazma proteinlerinden hangisinin bu hastada inflamasyona yanıt olarak kan düzeyinin artması beklenmez?",
+                "options": [
+                        "C-Reaktif Protein (CRP)",
+                        "Haptoglobin",
+                        "Fibrinojen",
+                        "Albumin",
+                        "Ferritin"
+                ],
+                "answer": "Albumin",
+                "correctAnswer": 3,
+                "explanation": "Albumin bir negatif akut faz reaktanıdır; inflamasyon, enfeksiyon veya doku hasarı durumunda sentezi azalır. CRP, Haptoglobin, Fibrinojen ve Ferritin pozitif akut faz reaktanlarıdır.",
+                "id": "v5_biyo_2"
+        },
     {
-        "id": "v5_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Pankreas hormonlarından İnsülin'in hücre içi sinyal iletimi mekanizması aşağıdakilerden hangisidir?",
-        "options": [
-            "Hücre zarındaki G-protein kenetli reseptörlerle cAMP artışı",
-            "Hücre içindeki nükleer reseptörlere bağlanarak gen transkripsiyonu",
-            "Hücre zarında bulunan ve kendisi tirozin kinaz aktivitesine sahip olan bir reseptör",
-            "cGMP artışına neden olan guanilat siklaz reseptörü",
-            "Doğrudan sodyum kanallarını açarak hücreyi depolarize etmesi"
-        ],
-        "answer": "Hücre zarında bulunan ve kendisi tirozin kinaz aktivitesine sahip olan bir reseptör",
-        "correctAnswer": 2,
-        "explanation": "İnsülin reseptörü bir Tirozin Kinaz reseptörüdür (İntrinsik kinaz aktivitesi vardır). İnsülin bağlandığında reseptör kendini ve IRS proteinlerini fosforile eder."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Metabolik sendrom ve obezite araştırmasına katılan 40 yaşındaki vücut kitle indeksi (VKİ) yüksek bir hastanın kan tahlillerinde, insülin duyarlılığını artıran ve anti-aterojenik olan bir adipokinin seviyesinin sağlıklı bireylere göre paradoksal olarak daha DÜŞÜK olduğu saptanıyor. Bu hormon hangisidir?",
+                "options": [
+                        "Leptin",
+                        "Adiponektin",
+                        "Rezistin",
+                        "TNF-alfa",
+                        "IL-6"
+                ],
+                "answer": "Adiponektin",
+                "correctAnswer": 1,
+                "explanation": "Adiponektin, insülin duyarlılığını artıran koruyucu bir adipokindir. Obezitede leptin, rezistin ve inflamatuar sitokinler artarken, adiponektin kan düzeyi azalan nadir adipokinlerdendir.",
+                "id": "v5_biyo_3"
+        },
     {
-        "id": "v5_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Adrenal korteks steroid hormon sentezinde, kolesterolün mitokondriye taşınmasını sağlayan ve hız kısıtlayıcı basamakta görevli olan taşıyıcı protein aşağıdakilerden hangisidir?",
-        "options": [
-            "Albumin",
-            "Kolesterol desmolaz",
-            "StAR (Steroidogenic Acute Regulatory) proteini",
-            "Transkortin",
-            "Apolipoprotein B-100"
-        ],
-        "answer": "StAR (Steroidogenic Acute Regulatory) proteini",
-        "correctAnswer": 2,
-        "explanation": "StAR proteini, kolesterolü dış mitokondriyal membrandan iç membrana taşır. Bu, tüm steroid hormonların sentezindeki ilk ve hız belirleyici basamaktır (Kolesterol desmolazdan bile önce)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "45 yaşında obezite ve hipertansiyonu olan erkek hastanın koroner anjiyografisinde aterosklerotik plaklar tespit ediliyor. Plak oluşum sürecinde, subendotelyal aralığa sızarak oksitlenen LDL moleküllerini fagositoz yoluyla sınırsızca alıp 'köpük hücresine' (foam cell) dönüşen hücrelerin yüzeyindeki reseptör aşağıdakilerden hangisidir?",
+                "options": [
+                        "LDL reseptörü",
+                        "GLUT-4",
+                        "Çöpçü (Scavenger) reseptörler",
+                        "Toll-like reseptör 4",
+                        "VLDL reseptörü"
+                ],
+                "answer": "Çöpçü (Scavenger) reseptörler",
+                "correctAnswer": 2,
+                "explanation": "Makrofajlar ox-LDL'yi scavenger (çöpçü - CD36, SR-A) reseptörlerle fagositoz yoluyla alarak Köpük Hücrelerine dönüşür. Bu reseptörlerin down-regülasyonu olmadığı için lipid alımı durmaz.",
+                "id": "v5_biyo_4"
+        },
     // Diğer Biyokimya (7 Soru)
     {
-        "id": "v5_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerde glikolizin bir yan yolu olan Rapoport-Luebering şantı sonucunda oluşan ve oksijenin hemoglobinden ayrılmasını kolaylaştıran metabolit hangisidir?",
-        "options": [
-            "Fruktoz 2,6-bisfosfat",
-            "1,3-bisfosfogliserat",
-            "2,3-bisfosfogliserat (2,3-BPG)",
-            "Glukoz 1,6-bisfosfat",
-            "Fosfoenolpirüvat"
-        ],
-        "answer": "2,3-bisfosfogliserat (2,3-BPG)",
-        "correctAnswer": 2,
-        "explanation": "Rapoport-Luebering şantı ile eritrositlerde 2,3-BPG (2,3-DPG) üretilir. Bu madde deoksihemoglobine bağlanarak oksijene afiniteyi düşürür ve dokulara O2 bırakılmasını kolaylaştırır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Güneş yanığı ve cilt kanseri gelişimi açısından yüksek risk taşıyan, saç, deri ve gözlerinde doğuştan pigment yokluğu (Albinizm) bulunan bir hastada, tirozinden melanin sentezi yapılamamaktadır. Bu patolojiye yol açan eksik enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Fenilalanin Hidroksilaz",
+                        "Tirozinaz",
+                        "Triptofan hidroksilaz",
+                        "DOPA dekarboksilaz",
+                        "Monoamin Oksidaz"
+                ],
+                "answer": "Tirozinaz",
+                "correctAnswer": 1,
+                "explanation": "Albinizm, Tirozinaz enziminin eksikliği sonucunda tirozinden melanin sentezi yapılamamasıyla oluşur. Hastalarda saç/deri pigment yokluğu ve UV ışığa hassasiyet vardır.",
+                "id": "v5_biyo_5"
+        },
     {
-        "id": "v5_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki lipit formlarından hangisi ateroskleroz gelişiminde en çok suçlanan, kanda oksidasyona uğrayarak makrofajlar tarafından köpük hücresine dönüştürülen ana lipoproteindir?",
-        "options": [
-            "Şilomikron",
-            "VLDL",
-            "HDL",
-            "LDL",
-            "Serbest yağ asitleri"
-        ],
-        "answer": "LDL",
-        "correctAnswer": 3,
-        "explanation": "LDL (Düşük Dansiteli Lipoprotein) 'kötü kolesterol' olarak bilinir. Damar duvarında okside olup makrofajlarca (çöpçü reseptörlerle) yutulur ve aterosklerotik plağın temelini oluşturan köpük hücrelerini (foam cell) oluşturur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İki aylık kız bebek, gelişme geriliği ve nöbet geçirme şikayetiyle değerlendiriliyor. Ailesi bebeğin bezinden ağır bir fare küfü kokusu geldiğini fark ediyor. Bebeğin saçları yaşıtlarına göre çok daha sarı, gözleri mavidir. Bu hastada fenilalanin tirozine dönüşemediği için birikmektedir. Eksik olan enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Homojentisik asit oksidaz",
+                        "Tirozinaz",
+                        "Dallı zincirli alfa-keto asit dehidrogenaz",
+                        "Sistatiyonin beta-sentaz",
+                        "Fenilalanin Hidroksilaz"
+                ],
+                "answer": "Fenilalanin Hidroksilaz",
+                "correctAnswer": 4,
+                "explanation": "Fenilketonüride (PKU) Fenilalanin Hidroksilaz enzimi eksiktir. İdrarda küf/fare kokusu, zihinsel gerilik ve hipopigmentasyon (melanin azlığına bağlı sarı saç/mavi göz) karakteristiktir.",
+                "id": "v5_biyo_6"
+        },
     {
-        "id": "v5_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kanda ürik asit seviyesinin yükselmesiyle eklem aralıklarında monosodyum ürat kristallerinin birikmesi sonucu oluşan hastalık aşağıdakilerden hangisidir?",
-        "options": [
-            "Romatoid Artrit",
-            "Osteoartrit",
-            "Gut hastalığı",
-            "Sistemik Lupus Eritematozus (SLE)",
-            "Lesch-Nyhan Sendromu"
-        ],
-        "answer": "Gut hastalığı",
-        "correctAnswer": 2,
-        "explanation": "Gut hastalığı, pürin metabolizmasının son ürünü olan ürik asidin kanda aşırı artması (hiperürisemi) ve eklemlerde (özellikle ayak başparmağında) iğne şeklinde ürat kristallerinin çökmesiyle oluşan inflamatuvar bir artrittir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Oksitosin infüzyonu alan bir gebede uterus kasılmaları tetikleniyor. Oksitosinin hedef hücredeki reseptörüne bağlandıktan sonra kullandığı ve hücre içi kalsiyum depolarının boşaltılmasını sağlayan sinyal molekülü hangisidir?",
+                "options": [
+                        "cAMP",
+                        "İnozitol trifosfat (IP3)",
+                        "Protein Kinaz A",
+                        "Tirozin kinaz",
+                        "cGMP"
+                ],
+                "answer": "İnozitol trifosfat (IP3)",
+                "correctAnswer": 1,
+                "explanation": "Oksitosin (ve TRH, GnRH vb.) Gq proteini üzerinden Fosfolipaz C'yi aktive eder. Üretilen İnozitol trifosfat (IP3), hücre içi (sarkoplazmik retikulum) kalsiyum depolarını boşaltarak kasılmayı sağlar.",
+                "id": "v5_biyo_7"
+        },
     {
-        "id": "v5_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "DNA'nın RNA'ya kopyalanması işlemine 'Transkripsiyon' adı verilir. Ökaryotlarda mesajcı RNA'yı sentezleyen enzim aşağıdakilerden hangisidir?",
-        "options": [
-            "DNA Polimeraz I",
-            "RNA Polimeraz I",
-            "RNA Polimeraz II",
-            "RNA Polimeraz III",
-            "Ters Transkriptaz"
-        ],
-        "answer": "RNA Polimeraz II",
-        "correctAnswer": 2,
-        "explanation": "Ökaryotlarda RNA Polimeraz I rRNA'yı, RNA Polimeraz II mRNA'yı, RNA Polimeraz III ise tRNA'yı sentezler."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Tiroid hormonlarının (T3 ve T4) sentez aşamasında, kandaki inorganik iyodür aktif olarak folikül hücresine alınır ve lümen sınırında aktif moleküler iyoda oksitlenir. Bu oksidasyon reaksiyonunu gerçekleştiren ve sıklıkla otoimmün tiroiditte (Hashimoto) antikor gelişen majör enzim hangisidir?",
+                "options": [
+                        "Na+/I- Simporter (NIS)",
+                        "Tiroglobulin",
+                        "Tiroid Peroksidaz (TPO)",
+                        "5'-Deiyodinaz",
+                        "Monoiyodotirozin kinaz"
+                ],
+                "answer": "Tiroid Peroksidaz (TPO)",
+                "correctAnswer": 2,
+                "explanation": "İyodürün aktif iyoda oksitlenmesi, organifikasyon ve kenetlenme (coupling) aşamalarının tamamı folikül lümen sınırında bulunan Tiroid Peroksidaz (TPO) enzimi tarafından gerçekleştirilir.",
+                "id": "v5_biyo_8"
+        },
     {
-        "id": "v5_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Triklorasetik Asit Döngüsü, hücrenin mitokondrisinde gerçekleşir. Bu döngünün ilk basamağında Asetil-CoA ile Okzaloasetat birleşerek hangi molekülü oluşturur?",
-        "options": [
-            "Süksinat",
-            "Sitrat",
-            "Malat",
-            "Alfa-ketoglutarat",
-            "İzositrat"
-        ],
-        "answer": "Sitrat",
-        "correctAnswer": 1,
-        "explanation": "Krebs döngüsünün ilk reaksiyonunda Asetil-CoA (2 karbonlu) ile Okzaloasetat (4 karbonlu) sitrat sentaz enzimi katalizörlüğünde birleşerek Sitrat'ı (6 karbonlu) oluşturur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Yoğun egzersiz yapan bir sporcunun rutin idrar tahlilinde, mikroskobik incelemede idrar sedimentinde nadir miktarda 'Hyalin silendirler' görülmüştür. Hastada hiçbir böbrek yetmezliği belirtisi yoktur. Hyalin silendirlerin zeminini oluşturan ve böbrek tübüllerinden sentezlenen temel mukoprotein aşağıdakilerden hangisidir?",
+                "options": [
+                        "Bence-Jones proteini",
+                        "Tamm-Horsfall mukoproteini (Üromodülin)",
+                        "Mikroalbumin",
+                        "Transferrin",
+                        "Fibrinojen"
+                ],
+                "answer": "Tamm-Horsfall mukoproteini (Üromodülin)",
+                "correctAnswer": 1,
+                "explanation": "Böbrek tübüllerinde oluşan tüm silendirlerin (casts) zemin matriksini tübül hücrelerinin salgıladığı Tamm-Horsfall mukoproteini (Üromodülin) oluşturur.",
+                "id": "v5_biyo_9"
+        },
     {
-        "id": "v5_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda kan şekerini korumak için aminoasitlerden, laktattan veya gliserolden yeni glukoz sentezlenmesine ne ad verilir?",
-        "options": [
-            "Glikoliz",
-            "Glikojenez",
-            "Glukoneogenez",
-            "Glikojenoliz",
-            "Lipogenez"
-        ],
-        "answer": "Glukoneogenez",
-        "correctAnswer": 2,
-        "explanation": "Glukoneogenez (yeni glukoz yapımı), karbonhidrat olmayan kaynaklardan (aminoasitler, gliserol, pirüvat, laktat) karaciğerde glukoz sentezlenmesi işlemidir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Obezite patofizyolojisi araştırılırken yağ dokusunun adipokin salgıladığı saptanıyor. Yağ depoları (trigliserit) arttıkça adipositlerden salınımı artan, hipotalamusu etkileyerek tokluk sinyali gönderen (iştahı kesen), ancak obez bireylerde reseptör düzeyinde direnç gelişen hormon hangisidir?",
+                "options": [
+                        "Adiponektin",
+                        "Rezistin",
+                        "Ghrelin",
+                        "Leptin",
+                        "Oksitosin"
+                ],
+                "answer": "Leptin",
+                "correctAnswer": 3,
+                "explanation": "Leptin tokluk hormonudur. Yağ depoları arttıkça salgılanıp hipotalamusa tokluk sinyali gönderir. Obezlerde üretim yüksektir ancak 'leptin direnci' nedeniyle etki edemez.",
+                "id": "v5_biyo_10"
+        },
     {
-        "id": "v5_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Miyoglobin ve Hemoglobinin oksijen bağlama özellikleri karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
-        "options": [
-            "Miyoglobinin oksijene ilgisi (afinitesi) hemoglobinden daha düşüktür.",
-            "Hemoglobinin oksijen ayrışma eğrisi hiperbolik, miyoglobininki ise sigmoidaldir.",
-            "Hemoglobin dört alt birimden oluşurken (tetramer), miyoglobin tek alt birimden (monomer) oluşur.",
-            "Miyoglobin kanda oksijeni dokulara taşır, hemoglobin ise kasta oksijen depolar.",
-            "Miyoglobin 2,3-BPG'den hemoglobinden çok daha fazla etkilenir."
-        ],
-        "answer": "Hemoglobin dört alt birimden oluşurken (tetramer), miyoglobin tek alt birimden (monomer) oluşur.",
-        "correctAnswer": 2,
-        "explanation": "Hemoglobin 4 alt üniteli (tetramer) olduğu için kooperatif bağlanma gösterir ve eğrisi 'S' şeklindedir (sigmoidal). Miyoglobin ise monomerdir, eğrisi hiperboliktir ve O2 afinitesi daha yüksektir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Doğum indüksiyonu için oksitosin infüzyonu yapılan bir hastanın uterus kontraksiyonları düzenleniyor. Doğum sürecinde oksitosin haricinde, doğum kanalının ve pelvik bağların (simfizis pubis) biyokimyasal olarak gevşemesini (relaksasyon) sağlayarak fötusun geçişini kolaylaştıran hormon hangisidir?",
+                "options": [
+                        "Prolaktin",
+                        "Relaksin",
+                        "Progesteron",
+                        "Östradiol",
+                        "Koryonik Somatomammotropin"
+                ],
+                "answer": "Relaksin",
+                "correctAnswer": 1,
+                "explanation": "Doğum anında bağ dokusu ve pelvik eklemlerin gevşemesini, serviksin açılmasını kolaylaştıran hormon Relaksin'dir.",
+                "id": "v5_biyo_11"
+        },
 
     // --- FARMAKOLOJİ (7 Soru) ---
     // Yasemin Özatik (2 İlaç Etkileşimi)
@@ -701,65 +701,65 @@ const v5Part2 = [
     // --- DİĞERLERİ (10 Soru) ---
     // Biyofizik (4 Soru)
     {
-        "id": "v5_biyofizik_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "İnsan gözünün optik sisteminde kırıcılığı en fazla olan anatomik yapı aşağıdakilerden hangisidir?",
-        "options": [
-            "Kornea (Cornea)",
-            "Göz Merceği (Lens)",
-            "Ön kamara sıvısı (Aqueous humor)",
-            "Camsı cisim (Corpus vitreum)",
-            "Retina"
-        ],
-        "answer": "Kornea (Cornea)",
-        "correctAnswer": 0,
-        "explanation": "Gözün toplam kırma gücü yaklaşık 60 dioptridir. Bunun 40-45 dioptrilik aslan payını kırma indisi farkı nedeniyle kornea-hava arayüzü üstlenirken, lensin kırma gücü 15-20 dioptridir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İntravenöz sıvı tedavisi alan hastada asit-baz dengesi inceleniyor. Vücutta fizyolojik bir çözeltideki H+ iyonu konsantrasyonu 40 nmol/L olarak tespit ediliyor. Bu değerin karşılık geldiği normal arteriyel kan pH değeri aşağıdakilerden hangisidir?",
+                "options": [
+                        "6.8",
+                        "7.0",
+                        "7.2",
+                        "7.4",
+                        "7.6"
+                ],
+                "answer": "7.4",
+                "correctAnswer": 3,
+                "explanation": "Normal plazma H+ konsantrasyonu 40 nmol/L'dir. pH formülünde (pH = -log[H+]) yerine konduğunda, bu değer tam olarak fizyolojik nörtal kan pH'sı olan 7.4'e karşılık gelir.",
+                "id": "v5_biyofizik_1"
+        },
     {
-        "id": "v5_biyofizik_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarından madde geçiş mekanizmaları düşünüldüğünde, Oksijen ve Karbondioksit gibi gazların veya lipidlerde çözünen moleküllerin hiçbir enerji ve taşıyıcı kullanmadan çoktan aza geçişine ne ad verilir?",
-        "options": [
-            "Basit Difüzyon",
-            "Kolaylaştırılmış Difüzyon",
-            "Aktif Taşıma",
-            "Osmoz",
-            "Pinositoz"
-        ],
-        "answer": "Basit Difüzyon",
-        "correctAnswer": 0,
-        "explanation": "Gazlar ve küçük yağda çözünen maddeler hücre zarından basit difüzyon yoluyla taşıyıcı gerekmeden geçerler."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Yoğun bakım ünitesinde izlenen böbrek yetmezliği hastasında, asit-baz dengesini sağlayan mekanizmaların yetersiz kaldığı gözleniyor. Normal bir insanda böbreklerin asit-baz regülasyonundaki en önemli kalıcı fizyolojik katkısı nedir?",
+                "options": [
+                        "Hemoglobinin oksijen afinitesini değiştirmek",
+                        "Karbondioksidi akciğerlerden daha hızlı atmak",
+                        "Bikarbonat (HCO3-) reabsorpsiyonu ve yeni bikarbonat sentezi yapmak",
+                        "Hücre içi fosfatı kana pompalamak",
+                        "Plazma proteinlerini tampon olarak kullanmak"
+                ],
+                "answer": "Bikarbonat (HCO3-) reabsorpsiyonu ve yeni bikarbonat sentezi yapmak",
+                "correctAnswer": 2,
+                "explanation": "Renal düzenleme en yavaş ama en kalıcı asit-baz dengesi sağlar. Böbrekler filtrelenen bikarbonatı geri emer (reabsorpsiyon) ve hücre metabolizmasıyla atılan her H+ karşılığında kana yeni bikarbonat sentezleyerek pH'ı düzeltir.",
+                "id": "v5_biyofizik_2"
+        },
     {
-        "id": "v5_biyofizik_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Elektrokardiyogramda ventrikül kasının depolarizasyonunu temsil eden dalga kompleksi aşağıdakilerden hangisidir?",
-        "options": [
-            "P dalgası",
-            "QRS kompleksi",
-            "T dalgası",
-            "U dalgası",
-            "ST segmenti"
-        ],
-        "answer": "QRS kompleksi",
-        "correctAnswer": 1,
-        "explanation": "EKG'de P dalgası atriyumların depolarizasyonunu, QRS kompleksi ventriküllerin depolarizasyonunu, T dalgası ise ventriküllerin repolarizasyonunu gösterir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Sınav kaygısı yaşayan bir öğrenci acil servise nefes darlığı, ellerde uyuşma ve hızlı nefes alıp verme (hiperventilasyon) şikayetiyle getiriliyor. Kan gazında PCO2 değerinin 25 mmHg'ye (Normal: 35-45) düştüğü saptanıyor. Bu durumun yol açacağı klinik asit-baz dengesizliği aşağıdakilerden hangisidir?",
+                "options": [
+                        "Solunumsal alkaloz",
+                        "Metabolik asidoz",
+                        "Metabolik alkaloz",
+                        "Solunumsal asidoz",
+                        "Laktik asidoz"
+                ],
+                "answer": "Solunumsal alkaloz",
+                "correctAnswer": 0,
+                "explanation": "Hiperventilasyon ile akciğerlerden aşırı CO2 (uçucu asit) atılır. PCO2'nin hızlı solunuma bağlı azalması kan pH'sını yükselterek 'Solunumsal (Respiratuar) Alkaloz'a yol açar.",
+                "id": "v5_biyofizik_3"
+        },
     {
-        "id": "v5_biyofizik_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Sıvıların damar içindeki akışkanlığını inceleyen hemodinamikte, Poiseuille yasasına göre bir damardan geçen kanın akım hızı damarın yarıçapının kaçıncı kuvveti ile doğru orantılıdır?",
-        "options": [
-            "Birinci",
-            "İkinci",
-            "Üçüncü",
-            "Dördüncü",
-            "Ters orantılıdır"
-        ],
-        "answer": "Dördüncü",
-        "correctAnswer": 3,
-        "explanation": "Poiseuille yasasına göre Akım (Q) = (π·ΔP·r^4) / (8·η·L) formülüyle bulunur. Yani yarıçapın 2 kat artması, akımı 16 kat (2^4) artırır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Bir deney hayvanında hücresel pH düzenlemesi üzerine çalışılmaktadır. Deneyde özellikle eritrositlerin (kırmızı kan hücreleri) içine enjekte edilen asitlerin, o kompartmanda hızla nötralize edildiği saptanmıştır. Eritrosit içindeki H+ yükünü tamponlamaktan sorumlu olan majör sistem aşağıdakilerden hangisidir?",
+                "options": [
+                        "Amonyum tampon sistemi",
+                        "Fosfat tampon sistemi",
+                        "Bikarbonat tampon sistemi",
+                        "Hemoglobin tampon sistemi",
+                        "Dallı zincirli aminoasitler"
+                ],
+                "answer": "Hemoglobin tampon sistemi",
+                "correctAnswer": 3,
+                "explanation": "Hücre dışı tampon bikarbonat olsa da, eritrosit içinde (intraselüler) bulunan yoğun hemoglobin molekülleri, içerdikleri histidin kalıntıları sayesinde çok güçlü bir tamponlama (Hemoglobin Tampon Sistemi) görevi görür (%35).",
+                "id": "v5_biyofizik_4"
+        },
     // Patoloji (2 Soru)
     {
         "id": "v5_patoloji_1",

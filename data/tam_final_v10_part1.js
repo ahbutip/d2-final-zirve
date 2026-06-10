@@ -570,7 +570,7 @@ const v10Part1 = [
     {
         "id": "v10_fiz_4",
         "subject": "Fizyoloji",
-        "question": "Böbrekte Glomerüler Filtrasyon Hızını lokal olarak sabit tutan Otoregülasyon mekanizmalarından 'Tubuloglomerüler Feedback' mekanizmasında süzüntüdeki NaCl konsantrasyonunu algılayan hücreler hangisidir?",
+        "question": "Böbrekte Glomerüler Filtrasyon Hızını lokal olarak sabit tutan Otoregülasyon mekanizmalarından Tubuloglomerüler Feedback mekanizması sırasında süzüntüdeki NaCl konsantrasyonunu algılayan hücreler hangisidir?",
         "options": [
             "Podostiler",
             "Mesangial hücreler",

@@ -3,170 +3,170 @@ window.examsData = window.examsData || {};
 const v11Part2 = [
     // --- TIBBİ BİYOKİMYA (11 Soru) ---
     {
-        "id": "v11_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki metabolik olaylardan hangisi SADECE mitokondri matriksinde gerçekleşen bir reaksiyondur?",
-        "options": [
-            "Glikoliz",
-            "Pentoz Fosfat Yolu",
-            "TCA (Krebs) Döngüsü",
-            "Yağ asidi sentezi (Lipogenez)",
-            "Glikojenoliz"
-        ],
-        "answer": "TCA (Krebs) Döngüsü",
-        "correctAnswer": 2,
-        "explanation": "Hücrede enerji metabolizmasının kavşak noktası olan TCA (Trikarboksilik Asit / Krebs) döngüsü tamamen mitokondri matriksinde gerçekleşir (Süksinat dehidrogenaz enzimi mitokondri iç zarına tutunmuştur). Glikoliz, Pentoz fosfat yolu ve yağ asidi sentezi ise sitoplazmada gerçekleşir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Pankreas beta hücrelerinde insülin salınım mekanizması incelenen deneysel bir çalışmada, hücre içine giren glukozun glikolizle yıkılarak ATP oranını artırdığı gözleniyor. Beta hücresinden insülin ekzositozunu tetikleyen bir sonraki fizyolojik adım aşağıdakilerden hangisidir?",
+                "options": [
+                        "Voltaj kapılı kalsiyum kanallarının kapanması",
+                        "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                        "Sodyum-potasyum pompasının aktivasyonu",
+                        "Glukagon salınımının artması",
+                        "Kalsiyumun hücre dışına pompalanması"
+                ],
+                "answer": "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                "correctAnswer": 1,
+                "explanation": "Beta hücresinde oluşan ATP, hücre membranındaki ATP-duyarlı Potasyum (K+) kanallarını kapatır. Bu durum membranı depolarize ederek kalsiyum kanallarının açılmasına ve insülin salınımına yol açar.",
+                "id": "v11_biyo_1"
+        },
     {
-        "id": "v11_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Glikoliz reaksiyonlarında üretilen pirüvatın, mitokondriye girerek TCA döngüsüne katılabilmesi için Pirüvat Dehidrogenaz Kompleksi tarafından geri dönüşümsüz olarak hangi moleküle dönüştürülmesi gerekir?",
-        "options": [
-            "Oksaloasetat",
-            "Asetil-CoA",
-            "Laktat",
-            "Sitrat",
-            "Süksinil-CoA"
-        ],
-        "answer": "Asetil-CoA",
-        "correctAnswer": 1,
-        "explanation": "Glikolizin son ürünü pirüvat, mitokondride PDH kompleksi tarafından oksidatif dekarboksilasyona uğrayarak 2 karbonlu 'Asetil-CoA'ya dönüştürülür. Asetil-CoA daha sonra Oksaloasetat ile birleşerek Sitrat oluşturur ve Krebs döngüsünü başlatır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "45 yaşında obezite ve hipertansiyonu olan erkek hastanın koroner anjiyografisinde aterosklerotik plaklar tespit ediliyor. Plak oluşum sürecinde, subendotelyal aralığa sızarak oksitlenen LDL moleküllerini fagositoz yoluyla sınırsızca alıp 'köpük hücresine' (foam cell) dönüşen hücrelerin yüzeyindeki reseptör aşağıdakilerden hangisidir?",
+                "options": [
+                        "LDL reseptörü",
+                        "GLUT-4",
+                        "Çöpçü (Scavenger) reseptörler",
+                        "Toll-like reseptör 4",
+                        "VLDL reseptörü"
+                ],
+                "answer": "Çöpçü (Scavenger) reseptörler",
+                "correctAnswer": 2,
+                "explanation": "Makrofajlar ox-LDL'yi scavenger (çöpçü - CD36, SR-A) reseptörlerle fagositoz yoluyla alarak Köpük Hücrelerine dönüşür. Bu reseptörlerin down-regülasyonu olmadığı için lipid alımı durmaz.",
+                "id": "v11_biyo_2"
+        },
     {
-        "id": "v11_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "DNA replikasyonunda ana görevi üstlenen, kalıp zinciri okuyarak yeni DNA ipliğini 5' -> 3' yönünde sentezleyen enzim aşağıdakilerden hangisidir?",
-        "options": [
-            "DNA Helikaz",
-            "DNA Ligaz",
-            "RNA Polimeraz",
-            "DNA Polimeraz",
-            "Topoizomeraz"
-        ],
-        "answer": "DNA Polimeraz",
-        "correctAnswer": 3,
-        "explanation": "DNA Polimeraz enzimi, replikasyon sırasında yeni zincire karşılık gelen deoksiribonükleotidleri ekleyerek DNA'nın kopyalanmasını (5'-3' yönünde) sağlayan ana sentez enzimidir. Helikaz sarmalı açar, Ligaz parçaları birleştirir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Oral glukoz tolerans testi yapılan bir hastada, ağızdan verilen glukozun, damardan (intravenöz) verilen aynı miktar glukoza göre çok daha fazla insülin salınımına yol açtığı gözleniyor. Bu 'inkretin etkisinden' sorumlu olan ve bağırsak K hücrelerinden salgılanan hormon hangisidir?",
+                "options": [
+                        "GIP (Glukoza Bağımlı İnsülinotropik Peptid)",
+                        "Kolesistokinin",
+                        "Glukagon",
+                        "Sekretin",
+                        "Motilin"
+                ],
+                "answer": "GIP (Glukoza Bağımlı İnsülinotropik Peptid)",
+                "correctAnswer": 0,
+                "explanation": "Ağızdan glukoz alımında insülin salgısını artıran inkretin etkisinden K hücrelerinden salgılanan GIP (Glukoza Bağımlı İnsülinotropik Peptid) sorumludur.",
+                "id": "v11_biyo_3"
+        },
     {
-        "id": "v11_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Metiyonin amino asidinin metabolizması sırasında oluşan, metil grubu bağışlayıcısı olarak görev yaptıktan sonra ortaya çıkan ara ürün olan HANGİ MOLEKÜLÜN kanda yüksek seviyelerde bulunması, artmış kardiyovasküler hastalık ve tromboz riskinin önemli bir göstergesidir?",
-        "options": [
-            "Sistein",
-            "Homosistein",
-            "Kreatin",
-            "Tirozin",
-            "Triptofan"
-        ],
-        "answer": "Homosistein",
-        "correctAnswer": 1,
-        "explanation": "Metiyonin yıkımı sırasında oluşan 'Homosistein', kanda yükseldiğinde damar endotelini bozar ve damar sertliği (ateroskleroz), pıhtılaşma ve kalp krizi riskini bağımsız olarak artıran toksik bir ara metabolittir. B12, B6 ve Folik asit bu molekülü zararsız hale çevirir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Dört aylık erkek bebek, solunum sıkıntısı ve ilerleyici kas güçsüzlüğü ile getiriliyor. Ekokardiyografisinde kalp kasında ciddi kalınlaşma (kardiyomegali) tespit ediliyor. Kas biyopsisinde lizozomlar içinde masif glikojen birikimi saptanan bu hastada hangi lizozomal enzim eksiktir?",
+                "options": [
+                        "Glikoz-6-fosfataz",
+                        "Kas glikojen fosforilaz",
+                        "Alfa-1,4-glukozidaz (Asit maltaz)",
+                        "Galaktoz-1-fosfat üridil transferaz",
+                        "Aldolaz B"
+                ],
+                "answer": "Alfa-1,4-glukozidaz (Asit maltaz)",
+                "correctAnswer": 2,
+                "explanation": "Tip 2 Glikojen Depo Hastalığı (Pompe hastalığı), lizozomal alfa-1,4-glukozidaz eksikliği sonucu gelişir ve kardiyomegali, kas zayıflığı ile seyreder.",
+                "id": "v11_biyo_4"
+        },
     {
-        "id": "v11_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kolesterol molekülü vücutta hangi bileşiklerin sentezi için ÖNCÜL bir madde olarak KULLANILMAZ?",
-        "options": [
-            "Safra asitleri",
-            "Kortizol (Glukokortikoidler)",
-            "Tiroid hormonları (T3, T4)",
-            "Testosteron ve Östrojen",
-            "D vitamini"
-        ],
-        "answer": "Tiroid hormonları (T3, T4)",
-        "correctAnswer": 2,
-        "explanation": "Tiroid hormonları (T3 ve T4), kolesterolden (steroid halkasından) değil, bir amino asit olan 'Tirozin'in iyotlanmasıyla sentezlenir. Kolesterol ise safra asitleri, D vitamini ve tüm steroid yapılı hormonların (kortizol, aldosteron, seks hormonları) zorunlu öncülüdür."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Uzun yıllardır yoğun alkol tüketen 55 yaşındaki bir erkek, acil servise kafa karışıklığı, göz hareketlerinde anormallik ve dengesiz yürüme şikayetleriyle getiriliyor (Wernicke-Korsakoff sendromu). Bu hastaya dekstroz (glukoz) infüzyonu verilmeden önce mutlaka replase edilmesi gereken, aksi takdirde pirüvat dehidrogenaz enziminin çalışamaması nedeniyle komayı derinleştirecek olan vitamin hangisidir?",
+                "options": [
+                        "B2 Vitamini (Riboflavin)",
+                        "B3 Vitamini (Niasin)",
+                        "B1 Vitamini (Tiamin)",
+                        "B9 Vitamini (Folik Asit)",
+                        "C Vitamini"
+                ],
+                "answer": "B1 Vitamini (Tiamin)",
+                "correctAnswer": 2,
+                "explanation": "Wernicke-Korsakoff sendromu B1 (Tiamin) eksikliğinde görülür. Tiamin Pirofosfat (TPP), karbonhidrat metabolizmasında (Pirüvat dehidrogenaz) kofaktördür. Glukoz verilmeden önce mutlaka Tiamin verilmelidir.",
+                "id": "v11_biyo_5"
+        },
     {
-        "id": "v11_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı açlık durumunda, kas proteinlerinin yıkılmasıyla açığa çıkan amino gruplarını kas dokusundan karaciğere toksik olmayan bir şekilde taşıyan en önemli amino asit aşağıdakilerden hangisidir?",
-        "options": [
-            "Alanin",
-            "Valin",
-            "Sistein",
-            "Serin",
-            "Lizin"
-        ],
-        "answer": "Alanin",
-        "correctAnswer": 0,
-        "explanation": "Kasta dallı zincirli amino asitlerin yıkımıyla oluşan toksik amonyak, pirüvat ile birleştirilerek 'Alanin'e dönüştürülür. Alanin kanla güvenli bir şekilde karaciğere gider. Karaciğerde azot kısmını üre döngüsüne verirken, karbon iskeleti glukoneogenez ile tekrar glikoza çevrilir (Glukoz-Alanin Döngüsü/Cahill Siklusu)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Yenidoğan ünitesinde takip edilen bir bebekte sürekli kusma, letarji ve konvülsiyonlar izleniyor. Kan tahlilinde BUN (kan üre azotu) seviyesinin çok düşük, buna karşın plazma amonyak (NH3) seviyesinin yaşamla bağdaşmayacak kadar yüksek olduğu görülüyor. Karaciğerde amonyağı üreye dönüştüren döngünün (Üre Döngüsü) en sık görülen (X'e bağlı geçişli) enzim defekti aşağıdakilerden hangisidir?",
+                "options": [
+                        "Karbamoil fosfat sentetaz I",
+                        "Arjinaz",
+                        "Ornitin Transkarbamilaz (OTC)",
+                        "Arjininosüksinat liyaz",
+                        "Sistatiyonin sentaz"
+                ],
+                "answer": "Ornitin Transkarbamilaz (OTC)",
+                "correctAnswer": 2,
+                "explanation": "Üre döngüsü defektlerinde amonyak üreye dönüştürülemez ve hiperamonyemi (koma, kusma, letarji) gelişir. En sık görülen defekt Ornitin Transkarbamilaz (OTC) eksikliğidir.",
+                "id": "v11_biyo_6"
+        },
     {
-        "id": "v11_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hemoglobinin yıkımı sonucu retiküloendotelyal sistemde oluşan, suda çözünmeyen, zeytin yeşili/sarımsı renkteki İLK temel yıkım ürünü aşağıdakilerden hangisidir?",
-        "options": [
-            "Ürobilinojen",
-            "Konjuge Bilirubin (Direkt)",
-            "Ankonjuge Bilirubin (İndirekt)",
-            "Ürik Asit",
-            "Biliverdin"
-        ],
-        "answer": "Ankonjuge Bilirubin (İndirekt)",
-        "correctAnswer": 2,
-        "explanation": "Makrofajlarda Hem molekülünden ayrılan porfirin halkası, önce Hem oksijenaz ile Biliverdine (yeşil), sonra Biliverdin redüktaz ile Ankonjuge (İndirekt) Bilirubine (sarı-turuncu) çevrilir. Bu madde suda çözünmez ve kana geçip albümine tutunarak karaciğere taşınır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Laboratuvar tetkiklerinde ACTH düzeyi çok yüksek çıkan bir hastada, adrenokortikotropik hormonun aslında çok daha büyük bir öncül proteinden koparılarak sentezlendiği biliniyor. MSH ve beta-endorfin ile birlikte ACTH'ın enzimatik parçalanmayla elde edildiği bu öncül molekül aşağıdakilerden hangisidir?",
+                "options": [
+                        "Tiroglobulin",
+                        "Proinsülin",
+                        "Pro-Opiyomelanokortin (POMC)",
+                        "Preproglukagon",
+                        "Anjiyotensinojen"
+                ],
+                "answer": "Pro-Opiyomelanokortin (POMC)",
+                "correctAnswer": 2,
+                "explanation": "Ön hipofizde sentezlenen ACTH, MSH (melanosit stimüle edici hormon) ve beta-endorfin, Pro-Opiyomelanokortin (POMC) adı verilen ortak bir büyük polipeptidin enzimatik parçalanması ile oluşur.",
+                "id": "v11_biyo_7"
+        },
     {
-        "id": "v11_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarlarının ana yapısal lipidleri olan Fosfolipidlerin moleküler yapısında, gliserol iskeletine bağlı olarak normalde kaç adet yağ asidi zinciri bulunur?",
-        "options": [
-            "1",
-            "2",
-            "3",
-            "4",
-            "Hiç bulunmaz"
-        ],
-        "answer": "2",
-        "correctAnswer": 1,
-        "explanation": "Fosfolipidlerin yapısında bir gliserol molekülü (3 karbonlu), buna ester bağıyla bağlı İKİ adet (biri doymuş, diğeri doymamış) yağ asidi kuyruğu, bir fosfat grubu ve (kolin/inositol gibi) hidrofilik bir baş grubu bulunur. Trigliseritlerde ise ÜÇ adet yağ asidi bulunur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Periferik dokularda tiroid hormon metabolizması inceleniyor. Hastaya T4 hormonu verilmesine rağmen hücresel etkinin zayıf olduğu görülüyor. Dokularda biyolojik aktivitesi düşük olan prohormon T4'ü, asıl aktif form olan T3'e çeviren enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Tiroid Peroksidaz",
+                        "Na+/I- Simporter",
+                        "5'-Deiyodinaz",
+                        "Sitokrom P450",
+                        "Tirozin Hidroksilaz"
+                ],
+                "answer": "5'-Deiyodinaz",
+                "correctAnswer": 2,
+                "explanation": "Karaciğer ve böbrek gibi dokularda bulunan 5'-Deiyodinaz enzimi, T4'ün dış halkasındaki iyodu kopararak onu hücre içi etkisi güçlü olan T3'e dönüştürür.",
+                "id": "v11_biyo_8"
+        },
     {
-        "id": "v11_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Proteinlerin üç boyutlu yapılarının bozulmasına, katlanmalarının açılarak biyolojik aktivitelerini kaybetmelerine ne ad verilir?",
-        "options": [
-            "Renatürasyon",
-            "Denatürasyon",
-            "Translasyon",
-            "Fosforilasyon",
-            "Aminasyon"
-        ],
-        "answer": "Denatürasyon",
-        "correctAnswer": 1,
-        "explanation": "Denatürasyon, proteinin aşırı ısı, asit-baz (pH uçları) veya kimyasal maddeler (üre, deterjan) nedeniyle üç boyutlu konformasyonunu (ikincil ve üçüncül yapısındaki zayıf bağların kopmasını) kaybederek işlevsiz bir polipeptit zincirine dönüşmesidir. Peptit bağları (birincil yapı) ise denatürasyonda kırılmaz."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Hipovolemik şok tablosuyla gelen travma hastasında kan basıncını dengelemek için böbrek jukstaglomerüler aparatı tarafından renin salgılanıyor. Renin enzimi kanda hangi prekürsör proteini doğrudan parçalayarak Anjiyotensin I'e dönüştürür?",
+                "options": [
+                        "Anjiyotensin dönüştürücü enzim (ACE)",
+                        "Anjiyotensinojen",
+                        "Aldosteron",
+                        "Vazopressin",
+                        "Albumin"
+                ],
+                "answer": "Anjiyotensinojen",
+                "correctAnswer": 1,
+                "explanation": "Renin, karaciğer kaynaklı bir plazma proteini olan anjiyotensinojeni Anjiyotensin I'e çevirir. Daha sonra akciğerlerdeki ACE, bunu Anjiyotensin II'ye dönüştürür.",
+                "id": "v11_biyo_9"
+        },
     {
-        "id": "v11_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "İnsülin hormonu reseptörüne bağlandığında, hücre içinde mesajın iletilmesini sağlayan ve doğrudan reseptörün kendi sitoplazmik kuyruğunda bulunan enzim aktivitesi aşağıdakilerden hangisidir?",
-        "options": [
-            "Adenilat Siklaz",
-            "Fosfolipaz C",
-            "Tirozin Kinaz",
-            "Guanilat Siklaz",
-            "Serin/Treonin Kinaz"
-        ],
-        "answer": "Tirozin Kinaz",
-        "correctAnswer": 2,
-        "explanation": "İnsülin (ve bazı büyüme faktörleri), 'Reseptör Tirozin Kinaz' (RTK) tipi zardan geçen reseptörleri kullanır. İnsülin reseptörüne bağlandığında, reseptörün iç (sitoplazmik) kısımları birbirini tirozin amino asitlerinden fosforilleyerek (otofosforilasyon) hücresel anabolik kaskadı başlatır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Ağır bir bakteriyel piyelonefrit (böbrek enfeksiyonu) geçiren hastanın idrar tahlilinde bol lökosit tespit ediliyor. İdrar dipstick testinde iltihap hücrelerinin varlığını (piyüri) enzim aktivitesi üzerinden dolaylı olarak kanıtlayan test parametresi aşağıdakilerden hangisidir?",
+                "options": [
+                        "Nitrit testi",
+                        "Lökosit Esteraz testi",
+                        "Hem/Peroksidaz testi",
+                        "Protein (Albumin) testi",
+                        "pH ölçümü"
+                ],
+                "answer": "Lökosit Esteraz testi",
+                "correctAnswer": 1,
+                "explanation": "Lökosit esteraz testi, idrardaki parçalanmış veya sağlam nötrofillerdeki esteraz enzimini saptar. İdrar yolu iltihabının (piyüri) hızlı biyokimyasal göstergesidir.",
+                "id": "v11_biyo_10"
+        },
     {
-        "id": "v11_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Yeni doğanlarda topuk kanı ile taraması yapılan, Fenilalanin hidroksilaz enzim eksikliği nedeniyle fenilalaninin tirozine çevrilemediği ve beyinde birikerek şiddetli zeka geriliğine yol açan kalıtsal hastalık hangisidir?",
-        "options": [
-            "Fenilketonüri (PKU)",
-            "Akçaağaç şurubu idrar hastalığı (MSUD)",
-            "Galaktozemi",
-            "Alkaptonüri",
-            "Kistik fibrozis"
-        ],
-        "answer": "Fenilketonüri (PKU)",
-        "correctAnswer": 0,
-        "explanation": "Fenilketonüri (PKU), fenilalanin hidroksilaz enzim eksikliğidir. Biriken fenilalanin beyin gelişimini zehirleyerek kalıcı mental retardasyona (zeka geriliğine) neden olur. Doğumdan hemen sonra saptanıp fenilalaninden kısıtlı diyet verilirse çocuk tamamen normal gelişir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İleri evre servikal kanser vakasında, hücrelerde DNA hasarı birikmesine rağmen programlı hücre ölümünün (apoptoz) gerçekleşmediği görülüyor. Hastadaki Human Papilloma Virus (HPV) enfeksiyonunda viral E6 proteininin hedef alarak yıkımını sağladığı ve 'Genomun Bekçisi' olarak bilinen protein hangisidir?",
+                "options": [
+                        "Retinoblastoma (Rb)",
+                        "Bcl-2",
+                        "p53",
+                        "Siklin B",
+                        "p21"
+                ],
+                "answer": "p53",
+                "correctAnswer": 2,
+                "explanation": "HPV'nin E6 proteini, apoptozun temel düzenleyicisi ve 'Genomun bekçisi' olan tümör baskılayıcı p53 proteinine bağlanarak onun yıkımını sağlar. Böylece hücre hasarlı DNA ile bölünmeye devam eder.",
+                "id": "v11_biyo_11"
+        },
 
     // --- TIBBİ FARMAKOLOJİ (7 Soru) ---
     {

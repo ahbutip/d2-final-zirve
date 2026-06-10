@@ -3,170 +3,170 @@ window.examsData = window.examsData || {};
 const v13Part2 = [
     // --- TIBBİ BİYOKİMYA (11 Soru) ---
     {
-        "id": "v13_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki amino asitlerden hangisi, T3-T4 tiroid hormonlarının, derideki Melanin pigmentinin ve böbrek üstü bezinden salgılanan Adrenalin/Noradrenalin hormonlarının ORTAK öncül molekülüdür?",
-        "options": [
-            "Triptofan",
-            "Tirozin",
-            "Fenilalanin",
-            "Glutamat",
-            "Glisin"
-        ],
-        "answer": "Tirozin",
-        "correctAnswer": 1,
-        "explanation": "Tirozin amino asidi metabolizmada bir kavşak noktasıdır. Tiroid bezinde iyotlanarak T3/T4'e dönüşür, melanositlerde tirozinaz enzimiyle melanine (deri/saç rengi) dönüşür, beyinde ve adrenal medullada ise Dopamin, Noradrenalin ve Adrenalin (Katekolaminler) sentezinin başlangıç taşıdır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Mide ülseri şikayetiyle başvuran hastada, asit sekresyonunun fizyolojik regülasyonu araştırılıyor. Mide antrumundaki G hücrelerinden salgılanıp paryetal hücrelerden HCl salgısını doğrudan uyaran gastrointestinal hormon hangisidir?",
+                "options": [
+                        "Sekretin",
+                        "Kolesistokinin (CCK)",
+                        "GIP",
+                        "Motilin",
+                        "Gastrin"
+                ],
+                "answer": "Gastrin",
+                "correctAnswer": 4,
+                "explanation": "Gastrin, mide antrumundaki G hücrelerinden salgılanır ve paryetal hücrelerden asit (HCl) salgısını uyarır.",
+                "id": "v13_biyo_1"
+        },
     {
-        "id": "v13_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kan plazmasında kolesterolün dokulara taşınmasından sorumlu olan LDL'nin hücre içine ALINABİLMESİ için, hücre yüzeyindeki LDL reseptörünün LDL üzerinde tanıdığı 'apolipoprotein' etiketi aşağıdakilerden hangisidir?",
-        "options": [
-            "Apo A-I",
-            "Apo B-48",
-            "Apo C-II",
-            "Apo B-100",
-            "Apo E"
-        ],
-        "answer": "Apo B-100",
-        "correctAnswer": 3,
-        "explanation": "VLDL, IDL ve LDL'nin ana yapısal proteini Apo B-100'dür (Karaciğerde üretilir). Hücreler LDL'yi kandan içlerine (endositozla) alacakları zaman sadece üzerindeki Apo B-100 kimliğini tanıyarak reseptörlerine bağlarlar. (Apo B-48 bağırsakta üretilen şilomikronun kimliğidir, Apo A-I ise HDL'nin kimliğidir)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli bir enfeksiyon tablosuyla hastaneye yatırılan hastanın laboratuvar testlerinde akut faz reaktanları inceleniyor. Aşağıdaki plazma proteinlerinden hangisinin bu hastada inflamasyona yanıt olarak kan düzeyinin artması beklenmez?",
+                "options": [
+                        "C-Reaktif Protein (CRP)",
+                        "Haptoglobin",
+                        "Fibrinojen",
+                        "Albumin",
+                        "Ferritin"
+                ],
+                "answer": "Albumin",
+                "correctAnswer": 3,
+                "explanation": "Albumin bir negatif akut faz reaktanıdır; inflamasyon, enfeksiyon veya doku hasarı durumunda sentezi azalır. CRP, Haptoglobin, Fibrinojen ve Ferritin pozitif akut faz reaktanlarıdır.",
+                "id": "v13_biyo_2"
+        },
     {
-        "id": "v13_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Metabolizmada, yağ asitlerinin enerji elde etmek amacıyla mitokondri içinde ikişer karbonlu parçalara bölünerek YIKILMASI işlemine ne ad verilir?",
-        "options": [
-            "Glikoliz",
-            "Oksidatif fosforilasyon",
-            "Beta-Oksidasyon",
-            "Yağ asidi sentaz (Lipojenez)",
-            "Transaminasyon"
-        ],
-        "answer": "Beta-Oksidasyon",
-        "correctAnswer": 2,
-        "explanation": "Beta-Oksidasyon, uzun zincirli yağ asitlerinin (mitokondri matriksinde) beta karbon atomundan ardışık olarak kesilmesi ve her turda 1 adet 2 Karbonlu Asetil-KoA, 1 NADH ve 1 FADH2 üretilmesi sürecidir. Vücudun en büyük enerji (ATP) kaynağıdır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Otoimmün tiroiditi olan bir hastada boyun cerrahisi sonrası kaslarda kasılma (tetani) ve karıncalanma saptanıyor. Laboratuvarda kanda kalsiyum düzeyi düşük bulunuyor. PTH (Parathormon) düzeyinin de sıfıra yakın olduğu bu hastada, böbreklerden kalsiyum geri emiliminin durması dışında, kemiklerden kalsiyumun kana geçişini sağlayan hangi hücrenin aktivitesi durmuştur?",
+                "options": [
+                        "Osteoblast",
+                        "Osteosit",
+                        "Osteoklast",
+                        "Kondrosit",
+                        "Parafolliküler C hücresi"
+                ],
+                "answer": "Osteoklast",
+                "correctAnswer": 2,
+                "explanation": "Parathormon (PTH) kan kalsiyumu düştüğünde kemikten kalsiyum ve fosforu kana geçirmek için osteoklast aktivitesini uyarır. PTH yokluğunda bu kemik yıkım mekanizması durur.",
+                "id": "v13_biyo_3"
+        },
     {
-        "id": "v13_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "B12 Vitamini eksikliğinde kanda ve idrarda BİRİKEREK yükselen, bu nedenle B12 eksikliği tanısında kullanılan METABOLİT hangisidir?",
-        "options": [
-            "Laktik asit",
-            "Pirüvat",
-            "Metilmalonik asit (MMA)",
-            "Asetoasetat",
-            "Ürik asit"
-        ],
-        "answer": "Metilmalonik asit (MMA)",
-        "correctAnswer": 2,
-        "explanation": "B12 vitamini eksikliğinde iki enzim çalışmaz: 1) Metionin sentaz (Homosistein birikir, Folat eksikliğinde de olur). 2) Metilmalonil-KoA Mutaz. İkinci enzimin durması sonucu kanda ve idrarda sadece B12 eksikliğinde 'Metilmalonik asit (MMA)' birikir ve nörolojik hasara (Miyelin kılıf hasarına) neden olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "45 yaşında obezite ve hipertansiyonu olan erkek hastanın koroner anjiyografisinde aterosklerotik plaklar tespit ediliyor. Plak oluşum sürecinde, subendotelyal aralığa sızarak oksitlenen LDL moleküllerini fagositoz yoluyla sınırsızca alıp 'köpük hücresine' (foam cell) dönüşen hücrelerin yüzeyindeki reseptör aşağıdakilerden hangisidir?",
+                "options": [
+                        "LDL reseptörü",
+                        "GLUT-4",
+                        "Çöpçü (Scavenger) reseptörler",
+                        "Toll-like reseptör 4",
+                        "VLDL reseptörü"
+                ],
+                "answer": "Çöpçü (Scavenger) reseptörler",
+                "correctAnswer": 2,
+                "explanation": "Makrofajlar ox-LDL'yi scavenger (çöpçü - CD36, SR-A) reseptörlerle fagositoz yoluyla alarak Köpük Hücrelerine dönüşür. Bu reseptörlerin down-regülasyonu olmadığı için lipid alımı durmaz.",
+                "id": "v13_biyo_4"
+        },
     {
-        "id": "v13_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kan pH'sını dar bir aralıkta sabit tutmak için vücudumuzdaki plazmada ve hücre dışı sıvıda en çok bulunan, kapasitesi EN BÜYÜK olan TAMPON SİSTEMİ aşağıdakilerden hangisidir?",
-        "options": [
-            "Fosfat Tampon Sistemi",
-            "Protein Tampon Sistemi",
-            "Hemoglobin Tampon Sistemi",
-            "Bikarbonat / Karbonik Asit Tampon Sistemi",
-            "Amonyak Tampon Sistemi"
-        ],
-        "answer": "Bikarbonat / Karbonik Asit Tampon Sistemi",
-        "correctAnswer": 3,
-        "explanation": "Hücre dışı sıvının (ve plazmanın) en güçlü ve en hızlı tamponu Bikarbonat (HCO3-) / Karbonik asit (H2CO3) sistemidir. Bu sistemin güzelliği 'Açık' bir sistem olmasıdır; yani uçucu asit olan CO2 akciğerlerden, uçucu olmayan HCO3- ve H+ böbreklerden anında atılarak veya tutularak sınırsız bir dengeleme yaratılabilir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Uzun yıllardır yoğun alkol tüketen 55 yaşındaki bir erkek, acil servise kafa karışıklığı, göz hareketlerinde anormallik ve dengesiz yürüme şikayetleriyle getiriliyor (Wernicke-Korsakoff sendromu). Bu hastaya dekstroz (glukoz) infüzyonu verilmeden önce mutlaka replase edilmesi gereken, aksi takdirde pirüvat dehidrogenaz enziminin çalışamaması nedeniyle komayı derinleştirecek olan vitamin hangisidir?",
+                "options": [
+                        "B2 Vitamini (Riboflavin)",
+                        "B3 Vitamini (Niasin)",
+                        "B1 Vitamini (Tiamin)",
+                        "B9 Vitamini (Folik Asit)",
+                        "C Vitamini"
+                ],
+                "answer": "B1 Vitamini (Tiamin)",
+                "correctAnswer": 2,
+                "explanation": "Wernicke-Korsakoff sendromu B1 (Tiamin) eksikliğinde görülür. Tiamin Pirofosfat (TPP), karbonhidrat metabolizmasında (Pirüvat dehidrogenaz) kofaktördür. Glukoz verilmeden önce mutlaka Tiamin verilmelidir.",
+                "id": "v13_biyo_5"
+        },
     {
-        "id": "v13_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Glukoz molekülü glikoliz yoluna girdiğinde HÜCRE İÇİNDE HAPSOLMASINI sağlayan ve ona bir fosfat grubu ekleyerek 'Glukoz 6-Fosfat'a dönüştüren SİTOPLAZMİK ENZİM aşağıdakilerden hangisidir?",
-        "options": [
-            "Fosfofruktokinaz-1 (PFK-1)",
-            "Glukoz-6-Fosfataz",
-            "Heksokinaz (ve Karaciğerde Glukokinaz)",
-            "Pirüvat Kinaz",
-            "Aldolaz"
-        ],
-        "answer": "Heksokinaz (ve Karaciğerde Glukokinaz)",
-        "correctAnswer": 2,
-        "explanation": "Hücreye GLUT taşıyıcısıyla giren glukoz tekrar geri kaçmasın diye anında fosfatlanarak büyük ve elektrik yüklü bir moleküle çevrilir. Bu ilk kilitleme basamağını tüm hücrelerde 'Heksokinaz' (karaciğer ve pankreasta ise yüksek kapasiteli olan Glukokinaz) yapar. Bu işlem 1 ATP harcar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Doğumdan birkaç gün sonra bir bebekte emme zayıflığı, letarji ve koma tablosu gelişiyor. Yenidoğan yoğun bakıma alınan bebeğin bezindeki idrarda çok karakteristik olan 'yanık şeker' veya 'akçaağaç şurubu' kokusu hissediliyor. Bu hastada dekarboksilasyonu yapılamadığı için biriken ve nörotoksik etki gösteren amino asit grubu hangisidir?",
+                "options": [
+                        "Aromatik aminoasitler (Fenilalanin, Tirozin)",
+                        "Kükürtlü aminoasitler (Metiyonin, Sistein)",
+                        "Bazik aminoasitler (Lizin, Arjinin)",
+                        "Dallı zincirli aminoasitler (Lösin, İzolösin, Valin)",
+                        "Asidik aminoasitler (Glutamat, Aspartat)"
+                ],
+                "answer": "Dallı zincirli aminoasitler (Lösin, İzolösin, Valin)",
+                "correctAnswer": 3,
+                "explanation": "Akçaağaç Şurubu İdrar Hastalığında (MSUD), dallı zincirli alfa-keto asit dehidrogenaz kompleksi eksikliği nedeniyle Lösin, İzolösin ve Valin (dallı zincirli aminoasitler) birikir.",
+                "id": "v13_biyo_6"
+        },
     {
-        "id": "v13_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "DNA replikasyonu sırasında çift sarmalı bir fermuar gibi açarak tek sarmal haline getiren ve ilerleyen replikasyon çatalını oluşturan enzim hangisidir?",
-        "options": [
-            "DNA Polimeraz",
-            "DNA Ligaz",
-            "Helikaz",
-            "Topoisomeraz",
-            "Primaz"
-        ],
-        "answer": "Helikaz",
-        "correctAnswer": 2,
-        "explanation": "Replikasyonda fermuarı açan 'Helikaz'dır. (Topoisomeraz ise açılmadan kaynaklanan arkadaki aşırı kıvrılma-stresi kesip rahatlatır). DNA polimeraz yeni zinciri örer, Ligaz parçaları (Okazaki) yapıştırır, Primaz ise ilk temeli (RNA primeri) atar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Nükleer hormon reseptörlerinin genetik dizilimi araştırılıyor. Reseptörün DNA üzerinde bağlanacağı bölgeyi tanıması ve spesifik gen sekanslarına tutunması, reseptör yapısındaki hangi bölge veya yapı sayesinde gerçekleşir?",
+                "options": [
+                        "Hormon Yanıt Elemanı (HRE)",
+                        "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                        "N-Terminal AF-1 transaktivasyon alanı",
+                        "G proteini alfa alt birimi",
+                        "Ligand bağlayıcı bölge (LBD)"
+                ],
+                "answer": "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                "correctAnswer": 1,
+                "explanation": "Hücre içi (nükleer/sitoplazmik) reseptörlerin DNA bağlayıcı bölgeleri (DBD), 'çinko parmak' yapıları içerir ve DNA'nın spesifik dizilerine bağlanmayı sağlar.",
+                "id": "v13_biyo_7"
+        },
     {
-        "id": "v13_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kolesterol vücutta birçok molekülün sentez öncülüdür. Aşağıdaki maddelerden hangisi kolesterolden SENTEZLENMEZ?",
-        "options": [
-            "Östrojen ve Testosteron",
-            "Kortizol ve Aldosteron",
-            "Vitamin D",
-            "Vitamin C (Askorbik asit)",
-            "Safra asitleri (Kolik asit vb.)"
-        ],
-        "answer": "Vitamin C (Askorbik asit)",
-        "correctAnswer": 3,
-        "explanation": "Kolesterol (Steroid halkası); eşey hormonları (östrojen, testosteron), adrenal korteks hormonları (kortizol, aldosteron), D vitamini (kolekalsiferol) ve safra asitlerinin tek kaynağıdır. C Vitamini ise suda eriyen bir vitamindir ve insanlarda sentezlenemez, yapısal olarak glukoza (karbonhidrat) benzer."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Laboratuvar tetkiklerinde ACTH düzeyi çok yüksek çıkan bir hastada, adrenokortikotropik hormonun aslında çok daha büyük bir öncül proteinden koparılarak sentezlendiği biliniyor. MSH ve beta-endorfin ile birlikte ACTH'ın enzimatik parçalanmayla elde edildiği bu öncül molekül aşağıdakilerden hangisidir?",
+                "options": [
+                        "Tiroglobulin",
+                        "Proinsülin",
+                        "Pro-Opiyomelanokortin (POMC)",
+                        "Preproglukagon",
+                        "Anjiyotensinojen"
+                ],
+                "answer": "Pro-Opiyomelanokortin (POMC)",
+                "correctAnswer": 2,
+                "explanation": "Ön hipofizde sentezlenen ACTH, MSH (melanosit stimüle edici hormon) ve beta-endorfin, Pro-Opiyomelanokortin (POMC) adı verilen ortak bir büyük polipeptidin enzimatik parçalanması ile oluşur.",
+                "id": "v13_biyo_8"
+        },
     {
-        "id": "v13_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Klinikte 'Kalp Yetmezliği' teşhisi ve ağırlığının belirlenmesi için kanda bakılan, ventriküllerin aşırı gerilmesi durumunda kalpten kana salgılanarak böbrekten su ve sodyum ATILIMINI ARTIRAN biyokimyasal belirteç hangisidir?",
-        "options": [
-            "Aldosteron",
-            "Epinefrin",
-            "BNP (Brain Natriüretik Peptid / B-Tipi Natriüretik Peptid)",
-            "Angiotensin II",
-            "Vazopressin (ADH)"
-        ],
-        "answer": "BNP (Brain Natriüretik Peptid / B-Tipi Natriüretik Peptid)",
-        "correctAnswer": 2,
-        "explanation": "BNP, kalp ventrikül duvarları yetmezlikten dolayı şiştiğinde/gerildiğinde kana salgılanan natriüretik (Sodyum attırıcı) bir hormondur. Kalbin yükünü hafifletmek için damarları gevşetir ve işerterek suyu attırır. Kalp yetmezliği (KKY) tanısında ve takibinde en güvenilir markerdir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Multipl Miyelom tanısı alan yaşlı bir hastada kemik ağrıları ve böbrek fonksiyonlarında bozulma saptanıyor. Hastanın idrarında, filtre olan hafif zincir immünoglobulinlerin reabsorpsiyon kapasitesini aşarak idrara çıkması durumu ('overflow' proteinüri) tespit ediliyor. Dipstick (strip) testi yapıldığında protein sonucu ne olarak beklenir?",
+                "options": [
+                        "Dipstick testi bu proteinleri saptamaz (Negatif/Eser çıkar)",
+                        "Dipstick testi Bence-Jones proteinine çok spesifiktir, +4 pozitif çıkar",
+                        "Nitrit ile birlikte pozitifleşir",
+                        "Sadece alkali pH'da pozitif çıkar",
+                        "İdrarın rengini pembeye boyar"
+                ],
+                "answer": "Dipstick testi bu proteinleri saptamaz (Negatif/Eser çıkar)",
+                "correctAnswer": 0,
+                "explanation": "İdrar dipstick testi temel olarak albümini saptar. Multipl miyelomdaki Bence-Jones proteinleri (hafif zincirler) gibi diğer proteinlerde strip testi negatif veya sadece eser miktarda pozitif çıkar.",
+                "id": "v13_biyo_9"
+        },
     {
-        "id": "v13_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Alkoliklerde sıklıkla görülen 'Wernicke-Korsakoff' sendromu, alkolün bağırsak emilimini bozduğu HANGİ VİTAMİNİN ağır eksikliği sonucunda beynin enerji krizine girmesiyle oluşur?",
-        "options": [
-            "B1 Vitamini (Tiamin)",
-            "B2 Vitamini (Riboflavin)",
-            "B3 Vitamini (Niasin)",
-            "B6 Vitamini (Piridoksin)",
-            "C Vitamini"
-        ],
-        "answer": "B1 Vitamini (Tiamin)",
-        "correctAnswer": 0,
-        "explanation": "Tiamin (B1); Pirüvat Dehidrogenaz, Alfa-Ketoglutarat Dehidrogenaz (TCA döngüsü) ve Transketolaz gibi beynin enerji üretimi için HAYATİ enzimlerin koenzimidir (TPP - Tiamin Pirofosfat). Alkolikler B1 vitamini ememez, beyin glukozu yakamaz ve harabiyete uğrar. Bu hastalara acilde şeker vermeden ÖNCE MUTLAKA B1 vitamini iğnesi yapılmalıdır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Safra kesesi ameliyatı olan bir hastada bağırsağa akan safra tuzlarının etki mekanizması inceleniyor. Primer safra asitlerinin pKa değerini düşürerek bağırsak pH seviyesinde iyonize olmalarını ve güçlü birer 'deterjan' gibi etki etmelerini sağlamak amacıyla karaciğerde hangi moleküllerle konjuge edildikleri saptanır?",
+                "options": [
+                        "Glukuronik asit ve Sülfat",
+                        "Sistein ve Metiyonin",
+                        "Glisin ve Taurin",
+                        "Karnitin ve Kreatin",
+                        "Asetil-CoA ve Koenzim Q"
+                ],
+                "answer": "Glisin ve Taurin",
+                "correctAnswer": 2,
+                "explanation": "Primer safra asitleri karaciğerden salgılanmadan önce glisin veya taurin ile konjuge edilirler. Bu işlem onların bağırsakta deterjan etkisini (yağ emülsifikasyonunu) artırır.",
+                "id": "v13_biyo_10"
+        },
     {
-        "id": "v13_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı hemoglobin yıkımı sonucu oluşan bilirubin, bağırsaklara safra ile döküldükten sonra bakteriler tarafından oksitlenerek DIŞKININ normal kahverengi rengini veren HANGİ bileşiğe dönüştürülür?",
-        "options": [
-            "Ürobilinojen",
-            "Sterkobilin",
-            "Biliverdin",
-            "Porfirin",
-            "Ürik asit"
-        ],
-        "answer": "Sterkobilin",
-        "correctAnswer": 1,
-        "explanation": "Bağırsaktaki bakteriler bilirubini önce renksiz ürobilinojene, sonra da oksitleyerek kahverengi 'Sterkobilin'e çevirirler ve dışkıya o klasik rengini verirler. (Ürobilinojenin bir kısmı geri emilip böbrekten idrara atılır ve havayla temas edince sarı renkli Ürobilin olur)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Doğum indüksiyonu için oksitosin infüzyonu yapılan bir hastanın uterus kontraksiyonları düzenleniyor. Doğum sürecinde oksitosin haricinde, doğum kanalının ve pelvik bağların (simfizis pubis) biyokimyasal olarak gevşemesini (relaksasyon) sağlayarak fötusun geçişini kolaylaştıran hormon hangisidir?",
+                "options": [
+                        "Prolaktin",
+                        "Relaksin",
+                        "Progesteron",
+                        "Östradiol",
+                        "Koryonik Somatomammotropin"
+                ],
+                "answer": "Relaksin",
+                "correctAnswer": 1,
+                "explanation": "Doğum anında bağ dokusu ve pelvik eklemlerin gevşemesini, serviksin açılmasını kolaylaştıran hormon Relaksin'dir.",
+                "id": "v13_biyo_11"
+        },
 
     // --- TIBBİ FARMAKOLOJİ (7 Soru) ---
     {

@@ -3,170 +3,170 @@ window.examsData = window.examsData || {};
 const v9Part2 = [
     // --- TIBBİ BİYOKİMYA (11 Soru) ---
     {
-        "id": "v9_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda kan şekerini normal seviyelerde tutmak için karaciğerde glukoneogenez başlar. Aşağıdaki moleküllerden hangisi insanlarda glukoneogenez için bir öncül olarak KULLANILAMAZ?",
-        "options": [
-            "Laktat",
-            "Gliserol",
-            "Asetil-CoA (Yağ asitlerinden gelen)",
-            "Glukojenik amino asitler (Alanin vb.)",
-            "Pirüvat"
-        ],
-        "answer": "Asetil-CoA (Yağ asitlerinden gelen)",
-        "correctAnswer": 2,
-        "explanation": "İnsanlarda çift karbonlu yağ asitlerinin yıkımıyla oluşan Asetil-CoA, Pirüvat Dehidrogenaz reaksiyonu tersinmez (irreverzibl) olduğu için pirüvata dönüşemez ve bu nedenle net olarak glukoz yapımında (glukoneogenezde) KULLANILAMAZ."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Mide ülseri şikayetiyle başvuran hastada, asit sekresyonunun fizyolojik regülasyonu araştırılıyor. Mide antrumundaki G hücrelerinden salgılanıp paryetal hücrelerden HCl salgısını doğrudan uyaran gastrointestinal hormon hangisidir?",
+                "options": [
+                        "Sekretin",
+                        "Kolesistokinin (CCK)",
+                        "GIP",
+                        "Motilin",
+                        "Gastrin"
+                ],
+                "answer": "Gastrin",
+                "correctAnswer": 4,
+                "explanation": "Gastrin, mide antrumundaki G hücrelerinden salgılanır ve paryetal hücrelerden asit (HCl) salgısını uyarır.",
+                "id": "v9_biyo_1"
+        },
     {
-        "id": "v9_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Oksidatif fosforilasyon sırasında mitokondriyal iç zarda proton gradiyenti oluşturulur. Ancak 'ayırıcı ajanlar' adı verilen maddeler bu gradiyenti bozarak ATP sentezini durdurur ve enerjinin sadece ISI olarak açığa çıkmasına neden olurlar. Vücutta özellikle kahverengi yağ dokusunda bulunan doğal ayırıcı protein aşağıdakilerden hangisidir?",
-        "options": [
-            "Termogenin (UCP-1)",
-            "Oligomisin",
-            "Siyanür",
-            "Karbonmonoksit",
-            "Antimisin A"
-        ],
-        "answer": "Termogenin (UCP-1)",
-        "correctAnswer": 0,
-        "explanation": "Termogenin (Uncoupling protein 1 / UCP-1), kahverengi yağ dokusu mitokondrilerinde bulunur. Protonları ATP sentaz üzerinden değil kendi üzerinden geçirerek (uncoupling yaparak) enerjiyi ATP yerine vücut ısısı olarak yayar (non-shivering termogenez)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Metabolik sendrom ve obezite araştırmasına katılan 40 yaşındaki vücut kitle indeksi (VKİ) yüksek bir hastanın kan tahlillerinde, insülin duyarlılığını artıran ve anti-aterojenik olan bir adipokinin seviyesinin sağlıklı bireylere göre paradoksal olarak daha DÜŞÜK olduğu saptanıyor. Bu hormon hangisidir?",
+                "options": [
+                        "Leptin",
+                        "Adiponektin",
+                        "Rezistin",
+                        "TNF-alfa",
+                        "IL-6"
+                ],
+                "answer": "Adiponektin",
+                "correctAnswer": 1,
+                "explanation": "Adiponektin, insülin duyarlılığını artıran koruyucu bir adipokindir. Obezitede leptin, rezistin ve inflamatuar sitokinler artarken, adiponektin kan düzeyi azalan nadir adipokinlerdendir.",
+                "id": "v9_biyo_2"
+        },
     {
-        "id": "v9_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kolesterolün safra asitlerine dönüşümünde hız kısıtlayıcı olan ve karaciğerde gerçekleşen enzim reaksiyonu aşağıdakilerden hangisidir?",
-        "options": [
-            "Kolesterol 7-alfa hidroksilaz",
-            "HMG-CoA Redüktaz",
-            "HMG-CoA Sentaz",
-            "Asetil-CoA Karboksilaz",
-            "Tiyolaz"
-        ],
-        "answer": "Kolesterol 7-alfa hidroksilaz",
-        "correctAnswer": 0,
-        "explanation": "Karaciğerde kolesterolün safra asitlerine çevrilmesindeki ilk ve hız kısıtlayıcı basamak 'Kolesterol 7-alfa hidroksilaz' (CYP7A1) enzimi tarafından katalizlenir. Bu reaksiyon için C vitamini de gereklidir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "45 yaşında obezite ve hipertansiyonu olan erkek hastanın koroner anjiyografisinde aterosklerotik plaklar tespit ediliyor. Plak oluşum sürecinde, subendotelyal aralığa sızarak oksitlenen LDL moleküllerini fagositoz yoluyla sınırsızca alıp 'köpük hücresine' (foam cell) dönüşen hücrelerin yüzeyindeki reseptör aşağıdakilerden hangisidir?",
+                "options": [
+                        "LDL reseptörü",
+                        "GLUT-4",
+                        "Çöpçü (Scavenger) reseptörler",
+                        "Toll-like reseptör 4",
+                        "VLDL reseptörü"
+                ],
+                "answer": "Çöpçü (Scavenger) reseptörler",
+                "correctAnswer": 2,
+                "explanation": "Makrofajlar ox-LDL'yi scavenger (çöpçü - CD36, SR-A) reseptörlerle fagositoz yoluyla alarak Köpük Hücrelerine dönüşür. Bu reseptörlerin down-regülasyonu olmadığı için lipid alımı durmaz.",
+                "id": "v9_biyo_3"
+        },
     {
-        "id": "v9_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı amonyak toksisitesi beyin hücrelerine zarar verir. Amonyak, beyinde hangi amino asit ile birleşerek çok miktarda Glutamin oluşturur ve bu durum astrositlerde osmotik ödeme yol açar?",
-        "options": [
-            "Alanin",
-            "Glutamat",
-            "Aspartat",
-            "Arjinin",
-            "Sitrüllin"
-        ],
-        "answer": "Glutamat",
-        "correctAnswer": 1,
-        "explanation": "Beyinde üre döngüsü yoktur. Amonyak detoksifikasyonu temel olarak astrositlerde 'Glutamin sentetaz' enzimi ile Amonyak + Glutamat -> Glutamin reaksiyonuyla olur. Aşırı amonyakta biriken Glutamin hücre içi osmolariteyi artırıp beyin ödemine sebep olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Dört aylık erkek bebek, solunum sıkıntısı ve ilerleyici kas güçsüzlüğü ile getiriliyor. Ekokardiyografisinde kalp kasında ciddi kalınlaşma (kardiyomegali) tespit ediliyor. Kas biyopsisinde lizozomlar içinde masif glikojen birikimi saptanan bu hastada hangi lizozomal enzim eksiktir?",
+                "options": [
+                        "Glikoz-6-fosfataz",
+                        "Kas glikojen fosforilaz",
+                        "Alfa-1,4-glukozidaz (Asit maltaz)",
+                        "Galaktoz-1-fosfat üridil transferaz",
+                        "Aldolaz B"
+                ],
+                "answer": "Alfa-1,4-glukozidaz (Asit maltaz)",
+                "correctAnswer": 2,
+                "explanation": "Tip 2 Glikojen Depo Hastalığı (Pompe hastalığı), lizozomal alfa-1,4-glukozidaz eksikliği sonucu gelişir ve kardiyomegali, kas zayıflığı ile seyreder.",
+                "id": "v9_biyo_4"
+        },
     {
-        "id": "v9_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Tricarboxylic acid döngüsünde hem enzim kompleksi olarak görev yapan hem de Elektron Taşıma Sistemi'nin bir parçası olan enzim hangisidir?",
-        "options": [
-            "İzositrat dehidrogenaz",
-            "Alfa-ketoglutarat dehidrogenaz",
-            "Süksinat dehidrogenaz",
-            "Malat dehidrogenaz",
-            "Sitrat sentaz"
-        ],
-        "answer": "Süksinat dehidrogenaz",
-        "correctAnswer": 2,
-        "explanation": "Süksinat dehidrogenaz, TCA döngüsünde süksinatı fumarata çevirirken açığa çıkan elektronları FAD üzerinden FADH2'ye aktarır. Aynı zamanda bu enzim mitokondri iç zarına gömülüdür ve ETS'nin Kompleks II'si olarak görev yapar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Orta yaşlı bir hasta, uzun yıllardır devam eden sırt ve bel ağrısı şikayetiyle başvuruyor. Çekilen grafilerde disk aralıklarında kalsifikasyonlar görülüyor. Hastanın idrarı bir kaba alınıp havayla temas edecek şekilde bekletildiğinde tamamen siyah renge dönüşüyor. Aynı zamanda kulak kıkırdaklarında koyu renkli pigment (okronozis) saptanıyor. Bu hastalığın patofizyolojisinden sorumlu biriken metabolit aşağıdakilerden hangisidir?",
+                "options": [
+                        "Fenilpirüvik asit",
+                        "Lösin ve Valin",
+                        "Homojentisik asit",
+                        "Homosistein",
+                        "Ürik asit"
+                ],
+                "answer": "Homojentisik asit",
+                "correctAnswer": 2,
+                "explanation": "Alkaptonüri, homojentisik asit oksidaz enziminin eksikliğidir. Biriken homojentisik asit idrarın bekletildiğinde siyaha dönmesine ve bağ dokusunda okronozis birikimine neden olur.",
+                "id": "v9_biyo_5"
+        },
     {
-        "id": "v9_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Alkaptonüri hastalarında Homojentisat oksidaz enzimi eksiktir. Bu hastalıkta idrarın havayla temas edince kararmasına ve kıkırdaklarda siyah pigment birikimine neden olan metabolit aşağıdaki hangi amino asidin yıkım yolağından köken alır?",
-        "options": [
-            "Triptofan",
-            "Tirozin (ve Fenilalanin)",
-            "Metiyonin",
-            "Dallı zincirli amino asitler (Valin, Lösin, İzolösin)",
-            "Histidin"
-        ],
-        "answer": "Tirozin (ve Fenilalanin)",
-        "correctAnswer": 1,
-        "explanation": "Alkaptonüri, fenilalanin ve tirozin yıkım yolağında yer alan homojentisik asit oksidaz enziminin eksikliğinde görülür. Homojentisik asit birikir; idrarda havayla okside olunca siyah renk verir ve dokularda (eklem, kıkırdak) birikerek okronozise neden olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "35 yaşındaki sağlıklı bir kişi, 2 gündür hiçbir şey yemediği bir açlık (post-absorptif) durumundadır. Bu uzamış açlık sürecinde kas proteinlerinin yıkımını yavaşlatmak ve beynin enerji ihtiyacını karşılamak üzere karaciğerden sentezlenerek kana verilen alternatif enerji kaynağı aşağıdakilerden hangisidir?",
+                "options": [
+                        "Serbest yağ asitleri",
+                        "Laktat",
+                        "Keton cisimleri",
+                        "Gliserol",
+                        "Glikojen"
+                ],
+                "answer": "Keton cisimleri",
+                "correctAnswer": 2,
+                "explanation": "Uzun süreli açlıkta karaciğerde artan yağ asidi oksidasyonu sonucu Asetil-CoA birikir ve Ketogenez artar. Beyin enerji kaynağı olarak glukozdan keton cisimlerine geçer, böylece kas proteini yıkımı yavaşlatılır.",
+                "id": "v9_biyo_6"
+        },
     {
-        "id": "v9_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "DNA çift sarmalında, nükleotid dizisindeki sitozinlerin metillenmesi genellikle hangi biyokimyasal/epigenetik sonuca yol açar?",
-        "options": [
-            "DNA replikasyonunun hızlanmasına",
-            "Gen ekspresyonunun (transkripsiyonun) baskılanmasına (susturulmasına)",
-            "DNA tamir mekanizmalarının durmasına",
-            "mRNA'nın daha hızlı sentezlenmesine",
-            "Mutasyon oranının azalmasına"
-        ],
-        "answer": "Gen ekspresyonunun (transkripsiyonun) baskılanmasına (susturulmasına)",
-        "correctAnswer": 1,
-        "explanation": "DNA metilasyonu (özellikle promoter bölgelerindeki CpG adacıklarının metillenmesi) epigenetik bir mekanizmadır ve genellikle o genin transkripsiyon faktörlerince okunmasını engelleyerek genin baskılanmasına (gene silencing) yol açar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Periferik dokularda tiroid hormon metabolizması inceleniyor. Hastaya T4 hormonu verilmesine rağmen hücresel etkinin zayıf olduğu görülüyor. Dokularda biyolojik aktivitesi düşük olan prohormon T4'ü, asıl aktif form olan T3'e çeviren enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Tiroid Peroksidaz",
+                        "Na+/I- Simporter",
+                        "5'-Deiyodinaz",
+                        "Sitokrom P450",
+                        "Tirozin Hidroksilaz"
+                ],
+                "answer": "5'-Deiyodinaz",
+                "correctAnswer": 2,
+                "explanation": "Karaciğer ve böbrek gibi dokularda bulunan 5'-Deiyodinaz enzimi, T4'ün dış halkasındaki iyodu kopararak onu hücre içi etkisi güçlü olan T3'e dönüştürür.",
+                "id": "v9_biyo_7"
+        },
     {
-        "id": "v9_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Glikoliz yolunun en önemli hız kısıtlayıcı enzimi olan Fosfofruktokinaz-1, hücre içi hangi molekülün artışıyla EN GÜÇLÜ şekilde aktive olur?",
-        "options": [
-            "ATP",
-            "Sitrat",
-            "Fruktoz 2,6-bifosfat",
-            "Glukagon",
-            "Asetil-CoA"
-        ],
-        "answer": "Fruktoz 2,6-bifosfat",
-        "correctAnswer": 2,
-        "explanation": "Fruktoz 2,6-bifosfat, PFK-1 enziminin en güçlü (ve en önemli) allosterik aktivatörüdür. İnsülin sayesinde sentezi artar ve glikolizi hızlandırır. ATP ve Sitrat ise PFK-1'i inhibe eder."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Nükleer hormon reseptörlerinin genetik dizilimi araştırılıyor. Reseptörün DNA üzerinde bağlanacağı bölgeyi tanıması ve spesifik gen sekanslarına tutunması, reseptör yapısındaki hangi bölge veya yapı sayesinde gerçekleşir?",
+                "options": [
+                        "Hormon Yanıt Elemanı (HRE)",
+                        "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                        "N-Terminal AF-1 transaktivasyon alanı",
+                        "G proteini alfa alt birimi",
+                        "Ligand bağlayıcı bölge (LBD)"
+                ],
+                "answer": "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                "correctAnswer": 1,
+                "explanation": "Hücre içi (nükleer/sitoplazmik) reseptörlerin DNA bağlayıcı bölgeleri (DBD), 'çinko parmak' yapıları içerir ve DNA'nın spesifik dizilerine bağlanmayı sağlar.",
+                "id": "v9_biyo_8"
+        },
     {
-        "id": "v9_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hem sentezi yolunda hız kısıtlayıcı olan, mitokondride gerçekleşen ve porfiri hastalıklarıyla da yakından ilişkili olan ALA sentaz enzimi, reaksiyonu gerçekleştirmek için koenzim olarak hangi vitamine ihtiyaç duyar?",
-        "options": [
-            "B1 Vitamini (Tiamin)",
-            "B3 Vitamini (Niasin / NAD)",
-            "B6 Vitamini (Piridoksal fosfat - PLP)",
-            "B12 Vitamini (Kobalamin)",
-            "C Vitamini"
-        ],
-        "answer": "B6 Vitamini (Piridoksal fosfat - PLP)",
-        "correctAnswer": 2,
-        "explanation": "ALA sentaz enzimi (Glisin + Süksinil CoA -> ALA reaksiyonunu katalizler), koenzim olarak B6 vitamininin aktif formu olan piridoksal fosfata (PLP) mutlak ihtiyaç duyar. B6 vitamini eksikliğinde (örneğin İzoniyazid kullanımı sonucu) sideroblastik anemi gelişir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Multipl Miyelom tanısı alan yaşlı bir hastada kemik ağrıları ve böbrek fonksiyonlarında bozulma saptanıyor. Hastanın idrarında, filtre olan hafif zincir immünoglobulinlerin reabsorpsiyon kapasitesini aşarak idrara çıkması durumu ('overflow' proteinüri) tespit ediliyor. Dipstick (strip) testi yapıldığında protein sonucu ne olarak beklenir?",
+                "options": [
+                        "Dipstick testi bu proteinleri saptamaz (Negatif/Eser çıkar)",
+                        "Dipstick testi Bence-Jones proteinine çok spesifiktir, +4 pozitif çıkar",
+                        "Nitrit ile birlikte pozitifleşir",
+                        "Sadece alkali pH'da pozitif çıkar",
+                        "İdrarın rengini pembeye boyar"
+                ],
+                "answer": "Dipstick testi bu proteinleri saptamaz (Negatif/Eser çıkar)",
+                "correctAnswer": 0,
+                "explanation": "İdrar dipstick testi temel olarak albümini saptar. Multipl miyelomdaki Bence-Jones proteinleri (hafif zincirler) gibi diğer proteinlerde strip testi negatif veya sadece eser miktarda pozitif çıkar.",
+                "id": "v9_biyo_9"
+        },
     {
-        "id": "v9_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Apolipoproteinlerden hangisi ekstrahepatik dokulardaki LDL reseptörlerine bağlanarak, LDL kolesterolün hücre içine alınmasını sağlayan ana ligant proteindir?",
-        "options": [
-            "Apo A-I",
-            "Apo B-48",
-            "Apo B-100",
-            "Apo C-II",
-            "Apo E"
-        ],
-        "answer": "Apo B-100",
-        "correctAnswer": 2,
-        "explanation": "Apo B-100, karaciğerde sentezlenen VLDL, IDL ve LDL'nin yapısında bulunur. LDL reseptörü tarafından tanınan ve LDL'nin periferik doku hücrelerine (ve karaciğere) endositozla alınmasını sağlayan esas proteindir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Ağır bir bakteriyel piyelonefrit (böbrek enfeksiyonu) geçiren hastanın idrar tahlilinde bol lökosit tespit ediliyor. İdrar dipstick testinde iltihap hücrelerinin varlığını (piyüri) enzim aktivitesi üzerinden dolaylı olarak kanıtlayan test parametresi aşağıdakilerden hangisidir?",
+                "options": [
+                        "Nitrit testi",
+                        "Lökosit Esteraz testi",
+                        "Hem/Peroksidaz testi",
+                        "Protein (Albumin) testi",
+                        "pH ölçümü"
+                ],
+                "answer": "Lökosit Esteraz testi",
+                "correctAnswer": 1,
+                "explanation": "Lökosit esteraz testi, idrardaki parçalanmış veya sağlam nötrofillerdeki esteraz enzimini saptar. İdrar yolu iltihabının (piyüri) hızlı biyokimyasal göstergesidir.",
+                "id": "v9_biyo_10"
+        },
     {
-        "id": "v9_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Glikozun hücre içine girmesini sağlayan GLUT proteinlerinden hangisi, İNSÜLİN hormonuna bağımlı olarak çalışır ve çizgili kas ile yağ dokusunda bulunur?",
-        "options": [
-            "GLUT-1",
-            "GLUT-2",
-            "GLUT-3",
-            "GLUT-4",
-            "GLUT-5"
-        ],
-        "answer": "GLUT-4",
-        "correctAnswer": 3,
-        "explanation": "GLUT-4, iskelet kası, kalp kası ve yağ dokusunda bulunan, hücre zarına yerleşimi ve aktivitesi insüline bağımlı olan tek glikoz taşıyıcısıdır. Diğerleri (GLUT-1, 2, 3 vb.) insülinden bağımsız (sürekli) çalışır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Acil serviste status epileptikus geçiren hastaya merkezi sinir sistemindeki ana inhibitör nörotransmitter üzerinden etki eden bir ilaç (benzodiazepin) veriliyor. Beyindeki bu en önemli inhibitör nörotransmitter (GABA), hangi amino asidin dekarboksilasyonu sonucu sentezlenir?",
+                "options": [
+                        "Glisin",
+                        "Tirozin",
+                        "Glutamat",
+                        "Triptofan",
+                        "Histidin"
+                ],
+                "answer": "Glutamat",
+                "correctAnswer": 2,
+                "explanation": "GABA (Gama-aminobütirik asit), beyindeki ana eksitatör nörotransmitter olan Glutamatın, glutamat dekarboksilaz enzimi ile karbondioksit kaybetmesi (dekarboksilasyon) sonucu oluşur.",
+                "id": "v9_biyo_11"
+        },
 
     // --- TIBBİ FARMAKOLOJİ (7 Soru) ---
     {

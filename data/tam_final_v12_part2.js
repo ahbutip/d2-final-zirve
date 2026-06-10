@@ -3,170 +3,170 @@ window.examsData = window.examsData || {};
 const v12Part2 = [
     // --- TIBBİ BİYOKİMYA (11 Soru) ---
     {
-        "id": "v12_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki metabolik olaylardan hangisi, kanda glukoz seviyesi düştüğünde karaciğerde glukoz ÜRETİLMESİNİ sağlayan de novo sentez yoludur?",
-        "options": [
-            "Glikoliz",
-            "Glukoneogenez",
-            "Glikojenez",
-            "Glikojenoliz",
-            "Pentoz Fosfat Yolu"
-        ],
-        "answer": "Glukoneogenez",
-        "correctAnswer": 1,
-        "explanation": "Glukoneogenez, karbonhidrat olmayan (Laktat, Gliserol, Glukojenik Amino Asitler) öncül maddelerden yeni glukoz moleküllerinin sentezlenmesi işlemidir. Açlığın erken dönemlerinde glikojen depoları (Glikojenoliz) kan şekerini korurken, uzun süren açlıklarda beynin tek besin kaynağı Glukoneogenez ile üretilir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli bir enfeksiyon tablosuyla hastaneye yatırılan hastanın laboratuvar testlerinde akut faz reaktanları inceleniyor. Aşağıdaki plazma proteinlerinden hangisinin bu hastada inflamasyona yanıt olarak kan düzeyinin artması beklenmez?",
+                "options": [
+                        "C-Reaktif Protein (CRP)",
+                        "Haptoglobin",
+                        "Fibrinojen",
+                        "Albumin",
+                        "Ferritin"
+                ],
+                "answer": "Albumin",
+                "correctAnswer": 3,
+                "explanation": "Albumin bir negatif akut faz reaktanıdır; inflamasyon, enfeksiyon veya doku hasarı durumunda sentezi azalır. CRP, Haptoglobin, Fibrinojen ve Ferritin pozitif akut faz reaktanlarıdır.",
+                "id": "v12_biyo_1"
+        },
     {
-        "id": "v12_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Mitokondrideki Elektron Transfer Zincirinde, elektronları Kompleks I ve Kompleks II'den alıp Kompleks III'e taşıyan LİPİT yapısındaki hareketli elektron taşıyıcısı aşağıdakilerden hangisidir?",
-        "options": [
-            "Sitokrom c",
-            "Koenzim Q (Ubikinon)",
-            "NADH",
-            "FADH2",
-            "ATP Sentaz"
-        ],
-        "answer": "Koenzim Q (Ubikinon)",
-        "correctAnswer": 1,
-        "explanation": "Elektron Transport Zincirindeki (Solunum zinciri) iki hareketli taşıyıcıdan biri Ubikinon (Koenzim Q), diğeri Sitokrom C'dir. Sitokrom c, zarlar arası boşlukta bulunan küçük bir proteinken; Koenzim Q mitokondri iç zarının lipid tabakası içinde yüzebilen yağ yapılı (izoprenoid) tek elektron taşıyıcısıdır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Yenidoğan döneminde tuz kaybı, kusma ve genital organlarda virilizasyon (erkekleşme) şikayetiyle getirilen bir kız bebekte Konjenital Adrenal Hiperplazi (KAH) tanısı konuluyor. Adrenal kortekste kortizol ve aldosteron sentezinin durup, yolun androjenlere kaymasına yol açan en sık görülen enzim eksikliği hangisidir?",
+                "options": [
+                        "Kolesterol Desmolaz",
+                        "Tirozin Hidroksilaz",
+                        "11-beta hidroksilaz",
+                        "17-alfa hidroksilaz",
+                        "21-hidroksilaz"
+                ],
+                "answer": "21-hidroksilaz",
+                "correctAnswer": 4,
+                "explanation": "En sık görülen Konjenital Adrenal Hiperplazi (KAH) nedeni 21-hidroksilaz enzim eksikliğidir. Kortizol ve aldosteron sentezlenemez, prekürsörler androjenlere dönüşür.",
+                "id": "v12_biyo_2"
+        },
     {
-        "id": "v12_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "DNA dizisinden mRNA'nın sentezlenmesi olayına 'Transkripsiyon' denir. Ökaryotik hücrelerde bu işlemi gerçekleştiren, inhibitör olarak 'Alfa-Amanitin' tarafından güçlü bir şekilde bloke edilen enzim hangisidir?",
-        "options": [
-            "DNA Polimeraz I",
-            "RNA Polimeraz II",
-            "RNA Polimeraz I",
-            "RNA Polimeraz III",
-            "Telomeraz"
-        ],
-        "answer": "RNA Polimeraz II",
-        "correctAnswer": 1,
-        "explanation": "Ökaryotlarda proteinleri kodlayan mRNA'nın sentezini 'RNA Polimeraz II' gerçekleştirir. Ölümcül Köy Göçüren (Amanita phalloides) mantarının toksini olan alfa-amanitin, özellikle RNA Pol II'ye bağlanıp onu bloke eder, hücre protein üretemez ve karaciğer yetmezliğinden ölüm gerçekleşir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Pankreas beta hücrelerinde insülin salınım mekanizması incelenen deneysel bir çalışmada, hücre içine giren glukozun glikolizle yıkılarak ATP oranını artırdığı gözleniyor. Beta hücresinden insülin ekzositozunu tetikleyen bir sonraki fizyolojik adım aşağıdakilerden hangisidir?",
+                "options": [
+                        "Voltaj kapılı kalsiyum kanallarının kapanması",
+                        "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                        "Sodyum-potasyum pompasının aktivasyonu",
+                        "Glukagon salınımının artması",
+                        "Kalsiyumun hücre dışına pompalanması"
+                ],
+                "answer": "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                "correctAnswer": 1,
+                "explanation": "Beta hücresinde oluşan ATP, hücre membranındaki ATP-duyarlı Potasyum (K+) kanallarını kapatır. Bu durum membranı depolarize ederek kalsiyum kanallarının açılmasına ve insülin salınımına yol açar.",
+                "id": "v12_biyo_3"
+        },
     {
-        "id": "v12_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı pürin yıkımına veya atılımının bozulmasına bağlı olarak, eklemlerde 'Ürik Asit' kristallerinin birikmesiyle karakterize edilen inflamatuar hastalık aşağıdakilerden hangisidir?",
-        "options": [
-            "Romatoid Artrit",
-            "Osteoartrit",
-            "Gut Hastalığı",
-            "Lesh-Nyhan Sendromu",
-            "Kalsiyum Pirofosfat Artriti (Yalancı Gut)"
-        ],
-        "answer": "Gut Hastalığı",
-        "correctAnswer": 2,
-        "explanation": "Gut hastalığı, nükleik asitlerin (Adenin ve Guanin) son yıkım ürünü olan Ürik Asidin kanda aşırı yükselmesi (Hiperürisemi) sonucu, eklem içi (sinovyal sıvı) ve yumuşak dokularda kristalleşerek şiddetli mikrokristalin artrit (iltihap) yapmasıdır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli baş ağrısı, çarpıntı ve terleme atakları ile acil servise başvuran hastada adrenal medulla kaynaklı bir tümör olan feokromositoma şüpheleniliyor. Bu hastada tanıyı kesinleştirmek için 24 saatlik idrarda bakılması gereken katekolamin yıkım son ürünü aşağıdakilerden hangisidir?",
+                "options": [
+                        "5-HIAA",
+                        "VMA (Vanilmandelik asit)",
+                        "Homojentisik asit",
+                        "Ürik asit",
+                        "Kreatinin"
+                ],
+                "answer": "VMA (Vanilmandelik asit)",
+                "correctAnswer": 1,
+                "explanation": "Katekolaminlerin (adrenalin, noradrenalin) MAO ve COMT enzimleri ile yıkımları sonucunda idrarla atılan son yıkım ürünleri VMA (Vanilmandelik asit) ve metanefrinlerdir. Feokromositoma tanısında ölçülürler.",
+                "id": "v12_biyo_4"
+        },
     {
-        "id": "v12_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Vücutta kolesterolün büyük bir kısmı lipoproteinler içinde taşınır. Karaciğerden çevre dokulara kolesterol TAŞIYAN ve fazlalığı ateroskleroza neden olduğu için 'kötü kolesterol' olarak bilinen lipoprotein hangisidir?",
-        "options": [
-            "Şilomikron",
-            "VLDL",
-            "LDL (Düşük Dansiteli Lipoprotein)",
-            "HDL (Yüksek Dansiteli Lipoprotein)",
-            "IDL"
-        ],
-        "answer": "LDL (Düşük Dansiteli Lipoprotein)",
-        "correctAnswer": 2,
-        "explanation": "LDL (Kötü Kolesterol), taşıdığı yüksek kolesterol yükünü (büyük bir kısmı kolesterol esteridir) çevre dokulara ve maalesef damar duvarı endotelinin altına bırakarak plak oluşumuna (ateroskleroz) neden olur. HDL (İyi Kolesterol) ise damardaki bu kolesterolü süpürerek (tersine kolesterol taşıması) karaciğere safra yapımı için geri götürür."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "35 yaşındaki sağlıklı bir kişi, 2 gündür hiçbir şey yemediği bir açlık (post-absorptif) durumundadır. Bu uzamış açlık sürecinde kas proteinlerinin yıkımını yavaşlatmak ve beynin enerji ihtiyacını karşılamak üzere karaciğerden sentezlenerek kana verilen alternatif enerji kaynağı aşağıdakilerden hangisidir?",
+                "options": [
+                        "Serbest yağ asitleri",
+                        "Laktat",
+                        "Keton cisimleri",
+                        "Gliserol",
+                        "Glikojen"
+                ],
+                "answer": "Keton cisimleri",
+                "correctAnswer": 2,
+                "explanation": "Uzun süreli açlıkta karaciğerde artan yağ asidi oksidasyonu sonucu Asetil-CoA birikir ve Ketogenez artar. Beyin enerji kaynağı olarak glukozdan keton cisimlerine geçer, böylece kas proteini yıkımı yavaşlatılır.",
+                "id": "v12_biyo_5"
+        },
     {
-        "id": "v12_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Klinik biyokimyada, kandaki Üre düzeyini ölçen ve böbrek fonksiyonunu değerlendirmede kullanılan 'BUN' değerindeki azot kaynağı metabolik olarak HANGİ bileşiklerden gelir?",
-        "options": [
-            "Yağ asitleri",
-            "Glikoz ve Galaktoz",
-            "Amino asitler",
-            "Kolesterol",
-            "Pürinler"
-        ],
-        "answer": "Amino asitler",
-        "correctAnswer": 2,
-        "explanation": "Üre, vücuttaki proteinlerin ve amino asitlerin yıkımı (deaminasyonu) sonucu ortaya çıkan çok zehirli Amonyağın (NH3), karaciğerdeki Üre Döngüsü ile zehirsiz (suda eriyen) hale getirilmiş şeklidir. Yani idrardaki/kandaki ürenin asıl kaynağı protein/amino asit yıkımıdır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Vücuda alınan toksik bir ksenobiyotik, karaciğerde mikrozomal enzimler tarafından inaktive edilmek isteniyor. Bu sürecin Faz I reaksiyonlarında, moleküle bir oksijen atomu eklenerek hidroksilasyon yapan ve ilacı Faz II'ye hazırlayan temel enzim sistemi hangisidir?",
+                "options": [
+                        "UDP-Glukuronil Transferaz",
+                        "Sitokrom P450 (CYP)",
+                        "Glutatyon S-Transferaz (GST)",
+                        "Monoamin Oksidaz (MAO)",
+                        "Sülfotransferaz"
+                ],
+                "answer": "Sitokrom P450 (CYP)",
+                "correctAnswer": 1,
+                "explanation": "Faz I reaksiyonları (modifikasyon, hidroksilasyon vb.) çoğunlukla mikrozomal Sitokrom P450 (CYP) enzim sistemi tarafından gerçekleştirilir. Amaç moleküle reaktif fonksiyonel bir grup eklemektir.",
+                "id": "v12_biyo_6"
+        },
     {
-        "id": "v12_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Yeni doğanlarda sıklıkla görülen ve fototerapi ile tedavi edilen 'Yenidoğan Sarılığı'nda, derinin sararmasına neden olan bilirubin TİPİ genellikle hangisidir?",
-        "options": [
-            "Konjuge (Direkt) Bilirubin",
-            "Ankonjuge (İndirekt) Bilirubin",
-            "Ürobilinojen",
-            "Sterkobilin",
-            "Biliverdin"
-        ],
-        "answer": "Ankonjuge (İndirekt) Bilirubin",
-        "correctAnswer": 1,
-        "explanation": "Yenidoğanda karaciğerin UDP-Glukuronil transferaz enzimi henüz tam olgunlaşmamıştır (fizyolojik immatürite). Bebek alyuvarları (HbF) hızlı parçalanınca oluşan 'Ankonjuge (İndirekt)' bilirubin karaciğerde işlenemez (konjuge edilemez) ve kanda birikir. Bu indirekt bilirubin yağda çözünür olduğu için beyne geçme (Kernikterus) tehlikesi vardır, bu yüzden mavi ışıkla (fototerapiyle) suda eriyen izomerlerine parçalanır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Tiroid bezi cerrahisi geçiren bir hastadan alınan dokuda tiroid hormon sentez süreci izleniyor. İyodun tirozin kalıntılarına eklenerek MİT ve DİT oluşumu (Organifikasyon), hücresel anatomide nerede gerçekleşir?",
+                "options": [
+                        "Mitokondri matriksinde",
+                        "Folikül lümenindeki kolloidde",
+                        "Sitoplazmada",
+                        "Golgi veziküllerinde",
+                        "Hücre çekirdeğinde"
+                ],
+                "answer": "Folikül lümenindeki kolloidde",
+                "correctAnswer": 1,
+                "explanation": "Tiroid hormon sentez süreci (oksidasyon, organifikasyon ve kenetlenme) folikül hücresinin içinde değil, hücre dışında yani folikül lümenindeki kolloidde TPO enzimi aracılığıyla gerçekleşir.",
+                "id": "v12_biyo_7"
+        },
     {
-        "id": "v12_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Diyabetik hastalarda uzun dönem kan şekeri kontrolünü değerlendirmek için kan tahlilinde ölçülen ve glukozun hemoglobine enzimatik OLMAYAN bir şekilde bağlandığı parametrenin adı nedir?",
-        "options": [
-            "Fruktozamin",
-            "HbA1c (Glikozile Hemoglobin)",
-            "C-Peptid",
-            "Oral Glukoz Tolerans Testi (OGTT)",
-            "Açlık Kan Şekeri (AKŞ)"
-        ],
-        "answer": "HbA1c (Glikozile Hemoglobin)",
-        "correctAnswer": 1,
-        "explanation": "Kanda yüksek seyreden glukoz, hemoglobinin N-terminalindeki valin amino asidine non-enzimatik (kendiliğinden) olarak bağlanır. Buna Glikozile (veya Glikatlanmış) Hemoglobin (HbA1c) denir. Eritrositin ömrü yaklaşık 120 gün olduğu için, bu değer hastanın son 2-3 aydaki ortalama şeker kontrolünün tartışmasız en güvenilir göstergesidir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Akromegali şüphesiyle değerlendirilen bir hastada Büyüme Hormonunun (GH) hücre içi sinyal yolağını kullanma biçimi inceleniyor. Kendi içsel tirozin kinaz aktivitesi olmayan ancak hücre içinde hedefine ulaşmak için sitoplazmik non-reseptör kinazları kullanan bu hormonun aktivasyon yolağı aşağıdakilerden hangisidir?",
+                "options": [
+                        "cAMP / Protein Kinaz A",
+                        "IP3 / Kalsiyum",
+                        "JAK-STAT yolağı",
+                        "cGMP / Protein Kinaz G",
+                        "Fosfolipaz A2"
+                ],
+                "answer": "JAK-STAT yolağı",
+                "correctAnswer": 2,
+                "explanation": "Büyüme hormonu ve prolaktin, sitokin reseptör ailesindendir. Kendi tirozin kinaz aktiviteleri yoktur, hücre içinde JAK-STAT yolağını aktive ederek etki gösterirler.",
+                "id": "v12_biyo_8"
+        },
     {
-        "id": "v12_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Klinik enzimolojide, Prostat kanserinin tanısında ve tedavisinin takibinde kandaki seviyesi en çok kullanılan 'Tümör Belirteci' enzimi aşağıdakilerden hangisidir?",
-        "options": [
-            "Alkali Fosfataz (ALP)",
-            "Alanin Aminotransferaz (ALT)",
-            "Prostat Spesifik Antijen (PSA)",
-            "Amilaz",
-            "Kreatin Kinaz (CK-MB)"
-        ],
-        "answer": "Prostat Spesifik Antijen (PSA)",
-        "correctAnswer": 2,
-        "explanation": "PSA (Prostat Spesifik Antijen), aslında seminal sıvının vizkozitesini çözen bir proteaz enzimidir (Glikoprotein). Prostat hastalıklarında (kanser, hiperplazi, enfeksiyon) kana karışır. Prostat kanserinde yüksek oranda kanda artar ve hem taramada hem de tedavi sonrası hastalığın nüksetmesini (tekrarlamasını) izlemede kullanılır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Multipl Miyelom tanısı alan yaşlı bir hastada kemik ağrıları ve böbrek fonksiyonlarında bozulma saptanıyor. Hastanın idrarında, filtre olan hafif zincir immünoglobulinlerin reabsorpsiyon kapasitesini aşarak idrara çıkması durumu ('overflow' proteinüri) tespit ediliyor. Dipstick (strip) testi yapıldığında protein sonucu ne olarak beklenir?",
+                "options": [
+                        "Dipstick testi bu proteinleri saptamaz (Negatif/Eser çıkar)",
+                        "Dipstick testi Bence-Jones proteinine çok spesifiktir, +4 pozitif çıkar",
+                        "Nitrit ile birlikte pozitifleşir",
+                        "Sadece alkali pH'da pozitif çıkar",
+                        "İdrarın rengini pembeye boyar"
+                ],
+                "answer": "Dipstick testi bu proteinleri saptamaz (Negatif/Eser çıkar)",
+                "correctAnswer": 0,
+                "explanation": "İdrar dipstick testi temel olarak albümini saptar. Multipl miyelomdaki Bence-Jones proteinleri (hafif zincirler) gibi diğer proteinlerde strip testi negatif veya sadece eser miktarda pozitif çıkar.",
+                "id": "v12_biyo_9"
+        },
     {
-        "id": "v12_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Asit-Baz bozukluklarında, aşırı kusma veya idrar söktürücü ilaç kullanımı sonucu kan pH'ının YÜKSELMESİ tablosuna ne ad verilir?",
-        "options": [
-            "Solunumsal Asidoz",
-            "Metabolik Asidoz",
-            "Solunumsal Alkaloz",
-            "Metabolik Alkaloz",
-            "Ketoasidoz"
-        ],
-        "answer": "Metabolik Alkaloz",
-        "correctAnswer": 3,
-        "explanation": "Mide suyunda bol miktarda Hidrojen (H+) ve Klor (Cl-) bulunur. Aşırı şiddetli kusmalarda vücut çok fazla asit kaybeder, kan bazikleşir (pH > 7.45) ve kanda Bikarbonat yükselir. Bu tabloya böbrek/metabolizma kaynaklı bir asit kaybı olduğu için 'Metabolik Alkaloz' denir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Safra yolları tamamen tıkanmış (tıkanma sarılığı) bir hastanın idrar tetkikinde makroskobik olarak idrarın çay renginde olduğu gözleniyor. İdrar dipstick testinde aşağıdaki bulgulardan hangisinin saptanması bu tanıyı destekler?",
+                "options": [
+                        "Sadece indirekt (anjuge olmayan) bilirubin pozitifliği",
+                        "Keton cisimlerinde artış",
+                        "Sadece konjuge (direkt) bilirubin pozitifliği",
+                        "Ürobilinojen seviyesinde belirgin artış",
+                        "Nitrit pozitifliği"
+                ],
+                "answer": "Sadece konjuge (direkt) bilirubin pozitifliği",
+                "correctAnswer": 2,
+                "explanation": "Tıkanma sarılığında safranın bağırsağa akışı durur, kanda artan suda çözünür konjuge (direkt) bilirubin idrara geçer. Ürobilinojen ise bağırsakta oluşamadığı için idrarda azalır/yoktur.",
+                "id": "v12_biyo_10"
+        },
     {
-        "id": "v12_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı miktarda alkol tüketimi sonucunda karaciğerde 'Alkol Dehidrogenaz' ve 'Aldehit Dehidrogenaz' enzimleri tam kapasiteyle çalışır. Bu yıkım işlemi sırasında Hücre içindeki HANGİ KOENZİMİN aşırı derecede ARTMASI, karaciğerde yağlanmaya ve hipoglisemiye neden olur?",
-        "options": [
-            "NAD+",
-            "NADH",
-            "FAD",
-            "ATP",
-            "Koenzim A"
-        ],
-        "answer": "NADH",
-        "correctAnswer": 1,
-        "explanation": "Etanol karaciğerde metabolize edilirken, elektronları alınarak Asetaldehite ve Asetata dönüştürülür. Bu elektronlar NAD+ tarafından alınır ve kucak dolusu 'NADH' üretilir. Hücrede NADH/NAD+ oranının felaket derecede yükselmesi, NAD+ bekleyen diğer yolları kilitler: Laktat pirüvata dönemez (Laktik asidoz ve Hipoglisemi), yağ asitleri yıkılamaz (Karaciğer yağlanması)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Multipl Skleroz (MS) atağı geçiren hastanın MR görüntülerinde merkezi sinir sisteminde miyelin kaybına işaret eden beyaz cevher plakları tespit ediliyor. MS gibi demiyelinizan hastalıklarda hücresel bağışıklığın saldırdığı MSS miyelininin temel proteinlerinden biri aşağıdakilerden hangisidir?",
+                "options": [
+                        "Miyelin Bazik Proteini (MBP)",
+                        "Kolajen Tip I",
+                        "Sfingomiyelinaz",
+                        "Astrositik Glial Fibriler Asidik Protein (GFAP)",
+                        "Oligodendrosit lipidik reseptörü"
+                ],
+                "answer": "Miyelin Bazik Proteini (MBP)",
+                "correctAnswer": 0,
+                "explanation": "MSS miyelininin temel proteinleri Miyelin Bazik Proteini (MBP) ve Proteolipid Protein (PLP)'dir. Multipl Skleroz (MS) gibi hastalıklarda bu miyelin proteinlerine karşı otoimmün reaksiyon gelişir.",
+                "id": "v12_biyo_11"
+        },
 
     // --- TIBBİ FARMAKOLOJİ (7 Soru) ---
     {

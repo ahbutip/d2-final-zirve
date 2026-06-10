@@ -3,170 +3,170 @@ window.examsData = window.examsData || {};
 const v10Part2 = [
     // --- TIBBİ BİYOKİMYA (11 Soru) ---
     {
-        "id": "v10_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Metabolizmada Pentoz Fosfat Yolu'nun esas biyokimyasal amacı aşağıdakilerden hangisidir?",
-        "options": [
-            "Hücrenin ATP ihtiyacının tamamını karşılamak",
-            "Glukozdan laktat üreterek anaerobik enerji sağlamak",
-            "Yağ asidi ve steroid sentezi için gerekli NADPH'ı ve nükleotid sentezi için gerekli Riboz-5-Fosfat'ı üretmek",
-            "Glikojeni doğrudan glikoza çevirmek",
-            "Üre döngüsüne amino grubu sağlamak"
-        ],
-        "answer": "Yağ asidi ve steroid sentezi için gerekli NADPH'ı ve nükleotid sentezi için gerekli Riboz-5-Fosfat'ı üretmek",
-        "correctAnswer": 2,
-        "explanation": "Pentoz fosfat yolu enerji (ATP) üreten veya harcayan bir yol değildir. Esas amacı indirgeyici eşdeğer olan NADPH'ı (yağ asidi/steroid sentezi ve antioksidan glutatyon redüksiyonu için) ve nükleik asitlerin (DNA/RNA) yapısına girecek olan 5 karbonlu Riboz-5-fosfat şekerini üretmektir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Mide ülseri şikayetiyle başvuran hastada, asit sekresyonunun fizyolojik regülasyonu araştırılıyor. Mide antrumundaki G hücrelerinden salgılanıp paryetal hücrelerden HCl salgısını doğrudan uyaran gastrointestinal hormon hangisidir?",
+                "options": [
+                        "Sekretin",
+                        "Kolesistokinin (CCK)",
+                        "GIP",
+                        "Motilin",
+                        "Gastrin"
+                ],
+                "answer": "Gastrin",
+                "correctAnswer": 4,
+                "explanation": "Gastrin, mide antrumundaki G hücrelerinden salgılanır ve paryetal hücrelerden asit (HCl) salgısını uyarır.",
+                "id": "v10_biyo_1"
+        },
     {
-        "id": "v10_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Mitokondride Elektron Taşıma Sistemi'nde, Kompleks I, III ve IV üzerinden hidrojenler zarlar arası boşluğa pompalanırken, elektronların Kompleks III'ten Kompleks IV'e taşınmasını sağlayan, suda çözünebilen ve mobil olan elektron taşıyıcısı protein hangisidir?",
-        "options": [
-            "Koenzim Q (Ubikinon)",
-            "Sitokrom c",
-            "FMN (Flavin mononükleotid)",
-            "NADH",
-            "Demir-sülfür (Fe-S) merkezleri"
-        ],
-        "answer": "Sitokrom c",
-        "correctAnswer": 1,
-        "explanation": "Sitokrom c, mitokondri iç zarının dış yüzeyine gevşekçe bağlı, suda çözünen küçük bir hemoproteindir. Elektronları Kompleks III'ten alıp Kompleks IV'e (Sitokrom oksidaz) taşır. Koenzim Q (Ubikinon) ise lipit yapılı mobil bir taşıyıcıdır ve Kompleks I/II'den Kompleks III'e taşır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli bir enfeksiyon tablosuyla hastaneye yatırılan hastanın laboratuvar testlerinde akut faz reaktanları inceleniyor. Aşağıdaki plazma proteinlerinden hangisinin bu hastada inflamasyona yanıt olarak kan düzeyinin artması beklenmez?",
+                "options": [
+                        "C-Reaktif Protein (CRP)",
+                        "Haptoglobin",
+                        "Fibrinojen",
+                        "Albumin",
+                        "Ferritin"
+                ],
+                "answer": "Albumin",
+                "correctAnswer": 3,
+                "explanation": "Albumin bir negatif akut faz reaktanıdır; inflamasyon, enfeksiyon veya doku hasarı durumunda sentezi azalır. CRP, Haptoglobin, Fibrinojen ve Ferritin pozitif akut faz reaktanlarıdır.",
+                "id": "v10_biyo_2"
+        },
     {
-        "id": "v10_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki lipit fraksiyonlarından hangisi, kan dolaşımında en fazla 'Trigliserit' taşıyan ve yemeklerden sonra lenf yoluyla kana geçerek plazmanın bulanık görünmesine neden olan lipoproteindir?",
-        "options": [
-            "HDL (Yüksek yoğunluklu lipoprotein)",
-            "LDL (Düşük yoğunluklu lipoprotein)",
-            "Şilomikronlar",
-            "VLDL (Çok düşük yoğunluklu lipoprotein)",
-            "IDL (Ara yoğunluklu lipoprotein)"
-        ],
-        "answer": "Şilomikronlar",
-        "correctAnswer": 2,
-        "explanation": "Şilomikronlar, bağırsaklardan emilen diyet (ekzojen) trigliseritlerini taşıyan, hacimce en büyük, yoğunlukça en hafif lipoproteinlerdir. Yemekten sonra kana (lenf üzerinden) geçerek serumu bulanıklaştırırlar. VLDL ise karaciğerde sentezlenen endojen trigliseritleri taşır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Dört aylık erkek bebek, solunum sıkıntısı ve ilerleyici kas güçsüzlüğü ile getiriliyor. Ekokardiyografisinde kalp kasında ciddi kalınlaşma (kardiyomegali) tespit ediliyor. Kas biyopsisinde lizozomlar içinde masif glikojen birikimi saptanan bu hastada hangi lizozomal enzim eksiktir?",
+                "options": [
+                        "Glikoz-6-fosfataz",
+                        "Kas glikojen fosforilaz",
+                        "Alfa-1,4-glukozidaz (Asit maltaz)",
+                        "Galaktoz-1-fosfat üridil transferaz",
+                        "Aldolaz B"
+                ],
+                "answer": "Alfa-1,4-glukozidaz (Asit maltaz)",
+                "correctAnswer": 2,
+                "explanation": "Tip 2 Glikojen Depo Hastalığı (Pompe hastalığı), lizozomal alfa-1,4-glukozidaz eksikliği sonucu gelişir ve kardiyomegali, kas zayıflığı ile seyreder.",
+                "id": "v10_biyo_3"
+        },
     {
-        "id": "v10_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kolajen sentezinde, protein zincirindeki prolin ve lizin amino asitlerinin hidroksilasyonu çapraz bağların kurulması için şarttır. Bu hidroksilasyon reaksiyonlarında 'Prozil hidroksilaz' enzimine kofaktör olarak gereken ve eksikliğinde Skorbüt hastalığına yol açan vitamin hangisidir?",
-        "options": [
-            "A vitamini (Retinol)",
-            "B1 vitamini (Tiamin)",
-            "C vitamini (Askorbik asit)",
-            "D vitamini (Kalsiferol)",
-            "K vitamini (Menakinon)"
-        ],
-        "answer": "C vitamini (Askorbik asit)",
-        "correctAnswer": 2,
-        "explanation": "C vitamini (Askorbik asit), kolajen sentezinde prolin ve lizin kalıntılarının hidroksilasyonunu yapan enzimlerin (hidroksilazların) aktif merkezindeki demiri (Fe+2) indirgenmiş formda tutar. Eksikliğinde stabil kolajen yapılamaz; diş etlerinde kanama, zayıf yara iyileşmesi ve kemik anormallikleri (Skorbüt hastalığı) görülür."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Metabolik sendrom ve obezite araştırmasına katılan 40 yaşındaki vücut kitle indeksi (VKİ) yüksek bir hastanın kan tahlillerinde, insülin duyarlılığını artıran ve anti-aterojenik olan bir adipokinin seviyesinin sağlıklı bireylere göre paradoksal olarak daha DÜŞÜK olduğu saptanıyor. Bu hormon hangisidir?",
+                "options": [
+                        "Leptin",
+                        "Adiponektin",
+                        "Rezistin",
+                        "TNF-alfa",
+                        "IL-6"
+                ],
+                "answer": "Adiponektin",
+                "correctAnswer": 1,
+                "explanation": "Adiponektin, insülin duyarlılığını artıran koruyucu bir adipokindir. Obezitede leptin, rezistin ve inflamatuar sitokinler artarken, adiponektin kan düzeyi azalan nadir adipokinlerdendir.",
+                "id": "v10_biyo_4"
+        },
     {
-        "id": "v10_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Karaciğerde amonyağın üreye dönüştürüldüğü Üre Döngüsü'nün hız kısıtlayıcı ana enzimi, allosterik olarak hangi molekül tarafından aktive edilir?",
-        "options": [
-            "N-Asetilglutamat (NAG)",
-            "Ornitin",
-            "Sitrüllin",
-            "Arjinin",
-            "Fumarat"
-        ],
-        "answer": "N-Asetilglutamat (NAG)",
-        "correctAnswer": 0,
-        "explanation": "Karbamoil Fosfat Sentetaz I (CPS-I), üre döngüsünün mitokondride gerçekleşen ilk ve hız kısıtlayıcı basamağıdır. Mutlak surette pozitif allosterik aktivatörü olan 'N-Asetilglutamat'a (NAG) ihtiyaç duyar. NAG olmadan CPS-I inaktiftir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Genç bir erkek hasta, erken yaşta geçirdiği miyokard enfarktüsü ve göz merceğinin yerinden kayması (lens luksasyonu) bulgularıyla değerlendiriliyor. Fizik muayenesinde uzun ekstremiteler ve iskelet anormallikleri saptanıyor. Laboratuvarda trombofiliye yatkınlık yaratan bir metabolitin kan düzeyi oldukça yüksek bulunuyor. Sistatiyonin beta-sentaz eksikliğinin neden olduğu bu tabloda biriken toksik ara ürün hangisidir?",
+                "options": [
+                        "Amonyak",
+                        "Homosistein",
+                        "Sistin",
+                        "Metilmalonik asit",
+                        "Fenilasetat"
+                ],
+                "answer": "Homosistein",
+                "correctAnswer": 1,
+                "explanation": "Homosistinüri, sistatiyonin beta-sentaz eksikliğinde gelişir. Homosistein birikir; bu da erken yaşta tromboz, lens luksasyonu ve iskelet anormalliklerine yol açar.",
+                "id": "v10_biyo_5"
+        },
     {
-        "id": "v10_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Vücutta purin nükleotidlerinin yıkımının son ürünü olan ve kanda aşırı biriktiğinde eklemlerde kristalleşerek 'Gut Hastalığı'na neden olan molekül hangisidir?",
-        "options": [
-            "Üre",
-            "Kreatinin",
-            "Ürik asit",
-            "Amonyak",
-            "Hipoksantin"
-        ],
-        "answer": "Ürik asit",
-        "correctAnswer": 2,
-        "explanation": "İnsanlarda purin (AMP ve GMP) bazlarının yıkımı (ksantin oksidaz enzimi yardımıyla) 'Ürik Asit' (Ürat) oluşumuyla sonlanır. Ürik asit suda az çözünür; kanda artarsa (genelde böbrekten az atılmaya bağlı) eklem içi sıvıda monosodyum ürat kristalleri halinde çökerek akut inflamasyonlu Gut ataklarını başlatır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Vegan diyetiyle beslenen ve uzun süredir mide koruyucu (asit baskılayıcı) ilaç kullanan bir hastada, ekstremitelerde uyuşma, yorgunluk ve laboratuvarda megaloblastik anemi tespit ediliyor. Kanda homosistein ve metilmalonik asit düzeyleri artmış bulunuyor. Bu tabloya yol açan vitamin eksikliği aşağıdakilerden hangisidir?",
+                "options": [
+                        "B6 Vitamini (Piridoksin)",
+                        "B9 Vitamini (Folik Asit)",
+                        "B12 Vitamini (Kobalamin)",
+                        "B7 Vitamini (Biotin)",
+                        "C Vitamini (Askorbik Asit)"
+                ],
+                "answer": "B12 Vitamini (Kobalamin)",
+                "correctAnswer": 2,
+                "explanation": "B12 eksikliği pernisiyöz/megaloblastik anemi ve nörolojik bulgularla seyreder. Metilmalonil-CoA mutaz koenzimi olduğu için eksikliğinde folik asit eksikliğinden farklı olarak nörolojik hasar ve metilmalonik asit artışı görülür.",
+                "id": "v10_biyo_6"
+        },
     {
-        "id": "v10_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerin enerji üretmek için sahip oldukları TEK metabolik yol hangisidir?",
-        "options": [
-            "Aerobik glikoliz",
-            "Krebs (TCA) döngüsü",
-            "Anaerobik glikoliz",
-            "Beta-oksidasyon (Yağ asidi yıkımı)",
-            "Glukoneogenez"
-        ],
-        "answer": "Anaerobik glikoliz",
-        "correctAnswer": 2,
-        "explanation": "Olgun eritrositlerin mitokondrileri ve çekirdekleri yoktur. Bu nedenle Krebs döngüsü, ETS veya yağ asidi oksidasyonu yapamazlar. Tüm enerjilerini (ATP) sitoplazmadaki glukozun laktata kadar yıkıldığı 'Anaerobik glikoliz' yoluyla elde ederler."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Büyüme geriliği nedeniyle tetkik edilen hastada, endokrin değerlendirmede steroid yapılı bir hormonun etki gösteremediği saptanıyor. Normal şartlarda bu steroid yapılı hormonlar (Grup I) hedef hücrelerde reseptörlerine bağlandıktan sonra spesifik genlerin transkripsiyonunu değiştirmek üzere DNA üzerindeki hangi bölgeye bağlanırlar?",
+                "options": [
+                        "G-Proteini bağlı sarmallara",
+                        "Hormon Yanıt Elemanı (HRE)",
+                        "Adenilat siklaz katalitik bölgesine",
+                        "IP3-DAG bağlanma kasetine",
+                        "Sinyal peptidaz bölgesine"
+                ],
+                "answer": "Hormon Yanıt Elemanı (HRE)",
+                "correctAnswer": 1,
+                "explanation": "Steroid hormonlar hücre içine girip nükleer/sitoplazmik reseptörlerine bağlanır. Bu kompleks daha sonra DNA üzerindeki Hormon Yanıt Elemanı (HRE) bölgesine bağlanarak gen transkripsiyonunu düzenler.",
+                "id": "v10_biyo_7"
+        },
     {
-        "id": "v10_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Glikoz moleküllerinin karaciğer ve kasta depo formu olan 'Glikojen' sentezlenirken, zinciri uzatmak için ortama glikoz moleküllerini ekleyen 'Glikojen Sentaz' enziminin kullandığı aktif glikoz molekülü aşağıdakilerden hangisidir?",
-        "options": [
-            "Glukoz-6-fosfat",
-            "UDP-Glukoz (Üridin difosfat glukoz)",
-            "Fruktoz-1,6-bifosfat",
-            "Glukoz-1-fosfat",
-            "ATP-Glukoz"
-        ],
-        "answer": "UDP-Glukoz (Üridin difosfat glukoz)",
-        "correctAnswer": 1,
-        "explanation": "Glikojen sentaz, glikoz moleküllerini var olan glikojen primerine alfa-1,4 glikozidik bağlarıyla eklerken, glikozun aktif şekli olan ve enerjice zengin 'UDP-Glukoz' molekülünü kullanır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Tiroid hormonlarının (T3 ve T4) sentez aşamasında, kandaki inorganik iyodür aktif olarak folikül hücresine alınır ve lümen sınırında aktif moleküler iyoda oksitlenir. Bu oksidasyon reaksiyonunu gerçekleştiren ve sıklıkla otoimmün tiroiditte (Hashimoto) antikor gelişen majör enzim hangisidir?",
+                "options": [
+                        "Na+/I- Simporter (NIS)",
+                        "Tiroglobulin",
+                        "Tiroid Peroksidaz (TPO)",
+                        "5'-Deiyodinaz",
+                        "Monoiyodotirozin kinaz"
+                ],
+                "answer": "Tiroid Peroksidaz (TPO)",
+                "correctAnswer": 2,
+                "explanation": "İyodürün aktif iyoda oksitlenmesi, organifikasyon ve kenetlenme (coupling) aşamalarının tamamı folikül lümen sınırında bulunan Tiroid Peroksidaz (TPO) enzimi tarafından gerçekleştirilir.",
+                "id": "v10_biyo_8"
+        },
     {
-        "id": "v10_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Yağ asitlerinin beta-oksidasyonu için sitoplazmadan mitokondri matriksine taşınmaları gerekir. Uzun zincirli yağ asitlerini mitokondri iç zarından geçiren bu özel taşıyıcı molekül aşağıdakilerden hangisidir?",
-        "options": [
-            "Karnitin",
-            "Sitrat",
-            "Kreatin",
-            "Malat",
-            "Kolesistokinin"
-        ],
-        "answer": "Karnitin",
-        "correctAnswer": 0,
-        "explanation": "Uzun zincirli yağ asitleri (Açil-CoA formunda) mitokondri iç zarından doğrudan geçemezler. 'Karnitin mekiği' sistemi kullanılarak, Karnitin molekülüne bağlanıp (Açil-karnitin olarak) matrikse taşınırlar ve orada tekrar Açil-CoA'ya çevrilerek Beta-oksidasyona girerler."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Yoğun egzersiz yapan bir sporcunun rutin idrar tahlilinde, mikroskobik incelemede idrar sedimentinde nadir miktarda 'Hyalin silendirler' görülmüştür. Hastada hiçbir böbrek yetmezliği belirtisi yoktur. Hyalin silendirlerin zeminini oluşturan ve böbrek tübüllerinden sentezlenen temel mukoprotein aşağıdakilerden hangisidir?",
+                "options": [
+                        "Bence-Jones proteini",
+                        "Tamm-Horsfall mukoproteini (Üromodülin)",
+                        "Mikroalbumin",
+                        "Transferrin",
+                        "Fibrinojen"
+                ],
+                "answer": "Tamm-Horsfall mukoproteini (Üromodülin)",
+                "correctAnswer": 1,
+                "explanation": "Böbrek tübüllerinde oluşan tüm silendirlerin (casts) zemin matriksini tübül hücrelerinin salgıladığı Tamm-Horsfall mukoproteini (Üromodülin) oluşturur.",
+                "id": "v10_biyo_9"
+        },
     {
-        "id": "v10_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Açlıkta yağ asidi yıkımının artmasıyla karaciğerde sentezlenen ve beyin, kalp, kas gibi ekstrahepatik dokular tarafından enerji kaynağı olarak kullanılabilen keton cisimleri aşağıdakilerden hangileridir?",
-        "options": [
-            "Pirüvat, Laktat, Alanin",
-            "Asetoasetat, Beta-hidroksibütirat, Aseton",
-            "Asetil-CoA, Süksinil-CoA, Malonil-CoA",
-            "Oksaloasetat, Malat, Sitrat",
-            "Gliserol, Kolesterol, Safra asitleri"
-        ],
-        "answer": "Asetoasetat, Beta-hidroksibütirat, Aseton",
-        "correctAnswer": 1,
-        "explanation": "Ketojenez karaciğer mitokondrilerinde gerçekleşir. Üretilen üç keton cismi: Asetoasetat (ilk sentezlenen), Beta-hidroksibütirat (en bol bulunan, kanda dolaşan) ve Aseton'dur (biyolojik olarak kullanılamaz, uçucudur, nefesten atılır)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Hipovolemik şok tablosuyla gelen travma hastasında kan basıncını dengelemek için böbrek jukstaglomerüler aparatı tarafından renin salgılanıyor. Renin enzimi kanda hangi prekürsör proteini doğrudan parçalayarak Anjiyotensin I'e dönüştürür?",
+                "options": [
+                        "Anjiyotensin dönüştürücü enzim (ACE)",
+                        "Anjiyotensinojen",
+                        "Aldosteron",
+                        "Vazopressin",
+                        "Albumin"
+                ],
+                "answer": "Anjiyotensinojen",
+                "correctAnswer": 1,
+                "explanation": "Renin, karaciğer kaynaklı bir plazma proteini olan anjiyotensinojeni Anjiyotensin I'e çevirir. Daha sonra akciğerlerdeki ACE, bunu Anjiyotensin II'ye dönüştürür.",
+                "id": "v10_biyo_10"
+        },
     {
-        "id": "v10_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hangi vitaminin eksikliğinde Wernicke-Korsakoff sendromu görülür ve bu vitamin eritrositlerde Transketolaz enziminin koenzimi olarak görev yapar?",
-        "options": [
-            "B1 Vitamini (Tiamin)",
-            "B2 Vitamini (Riboflavin)",
-            "B3 Vitamini (Niasin)",
-            "B9 Vitamini (Folik asit)",
-            "B12 Vitamini (Kobalamin)"
-        ],
-        "answer": "B1 Vitamini (Tiamin)",
-        "correctAnswer": 0,
-        "explanation": "B1 vitamini (Tiamin, TPP), Pirüvat dehidrogenaz, Alfa-ketoglutarat dehidrogenaz ve Pentoz fosfat yolundaki Transketolaz enzimlerinin koenzimidir. Kronik alkoliklerde emilimi bozulduğunda ciddi nörolojik bulgularla seyreden Wernicke-Korsakoff sendromuna (ve Beriberi'ye) neden olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Doğum indüksiyonu için oksitosin infüzyonu yapılan bir hastanın uterus kontraksiyonları düzenleniyor. Doğum sürecinde oksitosin haricinde, doğum kanalının ve pelvik bağların (simfizis pubis) biyokimyasal olarak gevşemesini (relaksasyon) sağlayarak fötusun geçişini kolaylaştıran hormon hangisidir?",
+                "options": [
+                        "Prolaktin",
+                        "Relaksin",
+                        "Progesteron",
+                        "Östradiol",
+                        "Koryonik Somatomammotropin"
+                ],
+                "answer": "Relaksin",
+                "correctAnswer": 1,
+                "explanation": "Doğum anında bağ dokusu ve pelvik eklemlerin gevşemesini, serviksin açılmasını kolaylaştıran hormon Relaksin'dir.",
+                "id": "v10_biyo_11"
+        },
 
     // --- TIBBİ FARMAKOLOJİ (7 Soru) ---
     {

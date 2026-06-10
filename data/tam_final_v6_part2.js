@@ -10,171 +10,171 @@ const v6Part2 = [
     // --- BİYOKİMYA (11 Soru) ---
     // Mustafa Bozkurt (4 Soru: Kan prot, KH, Pankreas, Adrenal)
     {
-        "id": "v6_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Multipl Miyelom tanısı alan bir hastanın kan serum elektroforezinde, normalde geniş ve yayvan olması gereken bölgesinde dar tabanlı, çok sivri ve yüksek bir 'Monoklonal Pik' saptanmıştır. Bu sivri pik elektroforezin hangi bandında oluşur?",
-        "options": [
-            "Albumin bandında",
-            "Alfa-1 globulin bandında",
-            "Alfa-2 globulin bandında",
-            "Beta globulin bandında",
-            "Gama globulin bandında"
-        ],
-        "answer": "Gama globulin bandında",
-        "correctAnswer": 4,
-        "explanation": "Multipl Miyelom, plazma hücrelerinin kontrolsüz çoğalarak tek tip (monoklonal) immünoglobulin (antikor) ürettiği bir kanserdir. Antikorlar Gama bölgesinde yürüdükleri için bu bölgede sivri bir M piki gözlenir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Pankreas beta hücrelerinde insülin salınım mekanizması incelenen deneysel bir çalışmada, hücre içine giren glukozun glikolizle yıkılarak ATP oranını artırdığı gözleniyor. Beta hücresinden insülin ekzositozunu tetikleyen bir sonraki fizyolojik adım aşağıdakilerden hangisidir?",
+                "options": [
+                        "Voltaj kapılı kalsiyum kanallarının kapanması",
+                        "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                        "Sodyum-potasyum pompasının aktivasyonu",
+                        "Glukagon salınımının artması",
+                        "Kalsiyumun hücre dışına pompalanması"
+                ],
+                "answer": "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                "correctAnswer": 1,
+                "explanation": "Beta hücresinde oluşan ATP, hücre membranındaki ATP-duyarlı Potasyum (K+) kanallarını kapatır. Bu durum membranı depolarize ederek kalsiyum kanallarının açılmasına ve insülin salınımına yol açar.",
+                "id": "v6_biyo_1"
+        },
     {
-        "id": "v6_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Karbonhidrat metabolizmasında Pentoz Fosfat Yolu'nun hücre için sağladığı en önemli iki temel ürün aşağıdakilerden hangisidir?",
-        "options": [
-            "ATP ve Pirüvat",
-            "NADH ve FADH2",
-            "NADPH ve Riboz-5-Fosfat",
-            "Glikojen ve Laktat",
-            "Asetil-CoA ve Oksaloasetat"
-        ],
-        "answer": "NADPH ve Riboz-5-Fosfat",
-        "correctAnswer": 2,
-        "explanation": "Pentoz fosfat yolunun temel amacı enerji (ATP) üretmek DEĞİLDİR. Amacı yağ asidi sentezi ve antioksidan savunma için NADPH ile nükleotid/DNA sentezi için Riboz-5-fosfat üretmektir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Oral glukoz tolerans testi yapılan bir hastada, ağızdan verilen glukozun, damardan (intravenöz) verilen aynı miktar glukoza göre çok daha fazla insülin salınımına yol açtığı gözleniyor. Bu 'inkretin etkisinden' sorumlu olan ve bağırsak K hücrelerinden salgılanan hormon hangisidir?",
+                "options": [
+                        "GIP (Glukoza Bağımlı İnsülinotropik Peptid)",
+                        "Kolesistokinin",
+                        "Glukagon",
+                        "Sekretin",
+                        "Motilin"
+                ],
+                "answer": "GIP (Glukoza Bağımlı İnsülinotropik Peptid)",
+                "correctAnswer": 0,
+                "explanation": "Ağızdan glukoz alımında insülin salgısını artıran inkretin etkisinden K hücrelerinden salgılanan GIP (Glukoza Bağımlı İnsülinotropik Peptid) sorumludur.",
+                "id": "v6_biyo_2"
+        },
     {
-        "id": "v6_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Pankreas hormonlarından İnsülin sentezlenirken, proinsülinden koparılarak insülinle birlikte eşit miktarda kana salgılanan ve diyabet hastalarında pankreasın endojen insülin rezervini ölçmek için kullanılan peptit hangisidir?",
-        "options": [
-            "A Zinciri",
-            "B Zinciri",
-            "C-Peptit",
-            "Amilin",
-            "Glukagon"
-        ],
-        "answer": "C-Peptit",
-        "correctAnswer": 2,
-        "explanation": "Proinsülinin insüline (A ve B zincirleri) dönüşmesi için aradaki C-peptit koparılır. Dışarıdan enjeksiyonla alınan insülinde C-peptit bulunmadığı için, hastanın kendi ürettiği insülini ölçmede C-peptit kullanılır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli baş ağrısı, çarpıntı ve terleme atakları ile acil servise başvuran hastada adrenal medulla kaynaklı bir tümör olan feokromositoma şüpheleniliyor. Bu hastada tanıyı kesinleştirmek için 24 saatlik idrarda bakılması gereken katekolamin yıkım son ürünü aşağıdakilerden hangisidir?",
+                "options": [
+                        "5-HIAA",
+                        "VMA (Vanilmandelik asit)",
+                        "Homojentisik asit",
+                        "Ürik asit",
+                        "Kreatinin"
+                ],
+                "answer": "VMA (Vanilmandelik asit)",
+                "correctAnswer": 1,
+                "explanation": "Katekolaminlerin (adrenalin, noradrenalin) MAO ve COMT enzimleri ile yıkımları sonucunda idrarla atılan son yıkım ürünleri VMA (Vanilmandelik asit) ve metanefrinlerdir. Feokromositoma tanısında ölçülürler.",
+                "id": "v6_biyo_3"
+        },
     {
-        "id": "v6_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Adrenal korteks enzim eksiklikleri incelendiğinde, en sık görülen ve hem kortizol hem de aldosteron sentezinin durup tüm öncüllerin androjen üretimine kaydığı enzim eksikliği hangisidir?",
-        "options": [
-            "21-Alfa Hidroksilaz",
-            "11-Beta Hidroksilaz",
-            "17-Alfa Hidroksilaz",
-            "Kolesterol desmolaz",
-            "Aromataz"
-        ],
-        "answer": "21-Alfa Hidroksilaz",
-        "correctAnswer": 0,
-        "explanation": "21-alfa hidroksilaz eksikliği KAH'ın %90'ından fazlasını oluşturur. Kortizol ve aldosteron sentezlenemez (tuz kaybı), biriken prekürsörler androjenlere kayarak kız bebeklerde virilizasyona (erkekleşme) neden olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "45 yaşında obezite ve hipertansiyonu olan erkek hastanın koroner anjiyografisinde aterosklerotik plaklar tespit ediliyor. Plak oluşum sürecinde, subendotelyal aralığa sızarak oksitlenen LDL moleküllerini fagositoz yoluyla sınırsızca alıp 'köpük hücresine' (foam cell) dönüşen hücrelerin yüzeyindeki reseptör aşağıdakilerden hangisidir?",
+                "options": [
+                        "LDL reseptörü",
+                        "GLUT-4",
+                        "Çöpçü (Scavenger) reseptörler",
+                        "Toll-like reseptör 4",
+                        "VLDL reseptörü"
+                ],
+                "answer": "Çöpçü (Scavenger) reseptörler",
+                "correctAnswer": 2,
+                "explanation": "Makrofajlar ox-LDL'yi scavenger (çöpçü - CD36, SR-A) reseptörlerle fagositoz yoluyla alarak Köpük Hücrelerine dönüşür. Bu reseptörlerin down-regülasyonu olmadığı için lipid alımı durmaz.",
+                "id": "v6_biyo_4"
+        },
     // Diğer Biyokimya (7 Soru)
     {
-        "id": "v6_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda beynin enerji ihtiyacını karşılamak için karaciğerde yağ asitlerinin yıkılmasıyla sentezlenen ancak karaciğerin kendi mitokondrisinde tiyoforaz enzimi olmadığı için KULLANAMADIĞI enerji kaynağı hangisidir?",
-        "options": [
-            "Asetoasetat",
-            "Laktat",
-            "Glukoz",
-            "Palmitat",
-            "Pirüvat"
-        ],
-        "answer": "Asetoasetat",
-        "correctAnswer": 0,
-        "explanation": "Karaciğer asetoasetat ve beta-hidroksibutirat (keton cisimleri) sentezler ancak bunları yıkarak enerji elde edemez, kana verir. Çünkü keton yıkımı için gerekli tiyoforaz (süksinil CoA:asetoasetat CoA transferaz) enzimi karaciğerde yoktur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Vegan diyetiyle beslenen ve uzun süredir mide koruyucu (asit baskılayıcı) ilaç kullanan bir hastada, ekstremitelerde uyuşma, yorgunluk ve laboratuvarda megaloblastik anemi tespit ediliyor. Kanda homosistein ve metilmalonik asit düzeyleri artmış bulunuyor. Bu tabloya yol açan vitamin eksikliği aşağıdakilerden hangisidir?",
+                "options": [
+                        "B6 Vitamini (Piridoksin)",
+                        "B9 Vitamini (Folik Asit)",
+                        "B12 Vitamini (Kobalamin)",
+                        "B7 Vitamini (Biotin)",
+                        "C Vitamini (Askorbik Asit)"
+                ],
+                "answer": "B12 Vitamini (Kobalamin)",
+                "correctAnswer": 2,
+                "explanation": "B12 eksikliği pernisiyöz/megaloblastik anemi ve nörolojik bulgularla seyreder. Metilmalonil-CoA mutaz koenzimi olduğu için eksikliğinde folik asit eksikliğinden farklı olarak nörolojik hasar ve metilmalonik asit artışı görülür.",
+                "id": "v6_biyo_5"
+        },
     {
-        "id": "v6_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Krebs döngüsünün enzimlerinden hangisi mitokondriyal matrikste SERBEST OLARAK BULUNMAZ ve aynı zamanda Elektron Transport Zinciri'nin Kompleks II'sini oluşturur?",
-        "options": [
-            "Sitrat Sentaz",
-            "İzositrat Dehidrogenaz",
-            "Süksinat Dehidrogenaz",
-            "Malat Dehidrogenaz",
-            "Alfa-Ketoglutarat Dehidrogenaz"
-        ],
-        "answer": "Süksinat Dehidrogenaz",
-        "correctAnswer": 2,
-        "explanation": "Süksinat dehidrogenaz enzimi, mitokondri iç zarına sıkıca bağlıdır (TCA döngüsünün zardaki tek enzimidir) ve ETZ'de elektronları FADH2'den koenzim Q'ya aktaran Kompleks II olarak görev yapar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İki aylık kız bebek, gelişme geriliği ve nöbet geçirme şikayetiyle değerlendiriliyor. Ailesi bebeğin bezinden ağır bir fare küfü kokusu geldiğini fark ediyor. Bebeğin saçları yaşıtlarına göre çok daha sarı, gözleri mavidir. Bu hastada fenilalanin tirozine dönüşemediği için birikmektedir. Eksik olan enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Homojentisik asit oksidaz",
+                        "Tirozinaz",
+                        "Dallı zincirli alfa-keto asit dehidrogenaz",
+                        "Sistatiyonin beta-sentaz",
+                        "Fenilalanin Hidroksilaz"
+                ],
+                "answer": "Fenilalanin Hidroksilaz",
+                "correctAnswer": 4,
+                "explanation": "Fenilketonüride (PKU) Fenilalanin Hidroksilaz enzimi eksiktir. İdrarda küf/fare kokusu, zihinsel gerilik ve hipopigmentasyon (melanin azlığına bağlı sarı saç/mavi göz) karakteristiktir.",
+                "id": "v6_biyo_6"
+        },
     {
-        "id": "v6_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kanda demir taşınmasında görev alan ve bir molekülü 2 adet Fe+3 iyonu bağlayabilen spesifik plazma taşıyıcı proteini aşağıdakilerden hangisidir?",
-        "options": [
-            "Ferritin",
-            "Transferrin",
-            "Hemosiderin",
-            "Seruloplazmin",
-            "Haptoglobin"
-        ],
-        "answer": "Transferrin",
-        "correctAnswer": 1,
-        "explanation": "Demir kanda transferrin (Beta globulin fraksiyonu) aracılığıyla taşınır. Ferritin ise demirin hücre içindeki ana depo formudur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Tiroid bezi cerrahisi geçiren bir hastadan alınan dokuda tiroid hormon sentez süreci izleniyor. İyodun tirozin kalıntılarına eklenerek MİT ve DİT oluşumu (Organifikasyon), hücresel anatomide nerede gerçekleşir?",
+                "options": [
+                        "Mitokondri matriksinde",
+                        "Folikül lümenindeki kolloidde",
+                        "Sitoplazmada",
+                        "Golgi veziküllerinde",
+                        "Hücre çekirdeğinde"
+                ],
+                "answer": "Folikül lümenindeki kolloidde",
+                "correctAnswer": 1,
+                "explanation": "Tiroid hormon sentez süreci (oksidasyon, organifikasyon ve kenetlenme) folikül hücresinin içinde değil, hücre dışında yani folikül lümenindeki kolloidde TPO enzimi aracılığıyla gerçekleşir.",
+                "id": "v6_biyo_7"
+        },
     {
-        "id": "v6_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kolesterol sentezinin hız kısıtlayıcı basamağı olan ve Statin grubu kolesterol düşürücü ilaçlar tarafından inhibe edilen enzim hangisidir?",
-        "options": [
-            "HMG-CoA Sentaz",
-            "HMG-CoA Redüktaz",
-            "Squalen Epoksidaz",
-            "Asetil CoA Karboksilaz",
-            "Tiyolaz"
-        ],
-        "answer": "HMG-CoA Redüktaz",
-        "correctAnswer": 1,
-        "explanation": "Kolesterol sentezinde hız kısıtlayıcı basamak HMG-CoA'nın HMG-CoA Redüktaz ile Mevalonat'a dönüştürülmesidir. Statinler bu enzimi kompetitif inhibe ederler."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Büyüme geriliği nedeniyle tetkik edilen hastada, endokrin değerlendirmede steroid yapılı bir hormonun etki gösteremediği saptanıyor. Normal şartlarda bu steroid yapılı hormonlar (Grup I) hedef hücrelerde reseptörlerine bağlandıktan sonra spesifik genlerin transkripsiyonunu değiştirmek üzere DNA üzerindeki hangi bölgeye bağlanırlar?",
+                "options": [
+                        "G-Proteini bağlı sarmallara",
+                        "Hormon Yanıt Elemanı (HRE)",
+                        "Adenilat siklaz katalitik bölgesine",
+                        "IP3-DAG bağlanma kasetine",
+                        "Sinyal peptidaz bölgesine"
+                ],
+                "answer": "Hormon Yanıt Elemanı (HRE)",
+                "correctAnswer": 1,
+                "explanation": "Steroid hormonlar hücre içine girip nükleer/sitoplazmik reseptörlerine bağlanır. Bu kompleks daha sonra DNA üzerindeki Hormon Yanıt Elemanı (HRE) bölgesine bağlanarak gen transkripsiyonunu düzenler.",
+                "id": "v6_biyo_8"
+        },
     {
-        "id": "v6_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Glikojen yıkım hastalıklarından olan Von Gierke Hastalığı, karaciğer ve böbrekte hangi enzimin doğuştan eksikliğine bağlı olarak şiddetli açlık hipoglisemisine neden olur?",
-        "options": [
-            "Asit maltaz (Lizozomal alfa 1-4 glukozidaz)",
-            "Glikojen debranching (dal yıkıcı) enzim",
-            "Kas glikojen fosforilazı",
-            "Glukoz-6-Fosfataz",
-            "Fosfofruktokinaz"
-        ],
-        "answer": "Glukoz-6-Fosfataz",
-        "correctAnswer": 3,
-        "explanation": "Tip 1 Glikojen Depo Hastalığı (Von Gierke), karaciğerdeki glukoz-6-fosfataz enziminin eksikliğiyle oluşur. Karaciğer glikojeni yıkar ama serbest glukoza dönüştürüp kana veremez (şiddetli hipoglisemi)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Ağır bir bakteriyel piyelonefrit (böbrek enfeksiyonu) geçiren hastanın idrar tahlilinde bol lökosit tespit ediliyor. İdrar dipstick testinde iltihap hücrelerinin varlığını (piyüri) enzim aktivitesi üzerinden dolaylı olarak kanıtlayan test parametresi aşağıdakilerden hangisidir?",
+                "options": [
+                        "Nitrit testi",
+                        "Lökosit Esteraz testi",
+                        "Hem/Peroksidaz testi",
+                        "Protein (Albumin) testi",
+                        "pH ölçümü"
+                ],
+                "answer": "Lökosit Esteraz testi",
+                "correctAnswer": 1,
+                "explanation": "Lökosit esteraz testi, idrardaki parçalanmış veya sağlam nötrofillerdeki esteraz enzimini saptar. İdrar yolu iltihabının (piyüri) hızlı biyokimyasal göstergesidir.",
+                "id": "v6_biyo_9"
+        },
     {
-        "id": "v6_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Üre döngüsünün ilk ve hız kısıtlayıcı enzimi olan ve Karbamoil Fosfat sentezleyen enzimin hücre mitokondrisinde mutlak allosterik aktivatörü aşağıdakilerden hangisidir?",
-        "options": [
-            "N-Asetilglutamat (NAG)",
-            "Sitrat",
-            "Fruktoz 2,6-bisfosfat",
-            "ATP",
-            "Ornitin"
-        ],
-        "answer": "N-Asetilglutamat (NAG)",
-        "correctAnswer": 0,
-        "explanation": "CPS-I enziminin çalışabilmesi için N-Asetilglutamat'ın allosterik olarak bağlanması şarttır. Bu mekanizma yüksek proteinli diyet sonrası üre döngüsünü hızlandırır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Safra yolları tamamen tıkanmış (tıkanma sarılığı) bir hastanın idrar tetkikinde makroskobik olarak idrarın çay renginde olduğu gözleniyor. İdrar dipstick testinde aşağıdaki bulgulardan hangisinin saptanması bu tanıyı destekler?",
+                "options": [
+                        "Sadece indirekt (anjuge olmayan) bilirubin pozitifliği",
+                        "Keton cisimlerinde artış",
+                        "Sadece konjuge (direkt) bilirubin pozitifliği",
+                        "Ürobilinojen seviyesinde belirgin artış",
+                        "Nitrit pozitifliği"
+                ],
+                "answer": "Sadece konjuge (direkt) bilirubin pozitifliği",
+                "correctAnswer": 2,
+                "explanation": "Tıkanma sarılığında safranın bağırsağa akışı durur, kanda artan suda çözünür konjuge (direkt) bilirubin idrara geçer. Ürobilinojen ise bağırsakta oluşamadığı için idrarda azalır/yoktur.",
+                "id": "v6_biyo_10"
+        },
     {
-        "id": "v6_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Yağ asitlerinin beta-oksidasyonu için sitoplazmadan mitokondri matriksine taşınmasını sağlayan mekik sistem hangisidir?",
-        "options": [
-            "Gliserol-3-fosfat mekiği",
-            "Malat-Aspartat mekiği",
-            "Karnitin mekiği",
-            "Sitrat mekiği",
-            "Ornitin taşıyıcısı"
-        ],
-        "answer": "Karnitin mekiği",
-        "correctAnswer": 2,
-        "explanation": "Uzun zincirli yağ asitleri iç mitokondriyel membranı kendiliklerinden geçemezler; Karnitin-Palmitoil Transferaz (CPT) sistemi ile karnitine bağlanarak matrikse taşınırlar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Gebelikte maternal serum AFP (Alfa-Fetoprotein), hCG ve Östriol (E3) düzeyleri üçlü tarama testi olarak fetüsün sağlığı hakkında önemli bilgiler verir. Bu hormonlardan hangisi, öncelikle maternal ve fetal dolaşımdaki kolesterol prekürsörlerinin (fetal adrenal bezden gelen DHEA-S) plasentada enzimatik modifikasyonuyla sentezlenir ve özellikle fetal iyilik halinin spesifik göstergesidir?",
+                "options": [
+                        "Östriol (E3)",
+                        "hCG",
+                        "Progesteron",
+                        "Oksitosin",
+                        "Koryonik Somatomammotropin"
+                ],
+                "answer": "Östriol (E3)",
+                "correctAnswer": 0,
+                "explanation": "Östrojenler (özellikle Östriol - E3) plasentada maternal ve fetal (DHEA-S) kaynakların aromataz ile dönüştürülmesiyle sentezlenir. Düzeyleri fetal ünitenin iyilik haliyle (ve adrenal fonksiyonuyla) doğrudan ilişkilidir.",
+                "id": "v6_biyo_11"
+        },
 
     // --- FARMAKOLOJİ (7 Soru) ---
     // Yasemin Özatik (2 İlaç Etkileşimi)
@@ -701,65 +701,65 @@ const v6Part2 = [
     // --- DİĞERLERİ (10 Soru) ---
     // Biyofizik (4 Soru)
     {
-        "id": "v6_biyofizik_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarının biyofiziksel elektriksel modeli bir kondansatöre benzetilir. Hücre zarının 'Kapasitans' değerinin miyelin kılıf ile kaplandığında azalmasının sinir iletimine etkisi nedir?",
-        "options": [
-            "Aksiyon potansiyeli genliğini sıfıra indirir.",
-            "Aksiyon potansiyelinin akson boyunca iletim hızını ciddi oranda artırır.",
-            "Membranı tamamen yalıtkan yapıp iletimi durdurur.",
-            "Sadece ağrı duyusunun geçmesini sağlar.",
-            "Refrakter (Duyarsız) periyodu uzatır."
-        ],
-        "answer": "Aksiyon potansiyelinin akson boyunca iletim hızını ciddi oranda artırır.",
-        "correctAnswer": 1,
-        "explanation": "Miyelin kılıf, akson zarının membran kapasitansını (Cm) düşürür ve membran direncini (Rm) artırır. Böylece elektriksel yük zarın altına sızmaz ve düğümden düğüme atlayarak hızla ilerler (Sıçrayıcı iletim)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İntravenöz sıvı tedavisi alan hastada asit-baz dengesi inceleniyor. Vücutta fizyolojik bir çözeltideki H+ iyonu konsantrasyonu 40 nmol/L olarak tespit ediliyor. Bu değerin karşılık geldiği normal arteriyel kan pH değeri aşağıdakilerden hangisidir?",
+                "options": [
+                        "6.8",
+                        "7.0",
+                        "7.2",
+                        "7.4",
+                        "7.6"
+                ],
+                "answer": "7.4",
+                "correctAnswer": 3,
+                "explanation": "Normal plazma H+ konsantrasyonu 40 nmol/L'dir. pH formülünde (pH = -log[H+]) yerine konduğunda, bu değer tam olarak fizyolojik nörtal kan pH'sı olan 7.4'e karşılık gelir.",
+                "id": "v6_biyofizik_1"
+        },
     {
-        "id": "v6_biyofizik_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "X-Işınlarının maddeden geçerken dokuların yoğunluğuna göre soğurulması prensibinde, aşağıdaki yapılardan hangisi radyografide EN BEYAZ görünür?",
-        "options": [
-            "Akciğerlerdeki hava",
-            "Derialtı yağ dokusu",
-            "Kas dokusu",
-            "Kan sıvısı",
-            "Kemik (Kalsiyum)"
-        ],
-        "answer": "Kemik (Kalsiyum)",
-        "correctAnswer": 4,
-        "explanation": "Atom numarası ve yoğunluk arttıkça X-ışını soğurulması (absorbsiyon) artar ve film üzerinde beyaz (radyoopak) görüntü oluşur. En yoğun doku Kemiktir. Hava ise siyah (radyolusent) görünür."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Ciddi ishal nedeniyle acile başvuran bebekte aşırı miktarda bikarbonat kaybı olduğu saptanıyor. Kan gazı analizinde pH 7.25 olarak ölçülüyor. Asit-baz dengesizliğini kompanze etmek (düzeltmek) için hastanın vücudunda ortaya çıkması beklenen ilk (en hızlı tepki veren) fizyolojik yanıt sistemi hangisidir?",
+                "options": [
+                        "Böbreklerden HCO3- sentezi",
+                        "Solunumsal düzenleme (Hiperventilasyon)",
+                        "Karaciğerde laktat sentezinin artması",
+                        "Kimyasal tampon sistemlerinin anında devreye girmesi",
+                        "İdrarla amonyak atılımı"
+                ],
+                "answer": "Kimyasal tampon sistemlerinin anında devreye girmesi",
+                "correctAnswer": 3,
+                "explanation": "Asit-baz dengesini sağlayan mekanizmalar içinde saniyeler içinde tepki veren ilk savunma hattı 'Kimyasal Tampon Sistemleridir'. Solunum dakikalar, böbrekler ise saatler-günler içinde tepki verir.",
+                "id": "v6_biyofizik_2"
+        },
     {
-        "id": "v6_biyofizik_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Sıvıların yüzey gerilimi ile basınç arasındaki ilişkiyi açıklayan Laplace Yasasına göre, akciğer alveolleri gibi küresel yapılarda alveol yarıçapı küçüldükçe içindeki basınç ne olur?",
-        "options": [
-            "Azalır",
-            "Değişmez",
-            "Artar",
-            "Önce azalır sonra artar",
-            "Sıfıra iner"
-        ],
-        "answer": "Artar",
-        "correctAnswer": 2,
-        "explanation": "Laplace yasasına göre küre içindeki basınç yarıçapla (r) TERS orantılıdır. Yarıçap küçüldükçe büzme kuvveti/basınç ARTAR. Küçük alveolün kendi içine sönmesini sürfaktan önler."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Ciddi bir KOAH atağı geçiren 65 yaşındaki hasta, solunum sıkıntısı nedeniyle acile getiriliyor. Arteriyel kan gazında pH: 7.28, PCO2: 65 mmHg, ve HCO3: 28 mEq/L saptanıyor. Hücre dışı sıvıda Henderson-Hasselbalch denklemine göre pH'ı korumaya çalışan ana tampon sistemi aşağıdakilerden hangisidir?",
+                "options": [
+                        "Bikarbonat tampon sistemi (H2CO3 / HCO3-)",
+                        "Amonyum tampon sistemi",
+                        "Hemoglobin tampon sistemi",
+                        "Fosfat tampon sistemi",
+                        "Plazma protein tampon sistemi"
+                ],
+                "answer": "Bikarbonat tampon sistemi (H2CO3 / HCO3-)",
+                "correctAnswer": 0,
+                "explanation": "Bikarbonat (H2CO3 / HCO3-) sistemi, kan plazması ve interstisyel (ekstraselüler) sıvının toplam tamponlama kapasitesinin büyük kısmını (%53) oluşturan en temel tampon sistemidir.",
+                "id": "v6_biyofizik_3"
+        },
     {
-        "id": "v6_biyofizik_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Tıbbi cihazlardan Ultrasonografinin görüntü oluşturma prensibi aşağıdakilerden hangisine dayanır?",
-        "options": [
-            "Vücuttaki hidrojen protonlarının manyetik rezonansı",
-            "Pozitron ışıması yapan radyoaktif ajanların kullanılması",
-            "Yüksek frekanslı (işitilemeyen) ses dalgalarının dokulardan yansıması (eko)",
-            "Yüksek voltajlı elektronların dokuya çarpması",
-            "Vücudun yaydığı kızılötesi (ısı) dalgalarının algılanması"
-        ],
-        "answer": "Yüksek frekanslı (işitilemeyen) ses dalgalarının dokulardan yansıması (eko)",
-        "correctAnswer": 2,
-        "explanation": "USG (Ultrason), vücuda gönderilen 2-15 MHz frekansındaki yüksek ses dalgalarının farklı akustik empedansa sahip doku sınırlarından yansıyarak (Eko) prop tarafından algılanmasına dayanır. Radyasyon yoktur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Zehirli bir asidik madde yuttuğu düşünülen hastada şiddetli asidemi saptanmıştır. pH kavramını formülize eden Brønsted-Lowry tanımlamasına göre fizyolojik sıvılardaki 'Asit' kavramı biyokimyasal olarak nasıl tanımlanır?",
+                "options": [
+                        "Solüsyonlara OH- iyonu verebilen maddedir",
+                        "Proton (H+) alabilen maddedir",
+                        "Su ile tepkimeye girmeyen inorganik tuzdur",
+                        "Solüsyona proton (H+) verebilen maddedir",
+                        "Çözeltide nötr kalan maddedir"
+                ],
+                "answer": "Solüsyona proton (H+) verebilen maddedir",
+                "correctAnswer": 3,
+                "explanation": "Brønsted-Lowry tanımına göre asit, solüsyona/ortama bir proton (H+) verebilen, baz ise ortamdan proton (H+) alabilen maddedir.",
+                "id": "v6_biyofizik_4"
+        },
     // Patoloji (2 Soru)
     {
         "id": "v6_patoloji_1",

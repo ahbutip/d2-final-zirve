@@ -23,200 +23,178 @@ const biyoFarmaQuestions = [
     // --- BİYOKİMYA ---
     // Mustafa Bozkurt (4 Soru)
     {
-        "id": "v4_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kan proteinlerinin elektroforetik ayrımında, gama globulin bandının monoklonal bir artış gösterdiği durum aşağıdakilerden hangisidir?",
-        "options": [
-            "Akut faz reaksiyonu (Enflamasyon)",
-            "Nefrotik sendrom",
-            "Multiple Miyelom",
-            "Karaciğer sirozu",
-            "Demir eksikliği anemisi"
-        ],
-        "answer": "Multiple Miyelom",
-        "correctAnswer": 2,
-        "correctAnswer": 2,
-        "explanation": "Multiple miyelomda tek bir plazma hücresi klonunun aşırı çoğalmasına bağlı olarak gama bölgesinde sivri, dar bir pik (M proteini/M bandı) görülür. Sirozda beta-gama köprüleşmesi olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Oral glukoz tolerans testi yapılan bir hastada, ağızdan verilen glukozun, damardan (intravenöz) verilen aynı miktar glukoza göre çok daha fazla insülin salınımına yol açtığı gözleniyor. Bu 'inkretin etkisinden' sorumlu olan ve bağırsak K hücrelerinden salgılanan hormon hangisidir?",
+                "options": [
+                        "GIP (Glukoza Bağımlı İnsülinotropik Peptid)",
+                        "Kolesistokinin",
+                        "Glukagon",
+                        "Sekretin",
+                        "Motilin"
+                ],
+                "answer": "GIP (Glukoza Bağımlı İnsülinotropik Peptid)",
+                "correctAnswer": 0,
+                "explanation": "Ağızdan glukoz alımında insülin salgısını artıran inkretin etkisinden K hücrelerinden salgılanan GIP (Glukoza Bağımlı İnsülinotropik Peptid) sorumludur.",
+                "id": "v4_biyo_1"
+        },
     {
-        "id": "v4_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Uzun süreli açlık veya kontrolsüz diyabet durumunda, karbonhidrat metabolizmasının enerji ihtiyacını karşılayamaması sonucu kanda artan ve idrarla atılan asidik bileşikler öncelikle hangi metabolitten sentezlenir?",
-        "options": [
-            "Laktat",
-            "Asetil-CoA",
-            "Pirüvat",
-            "Oksaloasetat",
-            "Gliserol"
-        ],
-        "answer": "Asetil-CoA",
-        "correctAnswer": 1,
-        "correctAnswer": 1,
-        "explanation": "Hücrede Oksaloasetat yetersizliği olduğunda (TCA siklusu durduğunda), yağ asidi yıkımından gelen Asetil-CoA molekülleri birleşerek keton cisimlerine (asetoasetat, beta-hidroksibütirat, aseton) dönüşür."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli bir enfeksiyon tablosuyla hastaneye yatırılan hastanın laboratuvar testlerinde akut faz reaktanları inceleniyor. Aşağıdaki plazma proteinlerinden hangisinin bu hastada inflamasyona yanıt olarak kan düzeyinin artması beklenmez?",
+                "options": [
+                        "C-Reaktif Protein (CRP)",
+                        "Haptoglobin",
+                        "Fibrinojen",
+                        "Albumin",
+                        "Ferritin"
+                ],
+                "answer": "Albumin",
+                "correctAnswer": 3,
+                "explanation": "Albumin bir negatif akut faz reaktanıdır; inflamasyon, enfeksiyon veya doku hasarı durumunda sentezi azalır. CRP, Haptoglobin, Fibrinojen ve Ferritin pozitif akut faz reaktanlarıdır.",
+                "id": "v4_biyo_2"
+        },
     {
-        "id": "v4_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Pankreas adacıklarından sentezlenen peptid yapılı bir hormon olan insülinin biyokimyasal yapısı ile ilgili aşağıdakilerden hangisi yanlıştır?",
-        "options": [
-            "A ve B olmak üzere iki polipeptid zincirinden oluşur.",
-            "Zincirler birbirine disülfit bağları ile bağlıdır.",
-            "Proinsülinden insülin oluşurken C-peptid (bağlayıcı peptid) koparılarak kana verilir.",
-            "Yarı ömrü kanda çok uzundur (yaklaşık 2-3 gün).",
-            "Hedef hücre membranındaki reseptörü bir tirozin kinazdır."
-        ],
-        "answer": "Yarı ömrü kanda çok uzundur (yaklaşık 2-3 gün).",
-        "correctAnswer": 3,
-        "correctAnswer": 3,
-        "explanation": "İnsülinin kanda yarı ömrü çok kısadır (yaklaşık 3-5 dakika). Bu nedenle endojen insülin salınımını değerlendirmek için yarı ömrü daha uzun olan C-peptide bakılır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli baş ağrısı, çarpıntı ve terleme atakları ile acil servise başvuran hastada adrenal medulla kaynaklı bir tümör olan feokromositoma şüpheleniliyor. Bu hastada tanıyı kesinleştirmek için 24 saatlik idrarda bakılması gereken katekolamin yıkım son ürünü aşağıdakilerden hangisidir?",
+                "options": [
+                        "5-HIAA",
+                        "VMA (Vanilmandelik asit)",
+                        "Homojentisik asit",
+                        "Ürik asit",
+                        "Kreatinin"
+                ],
+                "answer": "VMA (Vanilmandelik asit)",
+                "correctAnswer": 1,
+                "explanation": "Katekolaminlerin (adrenalin, noradrenalin) MAO ve COMT enzimleri ile yıkımları sonucunda idrarla atılan son yıkım ürünleri VMA (Vanilmandelik asit) ve metanefrinlerdir. Feokromositoma tanısında ölçülürler.",
+                "id": "v4_biyo_3"
+        },
     {
-        "id": "v4_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Adrenal kortekste kolesterolden steroid hormon sentezlenirken, tüm steroid hormonların öncülü olan ve kolesterolün yan zincirinin koparılmasıyla oluşan ilk ortak ara bileşik aşağıdakilerden hangisidir?",
-        "options": [
-            "Pregnenolon",
-            "Dehidroepiandrosteron (DHEA)",
-            "Aldosteron",
-            "Kortizol",
-            "Progesteron"
-        ],
-        "answer": "Pregnenolon",
-        "correctAnswer": 0,
-        "correctAnswer": 0,
-        "explanation": "Kolesterolden desmolaz (CYP11A1) enzimi ile yan zincir koparılır ve 21 karbonlu pregnenolon sentezlenir. Pregnenolon tüm steroid hormonların ortak anasıdır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Otoimmün tiroiditi olan bir hastada boyun cerrahisi sonrası kaslarda kasılma (tetani) ve karıncalanma saptanıyor. Laboratuvarda kanda kalsiyum düzeyi düşük bulunuyor. PTH (Parathormon) düzeyinin de sıfıra yakın olduğu bu hastada, böbreklerden kalsiyum geri emiliminin durması dışında, kemiklerden kalsiyumun kana geçişini sağlayan hangi hücrenin aktivitesi durmuştur?",
+                "options": [
+                        "Osteoblast",
+                        "Osteosit",
+                        "Osteoklast",
+                        "Kondrosit",
+                        "Parafolliküler C hücresi"
+                ],
+                "answer": "Osteoklast",
+                "correctAnswer": 2,
+                "explanation": "Parathormon (PTH) kan kalsiyumu düştüğünde kemikten kalsiyum ve fosforu kana geçirmek için osteoklast aktivitesini uyarır. PTH yokluğunda bu kemik yıkım mekanizması durur.",
+                "id": "v4_biyo_4"
+        },
 
     // Fatih Kar (2 Soru - Çıkmış tarzı)
     {
-        "id": "v4_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Karaciğer fonksiyon testleri değerlendirilirken, özellikle safra yollarında tıkanıklık durumlarında kanda düzeyi en belirgin artan ve kemik yapımında da görev alan enzim hangisidir?",
-        "options": [
-            "Alanin aminotransferaz (ALT)",
-            "Alkalen fosfataz (ALP)",
-            "Aspartat aminotransferaz (AST)",
-            "Kreatin kinaz (CK)",
-            "Laktat dehidrogenaz (LDH)"
-        ],
-        "answer": "Alkalen fosfataz (ALP)",
-        "correctAnswer": 1,
-        "correctAnswer": 1,
-        "explanation": "ALP (Alkalen Fosfataz), safra kanaliküllerinin apikal zarında bulunur ve kolestazda (safra yolları tıkanıklığı) GGT ile birlikte belirgin artar. Ayrıca kemik büyümesi/kırık iyileşmesinde de artar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Vücuda alınan toksik bir ksenobiyotik, karaciğerde mikrozomal enzimler tarafından inaktive edilmek isteniyor. Bu sürecin Faz I reaksiyonlarında, moleküle bir oksijen atomu eklenerek hidroksilasyon yapan ve ilacı Faz II'ye hazırlayan temel enzim sistemi hangisidir?",
+                "options": [
+                        "UDP-Glukuronil Transferaz",
+                        "Sitokrom P450 (CYP)",
+                        "Glutatyon S-Transferaz (GST)",
+                        "Monoamin Oksidaz (MAO)",
+                        "Sülfotransferaz"
+                ],
+                "answer": "Sitokrom P450 (CYP)",
+                "correctAnswer": 1,
+                "explanation": "Faz I reaksiyonları (modifikasyon, hidroksilasyon vb.) çoğunlukla mikrozomal Sitokrom P450 (CYP) enzim sistemi tarafından gerçekleştirilir. Amaç moleküle reaktif fonksiyonel bir grup eklemektir.",
+                "id": "v4_biyo_5"
+        },
     {
-        "id": "v4_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hem yıkımı sonucu oluşan bilirubinin, karaciğerde suda çözünürlüğünün artırılması için aşağıdaki asitlerden hangisi ile birleşmesi gerekir?",
-        "options": [
-            "Sülfürik asit",
-            "Asetik asit",
-            "Glukuronik asit",
-            "Folik asit",
-            "Askorbik asit"
-        ],
-        "answer": "Glukuronik asit",
-        "correctAnswer": 2,
-        "correctAnswer": 2,
-        "explanation": "İndirekt (anjonjuge) bilirubin, karaciğerde UDP-glukuronil transferaz enzimi ile glukuronik asitle konjuge edilerek direkt (konjuge) suda çözünen bilirubine dönüştürülür."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İki aylık kız bebek, gelişme geriliği ve nöbet geçirme şikayetiyle değerlendiriliyor. Ailesi bebeğin bezinden ağır bir fare küfü kokusu geldiğini fark ediyor. Bebeğin saçları yaşıtlarına göre çok daha sarı, gözleri mavidir. Bu hastada fenilalanin tirozine dönüşemediği için birikmektedir. Eksik olan enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Homojentisik asit oksidaz",
+                        "Tirozinaz",
+                        "Dallı zincirli alfa-keto asit dehidrogenaz",
+                        "Sistatiyonin beta-sentaz",
+                        "Fenilalanin Hidroksilaz"
+                ],
+                "answer": "Fenilalanin Hidroksilaz",
+                "correctAnswer": 4,
+                "explanation": "Fenilketonüride (PKU) Fenilalanin Hidroksilaz enzimi eksiktir. İdrarda küf/fare kokusu, zihinsel gerilik ve hipopigmentasyon (melanin azlığına bağlı sarı saç/mavi göz) karakteristiktir.",
+                "id": "v4_biyo_6"
+        },
 
     // Said Altıkat (2 Soru)
     {
-        "id": "v4_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Tiroid hormonlarının sentez aşamalarında, tiroglobulin yapısındaki tirozin kalıntılarına iyot moleküllerinin eklenmesini ve iyodotirozinlerin birleşmesini katalize eden enzim aşağıdakilerden hangisidir?",
-        "options": [
-            "Tiroid peroksidaz (TPO)",
-            "5'-Deiyodinaz",
-            "Tirozin hidroksilaz",
-            "Sodyum-İyot simporteri (NIS)",
-            "Tiroglobulin proteaz"
-        ],
-        "answer": "Tiroid peroksidaz (TPO)",
-        "correctAnswer": 0,
-        "correctAnswer": 0,
-        "explanation": "Tiroid peroksidaz (TPO); iyodürün oksidasyonu, iyodun tirozine bağlanması (organifikasyon) ve MIT ile DIT'in birleşerek T3/T4 oluşturması (kenetlenme) adımlarının hepsini katalize eder."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Nükleer hormon reseptörlerinin genetik dizilimi araştırılıyor. Reseptörün DNA üzerinde bağlanacağı bölgeyi tanıması ve spesifik gen sekanslarına tutunması, reseptör yapısındaki hangi bölge veya yapı sayesinde gerçekleşir?",
+                "options": [
+                        "Hormon Yanıt Elemanı (HRE)",
+                        "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                        "N-Terminal AF-1 transaktivasyon alanı",
+                        "G proteini alfa alt birimi",
+                        "Ligand bağlayıcı bölge (LBD)"
+                ],
+                "answer": "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                "correctAnswer": 1,
+                "explanation": "Hücre içi (nükleer/sitoplazmik) reseptörlerin DNA bağlayıcı bölgeleri (DBD), 'çinko parmak' yapıları içerir ve DNA'nın spesifik dizilerine bağlanmayı sağlar.",
+                "id": "v4_biyo_7"
+        },
     {
-        "id": "v4_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerin enerji metabolizması düşünüldüğünde, mature eritrositlerin mitokondrisi olmadığı için tek enerji üretim yolları glikolizdir. Glikoliz yolunda yer alan ve eksikliğinde en sık herediter nonsferositik hemolitik anemiye yol açan enzim aşağıdakilerden hangisidir?",
-        "options": [
-            "Glukoz-6-fosfat dehidrogenaz (G6PD)",
-            "Pirüvat kinaz",
-            "Hekzokinaz",
-            "Fosfofruktokinaz-1",
-            "Laktat dehidrogenaz"
-        ],
-        "answer": "Pirüvat kinaz",
-        "correctAnswer": 1,
-        "correctAnswer": 1,
-        "explanation": "Glikoliz yolundaki (mitokondri gerektirmeyen) en sık enzim eksikliği Pirüvat kinaz eksikliğidir ve ATP yetersizliğine bağlı hemoliz yapar. G6PD eksikliği ise Pentoz fosfat yolundadır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Akromegali şüphesiyle değerlendirilen bir hastada Büyüme Hormonunun (GH) hücre içi sinyal yolağını kullanma biçimi inceleniyor. Kendi içsel tirozin kinaz aktivitesi olmayan ancak hücre içinde hedefine ulaşmak için sitoplazmik non-reseptör kinazları kullanan bu hormonun aktivasyon yolağı aşağıdakilerden hangisidir?",
+                "options": [
+                        "cAMP / Protein Kinaz A",
+                        "IP3 / Kalsiyum",
+                        "JAK-STAT yolağı",
+                        "cGMP / Protein Kinaz G",
+                        "Fosfolipaz A2"
+                ],
+                "answer": "JAK-STAT yolağı",
+                "correctAnswer": 2,
+                "explanation": "Büyüme hormonu ve prolaktin, sitokin reseptör ailesindendir. Kendi tirozin kinaz aktiviteleri yoktur, hücre içinde JAK-STAT yolağını aktive ederek etki gösterirler.",
+                "id": "v4_biyo_8"
+        },
 
     // Fatmagül Can (2 Soru)
     {
-        "id": "v4_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Vücutta demir metabolizması ve taşınmasında rol alan proteinlerden hangisi, plazmada kanda demiri taşıyan ana proteindir?",
-        "options": [
-            "Ferritin",
-            "Hemosiderin",
-            "Transferrin",
-            "Hepsidin",
-            "Serüloplazmin"
-        ],
-        "answer": "Transferrin",
-        "correctAnswer": 2,
-        "correctAnswer": 2,
-        "explanation": "Transferrin, plazmada demiri (Fe+3 formunda) taşıyan temel proteindir. Ferritin ise hücre içinde demirin ana depo şeklidir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Safra asitleri karaciğerde kolesterolden sentezlenerek safranın en önemli katabolik yolunu oluştururlar. Kolesterolün primer safra asitlerine (kolik asit ve kenodeoksikolik asit) dönüşümünde hız kısıtlayıcı olan ve C vitamini kofaktörlüğüne ihtiyaç duyan enzim hangisidir?",
+                "options": [
+                        "HMG-CoA Redüktaz",
+                        "Kolesterol esteraz",
+                        "Kolesterol 7-alfa-hidroksilaz",
+                        "7-alfa-dehidroksilaz",
+                        "Siklooksijenaz"
+                ],
+                "answer": "Kolesterol 7-alfa-hidroksilaz",
+                "correctAnswer": 2,
+                "explanation": "Primer safra asitlerinin (kolik asit) sentezindeki hız kısıtlayıcı basamak Kolesterol 7-alfa-hidroksilaz enzimidir (Sitokrom P450 ailesinden bir enzimdir).",
+                "id": "v4_biyo_9"
+        },
     {
-        "id": "v4_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Biyokimyasal tampon sistemlerinden biri olan solunum sistemi, asit-baz dengesizliği durumunda dakikalar içinde devreye girerek kompanzasyon sağlar. Metabolik asidoz gelişen bir hastada solunum sisteminin kompanze edici yanıtı aşağıdakilerden hangisidir?",
-        "options": [
-            "Solunum hızını ve derinliğini artırarak pCO2'yi düşürmek (Hiperventilasyon)",
-            "Solunumu yavaşlatarak pCO2'yi yükseltmek (Hipoventilasyon)",
-            "Böbreklerden bikarbonat atılımını artırmak",
-            "Kandaki oksijen basıncını (pO2) artırmak",
-            "Alveollerde karbonik anhidraz enzimini inhibe etmek"
-        ],
-        "answer": "Solunum hızını ve derinliğini artırarak pCO2'yi düşürmek (Hiperventilasyon)",
-        "correctAnswer": 0,
-        "correctAnswer": 0,
-        "explanation": "Metabolik asidozda (H+ yüksek, HCO3 düşük) vücut bu fazla asiditeyi kırmak için asit özelliği taşıyan CO2'yi nefes yoluyla hızla dışarı atmaya çalışır. Buna Kussmaul solunumu (hiperventilasyon) denir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Safra yolları tamamen tıkanmış (tıkanma sarılığı) bir hastanın idrar tetkikinde makroskobik olarak idrarın çay renginde olduğu gözleniyor. İdrar dipstick testinde aşağıdaki bulgulardan hangisinin saptanması bu tanıyı destekler?",
+                "options": [
+                        "Sadece indirekt (anjuge olmayan) bilirubin pozitifliği",
+                        "Keton cisimlerinde artış",
+                        "Sadece konjuge (direkt) bilirubin pozitifliği",
+                        "Ürobilinojen seviyesinde belirgin artış",
+                        "Nitrit pozitifliği"
+                ],
+                "answer": "Sadece konjuge (direkt) bilirubin pozitifliği",
+                "correctAnswer": 2,
+                "explanation": "Tıkanma sarılığında safranın bağırsağa akışı durur, kanda artan suda çözünür konjuge (direkt) bilirubin idrara geçer. Ürobilinojen ise bağırsakta oluşamadığı için idrarda azalır/yoktur.",
+                "id": "v4_biyo_10"
+        },
 
     // Ayşe Koçak Sezgin (1 Soru)
     {
-        "id": "v4_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki vitamin eksikliklerinin hangisinde kanda ve idrarda metilmalonik asit düzeyi artar ve buna bağlı olarak sinir sisteminde miyelin sentezi bozulduğu için nörolojik bulgular ortaya çıkar?",
-        "options": [
-            "Folik asit (B9)",
-            "Kobalamin (B12)",
-            "Tiamin (B1)",
-            "Niasin (B3)",
-            "Pridoksin (B6)"
-        ],
-        "answer": "Kobalamin (B12)",
-        "correctAnswer": 1,
-        "correctAnswer": 1,
-        "explanation": "Metilmalonil-CoA mutaz enzimi için B12 vitamini kofaktördür. B12 eksikliğinde metilmalonik asit birikir ve miyelin sentezi bozularak geri dönüşümsüz nörolojik hasar gelişir. Folik asit eksikliğinde sadece homosistein artar, metilmalonik asit artmaz."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Doğum indüksiyonu için oksitosin infüzyonu yapılan bir hastanın uterus kontraksiyonları düzenleniyor. Doğum sürecinde oksitosin haricinde, doğum kanalının ve pelvik bağların (simfizis pubis) biyokimyasal olarak gevşemesini (relaksasyon) sağlayarak fötusun geçişini kolaylaştıran hormon hangisidir?",
+                "options": [
+                        "Prolaktin",
+                        "Relaksin",
+                        "Progesteron",
+                        "Östradiol",
+                        "Koryonik Somatomammotropin"
+                ],
+                "answer": "Relaksin",
+                "correctAnswer": 1,
+                "explanation": "Doğum anında bağ dokusu ve pelvik eklemlerin gevşemesini, serviksin açılmasını kolaylaştıran hormon Relaksin'dir.",
+                "id": "v4_biyo_11"
+        },
 
     // --- FARMAKOLOJİ ---
     // Yasemin Tekşen (3 Soru)

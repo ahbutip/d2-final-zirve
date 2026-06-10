@@ -1,174 +1,171 @@
 window.examsData = window.examsData || {};
 
 const v8Part2 = [
-    // --- TIBBİ BİYOKİMYA (11 Soru) ---
     {
-        "id": "v8_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Obezite kliniğinde takip edilen bir hastanın laboratuvar sonuçlarında hiperkolesterolemi saptanıyor. Kolesterol biyosentezinde hız kısıtlayıcı olan ve statin grubu ilaçların hedef aldığı enzim aşağıdakilerden hangisidir?",
-        "options": [
-            "HMG-CoA sentaz",
-            "Squalen epoksidaz",
-            "HMG-CoA redüktaz",
-            "Asetil-CoA karboksilaz",
-            "Tiyolaz"
-        ],
-        "answer": "HMG-CoA redüktaz",
-        "correctAnswer": 2,
-        "explanation": "Kolesterol sentezindeki ana hız kısıtlayıcı adım, HMG-CoA'nın mevalonata dönüştürülmesidir ve bu reaksiyonu HMG-CoA redüktaz katalizler. Statinler bu enzimi kompetitif olarak inhibe eder."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Pankreas beta hücrelerinde insülin salınım mekanizması incelenen deneysel bir çalışmada, hücre içine giren glukozun glikolizle yıkılarak ATP oranını artırdığı gözleniyor. Beta hücresinden insülin ekzositozunu tetikleyen bir sonraki fizyolojik adım aşağıdakilerden hangisidir?",
+                "options": [
+                        "Voltaj kapılı kalsiyum kanallarının kapanması",
+                        "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                        "Sodyum-potasyum pompasının aktivasyonu",
+                        "Glukagon salınımının artması",
+                        "Kalsiyumun hücre dışına pompalanması"
+                ],
+                "answer": "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                "correctAnswer": 1,
+                "explanation": "Beta hücresinde oluşan ATP, hücre membranındaki ATP-duyarlı Potasyum (K+) kanallarını kapatır. Bu durum membranı depolarize ederek kalsiyum kanallarının açılmasına ve insülin salınımına yol açar.",
+                "id": "v8_biyo_1"
+        },
     {
-        "id": "v8_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda karaciğerde sentezlenerek kana verilen ve kanda en yüksek oranda bulunan keton cismi aşağıdakilerden hangisidir?",
-        "options": [
-            "Aseton",
-            "Asetoasetat",
-            "Beta-hidroksibütirat",
-            "Asetil-CoA",
-            "Süksinil-CoA"
-        ],
-        "answer": "Beta-hidroksibütirat",
-        "correctAnswer": 2,
-        "explanation": "Açlık veya diyabetik ketoasidozda asetoasetat enzimatik olarak NADH kullanılarak büyük oranda beta-hidroksibütirata dönüştürülür. Bu nedenle dolaşımda en çok bulunan keton cismi beta-hidroksibütirattır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Uzun yıllardır kontrolsüz Tip 2 Diabetes Mellitus hastası olan 60 yaşındaki bir erkekte ilerleyici görme kaybı (katarakt) ve periferik nöropati (ayaklarda uyuşma) saptanıyor. Bu komplikasyonların gelişiminden sorumlu olan ve hücre içine giren fazla glikozu, dışarı çıkamayan sorbitole dönüştürerek ozmotik hasara yol açan enzim hangisidir?",
+                "options": [
+                        "Aldoz redüktaz",
+                        "Hekzokinaz",
+                        "Glukoz 6-fosfataz",
+                        "Aromataz",
+                        "Tirozin hidroksilaz"
+                ],
+                "answer": "Aldoz redüktaz",
+                "correctAnswer": 0,
+                "explanation": "Diyabetik kronik komplikasyonların oluşumundaki Poliyol Yolu mekanizmasında, glikoz Aldoz redüktaz enzimi ile Sorbitole dönüşür. Sorbitol hücre dışına çıkamadığından ozmotik hasara (katarakt, nöropati) yol açar.",
+                "id": "v8_biyo_2"
+        },
     {
-        "id": "v8_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Yeni doğan bir bebekte fenilalanin hidroksilaz enzim eksikliği saptanıyor. Bu enzim eksikliğinde vücutta sentezi azalan ve fenilalanin diyetten kısıldığında esansiyel hale gelen amino asit hangisidir?",
-        "options": [
-            "Tirozin",
-            "Triptofan",
-            "Sistein",
-            "Metiyonin",
-            "Alanin"
-        ],
-        "answer": "Tirozin",
-        "correctAnswer": 0,
-        "explanation": "Normalde tirozin, fenilalaninin hidroksilasyonuyla sentezlenir. Fenilketonüride bu enzim çalışmadığı için tirozin sentezlenemez ve diyete eklenmesi gereken esansiyel bir amino aside dönüşür."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Mide ülseri şikayetiyle başvuran hastada, asit sekresyonunun fizyolojik regülasyonu araştırılıyor. Mide antrumundaki G hücrelerinden salgılanıp paryetal hücrelerden HCl salgısını doğrudan uyaran gastrointestinal hormon hangisidir?",
+                "options": [
+                        "Sekretin",
+                        "Kolesistokinin (CCK)",
+                        "GIP",
+                        "Motilin",
+                        "Gastrin"
+                ],
+                "answer": "Gastrin",
+                "correctAnswer": 4,
+                "explanation": "Gastrin, mide antrumundaki G hücrelerinden salgılanır ve paryetal hücrelerden asit (HCl) salgısını uyarır.",
+                "id": "v8_biyo_3"
+        },
     {
-        "id": "v8_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Pürin nükleotidlerinin yıkımı sonucunda oluşan son ürün hangisidir?",
-        "options": [
-            "Üre",
-            "Amonyak",
-            "Ürik asit",
-            "Allantoin",
-            "Kreatinin"
-        ],
-        "answer": "Ürik asit",
-        "correctAnswer": 2,
-        "explanation": "İnsanda ve bazı primatlarda pürin yıkımının son ürünü ürik asittir (ksantin oksidaz enzimi ile oluşur). Ürik asidin kanda birikmesi gut (damla) hastalığına neden olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli bir enfeksiyon tablosuyla hastaneye yatırılan hastanın laboratuvar testlerinde akut faz reaktanları inceleniyor. Aşağıdaki plazma proteinlerinden hangisinin bu hastada inflamasyona yanıt olarak kan düzeyinin artması beklenmez?",
+                "options": [
+                        "C-Reaktif Protein (CRP)",
+                        "Haptoglobin",
+                        "Fibrinojen",
+                        "Albumin",
+                        "Ferritin"
+                ],
+                "answer": "Albumin",
+                "correctAnswer": 3,
+                "explanation": "Albumin bir negatif akut faz reaktanıdır; inflamasyon, enfeksiyon veya doku hasarı durumunda sentezi azalır. CRP, Haptoglobin, Fibrinojen ve Ferritin pozitif akut faz reaktanlarıdır.",
+                "id": "v8_biyo_4"
+        },
     {
-        "id": "v8_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "DNA replikasyonu sırasında çift sarmalın açılmasını sağlayarak replikasyon çatalını oluşturan enzim aşağıdakilerden hangisidir?",
-        "options": [
-            "DNA polimeraz",
-            "DNA ligaz",
-            "Topoisomeraz",
-            "DNA helikaz",
-            "Primaz"
-        ],
-        "answer": "DNA helikaz",
-        "correctAnswer": 3,
-        "explanation": "DNA helikaz, ATP hidrolizi enerjisiyle DNA'nın iki zincirini birbirine bağlayan hidrojen bağlarını kopararak sarmalı açar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Kanın pıhtılaşması sürecinde görev alan Faktör II, VII, IX ve X'un karaciğerdeki sentezinde, bu proteinlerin yapısındaki glutamat kalıntılarının gama-karboksilasyonu için mutlak gerekli olan ve koenzim fonksiyonu gören yağda çözünen vitamin hangisidir?",
+                "options": [
+                        "A Vitamini",
+                        "D Vitamini",
+                        "E Vitamini",
+                        "K Vitamini",
+                        "Koenzim Q"
+                ],
+                "answer": "K Vitamini",
+                "correctAnswer": 3,
+                "explanation": "K vitamini, kan pıhtılaşma faktörlerinin (Faktör II, VII, IX, X) glutamat kalıntılarının gama-karboksilasyonu için koenzimdir. Eksikliğinde kanama eğilimi görülür.",
+                "id": "v8_biyo_5"
+        },
     {
-        "id": "v8_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Eritrositlerin enerji metabolizmasında sadece bu hücre tipine özgü olan ve oksijenin hemoglobine afinitesini azaltan 'Rapoport-Luebering döngüsü'nün ara ürünü hangisidir?",
-        "options": [
-            "1,3-Bifosfogliserat (1,3-BPG)",
-            "2,3-Bifosfogliserat (2,3-BPG)",
-            "Fosfoenolpirüvat (PEP)",
-            "Glikoz 6-fosfat",
-            "Fruktoz 1,6-bifosfat"
-        ],
-        "answer": "2,3-Bifosfogliserat (2,3-BPG)",
-        "correctAnswer": 1,
-        "explanation": "Eritrositlerde glikoliz sırasında 1,3-BPG'nin bir kısmı bisfosfogliserat mutaz ile 2,3-BPG'ye dönüştürülür. 2,3-BPG, hemoglobinin oksijen afinitesini düşürerek dokulara oksijen salınımını kolaylaştırır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İki aylık kız bebek, gelişme geriliği ve nöbet geçirme şikayetiyle değerlendiriliyor. Ailesi bebeğin bezinden ağır bir fare küfü kokusu geldiğini fark ediyor. Bebeğin saçları yaşıtlarına göre çok daha sarı, gözleri mavidir. Bu hastada fenilalanin tirozine dönüşemediği için birikmektedir. Eksik olan enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Homojentisik asit oksidaz",
+                        "Tirozinaz",
+                        "Dallı zincirli alfa-keto asit dehidrogenaz",
+                        "Sistatiyonin beta-sentaz",
+                        "Fenilalanin Hidroksilaz"
+                ],
+                "answer": "Fenilalanin Hidroksilaz",
+                "correctAnswer": 4,
+                "explanation": "Fenilketonüride (PKU) Fenilalanin Hidroksilaz enzimi eksiktir. İdrarda küf/fare kokusu, zihinsel gerilik ve hipopigmentasyon (melanin azlığına bağlı sarı saç/mavi göz) karakteristiktir.",
+                "id": "v8_biyo_6"
+        },
     {
-        "id": "v8_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Karbonmonoksit veya Siyanür zehirlenmelerinde, mitokondrideki elektron taşıma sisteminin hangi kompleksi inhibe olarak hücresel solunum durur?",
-        "options": [
-            "Kompleks I (NADH dehidrogenaz)",
-            "Kompleks II (Süksinat dehidrogenaz)",
-            "Kompleks III (Sitokrom bc1)",
-            "Kompleks IV (Sitokrom c oksidaz)",
-            "Kompleks V (ATP sentaz)"
-        ],
-        "answer": "Kompleks IV (Sitokrom c oksidaz)",
-        "correctAnswer": 3,
-        "explanation": "Siyanür (CN-), karbonmonoksit (CO) ve hidrojen sülfür (H2S), ETS'nin son elemanı olan Kompleks IV'ü (Sitokrom c oksidaz) inhibe ederek oksijenin suya indirgenmesini engeller ve ATP üretimini durdurur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Periferik dokularda tiroid hormon metabolizması inceleniyor. Hastaya T4 hormonu verilmesine rağmen hücresel etkinin zayıf olduğu görülüyor. Dokularda biyolojik aktivitesi düşük olan prohormon T4'ü, asıl aktif form olan T3'e çeviren enzim aşağıdakilerden hangisidir?",
+                "options": [
+                        "Tiroid Peroksidaz",
+                        "Na+/I- Simporter",
+                        "5'-Deiyodinaz",
+                        "Sitokrom P450",
+                        "Tirozin Hidroksilaz"
+                ],
+                "answer": "5'-Deiyodinaz",
+                "correctAnswer": 2,
+                "explanation": "Karaciğer ve böbrek gibi dokularda bulunan 5'-Deiyodinaz enzimi, T4'ün dış halkasındaki iyodu kopararak onu hücre içi etkisi güçlü olan T3'e dönüştürür.",
+                "id": "v8_biyo_7"
+        },
     {
-        "id": "v8_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hangi lipoprotein türü, periferik dokulardaki fazla kolesterolü toplayıp karaciğere geri taşıyarak aterosklerozdan koruyucu etki gösterir?",
-        "options": [
-            "Şilomikron",
-            "VLDL (Çok düşük yoğunluklu lipoprotein)",
-            "IDL (Ara yoğunluklu lipoprotein)",
-            "LDL (Düşük yoğunluklu lipoprotein)",
-            "HDL (Yüksek yoğunluklu lipoprotein)"
-        ],
-        "answer": "HDL (Yüksek yoğunluklu lipoprotein)",
-        "correctAnswer": 4,
-        "explanation": "HDL (İyi kolesterol), periferik dokulardan ve makrofajlardan (ABCA1 ve LCAT enzimi yardımıyla) kolesterolü alır ve atılmak üzere karaciğere taşır (Reverse kolesterol transportu)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Tiroid bezi cerrahisi geçiren bir hastadan alınan dokuda tiroid hormon sentez süreci izleniyor. İyodun tirozin kalıntılarına eklenerek MİT ve DİT oluşumu (Organifikasyon), hücresel anatomide nerede gerçekleşir?",
+                "options": [
+                        "Mitokondri matriksinde",
+                        "Folikül lümenindeki kolloidde",
+                        "Sitoplazmada",
+                        "Golgi veziküllerinde",
+                        "Hücre çekirdeğinde"
+                ],
+                "answer": "Folikül lümenindeki kolloidde",
+                "correctAnswer": 1,
+                "explanation": "Tiroid hormon sentez süreci (oksidasyon, organifikasyon ve kenetlenme) folikül hücresinin içinde değil, hücre dışında yani folikül lümenindeki kolloidde TPO enzimi aracılığıyla gerçekleşir.",
+                "id": "v8_biyo_8"
+        },
     {
-        "id": "v8_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Amonyak toksisitesinden korunmak için vücutta oluşan ürenin sentez basamakları hangi hücre içi kompartmanlarda gerçekleşir?",
-        "options": [
-            "Tamamı sitoplazmada",
-            "Tamamı mitokondride",
-            "İlk iki enzim mitokondride, geri kalanı sitoplazmada",
-            "İlk enzim sitoplazmada, geri kalanı mitokondride",
-            "İlk enzim çekirdekte, geri kalanı lizozomda"
-        ],
-        "answer": "İlk iki enzim mitokondride, geri kalanı sitoplazmada",
-        "correctAnswer": 2,
-        "explanation": "Üre döngüsünün ilk iki reaksiyonu (Karbamoil fosfat sentetaz I ve Ornitin transkarbamoilaz) mitokondri matriksinde, son üç reaksiyonu (Arjininosüksinat sentetaz, Arjininosüksinaz, Arjinaz) ise sitoplazmada gerçekleşir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Hipovolemik şok tablosuyla gelen travma hastasında kan basıncını dengelemek için böbrek jukstaglomerüler aparatı tarafından renin salgılanıyor. Renin enzimi kanda hangi prekürsör proteini doğrudan parçalayarak Anjiyotensin I'e dönüştürür?",
+                "options": [
+                        "Anjiyotensin dönüştürücü enzim (ACE)",
+                        "Anjiyotensinojen",
+                        "Aldosteron",
+                        "Vazopressin",
+                        "Albumin"
+                ],
+                "answer": "Anjiyotensinojen",
+                "correctAnswer": 1,
+                "explanation": "Renin, karaciğer kaynaklı bir plazma proteini olan anjiyotensinojeni Anjiyotensin I'e çevirir. Daha sonra akciğerlerdeki ACE, bunu Anjiyotensin II'ye dönüştürür.",
+                "id": "v8_biyo_9"
+        },
     {
-        "id": "v8_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Tip 1 Diabetes Mellituslu bir hastada insülin eksikliğine bağlı olarak karaciğerde glikoliz yavaşlarken glukoneogenez artar. Bu durumda fruktoz 1,6-bifosfatı, fruktoz 6-fosfata çeviren anahtar glukoneogenez enzimi hangisidir?",
-        "options": [
-            "Hekzokinaz",
-            "Fosfofruktokinaz-1 (PFK-1)",
-            "Fosfoenolpirüvat karboksikinaz (PEPCK)",
-            "Fruktoz 1,6-bifosfataz",
-            "Glikoz 6-fosfataz"
-        ],
-        "answer": "Fruktoz 1,6-bifosfataz",
-        "correctAnswer": 3,
-        "explanation": "Fruktoz 1,6-bifosfataz, PFK-1'in tersi yönünde çalışan, glukoneogenezin önemli bir düzenleyici (hız kısıtlayıcı) enzimidir. İnsülin bunu inhibe ederken, glukagon uyarır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Acil servise getirilen ve akut böbrek hasarı geçiren bir hastanın idrar mikroskobik incelemesinde 'çamur rengi kirli granüler silendirler' izleniyor. Bu tip silendirlerin varlığı en spesifik olarak hangi renal patolojiyi işaret eder?",
+                "options": [
+                        "Akut Glomerülonefrit",
+                        "Akut Piyelonefrit",
+                        "Akut Tübüler Nekroz",
+                        "İleri Evre Kronik Böbrek Yetmezliği",
+                        "Nefrolitiazis (Taş)"
+                ],
+                "answer": "Akut Tübüler Nekroz",
+                "correctAnswer": 2,
+                "explanation": "İdrar sedimentinde 'çamur rengi kirli granüler silendirler' görülmesi Akut Tübüler Nekroz (ATN) için patognomoniktir. Eritrosit silendiri akut glomerülonefritte, mumsu silendir kronik böbrek yetmezliğinde görülür.",
+                "id": "v8_biyo_10"
+        },
     {
-        "id": "v8_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Asit-baz dengesini değerlendirmede kullanılan kan gazı analizinde; pH: 7.25, pCO2: 60 mmHg, HCO3-: 26 mEq/L saptanan bir hastanın asit-baz bozukluğu tanısı nedir?",
-        "options": [
-            "Metabolik Asidoz",
-            "Metabolik Alkaloz",
-            "Respiratuar Asidoz",
-            "Respiratuar Alkaloz",
-            "Mikst Asidoz"
-        ],
-        "answer": "Respiratuar Asidoz",
-        "correctAnswer": 2,
-        "explanation": "pH 7.35'in altında olduğu için asidoz vardır. pCO2'nin yüksek (normali 35-45) olması, sorunun solunumsal (respiratuar) olduğunu gösterir. HCO3- (normali 22-26) henüz telafi (kompanse) etmemiştir. Tanı: Akut Respiratuar Asidoz."
-    },
-
-    // --- TIBBİ FARMAKOLOJİ (7 Soru) ---
+                "subject": "Tıbbi Biyokimya",
+                "question": "Acil serviste status epileptikus geçiren hastaya merkezi sinir sistemindeki ana inhibitör nörotransmitter üzerinden etki eden bir ilaç (benzodiazepin) veriliyor. Beyindeki bu en önemli inhibitör nörotransmitter (GABA), hangi amino asidin dekarboksilasyonu sonucu sentezlenir?",
+                "options": [
+                        "Glisin",
+                        "Tirozin",
+                        "Glutamat",
+                        "Triptofan",
+                        "Histidin"
+                ],
+                "answer": "Glutamat",
+                "correctAnswer": 2,
+                "explanation": "GABA (Gama-aminobütirik asit), beyindeki ana eksitatör nörotransmitter olan Glutamatın, glutamat dekarboksilaz enzimi ile karbondioksit kaybetmesi (dekarboksilasyon) sonucu oluşur.",
+                "id": "v8_biyo_11"
+        },
     {
         "id": "v8_farma_1",
         "subject": "Tıbbi Farmakoloji",
@@ -274,8 +271,6 @@ const v8Part2 = [
         "correctAnswer": 1,
         "explanation": "Furosemid, bumetanid, torsemid gibi loop (kıvrım) diüretikleri böbrekte Henle kulbunun çıkan kalın kolundaki Na-K-2Cl taşıyıcısını inhibe eder. Vücuttaki en güçlü (yüksek tavanlı) diüretiklerdir."
     },
-
-    // --- HİSTOLOJİ VE EMBRİYOLOJİ (13 Soru) ---
     {
         "id": "v8_histo_1",
         "subject": "Histoloji ve Embriyoloji",
@@ -471,8 +466,6 @@ const v8Part2 = [
         "correctAnswer": 4,
         "explanation": "Normoblast (ortokromatofilik eritroblast) evresinde hücre çekirdeğini dışarı atar. Çekirdeksiz ancak içinde az miktarda poliribozom/RNA ağı bulunduran bu genç eritrositlere Retikülosit denir."
     },
-
-    // --- TIBBİ MİKROBİYOLOJİ (14 Soru) ---
     {
         "id": "v8_mikro_1",
         "subject": "Tıbbi Mikrobiyoloji",
@@ -683,8 +676,6 @@ const v8Part2 = [
         "correctAnswer": 1,
         "explanation": "Otoklav, 121°C'de 1 atmosfer basınçlı su buharı ile 15-20 dakikada tüm canlı mikroorganizmaların ve dirençli endosporların ölümünü sağlayan en güvenilir ve yaygın sterilizasyon yöntemidir."
     },
-
-    // --- DİĞER (Patoloji, Biyofizik vb.) (12 Soru) ---
     {
         "id": "v8_diger_1",
         "subject": "Tıbbi Patoloji",

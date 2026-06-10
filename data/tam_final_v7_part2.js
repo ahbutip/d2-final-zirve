@@ -10,171 +10,171 @@ const v7Part2 = [
     // --- BİYOKİMYA (11 Soru) ---
     // Mustafa Bozkurt (4 Soru: Kan prot, KH, Pankreas, Adrenal)
     {
-        "id": "v7_biyo_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdaki plazma proteinlerinden hangisi bakır taşınmasında görev alır ve Wilson hastalığında kan düzeyi belirgin olarak DÜŞER?",
-        "options": [
-            "Transferrin",
-            "Haptoglobin",
-            "Seruloplazmin",
-            "Hemopeksin",
-            "Prealbumin (Transtiretin)"
-        ],
-        "answer": "Seruloplazmin",
-        "correctAnswer": 2,
-        "explanation": "Seruloplazmin alfa-2 globulin fraksiyonundadır ve bakırın kanda taşındığı asıl proteindir. Wilson hastalığında bakır seruloplazmine bağlanamaz, dokulara çöker ve kanda seruloplazmin düşer."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Pankreas beta hücrelerinde insülin salınım mekanizması incelenen deneysel bir çalışmada, hücre içine giren glukozun glikolizle yıkılarak ATP oranını artırdığı gözleniyor. Beta hücresinden insülin ekzositozunu tetikleyen bir sonraki fizyolojik adım aşağıdakilerden hangisidir?",
+                "options": [
+                        "Voltaj kapılı kalsiyum kanallarının kapanması",
+                        "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                        "Sodyum-potasyum pompasının aktivasyonu",
+                        "Glukagon salınımının artması",
+                        "Kalsiyumun hücre dışına pompalanması"
+                ],
+                "answer": "ATP-duyarlı Potasyum (K+) kanallarının kapanması",
+                "correctAnswer": 1,
+                "explanation": "Beta hücresinde oluşan ATP, hücre membranındaki ATP-duyarlı Potasyum (K+) kanallarını kapatır. Bu durum membranı depolarize ederek kalsiyum kanallarının açılmasına ve insülin salınımına yol açar.",
+                "id": "v7_biyo_1"
+        },
     {
-        "id": "v7_biyo_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Karbonhidrat metabolizmasında Fruktozun karaciğerdeki yıkımı sırasında, eksikliği sonucu şiddetli 'Fruktoz İntoleransına' neden olan enzim hangisidir?",
-        "options": [
-            "Fruktokinaz",
-            "Aldolaz B",
-            "Hekzokinaz",
-            "Trioz kinaz",
-            "Galaktoz-1-fosfat üridil transferaz"
-        ],
-        "answer": "Aldolaz B",
-        "correctAnswer": 1,
-        "explanation": "Esansiyel fruktozüride fruktokinaz eksiktir (iyi huyludur). Ancak Aldolaz B eksikliğinde Fruktoz-1-fosfat karaciğerde birikerek ATP'yi tüketir ve şiddetli hipoglisemi/karaciğer hasarı yapar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Şiddetli baş ağrısı, çarpıntı ve terleme atakları ile acil servise başvuran hastada adrenal medulla kaynaklı bir tümör olan feokromositoma şüpheleniliyor. Bu hastada tanıyı kesinleştirmek için 24 saatlik idrarda bakılması gereken katekolamin yıkım son ürünü aşağıdakilerden hangisidir?",
+                "options": [
+                        "5-HIAA",
+                        "VMA (Vanilmandelik asit)",
+                        "Homojentisik asit",
+                        "Ürik asit",
+                        "Kreatinin"
+                ],
+                "answer": "VMA (Vanilmandelik asit)",
+                "correctAnswer": 1,
+                "explanation": "Katekolaminlerin (adrenalin, noradrenalin) MAO ve COMT enzimleri ile yıkımları sonucunda idrarla atılan son yıkım ürünleri VMA (Vanilmandelik asit) ve metanefrinlerdir. Feokromositoma tanısında ölçülürler.",
+                "id": "v7_biyo_2"
+        },
     {
-        "id": "v7_biyo_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Pankreas beta hücrelerinden insülin salgılanmasını tetikleyen temel hücresel mekanizmada, hücre içine giren glukozun ATP oranını artırması hücre zarındaki hangi iyon kanalının KAPANMASINA yol açarak depolarizasyonu başlatır?",
-        "options": [
-            "Voltaj kapılı kalsiyum kanalları",
-            "Sodyum-Potasyum pompası",
-            "ATP'ye duyarlı Potasyum (K_ATP) kanalları",
-            "Klor kanalları",
-            "Aquaporinler"
-        ],
-        "answer": "ATP'ye duyarlı Potasyum (K_ATP) kanalları",
-        "correctAnswer": 2,
-        "explanation": "Glukoz girip ATP artınca ATP-duyarlı Potasyum kanalları kapanır. K+ içeride birikerek zarı depolarize eder, bu da Ca+2 kanallarını açarak insülin veziküllerinin ekzositozunu sağlar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Dört aylık erkek bebek, solunum sıkıntısı ve ilerleyici kas güçsüzlüğü ile getiriliyor. Ekokardiyografisinde kalp kasında ciddi kalınlaşma (kardiyomegali) tespit ediliyor. Kas biyopsisinde lizozomlar içinde masif glikojen birikimi saptanan bu hastada hangi lizozomal enzim eksiktir?",
+                "options": [
+                        "Glikoz-6-fosfataz",
+                        "Kas glikojen fosforilaz",
+                        "Alfa-1,4-glukozidaz (Asit maltaz)",
+                        "Galaktoz-1-fosfat üridil transferaz",
+                        "Aldolaz B"
+                ],
+                "answer": "Alfa-1,4-glukozidaz (Asit maltaz)",
+                "correctAnswer": 2,
+                "explanation": "Tip 2 Glikojen Depo Hastalığı (Pompe hastalığı), lizozomal alfa-1,4-glukozidaz eksikliği sonucu gelişir ve kardiyomegali, kas zayıflığı ile seyreder.",
+                "id": "v7_biyo_3"
+        },
     {
-        "id": "v7_biyo_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Adrenal medulladan salgılanan katekolaminlerin yıkımında görev alan temel enzimler COMT ve MAO'dur. Bu yıkımın sonucunda idrarla atılan ve feokromositoma tanısında ölçülen nihai son ürün hangisidir?",
-        "options": [
-            "Vanilmandelik asit (VMA)",
-            "Homovanilik asit (HVA)",
-            "5-Hidroksiindolasetik asit (5-HIAA)",
-            "Metanefrin",
-            "Ürik asit"
-        ],
-        "answer": "Vanilmandelik asit (VMA)",
-        "correctAnswer": 0,
-        "explanation": "Adrenalin ve Noradrenalinin son yıkım ürünü idrarda VMA'dır. Dopaminin yıkım ürünü HVA, Serotoninin yıkım ürünü ise 5-HIAA'dır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Mide ülseri şikayetiyle başvuran hastada, asit sekresyonunun fizyolojik regülasyonu araştırılıyor. Mide antrumundaki G hücrelerinden salgılanıp paryetal hücrelerden HCl salgısını doğrudan uyaran gastrointestinal hormon hangisidir?",
+                "options": [
+                        "Sekretin",
+                        "Kolesistokinin (CCK)",
+                        "GIP",
+                        "Motilin",
+                        "Gastrin"
+                ],
+                "answer": "Gastrin",
+                "correctAnswer": 4,
+                "explanation": "Gastrin, mide antrumundaki G hücrelerinden salgılanır ve paryetal hücrelerden asit (HCl) salgısını uyarır.",
+                "id": "v7_biyo_4"
+        },
     // Diğer Biyokimya (7 Soru)
     {
-        "id": "v7_biyo_5",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşırı amonyak beyin için son derece toksiktir. Beyin dokusu kandaki fazla amonyağı nötralize edip detoksifiye etmek için glutamat ile birleştirerek hangi molekülü sentezler?",
-        "options": [
-            "Üre",
-            "Kreatinin",
-            "Glutamin",
-            "Alanin",
-            "Ürik asit"
-        ],
-        "answer": "Glutamin",
-        "correctAnswer": 2,
-        "explanation": "Beyinde üre döngüsü yoktur. Beyin amonyağı detoksifiye etmek için astrositlerde Glutamatı Glutamin'e çevirir. Biriken aşırı glutamin beyin ödemine ve komaya neden olur."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Doğumdan birkaç gün sonra bir bebekte emme zayıflığı, letarji ve koma tablosu gelişiyor. Yenidoğan yoğun bakıma alınan bebeğin bezindeki idrarda çok karakteristik olan 'yanık şeker' veya 'akçaağaç şurubu' kokusu hissediliyor. Bu hastada dekarboksilasyonu yapılamadığı için biriken ve nörotoksik etki gösteren amino asit grubu hangisidir?",
+                "options": [
+                        "Aromatik aminoasitler (Fenilalanin, Tirozin)",
+                        "Kükürtlü aminoasitler (Metiyonin, Sistein)",
+                        "Bazik aminoasitler (Lizin, Arjinin)",
+                        "Dallı zincirli aminoasitler (Lösin, İzolösin, Valin)",
+                        "Asidik aminoasitler (Glutamat, Aspartat)"
+                ],
+                "answer": "Dallı zincirli aminoasitler (Lösin, İzolösin, Valin)",
+                "correctAnswer": 3,
+                "explanation": "Akçaağaç Şurubu İdrar Hastalığında (MSUD), dallı zincirli alfa-keto asit dehidrogenaz kompleksi eksikliği nedeniyle Lösin, İzolösin ve Valin (dallı zincirli aminoasitler) birikir.",
+                "id": "v7_biyo_5"
+        },
     {
-        "id": "v7_biyo_6",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Uzun süreli alkol tüketimi sonucu gelişen B1 Vitamini eksikliğinde Wernicke-Korsakoff sendromu görülür. Tiamin pirofosfat hangi enzimin koenzimidir ve eksikliğinde ATP üretimi sekteye uğrar?",
-        "options": [
-            "Pirüvat Kinaz",
-            "Süksinat Dehidrogenaz",
-            "Pirüvat Dehidrogenaz",
-            "Hekzokinaz",
-            "Glukoz-6-fosfat dehidrogenaz"
-        ],
-        "answer": "Pirüvat Dehidrogenaz",
-        "correctAnswer": 2,
-        "explanation": "Pirüvatın Asetil-CoA'ya dönüşüp Krebs döngüsüne girmesini sağlayan Pirüvat Dehidrogenaz kompleksi için B1 (Tiamin) vitamini şarttır. Eksikliğinde pirüvat laktata döner ve laktik asidoz gelişir, beyin enerjisiz kalır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Genç bir erkek hasta, erken yaşta geçirdiği miyokard enfarktüsü ve göz merceğinin yerinden kayması (lens luksasyonu) bulgularıyla değerlendiriliyor. Fizik muayenesinde uzun ekstremiteler ve iskelet anormallikleri saptanıyor. Laboratuvarda trombofiliye yatkınlık yaratan bir metabolitin kan düzeyi oldukça yüksek bulunuyor. Sistatiyonin beta-sentaz eksikliğinin neden olduğu bu tabloda biriken toksik ara ürün hangisidir?",
+                "options": [
+                        "Amonyak",
+                        "Homosistein",
+                        "Sistin",
+                        "Metilmalonik asit",
+                        "Fenilasetat"
+                ],
+                "answer": "Homosistein",
+                "correctAnswer": 1,
+                "explanation": "Homosistinüri, sistatiyonin beta-sentaz eksikliğinde gelişir. Homosistein birikir; bu da erken yaşta tromboz, lens luksasyonu ve iskelet anormalliklerine yol açar.",
+                "id": "v7_biyo_6"
+        },
     {
-        "id": "v7_biyo_7",
-        "subject": "Tıbbi Biyokimya",
-        "question": "DNA'nın çift sarmal yapısında Adenin ile Timin arasında kaç adet, Guanin ile Sitozin arasında kaç adet hidrojen bağı bulunur?",
-        "options": [
-            "A-T arasında 3, G-C arasında 2",
-            "A-T arasında 2, G-C arasında 3",
-            "Her ikisinde de 2",
-            "Her ikisinde de 3",
-            "A-T arasında 1, G-C arasında 2"
-        ],
-        "answer": "A-T arasında 2, G-C arasında 3",
-        "correctAnswer": 1,
-        "explanation": "Adenin-Timin eşleşmesinde 2 hidrojen bağı varken, Guanin-Sitozin eşleşmesinde 3 hidrojen bağı vardır. Bu yüzden GC oranı yüksek DNA bölgelerini eritmek (açmak) daha fazla ısı/enerji gerektirir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Acil servise getirilen hastada glukagon uygulaması yapılıyor. Hücre zarı üzerindeki reseptörüne bağlanan glukagonun, hücre içerisinde Protein Kinaz A (PKA)'yı aktive ederek glikojen yıkımını başlatması için sentezlettiği molekül hangisidir?",
+                "options": [
+                        "Diacilgliserol (DAG)",
+                        "İnozitol trifosfat (IP3)",
+                        "cGMP",
+                        "cAMP",
+                        "Kalsiyum"
+                ],
+                "answer": "cAMP",
+                "correctAnswer": 3,
+                "explanation": "Glukagon (ve ACTH, TSH vb.), Gs protein kenetli reseptörleri üzerinden adenilat siklazı aktive eder ve hücre içinde cAMP düzeyini artırarak Protein Kinaz A'yı (PKA) uyarır.",
+                "id": "v7_biyo_7"
+        },
     {
-        "id": "v7_biyo_8",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Lipitlerin sindirimi için gerekli olan Safra Asitleri karaciğerde kolesterolden sentezlenir. Bu sentez yolunun hız kısıtlayıcı basamağında görevli enzim aşağıdakilerden hangisidir?",
-        "options": [
-            "HMG-CoA redüktaz",
-            "Kolesterol 7-alfa-hidroksilaz",
-            "Lipoprotein lipaz",
-            "Hormona duyarlı lipaz",
-            "Safra tuzu eksport pompası"
-        ],
-        "answer": "Kolesterol 7-alfa-hidroksilaz",
-        "correctAnswer": 1,
-        "explanation": "Kolesterolden safra asidi (kolik asit, kenodeoksikolik asit) yapımında hız kısıtlayıcı enzim Kolesterol 7-alfa-hidroksilazdır. Reaksiyon için C vitamini gerekir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Nükleer hormon reseptörlerinin genetik dizilimi araştırılıyor. Reseptörün DNA üzerinde bağlanacağı bölgeyi tanıması ve spesifik gen sekanslarına tutunması, reseptör yapısındaki hangi bölge veya yapı sayesinde gerçekleşir?",
+                "options": [
+                        "Hormon Yanıt Elemanı (HRE)",
+                        "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                        "N-Terminal AF-1 transaktivasyon alanı",
+                        "G proteini alfa alt birimi",
+                        "Ligand bağlayıcı bölge (LBD)"
+                ],
+                "answer": "Çinko parmak (Zinc-finger) yapıları içeren DNA bağlayıcı bölge",
+                "correctAnswer": 1,
+                "explanation": "Hücre içi (nükleer/sitoplazmik) reseptörlerin DNA bağlayıcı bölgeleri (DBD), 'çinko parmak' yapıları içerir ve DNA'nın spesifik dizilerine bağlanmayı sağlar.",
+                "id": "v7_biyo_8"
+        },
     {
-        "id": "v7_biyo_9",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Yenidoğan sarılığı tedavisinde bebeğe uygulanan 'Fototerapi' tedavisinin fizyolojik/biyokimyasal amacı nedir?",
-        "options": [
-            "Bilirubini karaciğere geri döndürmek.",
-            "Direkt bilirubini (konjuge) safra kanalına itmek.",
-            "Toksik ve suda çözünmeyen indirekt bilirubini karaciğere (konjugasyona) ihtiyaç duymadan suda çözünür izomerlere (örn. Lumirubin) çevirip idrar/safra ile atılmasını sağlamak.",
-            "Kırmızı kan hücrelerinin yıkımını (hemolizini) anında durdurmak.",
-            "Alyuvar zarını güçlendirmek."
-        ],
-        "answer": "Toksik ve suda çözünmeyen indirekt bilirubini karaciğere (konjugasyona) ihtiyaç duymadan suda çözünür izomerlere (örn. Lumirubin) çevirip idrar/safra ile atılmasını sağlamak.",
-        "correctAnswer": 2,
-        "explanation": "Fototerapi, cilde vuran özel dalga boyundaki ışıkla indirekt bilirubinin kimyasal yapısını (konfigürasyonunu) değiştirerek, glukuronidasyona gerek kalmadan suda çözünen fotoizomerlere dönüştürür ve idrarla attırır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Ciddi ishal ve susuzluk şikayetiyle acile başvuran 65 yaşındaki hastanın kan osmolalitesi 310 mOsm/kg (Normal: 275-295) olarak ölçülüyor. Bu hastada hiperosmolariteye yanıt olarak hipotalamustan sentezlenip arka hipofizden salgılanarak, böbrek toplayıcı kanallarındaki V2 reseptörlerine bağlanan hormon aşağıdakilerden hangisidir?",
+                "options": [
+                        "Aldosteron",
+                        "Atriyal Natriüretik Peptid (ANP)",
+                        "Renin",
+                        "Antidiüretik Hormon (ADH / Vazopressin)",
+                        "Anjiyotensin II"
+                ],
+                "answer": "Antidiüretik Hormon (ADH / Vazopressin)",
+                "correctAnswer": 3,
+                "explanation": "Plazma osmolalitesi arttığında hipotalamik osmoreseptörlerin uyarılmasıyla arka hipofizden ADH salınır ve böbrek toplayıcı kanallarındaki V2 reseptörlerine bağlanarak Aquaporin-2 kanallarını açar.",
+                "id": "v7_biyo_9"
+        },
     {
-        "id": "v7_biyo_10",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Açlık durumunda lipoliz ile açığa çıkan serbest yağ asitlerinin kanda taşınmasını sağlayan plazma proteini hangisidir?",
-        "options": [
-            "Albumin",
-            "Transferrin",
-            "Şilomikron",
-            "VLDL",
-            "Fibrinojen"
-        ],
-        "answer": "Albumin",
-        "correctAnswer": 0,
-        "explanation": "Serbest (esterleşmemiş) yağ asitleri kanda albümin proteinine hidrofobik olarak bağlanarak taşınırlar. Şilomikron ve VLDL ise trigliseritleri taşır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Obezite patofizyolojisi araştırılırken yağ dokusunun adipokin salgıladığı saptanıyor. Yağ depoları (trigliserit) arttıkça adipositlerden salınımı artan, hipotalamusu etkileyerek tokluk sinyali gönderen (iştahı kesen), ancak obez bireylerde reseptör düzeyinde direnç gelişen hormon hangisidir?",
+                "options": [
+                        "Adiponektin",
+                        "Rezistin",
+                        "Ghrelin",
+                        "Leptin",
+                        "Oksitosin"
+                ],
+                "answer": "Leptin",
+                "correctAnswer": 3,
+                "explanation": "Leptin tokluk hormonudur. Yağ depoları arttıkça salgılanıp hipotalamusa tokluk sinyali gönderir. Obezlerde üretim yüksektir ancak 'leptin direnci' nedeniyle etki edemez.",
+                "id": "v7_biyo_10"
+        },
     {
-        "id": "v7_biyo_11",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Aşağıdakilerden hangisi glikolizin hız kısıtlayıcı enzimidir ve yüksek ATP/Sitrat seviyelerinde allosterik olarak inhibe olur?",
-        "options": [
-            "Hekzokinaz",
-            "Fosfofruktokinaz-1 (PFK-1)",
-            "Pirüvat Kinaz",
-            "Fosfogliserat Mutaz",
-            "Glukoz-6-Fosfataz"
-        ],
-        "answer": "Fosfofruktokinaz-1 (PFK-1)",
-        "correctAnswer": 1,
-        "explanation": "Glikolizin ana denetim noktası ve hız kısıtlayıcı enzimi PFK-1'dir. Hücrede bol ATP ve Sitrat varsa durur; AMP veya Fruktoz 2,6-bisfosfat artarsa hızlanır."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Acil serviste status epileptikus geçiren hastaya merkezi sinir sistemindeki ana inhibitör nörotransmitter üzerinden etki eden bir ilaç (benzodiazepin) veriliyor. Beyindeki bu en önemli inhibitör nörotransmitter (GABA), hangi amino asidin dekarboksilasyonu sonucu sentezlenir?",
+                "options": [
+                        "Glisin",
+                        "Tirozin",
+                        "Glutamat",
+                        "Triptofan",
+                        "Histidin"
+                ],
+                "answer": "Glutamat",
+                "correctAnswer": 2,
+                "explanation": "GABA (Gama-aminobütirik asit), beyindeki ana eksitatör nörotransmitter olan Glutamatın, glutamat dekarboksilaz enzimi ile karbondioksit kaybetmesi (dekarboksilasyon) sonucu oluşur.",
+                "id": "v7_biyo_11"
+        },
 
     // --- FARMAKOLOJİ (7 Soru) ---
     // Yasemin Özatik (2 İlaç Etkileşimi)
@@ -701,65 +701,65 @@ const v7Part2 = [
     // --- DİĞERLERİ (10 Soru) ---
     // Biyofizik (4 Soru)
     {
-        "id": "v7_biyofizik_1",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Hücre zarının dinlenim membran potansiyelinin hüce içinin eksi yüklü olmasından asıl sorumlu olan mekanizma / iyon sızıntısı aşağıdakilerden hangisidir?",
-        "options": [
-            "Sodyumun sızma kanallarından hücreye sızması",
-            "Potasyumun (K+) sızma kanallarından sürekli hücre dışına sızması ve içeride eksi yüklü proteinleri bırakması",
-            "Sodyum-Potasyum (Na/K) pompasının 3 sodyumu alıp 2 potasyumu atması",
-            "Kalsiyum pompası aktivitesi",
-            "Aksiyon potansiyelinin pik (zirve) yapması"
-        ],
-        "answer": "Potasyumun (K+) sızma kanallarından sürekli hücre dışına sızması ve içeride eksi yüklü proteinleri bırakması",
-        "correctAnswer": 1,
-        "explanation": "İstirahat halinde zardaki sızma kanallarının Potasyuma olan geçirgenliği, Sodyuma göre 100 kat daha fazladır. Artı yüklü K'lar dışarı kaçtıkça içeride dev (-) yüklü proteinler kalarak hücre içini eksi (-90mV) yapar."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "İntravenöz sıvı tedavisi alan hastada asit-baz dengesi inceleniyor. Vücutta fizyolojik bir çözeltideki H+ iyonu konsantrasyonu 40 nmol/L olarak tespit ediliyor. Bu değerin karşılık geldiği normal arteriyel kan pH değeri aşağıdakilerden hangisidir?",
+                "options": [
+                        "6.8",
+                        "7.0",
+                        "7.2",
+                        "7.4",
+                        "7.6"
+                ],
+                "answer": "7.4",
+                "correctAnswer": 3,
+                "explanation": "Normal plazma H+ konsantrasyonu 40 nmol/L'dir. pH formülünde (pH = -log[H+]) yerine konduğunda, bu değer tam olarak fizyolojik nörtal kan pH'sı olan 7.4'e karşılık gelir.",
+                "id": "v7_biyofizik_1"
+        },
     {
-        "id": "v7_biyofizik_2",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Radyoaktivite ile ilgili olarak, bir atomun çekirdeğinden aynı anda 2 proton ve 2 nötron fırlatması şeklindeki ışıma türü hangisidir?",
-        "options": [
-            "Alfa ışıması",
-            "Beta (elektron) ışıması",
-            "Gama ışıması",
-            "Nötron saçılması",
-            "X-Işını"
-        ],
-        "answer": "Alfa ışıması",
-        "correctAnswer": 0,
-        "explanation": "Alfa partikülü (ışıması) 2 proton ve 2 nötrondan (Helyum çekirdeği) oluşur. Çok ağırdır, kağıdı bile geçemez ama yutulduğunda dokuya çok hasar verir."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Ciddi ishal nedeniyle acile başvuran bebekte aşırı miktarda bikarbonat kaybı olduğu saptanıyor. Kan gazı analizinde pH 7.25 olarak ölçülüyor. Asit-baz dengesizliğini kompanze etmek (düzeltmek) için hastanın vücudunda ortaya çıkması beklenen ilk (en hızlı tepki veren) fizyolojik yanıt sistemi hangisidir?",
+                "options": [
+                        "Böbreklerden HCO3- sentezi",
+                        "Solunumsal düzenleme (Hiperventilasyon)",
+                        "Karaciğerde laktat sentezinin artması",
+                        "Kimyasal tampon sistemlerinin anında devreye girmesi",
+                        "İdrarla amonyak atılımı"
+                ],
+                "answer": "Kimyasal tampon sistemlerinin anında devreye girmesi",
+                "correctAnswer": 3,
+                "explanation": "Asit-baz dengesini sağlayan mekanizmalar içinde saniyeler içinde tepki veren ilk savunma hattı 'Kimyasal Tampon Sistemleridir'. Solunum dakikalar, böbrekler ise saatler-günler içinde tepki verir.",
+                "id": "v7_biyofizik_2"
+        },
     {
-        "id": "v7_biyofizik_3",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Göz optiğinde uzağı net göremeyen hastalarda, göz küresi normalden UZUN olduğu için görüntü retinanın neresine odaklanır ve bu durumu düzeltmek için hangi tür mercek kullanılır?",
-        "options": [
-            "Retinanın arkasına odaklanır / İnce kenarlı (Dışbükey) mercek",
-            "Retinanın arkasına odaklanır / Kalın kenarlı (İçbükey) mercek",
-            "Retinanın önüne odaklanır / Kalın kenarlı (İçbükey / Konkav) mercek",
-            "Retinanın önüne odaklanır / İnce kenarlı (Dışbükey / Konveks) mercek",
-            "Tam retinaya odaklanır / Silindirik mercek"
-        ],
-        "answer": "Retinanın önüne odaklanır / Kalın kenarlı (İçbükey / Konkav) mercek",
-        "correctAnswer": 2,
-        "explanation": "Miyopide göz küresi uzundur veya lens fazla kırıcıdır, görüntü retinanın ÖNÜNDE kalır. Işınları saçarak görüntüyü geriye (retinaya) atmak için Kalın Kenarlı (Konkav / Iraksak) mercek takılır. (Astigmatizmada silindirik mercek takılır)."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Bir deney hayvanında hücresel pH düzenlemesi üzerine çalışılmaktadır. Deneyde özellikle eritrositlerin (kırmızı kan hücreleri) içine enjekte edilen asitlerin, o kompartmanda hızla nötralize edildiği saptanmıştır. Eritrosit içindeki H+ yükünü tamponlamaktan sorumlu olan majör sistem aşağıdakilerden hangisidir?",
+                "options": [
+                        "Amonyum tampon sistemi",
+                        "Fosfat tampon sistemi",
+                        "Bikarbonat tampon sistemi",
+                        "Hemoglobin tampon sistemi",
+                        "Dallı zincirli aminoasitler"
+                ],
+                "answer": "Hemoglobin tampon sistemi",
+                "correctAnswer": 3,
+                "explanation": "Hücre dışı tampon bikarbonat olsa da, eritrosit içinde (intraselüler) bulunan yoğun hemoglobin molekülleri, içerdikleri histidin kalıntıları sayesinde çok güçlü bir tamponlama (Hemoglobin Tampon Sistemi) görevi görür (%35).",
+                "id": "v7_biyofizik_3"
+        },
     {
-        "id": "v7_biyofizik_4",
-        "subject": "Tıbbi Biyokimya",
-        "question": "Kan dolaşımı fiziğinde akışkanlar mekaniği kullanıldığında, daralmış bir kalp kapağından geçen kanın HIZI çok fazla artar, ancak akım sırasında oluşturduğu YAN BASINÇ kanalda düşer. Bu durum kanın girdap yapmasına ve 'üfürüm' duyulmasına sebep olur. Bu olguyu açıklayan fiziksel yasa hangisidir?",
-        "options": [
-            "Ohm Yasası",
-            "Bernoulli İlkesi",
-            "Poiseuille Yasası",
-            "Hooke Yasası",
-            "Boyle-Mariotte Yasası"
-        ],
-        "answer": "Bernoulli İlkesi",
-        "correctAnswer": 1,
-        "explanation": "Bernoulli ilkesine göre, bir boruda akışkanın hızı artarsa çeperlere yaptığı basınç (potansiyel enerji) düşer. Darlık bölgesinde hız fırlar, basınç düşer."
-    },
+                "subject": "Tıbbi Biyokimya",
+                "question": "Diyabetik ketoasidoz koması şüphesiyle getirilen Tip 1 DM hastasının kan pH'sı 7.15 (Asidemi) bulunmuştur. Bu hastada vücutta sentezlenen 'karbonik olmayan' (non-volatil) asitlerin kanda birikimi mevcuttur. Aşağıdakilerden hangisi solunumla atılamayan, metabolizma kaynaklı bu asitlerden biridir?",
+                "options": [
+                        "Karbonik asit",
+                        "Bikarbonat",
+                        "Asetoasetik asit (Ketoasit)",
+                        "Amonyak",
+                        "Karbondioksit"
+                ],
+                "answer": "Asetoasetik asit (Ketoasit)",
+                "correctAnswer": 2,
+                "explanation": "Ketoasitler (asetoasetik asit, beta-hidroksibütirik asit), laktik asit ve fosforik asit hücre metabolizmasından kaynaklanan ve akciğerle atılamayan karbonik olmayan (non-volatil) organik asitlerdir.",
+                "id": "v7_biyofizik_4"
+        },
     // Patoloji (2 Soru)
     {
         "id": "v7_patoloji_1",
