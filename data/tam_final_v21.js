@@ -16,7 +16,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Dolaşım Sistemi",
         "topic": "Kalp Dış Yapısı",
-        "hint": "Ön yüzde yer alan ve iki ventrikül arası sınır."
+        "hint": "Ön yüzde yer alan ve iki ventrikül arası sınır.",
+        "correctAnswer": 1,
+        "explanation": "Sulcus interventricularis anterior, kalbin sternokostal (ön) yüzünde yer alır ve sağ ile sol ventrikülü birbirinden ayıran en önemli dış sınırdır. İçinde A. interventricularis anterior (LAD) damarı seyreder.",
+        "id": "v21_q_1"
     },
     {
         "question": "Aorta abdominalis'in tek (çift olmayan) visseral dallarından biri hangisidir?",
@@ -31,7 +34,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Dolaşım Sistemi",
         "topic": "Abdominal Aorta",
-        "hint": "GİS organlarını besleyen büyük tek dal."
+        "hint": "GİS organlarını besleyen büyük tek dal.",
+        "correctAnswer": 2,
+        "explanation": "Truncus celiacus, aorta abdominalis'in ön yüzünden çıkan üç adet tek (visseral) daldan ilkidir. T12 seviyesinde çıkar ve karaciğer, mide, dalak gibi organları besler. Diğer iki tek dal ise A. mesenterica superior ve inferior'dur.",
+        "id": "v21_q_2"
     },
     {
         "question": "Mide bedeni (corpus gastricum) büyük kurvaturunu besleyen damar aşağıdakilerden hangisidir?",
@@ -46,7 +52,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Gastrointestinal Sistem",
         "topic": "Mide Beslenmesi",
-        "hint": "Büyük kurvaturun üst kısımlarına uzanır, a. splenica dalıdır."
+        "hint": "Büyük kurvaturun üst kısımlarına uzanır, a. splenica dalıdır.",
+        "correctAnswer": 3,
+        "explanation": "Midenin büyük kurvaturunu (Curvatura major) iki arter besler: Üst bölümü A. splenica'dan gelen A. gastroomentalis sinistra, alt bölümü ise A. gastroduodenalis'ten gelen A. gastroomentalis dextra kanlandırır.",
+        "id": "v21_q_3"
     },
     {
         "question": "Vena portae hepatis'i oluşturan iki ana ven hangileridir?",
@@ -61,7 +70,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Gastrointestinal Sistem",
         "topic": "Portal Sistem",
-        "hint": "Dalak ve üst bağırsak venleri birleşir."
+        "hint": "Dalak ve üst bağırsak venleri birleşir.",
+        "correctAnswer": 0,
+        "explanation": "Vena portae hepatis, pankreasın boyun kısmının (collum pancreatis) arkasında, Vena splenica (dalak) ile Vena mesenterica superior'un (üst GİS) birleşmesiyle oluşur ve tüm sindirim sistemi kanını karaciğere taşır.",
+        "id": "v21_q_4"
     },
     {
         "question": "Kalbin ileti sisteminde 'pacemaker' olarak görev yapan düğüm hangisidir?",
@@ -76,7 +88,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Dolaşım Sistemi",
         "topic": "Kalp İleti Sistemi",
-        "hint": "Sağ atriyum duvarında yer alır."
+        "hint": "Sağ atriyum duvarında yer alır.",
+        "correctAnswer": 2,
+        "explanation": "Kalbin doğal kalp pili olan Sinoatriyal Düğüm (SA Düğüm), sağ atriyumda vena cava superior'un açıldığı yerin hemen altında, crista terminalis'in üst ucunda bulunur ve dakikada 60-100 uyarı üreterek ritmi başlatır.",
+        "id": "v21_q_5"
     },
     {
         "question": "Kalın bağırsağın teniae coli, haustra coli ve appendices epiploicae yapılarını bulundurmayan bölümü hangisidir?",
@@ -91,7 +106,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Gastrointestinal Sistem",
         "topic": "Kalın Bağırsak",
-        "hint": "Pelvis içinde yer alan son kısımdır, düz duvarlıdır."
+        "hint": "Pelvis içinde yer alan son kısımdır, düz duvarlıdır.",
+        "correctAnswer": 4,
+        "explanation": "Kalın bağırsağın karakteristik üçlüsü olan Teniae coli (uzunlamasına kas bantları), Haustra coli (keselenmeler) ve Appendices epiploicae (yağ damlacıkları) yapıları Rectum ve Canalis analis'te kesinlikle BULUNMAZ.",
+        "id": "v21_q_6"
     },
     {
         "question": "A. mesenterica superior hangi organın arkasından geçerek bağırsaklara dağılır?",
@@ -106,7 +124,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Gastrointestinal Sistem",
         "topic": "Damar Topografisi",
-        "hint": "Pankreas başı ve uncinat çıkıntısı ile komşudur."
+        "hint": "Pankreas başı ve uncinat çıkıntısı ile komşudur.",
+        "correctAnswer": 2,
+        "explanation": "A. mesenterica superior (AMS), aorta abdominalis'ten L1 seviyesinde çıkar. Anatomik komşuluğu çok kritiktir: Pankreasın boyun kısmının arkasından geçer ve uncinat çıkıntının (processus uncinatus) ile duodenumun 3. parçasının (pars horizontalis) önünden geçerek bağırsağa iner.",
+        "id": "v21_q_7"
     },
     {
         "question": "A. coronaria dextra'nın dalı olan ve genellikle kalbin arka yüzünde aşağı doğru inen arter hangisidir?",
@@ -121,7 +142,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Dolaşım Sistemi",
         "topic": "Koroner Damarlar",
-        "hint": "Sağ koroner arter dominant kalplerde PDA'yı verir."
+        "hint": "Sağ koroner arter dominant kalplerde PDA'yı verir.",
+        "correctAnswer": 2,
+        "explanation": "Kalbin arka interventriküler oluğunda seyreden Arteria interventricularis posterior (PDA), olguların %80-85'inde sağ koroner arterden (RCA) çıkar. Bu duruma 'Sağ Dominant Kalp' adı verilir.",
+        "id": "v21_q_8"
     },
     {
         "question": "Ligamentum falciforme hepatis karaciğeri hangi yapılara bağlar?",
@@ -136,7 +160,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Gastrointestinal Sistem",
         "topic": "Karaciğer Ligamentleri",
-        "hint": "Sağ ve sol lobu önden ayıran ligament."
+        "hint": "Sağ ve sol lobu önden ayıran ligament.",
+        "correctAnswer": 1,
+        "explanation": "Ligamentum falciforme hepatis, karaciğerin ön yüzünde sağ ve sol lobu ayıran orak şeklindeki periton kıvrımıdır. Karaciğeri ön karın duvarı ve diyafragmaya asarak sabitler. Alt kenarında anne karnındaki göbek veninin (V. umbilicalis) kalıntısı olan Lig. teres hepatis bulunur.",
+        "id": "v21_q_9"
     },
     {
         "question": "Akciğerin hilum'undan girmeyen yapı aşağıdakilerden hangisidir?",
@@ -151,7 +178,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Solunum Sistemi",
         "topic": "Akciğer Hilumu",
-        "hint": "Göğüs ön duvarını besleyen bir damardır, akciğere girmez."
+        "hint": "Göğüs ön duvarını besleyen bir damardır, akciğere girmez.",
+        "correctAnswer": 3,
+        "explanation": "Akciğer hilumundan giren/çıkan ana yapılar: Bronchus principalis, A. pulmonalis, Vv. pulmonales, lenf damarları ve otonom sinirlerdir. A. thoracica interna (A. mammaria interna) ise sternumun iki yanında aşağı inen ve göğüs ön duvarını besleyen parietal bir arterdir, akciğer içine girmez.",
+        "id": "v21_q_10"
     },
     {
         "question": "Böbreklerde idrarın papilla renalis'ten döküldüğü ilk boşluk hangisidir?",
@@ -166,7 +196,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Ürogenital Sistem",
         "topic": "Böbrek",
-        "hint": "Minör boşluklar birleşip majörleri oluşturur."
+        "hint": "Minör boşluklar birleşip majörleri oluşturur.",
+        "correctAnswer": 2,
+        "explanation": "İdrar yolculuğu böbrek piramitlerinin ucundaki (papilla renalis) deliklerden (area cribrosa) süzülerek başlar. Bu idrarı ilk toplayan huni şeklindeki küçük boşluklara Calyx minor denir. 2-3 calyx minor birleşerek Calyx major'ü oluşturur.",
+        "id": "v21_q_11"
     },
     {
         "question": "Larynx'in tek parça kıkırdaklarından en büyüğü hangisidir?",
@@ -181,7 +214,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Solunum Sistemi",
         "topic": "Larynx Kıkırdakları",
-        "hint": "Adem elmasını oluşturan kıkırdak."
+        "hint": "Adem elmasını oluşturan kıkırdak.",
+        "correctAnswer": 2,
+        "explanation": "Cartilago thyroidea (Tiroid kıkırdak), larynx'in (gırtlak) tek ve en büyük kıkırdağıdır. Özellikle erkeklerde öne doğru belirginleşerek Prominentia laryngea (Adem elması) adını alır.",
+        "id": "v21_q_12"
     },
     {
         "question": "Trachea'nın iki ana bronşa ayrıldığı seviye (Bifurcatio tracheae) hangi omur hizasındadır?",
@@ -196,7 +232,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Solunum Sistemi",
         "topic": "Trachea",
-        "hint": "Angulus sterni seviyesiyle aynıdır."
+        "hint": "Angulus sterni seviyesiyle aynıdır.",
+        "correctAnswer": 2,
+        "explanation": "Soluk borusu (Trachea), T4-T5 omurları hizasındaki (açısal olarak Angulus sterni / Louis açısı seviyesi) Bifurcatio tracheae bölgesinde iki ana bronşa ayrılır. Bu bölgede yer alan Carina tracheae iç kısımdaki en hassas kıkırdaktır.",
+        "id": "v21_q_13"
     },
     {
         "question": "Spermatogenezin gerçekleştiği testis içi kanalcık sistemi hangisidir?",
@@ -211,7 +250,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Ürogenital Sistem",
         "topic": "Erkek Genital",
-        "hint": "Testis lobüllerinin içindeki kıvrımlı tübüller."
+        "hint": "Testis lobüllerinin içindeki kıvrımlı tübüller.",
+        "correctAnswer": 2,
+        "explanation": "Spermatogenez (sperm üretimi) işleminin gerçekleştiği yer Tubuli seminiferi contorti'dir. Bu tübüllerin duvarındaki Sertoli hücreleri spermlere destek olurken, tübüller arasındaki Leydig hücreleri testosteron salgılar.",
+        "id": "v21_q_14"
     },
     {
         "question": "Uterus'un en dış tabakası (periton örtüsü) aşağıdakilerden hangisidir?",
@@ -226,7 +268,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Ürogenital Sistem",
         "topic": "Kadın Genital",
-        "hint": "Uterus duvarının seröz katmanıdır."
+        "hint": "Uterus duvarının seröz katmanıdır.",
+        "correctAnswer": 2,
+        "explanation": "Uterus (rahim) üç tabakadan oluşur: İçte mukoza olan Endometrium (menstruasyonda atılan tabaka), ortada kas tabakası Myometrium (kasılmalardan sorumlu) ve en dışta seröz periton örtüsü olan Perimetrium.",
+        "id": "v21_q_15"
     },
     {
         "question": "Mesanenin iç yüzünde, iki ureter deliği ve ostium urethrae internum arasında kalan düz üçgen alana ne ad verilir?",
@@ -241,7 +286,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Ürogenital Sistem",
         "topic": "Mesane",
-        "hint": "Mukoza kıvrımı içermeyen alandır."
+        "hint": "Mukoza kıvrımı içermeyen alandır.",
+        "correctAnswer": 2,
+        "explanation": "Trigonum vesicae (Lieutaud üçgeni), mesanenin tabanında yer alan ve köşelerini iki ureter deliği (ostium ureteris) ile uretranın başlangıcının (ostium urethrae internum) oluşturduğu üçgen alandır. Mesanenin geri kalanı pililiyken (rugae), bu bölgenin mukozası pürüzsüz ve düzdür.",
+        "id": "v21_q_16"
     },
     {
         "question": "Plevra'nın akciğer dokusuna sıkıca yapışan tabakası hangisidir?",
@@ -256,7 +304,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Solunum Sistemi",
         "topic": "Plevra",
-        "hint": "Organın üzerini örten visseral tabakadır."
+        "hint": "Organın üzerini örten visseral tabakadır.",
+        "correctAnswer": 1,
+        "explanation": "Pleura (Akciğer zarı) iki yapraklıdır. Akciğer dokusunun kendisine, hatta loblar arasındaki yarıklara (fissürlere) kadar sıkıca yapışan iç tabakaya Pleura visceralis denir. Dış tabaka ise Pleura parietalis'tir.",
+        "id": "v21_q_17"
     },
     {
         "question": "Ductus deferens ile vesicula seminalis kanalının birleşmesiyle oluşan yapı hangisidir?",
@@ -271,7 +322,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Ürogenital Sistem",
         "topic": "Erkek Genital",
-        "hint": "Prostatın içinden geçip uretraya açılır."
+        "hint": "Prostatın içinden geçip uretraya açılır.",
+        "correctAnswer": 2,
+        "explanation": "Spermleri taşıyan Ductus deferens ile seminal sıvıyı üreten Vesicula seminalis'in kanalı birleşerek Ductus ejaculatorius'u (fırlatma kanalı) oluşturur. Bu kanal prostat bezinin içinden geçerek pars prostatica urethrae'ye dökülür.",
+        "id": "v21_q_18"
     },
     {
         "question": "Medulla spinalis'te ağrı ve ısı duyusunu taşıyan ana tractus hangisidir?",
@@ -286,7 +340,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Çıkan Yollar",
-        "hint": "Kontralateral olarak yükselen anterolateral sistemin parçasıdır."
+        "hint": "Kontralateral olarak yükselen anterolateral sistemin parçasıdır.",
+        "correctAnswer": 3,
+        "explanation": "Vücuttan gelen ağrı ve ısı duyuları omuriliğin arka boynuzuna girdikten sonra çapraz yaparak karşı tarafa geçer ve Tractus spinothalamicus lateralis adıyla talamusa yükselir. (Ön spinotalamik yol ise kaba dokunma ve basınç taşır).",
+        "id": "v21_q_19"
     },
     {
         "question": "Beyincik (Cerebellum) ile pons ve bulbus arasında yer alan ve BOS içeren boşluk hangisidir?",
@@ -301,7 +358,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Ventrikül Sistemi",
-        "hint": "Rombensefalon boşluğudur."
+        "hint": "Rombensefalon boşluğudur.",
+        "correctAnswer": 3,
+        "explanation": "Dördüncü karıncık (Ventriculus quartus), beyinsapı (pons ve bulbus) ile beyincik (cerebellum) arasında yer alan çadır şeklindeki boşluktur. BOS (Beyin Omurilik Sıvısı) bu boşluktan Magendie ve Luschka delikleriyle subaraknoid mesafeye geçer.",
+        "id": "v21_q_20"
     },
     {
         "question": "Beyne giden ana damarlardan biri olan A. carotis interna kafatasına hangi delikten girer?",
@@ -316,7 +376,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Baş Damarları",
-        "hint": "Temporal kemiğin petröz parçası içinde yer alır."
+        "hint": "Temporal kemiğin petröz parçası içinde yer alır.",
+        "correctAnswer": 0,
+        "explanation": "A. carotis interna, beyni besleyen ana damarlardan biridir. Boyunda hiç dal vermeden yükselir ve temporal kemiğin petröz parçasındaki Canalis caroticus'tan geçerek kafatası içine (fossa cranii media) girer.",
+        "id": "v21_q_21"
     },
     {
         "question": "Sinir sisteminde miyelin kılıfı merkezi sinir sisteminde (MSS) oluşturan hücre hangisidir?",
@@ -331,7 +394,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Nöroglia",
-        "hint": "Periferik sistemdeki karşılığı Schwann'dır."
+        "hint": "Periferik sistemdeki karşılığı Schwann'dır.",
+        "correctAnswer": 1,
+        "explanation": "Sinir iletimini hızlandıran miyelin kılıfı, Merkezi Sinir Sisteminde (Beyin ve Omurilik) Oligodendrositler üretir (bir hücre birden fazla aksonu miyelinler). Periferik Sinir Sisteminde ise Schwann hücreleri üretir.",
+        "id": "v21_q_22"
     },
     {
         "question": "Broca motor konuşma merkezi tipik olarak beynin neresinde yer alır?",
@@ -346,7 +412,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Kortikal Alanlar",
-        "hint": "Pars opercularis ve pars triangularis bölgesindedir."
+        "hint": "Pars opercularis ve pars triangularis bölgesindedir.",
+        "correctAnswer": 2,
+        "explanation": "Motor konuşma merkezi (Broca), genellikle dominant hemisferde (çoğunlukla sol) frontal lobun Gyrus frontalis inferior bölgesinde (pars opercularis ve pars triangularis) yer alır. Hasarında hasta anlar ama konuşamaz (Motor afazi).",
+        "id": "v21_q_23"
     },
     {
         "question": "Motor yolların çapraz yaptığı (Decussatio pyramidum) yapı beynin neresindedir?",
@@ -361,7 +430,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Beyin Sapı",
-        "hint": "Piramidal yollar bulbusun alt kısmında çapraz yapar."
+        "hint": "Piramidal yollar bulbusun alt kısmında çapraz yapar.",
+        "correctAnswer": 2,
+        "explanation": "İstemli kas hareketlerini sağlayan motor liflerin (Tractus corticospinalis) yaklaşık %75-90'ı, bulbusun (medulla oblongata) alt kısmındaki Decussatio pyramidum bölgesinde karşı tarafa çapraz geçer.",
+        "id": "v21_q_24"
     },
     {
         "question": "Poligon of Willis'i (Circulus arteriosus cerebri) arkada tamamlayan arter hangisidir?",
@@ -376,7 +448,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Beyin Beslenmesi",
-        "hint": "Basiler arterin terminal dallarıdır."
+        "hint": "Basiler arterin terminal dallarıdır.",
+        "correctAnswer": 2,
+        "explanation": "Beyin tabanındaki kan akımını dengeleyen Willis poligonunu arkadan kapatan damarlar, A. basilaris'in uç dalları olan sağ ve sol A. cerebri posterior'dur. Poligonun arka köşe taşlarını oluştururlar.",
+        "id": "v21_q_25"
     },
     {
         "question": "Dura mater yaprakları arasında oluşan boşluklardan kafatasının üst orta hattında önden arkaya uzanan sinüs hangisidir?",
@@ -391,7 +466,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 1",
         "topic": "Venöz Sinüsler",
-        "hint": "Falx cerebri'nin üst kenarında seyreder."
+        "hint": "Falx cerebri'nin üst kenarında seyreder.",
+        "correctAnswer": 3,
+        "explanation": "Sinus sagittalis superior, iki beyin yarımküresini ayıran dura mater uzantısı Falx cerebri'nin üst konveks kenarı boyunca önden arkaya (protuberantia occipitalis externa'ya kadar) uzanan ve BOS'un araknoid villuslar aracılığıyla içine emildiği en büyük venöz sinüstür.",
+        "id": "v21_q_26"
     },
     {
         "question": "Göze gelen ışığın miktarını ayarlayan ve pupilla çapını değiştiren yapı hangisidir?",
@@ -406,7 +484,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "Göz",
-        "hint": "Gözün renkli kısmı olan ve kaslar içeren tabakadır."
+        "hint": "Gözün renkli kısmı olan ve kaslar içeren tabakadır.",
+        "correctAnswer": 2,
+        "explanation": "İris, gözün damar tabakası olan uvea'nın en ön kısmıdır ve gözün rengini verir. Ortasındaki boşluk (pupilla) sayesinde göze giren ışık miktarını içerdiği M. sphincter pupillae (daraltan) ve M. dilatator pupillae (genişleten) kaslarıyla diyafram gibi ayarlar.",
+        "id": "v21_q_27"
     },
     {
         "question": "İşitme reseptörlerini içeren Corti organı iç kulağın hangi bölümünde yer alır?",
@@ -421,7 +502,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "İç Kulak",
-        "hint": "Koklea içindeki membranöz kanaldır."
+        "hint": "Koklea içindeki membranöz kanaldır.",
+        "correctAnswer": 3,
+        "explanation": "İşitme duyusunun asıl reseptör organı olan Corti organı, iç kulaktaki salyangoz (Cochlea) yapısının membranöz bölümü olan Ductus cochlearis içerisinde, membrana basilaris üzerine oturmuş olarak bulunur.",
+        "id": "v21_q_28"
     },
     {
         "question": "Orta kulağı (Cavitas tympani) yutağa (Nasopharynx) bağlayan ve basınç eşitleyen yapı hangisidir?",
@@ -436,7 +520,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "Orta Kulak",
-        "hint": "Östaki borusu olarak bilinir."
+        "hint": "Östaki borusu olarak bilinir.",
+        "correctAnswer": 1,
+        "explanation": "Tuba auditiva (Eustachi / Östaki borusu), orta kulak boşluğu ile yutak (nasopharynx) arasında uzanan kanaldır. Yutkunma ve esneme sırasında açılarak orta kulak basıncını dış ortam basıncıyla eşitler, kulak zarının çökmesini önler.",
+        "id": "v21_q_29"
     },
     {
         "question": "Retina'nın keskin görmeden (merkezi görme) sorumlu alanı hangisidir?",
@@ -451,7 +538,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "Göz",
-        "hint": "Sadece koni hücreleri içeren sarı leke bölgesidir."
+        "hint": "Sadece koni hücreleri içeren sarı leke bölgesidir.",
+        "correctAnswer": 1,
+        "explanation": "Retinanın arka kutbunda yer alan Macula lutea (sarı leke) ve onun tam ortasındaki Fovea centralis, yalnızca renkli görmeyi sağlayan koni hücrelerini (basil içermez) barındıran ve en keskin (merkezi) görmenin gerçekleştiği alandır.",
+        "id": "v21_q_30"
     },
     {
         "question": "Tat duyusunu dilin 1/3 arka kısmından merkeze taşıyan kranial sinir hangisidir?",
@@ -466,7 +556,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "Tat Duyusu",
-        "hint": "Papilla vallata'nın tat duyusunu da alır."
+        "hint": "Papilla vallata'nın tat duyusunu da alır.",
+        "correctAnswer": 1,
+        "explanation": "Dilin 2/3 ön kısmının tat duyusunu N. facialis (CN VII - chorda tympani dalı ile), 1/3 arka kısmının ve o bölgedeki papilla vallata'ların tat duyusunu ise N. glossopharyngeus (CN IX) merkeze taşır.",
+        "id": "v21_q_31"
     },
     {
         "question": "Göz kaslarından m. obliquus superior'u innerve eden sinir hangisidir?",
@@ -481,7 +574,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "Kranial Sinirler",
-        "hint": "Kranial sinir IV."
+        "hint": "Kranial sinir IV.",
+        "correctAnswer": 1,
+        "explanation": "Gözün dış (ekstraoküler) kaslarından M. obliquus superior'u N. trochlearis (CN IV) innerve eder. (LR6-SO4 formülü: Lateral Rektus'u CN 6, Superior Oblik'i CN 4 innerve eder).",
+        "id": "v21_q_32"
     },
     {
         "question": "İç kulakta dengenin (statik) algılandığı makülalar nerede bulunur?",
@@ -496,7 +592,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "İç Kulak - Denge",
-        "hint": "Vestibülün içindeki otolit organlarıdır."
+        "hint": "Vestibülün içindeki otolit organlarıdır.",
+        "correctAnswer": 2,
+        "explanation": "İç kulakta yer çekimi ve doğrusal (lineer) ivmelenmeye karşı statik dengeyi sağlayan makülalar, vestibulum içindeki Utriculus ve Sacculus adı verilen otolit organlarının içinde yer alır.",
+        "id": "v21_q_33"
     },
     {
         "question": "Koku sinirinin (N. olfactorius) lifleri beyin boşluğuna girmek için hangi kemiğin deliklerinden geçer?",
@@ -511,172 +610,197 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Anatomi",
         "course": "Nöro 2",
         "topic": "Koku Sistemi",
-        "hint": "Etmoid kemiğin kalbursu tabakasıdır."
+        "hint": "Etmoid kemiğin kalbursu tabakasıdır.",
+        "correctAnswer": 2,
+        "explanation": "Koku duyusunu taşıyan N. olfactorius (CN I) lifleri (Fila olfactoria), burun boşluğu tavanından kafatası içine geçmek için os ethmoidale (etmoid kemik) üzerindeki delikli yapı olan Lamina cribrosa'dan geçerler.",
+        "id": "v21_q_34"
     },
     {
-        "question": "DNA replikasyonu sırasında Okazaki fragmanlarını birleştiren enzim aşağıdakilerden hangisidir?",
+        "question": "Bakır (Cu) metabolizması bozukluğu olan Wilson hastalığında kan plazmasında düzeyi karakteristik olarak DÜŞÜK bulunan ve bakırın taşınmasından sorumlu olan plazma proteini aşağıdakilerden hangisidir?",
         "options": [
-            "DNA polimeraz",
-            "DNA helikaz",
-            "DNA ligaz",
-            "Primaz",
-            "Topoizomeraz"
+            "Transferrin",
+            "Haptoglobin",
+            "Seruloplazmin",
+            "Fibrinojen",
+            "Alfa-1 Antitripsin"
         ],
-        "answer": "DNA ligaz",
+        "answer": "Seruloplazmin",
+        "correctAnswer": 2,
+        "subject": "Biyokimya",
+        "course": "GİS ve Metabolizma",
+        "topic": "Kan Proteinleri / Mineraller",
+        "explanation": "Wilson hastalığında karaciğerde bakırın seruloplazmine bağlanmasında kusur vardır. Bu nedenle kanda bakır serbest dolaşır ve seruloplazmin düzeyi düşer.",
+        "id": "v21_q_35"
+    },
+    {
+        "question": "İki aylık bir bebekte ağır hepatomegali (karaciğer büyümesi), hipoglisemi ve laktik asidoz tablosu görülmüştür. Karaciğer biyopsisinde glikojen birikimi saptanan bu hastada, Glikoz 6-Fosfataz enzimi eksikliğine bağlı olarak gelişen glikojen depo hastalığı hangisidir?",
+        "options": [
+            "Von Gierke Hastalığı (Tip I)",
+            "Pompe Hastalığı (Tip II)",
+            "Cori Hastalığı (Tip III)",
+            "McArdle Hastalığı (Tip V)",
+            "Gaucher Hastalığı"
+        ],
+        "answer": "Von Gierke Hastalığı (Tip I)",
+        "correctAnswer": 0,
+        "subject": "Biyokimya",
+        "course": "GİS ve Metabolizma",
+        "topic": "Karbonhidrat Bozuklukları",
+        "explanation": "Glikoz-6-Fosfataz eksikliği Tip 1 glikojen depo hastalığı olan Von Gierke'ye yol açar. Karaciğer glikojeni glikoza çeviremediği için ağır hipoglisemi ve hepatomegali oluşur.",
+        "id": "v21_q_36"
+    },
+    {
+        "question": "Pankreas beta hücrelerinde insülin sentezlenirken, proinsülin molekülünün parçalanması sonucu insülin ile birlikte eşit moleküler (equimolar) oranda kana salgılanan ve endojen insülin rezervini ölçmek için kullanılan molekül hangisidir?",
+        "options": [
+            "Glikagon",
+            "C-peptid",
+            "Amilin",
+            "Somatostatin",
+            "Glutamat"
+        ],
+        "answer": "C-peptid",
+        "correctAnswer": 1,
+        "subject": "Biyokimya",
+        "course": "Endokrin Sistem",
+        "topic": "Pankreas Hormonları",
+        "explanation": "Proinsülin, Golgi aygıtında insülin ve C-peptide bölünür. C-peptid, karaciğerden ilk geçişte insülin gibi büyük oranda yıkılmadığı için pankreasın içsel insülin üretim kapasitesini gösteren en iyi belirteçtir.",
+        "id": "v21_q_37"
+    },
+    {
+        "question": "Ağır metal zehirlenmelerinden biri olan Kurşun (Pb) zehirlenmesinde, Hem sentez yolağındaki hangi enzimler spesifik olarak inhibe olur ve kanda ALA (Aminolevülinik asit) birikimi gözlenir?",
+        "options": [
+            "ALA Sentaz ve Ferroşelataz",
+            "ALA Dehidrataz ve Ferroşelataz",
+            "Üroporfirinojen III Sentaz",
+            "HMB Sentaz (Porfobilinojen deaminaz)",
+            "Hem oksijenaz"
+        ],
+        "answer": "ALA Dehidrataz ve Ferroşelataz",
+        "correctAnswer": 1,
         "subject": "Biyokimya",
         "course": "Hastalık Temelleri",
-        "topic": "DNA Replikasyonu",
-        "hint": "Kesintili zincirdeki fosfodiester bağlarını oluşturur."
+        "topic": "Toksik Elementler / Porfirin",
+        "explanation": "Kurşun, yapısındaki sülfidril (SH) gruplarına bağlanarak ALA dehidrataz ve Ferroşelataz enzimlerini inhibe eder. Bu durum mikrositik anemi ve kanda ALA birikimine yol açar.",
+        "id": "v21_q_38"
     },
     {
-        "question": "mRNA sentezi sürecine ne ad verilir?",
+        "question": "Ksenobiyotik metabolizmasının (ilaç detoksifikasyonu) Faz I reaksiyonlarında en yaygın görev alan, karaciğer mikrozomlarında bulunan ve karbon monoksit bağladığında 450 nm'de maksimum ışık soğuran izoenzim ailesi aşağıdakilerden hangisidir?",
         "options": [
-            "Translasyon",
-            "Transkripsiyon",
-            "Replikasyon",
-            "Mutasyon",
-            "Splicing"
+            "Glutatyon S-transferaz",
+            "UDP-glukuronil transferaz",
+            "Sitokrom P450 (CYP450)",
+            "Alkol dehidrogenaz",
+            "Sülfotransferaz"
         ],
-        "answer": "Transkripsiyon",
+        "answer": "Sitokrom P450 (CYP450)",
+        "correctAnswer": 2,
         "subject": "Biyokimya",
         "course": "Hastalık Temelleri",
-        "topic": "Gen İfadesi",
-        "hint": "DNA'dan RNA kopyalanması."
+        "topic": "Ksenobiyotik Metabolizması",
+        "explanation": "CYP450 enzim sistemi, Faz I reaksiyonlarında (hidroksilasyon, oksidasyon) ksenobiyotikleri daha polar hale getirmekten sorumlu ana enzim grubudur.",
+        "id": "v21_q_39"
     },
     {
-        "question": "Kalıtsal metabolik hastalıklardan Fenilketonüri (PKU) hangi enzimin eksikliğinden kaynaklanır?",
+        "question": "Hücre zarındaki lipitlerin peroksidasyonunu (oksidatif hasarı) önleyerek serbest oksijen radikallerini temizleyen, en önemli yağda çözünen biyolojik antioksidan vitamin aşağıdakilerden hangisidir?",
+        "options": [
+            "C vitamini (Askorbik asit)",
+            "E vitamini (Alfa-tokoferol)",
+            "B12 vitamini (Kobalamin)",
+            "K vitamini (Filokinon)",
+            "D vitamini (Kalsitriol)"
+        ],
+        "answer": "E vitamini (Alfa-tokoferol)",
+        "correctAnswer": 1,
+        "subject": "Biyokimya",
+        "course": "Hastalık Temelleri",
+        "topic": "Serbest Radikaller ve Vitaminler",
+        "explanation": "E vitamini, lipit yapılı hücre zarlarında yerleşerek lipit peroksidasyon zincirini kıran temel yağda çözünen antioksidandır.",
+        "id": "v21_q_40"
+    },
+    {
+        "question": "Hormon reseptör mekanizmalarında, reseptörün kendisinin doğrudan bir enzim aktivitesine sahip olduğu (kendini ve hedef proteinleri fosforile eden) 'Tirozin Kinaz' reseptörünü kullanan kilit hormon aşağıdakilerden hangisidir?",
+        "options": [
+            "İnsülin",
+            "Glukagon",
+            "Epinefrin",
+            "Parathormon (PTH)",
+            "Aldosteron"
+        ],
+        "answer": "İnsülin",
+        "correctAnswer": 0,
+        "subject": "Biyokimya",
+        "course": "Endokrin Sistem",
+        "topic": "Hormon Reseptörleri",
+        "explanation": "İnsülin ve büyüme faktörleri (IGF vb.), hücre zarında doğrudan tirozin kinaz aktivitesi gösteren reseptörler aracılığıyla (ikincil haberci cAMP kullanmadan) etki gösterirler.",
+        "id": "v21_q_41"
+    },
+    {
+        "question": "Tiroid bezinde tirozin aminoasidi kalıntılarının iyotlanması (organifikasyon) ve bu iyotlu tirozinlerin eşleşerek (coupling) T3 ve T4 hormonlarını oluşturması aşamalarında katalizör görevi gören enzim hangisidir?",
         "options": [
             "Tirozin hidroksilaz",
-            "Fenilalanin hidroksilaz",
-            "Homojentisat oksidaz",
-            "DOPA dekarboksilaz",
-            "Arginaz"
+            "Tiroid peroksidaz (TPO)",
+            "5'-deiyodinaz",
+            "Tiroglobulin proteaz",
+            "Fenilalanin hidroksilaz"
         ],
-        "answer": "Fenilalanin hidroksilaz",
+        "answer": "Tiroid peroksidaz (TPO)",
+        "correctAnswer": 1,
         "subject": "Biyokimya",
-        "course": "Hastalık Temelleri",
-        "topic": "Aminoasit Metabolizması",
-        "hint": "Fenilalaninin tirozine dönüşümünü sağlar."
+        "course": "Endokrin Sistem",
+        "topic": "Tiroid Hormonları",
+        "explanation": "Tiroid peroksidaz (TPO) enzimi; iyodürün oksidasyonu, tirozinin iyodinasyonu ve kenetlenme (coupling) reaksiyonlarının tümünü katalize eden ana sentez enzimidir. Hashimoto hastalığında otoantikorlar sıklıkla bu enzime karşı gelişir.",
+        "id": "v21_q_42"
     },
     {
-        "question": "Purin nükleotidlerinin yıkımının son ürünü olan ve kanda birikince gut hastalığına yol açan madde hangisidir?",
+        "question": "Karaciğerde kolesterolün safra asitlerine yıkımında rol alan HIZ KISITLAYICI ve ilk basamak enzimi aşağıdakilerden hangisidir?",
         "options": [
-            "Üre",
-            "Kreatinin",
-            "Ürik asit",
-            "Amonyak",
-            "Bilirubin"
+            "HMG-CoA Redüktaz",
+            "7-Alfa Hidroksilaz",
+            "Kolesterol Ester Transfer Proteini (CETP)",
+            "Lipoprotein Lipaz",
+            "Lesitin Kolesterol Açil Transferaz (LCAT)"
         ],
-        "answer": "Ürik asit",
-        "subject": "Biyokimya",
-        "course": "Hastalık Temelleri",
-        "topic": "Nükleotid Metabolizması",
-        "hint": "Suda çözünürlüğü düşük bir asittir."
-    },
-    {
-        "question": "Glikolizin hız kısıtlayıcı ana düzenleyici enzimi aşağıdakilerden hangisidir?",
-        "options": [
-            "Hekzokinaz",
-            "Fosfofruktokinaz-1 (PFK-1)",
-            "Aldolaz",
-            "Piruvat kinaz",
-            "Enolaz"
-        ],
-        "answer": "Fosfofruktokinaz-1 (PFK-1)",
+        "answer": "7-Alfa Hidroksilaz",
+        "correctAnswer": 1,
         "subject": "Biyokimya",
         "course": "GİS ve Metabolizma",
-        "topic": "Karbonhidrat Metabolizması",
-        "hint": "Fruktoz 6-fosfatı, Fruktoz 1,6-bifosfata dönüştürür."
+        "topic": "Safra Asitleri / Lipit Met.",
+        "explanation": "Kolesterol yıkımının tek yolu safra asitlerine çevrilmesidir ve bu yolağın hız kısıtlayıcı kilit enzimi Sitokrom P450 ailesinden 7-alfa hidroksilazdır.",
+        "id": "v21_q_43"
     },
     {
-        "question": "Tokluk durumunda karaciğerde sentezlenen ve yağ dokusunda depolanan ana lipid formu nedir?",
+        "question": "Hücre zarı fosfolipitlerinden Fosfolipaz A2 enzimi ile serbestleşen 20 karbonlu çoklu doymamış yağ asidi olan ve Prostaglandinlerin, Lökotrienlerin ortak öncül (prekürsör) molekülü aşağıdakilerden hangisidir?",
         "options": [
-            "Kolesterol esterleri",
-            "Trigliseritler (Triaçilgliserol)",
-            "Fosfolipid",
-            "Sfingomyelin",
-            "Serbest yağ asidi"
-        ],
-        "answer": "Trigliseritler (Triaçilgliserol)",
-        "subject": "Biyokimya",
-        "course": "GİS ve Metabolizma",
-        "topic": "Lipid Metabolizması",
-        "hint": "Üç yağ asidi ve bir gliserol omurgasından oluşur."
-    },
-    {
-        "question": "Steroid hormonların öncül (prekürsör) molekülü aşağıdakilerden hangisidir?",
-        "options": [
-            "Tirozin",
-            "Triptofan",
-            "Kolesterol",
+            "Linoleik asit",
+            "Palmitik asit",
             "Araşidonik asit",
-            "Sfingozin"
+            "Stearik asit",
+            "Kolesterol"
         ],
-        "answer": "Kolesterol",
+        "answer": "Araşidonik asit",
+        "correctAnswer": 2,
         "subject": "Biyokimya",
-        "course": "Endokrin Sistem",
-        "topic": "Hormon Sentezi",
-        "hint": "27 karbonlu, halkalı bir lipiddir."
+        "course": "Hastalık Temelleri",
+        "topic": "Eikozanoidler",
+        "explanation": "Eikozanoidlerin (prostaglandin, tromboksan, lökotrien) sentezinde ana substrat zar fosfolipitlerinden koparılan 20 karbonlu araşidonik asittir.",
+        "id": "v21_q_44"
     },
     {
-        "question": "İkinci haberci (second messenger) olarak cAMP sentezini katalize eden enzim hangisidir?",
+        "question": "Gebelikte plasentanın sinsityotrofoblast hücrelerinden salgılanan ve gebeliğin ilk trimesterinde (ilk 3 ay) Corpus Luteum'un yıkılmasını engelleyerek progesteron üretiminin devamlılığını sağlayan hormon (Erken gebelik testlerinde ölçülen) hangisidir?",
         "options": [
-            "Fosfodiesteraz",
-            "Fosfolipaz C",
-            "Adenilat siklaz",
-            "Protein kinaz A",
-            "Tirozin kinaz"
+            "Östrojen",
+            "İnsan Koryonik Gonadotropini (hCG)",
+            "Luteinizan Hormon (LH)",
+            "İnsan Koryonik Somatomammotropini (hCS)",
+            "Oksitosin"
         ],
-        "answer": "Adenilat siklaz",
+        "answer": "İnsan Koryonik Gonadotropini (hCG)",
+        "correctAnswer": 1,
         "subject": "Biyokimya",
-        "course": "Endokrin Sistem",
-        "topic": "Hücre İçi Sinyal",
-        "hint": "ATP'yi cAMP'ye çevirir."
-    },
-    {
-        "question": "Güneş ışığı yardımıyla deride sentezlenebilen ve kalsiyum metabolizmasında rol alan vitamin hangisidir?",
-        "options": [
-            "Vitamin A",
-            "Vitamin D",
-            "Vitamin E",
-            "Vitamin K",
-            "Vitamin C"
-        ],
-        "answer": "Vitamin D",
-        "subject": "Biyokimya",
-        "course": "Endokrin Sistem",
-        "topic": "Vitaminler",
-        "hint": "Kolekalsiferol formu deride üretilir."
-    },
-    {
-        "question": "Tiroksin (T4) ve triiyodotironin (T3) hormonlarının yapısında hangi mineral bulunur?",
-        "options": [
-            "Demir",
-            "Bakır",
-            "İyot",
-            "Çinko",
-            "Kalsiyum"
-        ],
-        "answer": "İyot",
-        "subject": "Biyokimya",
-        "course": "Endokrin Sistem",
-        "topic": "Mineraller",
-        "hint": "Eksikliğinde guatr oluşur."
-    },
-    {
-        "question": "Diyabetin uzun dönem takibinde kullanılan hemoglobin türevi (Glikozile hemoglobin) aşağıdakilerden hangisidir?",
-        "options": [
-            "HbF",
-            "HbA2",
-            "HbA1c",
-            "HbS",
-            "Methemoglobin"
-        ],
-        "answer": "HbA1c",
-        "subject": "Biyokimya",
-        "course": "Endokrin Sistem",
-        "topic": "Biyokimyasal Parametreler",
-        "hint": "Geçmiş 2-3 aylık kan şekeri ortalamasını yansıtır."
+        "course": "Ürogenital Sistem",
+        "topic": "Gebelik Biyokimyası",
+        "explanation": "HCG (Human Chorionic Gonadotropin), yapısal olarak LH'ye çok benzer ve gebelik süresince corpus luteum'u kurtararak düşüğü (abortusu) engeller. İdrar ve kan gebelik testlerinde tespit edilen moleküldür.",
+        "id": "v21_q_45"
     },
     {
         "question": "Hücre zarında dinlenim zar potansiyelinin oluşmasında en çok geçirgenliğe sahip iyon aşağıdakilerden hangisidir?",
@@ -691,7 +815,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Biyofizik",
         "course": "Nöro 1",
         "topic": "Zar Potansiyeli",
-        "hint": "Hücre içinden dışına doğru sızan bu iyon potansiyeli negatifte tutar."
+        "hint": "Hücre içinden dışına doğru sızan bu iyon potansiyeli negatifte tutar.",
+        "correctAnswer": 1,
+        "explanation": "Dinlenim durumundaki bir hücre zarında (resting potential), Potasyum (K+) sızıntı kanalları (leak channels) sürekli açıktır. Hücre içinden dışarı sızan pozitif K+ iyonları, hücre içinin negatif (-70 ila -90 mV) kalmasını sağlayan en temel mekanizmadır.",
+        "id": "v21_q_46"
     },
     {
         "question": "Aksiyon potansiyeli sırasında depolarizasyon evresinden sorumlu ana olay nedir?",
@@ -706,7 +833,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Biyofizik",
         "course": "Nöro 1",
         "topic": "Aksiyon Potansiyeli",
-        "hint": "Hücre içine hızlı sodyum girişi zarı pozitifleştirir."
+        "hint": "Hücre içine hızlı sodyum girişi zarı pozitifleştirir.",
+        "correctAnswer": 1,
+        "explanation": "Aksiyon potansiyelinin fırlama (depolarizasyon) evresi, eşik değere ulaşıldığında voltaj kapılı Na+ kanallarının aniden açılması ve hücre içine çok hızlı sodyum (Na+) akışının hücre içini aniden pozitif (+35 mV) yapmasıyla gerçekleşir.",
+        "id": "v21_q_47"
     },
     {
         "question": "Kalbin elektriksel ekseni (vektörü) hesaplanırken kullanılan Einthoven üçgeninde, D1 derivasyonu hangi noktalar arasındaki potansiyel farkını ölçer?",
@@ -721,7 +851,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Biyofizik",
         "course": "Dolaşım Sistemi",
         "topic": "EKG Biyofiziği",
-        "hint": "Kollar arası yatay derivasyondur."
+        "hint": "Kollar arası yatay derivasyondur.",
+        "correctAnswer": 1,
+        "explanation": "Einthoven üçgeninde D1 derivasyonu yatay düzlemde (0 derece) ölçüm yapar ve Sağ Kol (negatif elektrot) ile Sol Kol (pozitif elektrot) arasındaki elektriksel potansiyel farkını kaydeder.",
+        "id": "v21_q_48"
     },
     {
         "question": "Kanın damar içinde akışını inceleyen hemodinamikte, Poiseuille yasasına göre kan akım hızı damar yarıçapının kaçıncı kuvveti ile doğru orantılıdır?",
@@ -736,7 +869,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Biyofizik",
         "course": "Dolaşım Sistemi",
         "topic": "Hemodinamik",
-        "hint": "Yarıçapın dördüncü kuvvetiyle değişir (r^4)."
+        "hint": "Yarıçapın dördüncü kuvvetiyle değişir (r^4).",
+        "correctAnswer": 3,
+        "explanation": "Hemodinamik kuralların temelini oluşturan Poiseuille yasasına göre kan akım hızı (veya debisi), damar yarıçapının 4. kuvveti (r^4) ile DOĞRU orantılıdır. Yani damar çapı 2 katına çıkarsa, kan akımı 16 katına çıkar! Damar direnci ise tam tersi r^4 ile TERS orantılıdır.",
+        "id": "v21_q_49"
     },
     {
         "question": "Otonom sinir sisteminde sempatik postgangliyonik nöronların ter bezleri hariç çoğunlukla salgıladığı nörotransmitter aşağıdakilerden hangisidir?",
@@ -751,7 +887,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Nöro 1",
         "topic": "Otonom Sinir Sistemi",
-        "hint": "Sempatik sistemin ana uç nörotransmitteridir."
+        "hint": "Sempatik sistemin ana uç nörotransmitteridir.",
+        "correctAnswer": 1,
+        "explanation": "Otonom sinir sisteminde parasempatikler ve tüm pregangliyonikler Asetilkolin (ACh) kullanırken, sempatik sistem postgangliyonik uçlarda genel olarak Noradrenalin (Norepinefrin) salgılar. Bunun tek ve en önemli istisnası ter bezleridir; sempatik olmalarına rağmen ter bezlerini uyaran nörotransmitter Asetilkolin'dir.",
+        "id": "v21_q_50"
     },
     {
         "question": "Aşağıdaki reflekslerden hangisi medulla spinalis'te polisinaptik bir yolağa sahiptir ve ağrılı bir uyarandan uzaklaşmayı sağlar?",
@@ -766,7 +905,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Nöro 1",
         "topic": "Spinal Refleksler",
-        "hint": "Zararlı uyarandan bacağı çekme hareketidir."
+        "hint": "Zararlı uyarandan bacağı çekme hareketidir.",
+        "correctAnswer": 2,
+        "explanation": "Fleksör geri çekme refleksi, vücuda zarar veren ağrılı bir uyaranla karşılaşıldığında ekstremiteyi korumak için çekmeyi sağlayan polisinaptik (araya birden fazla nöronun girdiği) omurilik refleksidir. Diğer yandan miyotatik (germe) refleksi monosinaptiktir.",
+        "id": "v21_q_51"
     },
     {
         "question": "Parasempatik sistemin aktivasyonu kalpte kalp hızını (kronotropik etki) nasıl değiştirir ve hangi reseptör üzerinden etki gösterir?",
@@ -781,7 +923,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Dolaşım Sistemi",
         "topic": "Otonom Etkiler",
-        "hint": "Vagus siniri M2 reseptörleriyle kalbi yavaşlatır."
+        "hint": "Vagus siniri M2 reseptörleriyle kalbi yavaşlatır.",
+        "correctAnswer": 1,
+        "explanation": "Parasempatik sistemin (N. vagus) kalbe etkisi inhibitördür. Vagus uçlarından salınan asetilkolin, SA düğümdeki Muskarinik M2 reseptörlerine bağlanarak potasyum çıkışını artırır (hiperpolarizasyon) ve kalp atım hızını (kronotropi) azaltır.",
+        "id": "v21_q_52"
     },
     {
         "question": "Talamus'ta görme yollarının sinaps yaptığı ve oksipital kortaekse radyasyonların başladığı çekirdek hangisidir?",
@@ -796,7 +941,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Nöro 2",
         "topic": "Görme Fizyolojisi",
-        "hint": "Lateral görme ile ilişkilidir (L-Light)."
+        "hint": "Lateral görme ile ilişkilidir (L-Light).",
+        "correctAnswer": 1,
+        "explanation": "Talamus, koku duyusu hariç tüm duyuların kortekse gitmeden önceki son röle istasyonudur. Görme yolları (Tractus opticus) talamustaki Corpus geniculatum laterale (CGL) çekirdeğine uğrar ve buradan Radiatio optica olarak oksipital loba (Alan 17) gider. (İşitme ise CGM'ye gider).",
+        "id": "v21_q_53"
     },
     {
         "question": "İç kulakta yüksek frekanslı seslerin (tiz sesler) algılandığı koklea bölgesi neresidir?",
@@ -811,7 +959,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Nöro 2",
         "topic": "İşitme Fizyolojisi",
-        "hint": "Oval pencereye en yakın, en dar ve sert membrandır."
+        "hint": "Oval pencereye en yakın, en dar ve sert membrandır.",
+        "correctAnswer": 1,
+        "explanation": "İç kulakta ses frekanslarının (perdesinin) ayrımı Membrana basilaris'in fiziksel özelliklerine göre yapılır. Yüksek frekanslı (tiz) sesler oval pencereye çok yakın, dar ve sert olan koklea tabanında algılanırken; düşük frekanslı (pes) sesler en tepe kısımda (helikotrema) algılanır.",
+        "id": "v21_q_54"
     },
     {
         "question": "Kokuda (olfaksiyon) adaptasyonun çok hızlı olmasının fizyolojik nedeni nedir?",
@@ -826,7 +977,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Nöro 2",
         "topic": "Koku Fizyolojisi",
-        "hint": "Hem periferik hem santral adaptasyon görülür."
+        "hint": "Hem periferik hem santral adaptasyon görülür.",
+        "correctAnswer": 1,
+        "explanation": "Koku duyusu (olfaksiyon), santral sinir sistemine adaptasyonu en hızlı ve en belirgin olan duyudur. Bir odaya ilk girdiğinizde aldığınız keskin koku, reseptör yorgunluğundan ziyade merkezi (santral) sinir sistemindeki granül hücrelerinin inhibisyonu sayesinde saniyeler içinde kaybolur.",
+        "id": "v21_q_55"
     },
     {
         "question": "Tat reseptörlerinden ekşi tadı algılayan hücrelerin uyarılmasında hangi iyonun hücre içine girmesi veya K+ kanallarını kapatması rol oynar?",
@@ -841,7 +995,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Nöro 2",
         "topic": "Tat Fizyolojisi",
-        "hint": "Asitlerin yapısındaki iyondur."
+        "hint": "Asitlerin yapısındaki iyondur.",
+        "correctAnswer": 2,
+        "explanation": "Tat tomurcuklarında ekşi (sour) tadın algılanmasını asitlerin yapısındaki Hidrojen (H+) iyonları sağlar. H+ iyonları doğrudan apikal zardaki sodyum veya potasyum kanallarından geçerek hücreyi depolarize eder. Tuzlu tat ise direkt Na+ iyonlarıyla alınır.",
+        "id": "v21_q_56"
     },
     {
         "question": "Kan-beyin bariyerini (BBB) oluşturan ana yapı hangisidir?",
@@ -856,7 +1013,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Nöro 1",
         "topic": "BOS ve Kan-Beyin Bariyeri",
-        "hint": "Sıkı bağlar ve glia hücrelerinin ayaklarından oluşur."
+        "hint": "Sıkı bağlar ve glia hücrelerinin ayaklarından oluşur.",
+        "correctAnswer": 1,
+        "explanation": "Kan-Beyin Bariyeri (BBB), kanda dolaşan toksin ve ilaçların beyin dokusuna geçmesini engelleyen seçici bir filtredir. Temelini kapiller endotel hücrelerini birbirine sıkıca bağlayan 'tight junction'lar (sıkı bağlantılar) ve bu endoteli dıştan saran Astrosit glia hücrelerinin ayakçıkları oluşturur.",
+        "id": "v21_q_57"
     },
     {
         "question": "Akciğerlerde surfaktan salgılayarak alveollerin yüzey gerilimini düşüren ve kapanmasını önleyen hücre tipi hangisidir?",
@@ -871,7 +1031,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Solunum Sistemi",
         "topic": "Surfaktan",
-        "hint": "Granüllü, tip 2 hücrelerdir."
+        "hint": "Granüllü, tip 2 hücrelerdir.",
+        "correctAnswer": 1,
+        "explanation": "Alveol duvarında iki ana epitel hücresi bulunur: Tip I pnömositler gaz değişimini sağlayan yassı hücrelerdir. Tip II pnömositler ise kübiktir ve alveollerin büzüşmesini (kollaps) engelleyen fosfolipid yapılı Sürfaktan maddesini salgılar. Sürfaktan eksikliği prematüre bebeklerde RDS'ye yol açar.",
+        "id": "v21_q_58"
     },
     {
         "question": "Normal sessiz solunum sırasında, inpirasyon sonunda akciğerlerde kalan hava hacmine ne ad verilir?",
@@ -886,7 +1049,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Solunum Sistemi",
         "topic": "Akciğer Volümleri",
-        "hint": "Normal ekspirasyon bitiminde akciğerde kalan havadır."
+        "hint": "Normal ekspirasyon bitiminde akciğerde kalan havadır.",
+        "correctAnswer": 2,
+        "explanation": "Fonksiyonel Rezidüel Kapasite (FRC), normal ve zorlamasız bir nefes verişten (ekspirasyon) sonra akciğerlerde hala kalan hava miktarıdır. FRC = Rezidüel Volüm (RV) + Ekspiratuar Yedek Volüm (ERV) toplamıdır ve alveollerin açık kalmasını sağlar.",
+        "id": "v21_q_59"
     },
     {
         "question": "Kanda O2 taşınmasının büyük çoğunluğu hangi formda gerçekleşir?",
@@ -901,7 +1067,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Solunum Sistemi",
         "topic": "Gaz Taşınması",
-        "hint": "Eritrosit içindeki proteine bağlanır."
+        "hint": "Eritrosit içindeki proteine bağlanır.",
+        "correctAnswer": 2,
+        "explanation": "Kanda oksijenin %97-98'lik çok büyük bir kısmı eritrositlerin içindeki Hemoglobin (Hb) proteinine geri dönüşümlü olarak bağlanarak (Oksihemoglobin) taşınır. Kanda çözünmüş halde taşınan O2 miktarı (%2-3) oksijen parsiyel basıncını (PO2) oluştursa da, dokulara oksijen sunumu tamamen Hb'ye bağlıdır.",
+        "id": "v21_q_60"
     },
     {
         "question": "Elektrokardiyogramda (EKG) ventrikül repolarizasyonunu yansıtan dalga aşağıdakilerden hangisidir?",
@@ -916,7 +1085,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Dolaşım Sistemi",
         "topic": "EKG",
-        "hint": "QRS'ten sonra gelen, geniş dalgadır."
+        "hint": "QRS'ten sonra gelen, geniş dalgadır.",
+        "correctAnswer": 2,
+        "explanation": "EKG kağıdında P dalgası atriyumların depolarizasyonunu, QRS kompleksi ventriküllerin depolarizasyonunu (kasılma başlangıcını) temsil eder. QRS sonrası oluşan T dalgası ise, ventriküllerin repolarizasyonunu (gevşeme öncesi elektriksel toparlanma) gösterir.",
+        "id": "v21_q_61"
     },
     {
         "question": "Kalp döngüsünde (kardiyak siklus) atriyoventriküler (AV) kapakların kapanmasıyla duyulan kalp sesi hangisidir?",
@@ -931,7 +1103,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Dolaşım Sistemi",
         "topic": "Kalp Sesleri",
-        "hint": "Sistolün başında duyulur (LUB sesi)."
+        "hint": "Sistolün başında duyulur (LUB sesi).",
+        "correctAnswer": 0,
+        "explanation": "Kalp döngüsünde ventriküller kasılmaya başladığı (İzovolümetrik kontraksiyon) an, artan basınçla birlikte mitral ve triküspit (Atriyoventriküler) kapaklar sertçe kapanır. Bu kapanmanın yarattığı titreşim 1. Kalp Sesi (S1 - LUB) olarak duyulur. S2 ise aort ve pulmoner kapakların kapanma sesidir.",
+        "id": "v21_q_62"
     },
     {
         "question": "Kılcal damarlarda madde alışverişini belirleyen Starling kuvvetlerinden, kandan interstisyel sıvıya filtrasyonu iten ana basınç hangisidir?",
@@ -946,7 +1121,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Dolaşım Sistemi",
         "topic": "Kapiller Dinamik",
-        "hint": "Kanın damar duvarına yaptığı basınçtır."
+        "hint": "Kanın damar duvarına yaptığı basınçtır.",
+        "correctAnswer": 0,
+        "explanation": "Kapillerden dokuya madde sızmasını (filtrasyon) zorlayan en büyük fiziksel güç, kalbin pompalamasından kaynaklanan Kanın Hidrostatik Basıncı'dır (Pc). Sıvıyı damarda tutmaya çalışan karşı kuvvet ise plazma proteinlerinin (özellikle albumin) yarattığı Onkotik Basınç'tır.",
+        "id": "v21_q_63"
     },
     {
         "question": "Uzun süreli kan basıncı regülasyonunda en önemli rolü oynayan organ sistemi hangisidir?",
@@ -961,7 +1139,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Dolaşım Sistemi",
         "topic": "Kan Basıncı Düzenlenmesi",
-        "hint": "Kan hacmini ayarlayarak uzun vadeli etki yapar."
+        "hint": "Kan hacmini ayarlayarak uzun vadeli etki yapar.",
+        "correctAnswer": 2,
+        "explanation": "Kan basıncının anlık ve kısa süreli (saniyeler/dakikalar) kontrolü sinir sistemi (Baroreseptör refleks) ile yapılırken; günler ve haftalar süren uzun vadeli regülasyonunu Böbrekler (Renin-Anjiyotensin-Aldosteron sistemi ve su/tuz atılım hacmi) üstlenir.",
+        "id": "v21_q_64"
     },
     {
         "question": "Sağlıklı bir insanda böbrek glomerüllerinden filtre edildikten sonra proksimal tübülde %100 oranında geri emilen madde hangisidir?",
@@ -976,7 +1157,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Ürogenital Sistem",
         "topic": "Tübüler Geri Emilim",
-        "hint": "Eşik değeri aşılmadıkça idrara çıkmaz."
+        "hint": "Eşik değeri aşılmadıkça idrara çıkmaz.",
+        "correctAnswer": 2,
+        "explanation": "Glomerülden süzülen Glukoz ve Aminoasitlerin %100'ü, sekonder aktif taşıma (SGLT vb.) mekanizmalarıyla proksimal tübülden kana geri emilir. Normal şartlarda idrarda şeker veya aminoasit kesinlikle bulunmaz. Bulunması diyabet veya tübül hasarını gösterir.",
+        "id": "v21_q_65"
     },
     {
         "question": "Aldosteron hormonu böbrek tübüllerinin hangi bölgesinde etki göstererek sodyum geri emilimini ve potasyum sekresyonunu artırır?",
@@ -991,7 +1175,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Ürogenital Sistem",
         "topic": "Hormonal Kontrol",
-        "hint": "Principal (esas) hücreler üzerinde etkilidir."
+        "hint": "Principal (esas) hücreler üzerinde etkilidir.",
+        "correctAnswer": 3,
+        "explanation": "Adrenal korteks hormonu olan Aldosteron, nefronun distal tübülünün son kısmı ve toplayıcı kanallarındaki Esas (Principal) hücrelerde etkilidir. Burada sodyum (Na+) geri emilimini artırırken, idrara potasyum (K+) ve hidrojen (H+) atılımını uyarır.",
+        "id": "v21_q_66"
     },
     {
         "question": "Antidiüretik hormon (ADH, Vazopressin) eksikliğinde ortaya çıkan, çok fazla su içme ve çok fazla seyreltik idrar çıkarma ile karakterize hastalık hangisidir?",
@@ -1006,7 +1193,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Endokrin Sistem",
         "topic": "Hipofiz Hastalıkları",
-        "hint": "Şekersiz şeker hastalığıdır."
+        "hint": "Şekersiz şeker hastalığıdır.",
+        "correctAnswer": 1,
+        "explanation": "Hipotalamusta üretilip nörohipofizden salınan ADH (Vazopressin), böbreklerden (toplayıcı kanallardan) saf suyun geri emilimini sağlar. ADH eksikliğinde hasta günde 10-15 litre aşırı seyreltik idrar yapar. Bu tabloya Diabetes Insipidus (Şekersiz Diyabet) denir.",
+        "id": "v21_q_67"
     },
     {
         "question": "Asit-baz dengesinde kompanzasyon mekanizmalarından en hızlı devreye giren ancak kapasitesi sınırlı olan sistem hangisidir?",
@@ -1021,7 +1211,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Ürogenital Sistem",
         "topic": "Asit-Baz Dengesi",
-        "hint": "Saniyeler içinde asit-baz değişimini dengeler."
+        "hint": "Saniyeler içinde asit-baz değişimini dengeler.",
+        "correctAnswer": 2,
+        "explanation": "Vücutta pH dengesi bozulduğunda; Saniyeler içinde 'Kimyasal Tampon Sistemleri' (Bikarbonat, fosfat, protein), dakikalar içinde 'Solunum Sistemi' (CO2 atılımı) ve günler içinde en güçlü ama en yavaş olan 'Böbrekler' (H+ atılımı, HCO3 üretimi) devreye girer.",
+        "id": "v21_q_68"
     },
     {
         "question": "Nefronda, makula densa hücreleri ve jukstaglomerüler (JG) hücrelerden oluşan kompleksin temel görevi nedir?",
@@ -1036,7 +1229,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Ürogenital Sistem",
         "topic": "Renal Otokontrol",
-        "hint": "Sodyum klorür miktarını algılayıp affarent arteriolden renin salgılatır."
+        "hint": "Sodyum klorür miktarını algılayıp affarent arteriolden renin salgılatır.",
+        "correctAnswer": 1,
+        "explanation": "Jukstaglomerüler aparatus (JGA), böbrekte kan basıncını ve filtrasyon hızını (GFR) ölçen otonom bir merkezdir. Makula densa hücreleri idrardaki NaCl (tuz) düşüklüğünü algıladığında, JG hücrelerini uyararak kana Renin salgılanmasını başlatır.",
+        "id": "v21_q_69"
     },
     {
         "question": "Mideden salgılanan ve iştahı artırarak 'açlık hormonu' olarak bilinen hormon hangisidir?",
@@ -1051,7 +1247,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "GİS Hormonları",
-        "hint": "Açlıkta artar, mideden salgılanır."
+        "hint": "Açlıkta artar, mideden salgılanır.",
+        "correctAnswer": 1,
+        "explanation": "Midenin fundus bölgesindeki endokrin hücrelerden salgılanan Ghrelin, kan şekeri düştüğünde ve mide boşaldığında salınarak hipotalamus üzerinden iştahı şiddetle uyarır (Oreksojenik etki). Yemek sonrası salgısı hızla düşer.",
+        "id": "v21_q_70"
     },
     {
         "question": "Mide paryetal (oksiptik) hücrelerinden salgılanan ve B12 vitamini emilimi için zorunlu olan faktör nedir?",
@@ -1066,7 +1265,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "Mide Salgıları",
-        "hint": "Eksikliğinde pernisiyöz anemi gelişir."
+        "hint": "Eksikliğinde pernisiyöz anemi gelişir.",
+        "correctAnswer": 1,
+        "explanation": "Mide mukozasındaki Paryetal (Oksintik) hücreler iki hayati madde salgılar: Mide asidi (HCl) ve İntrinsik Faktör. İntrinsik faktör, ince bağırsağın son kısmından (terminal ileum) B12 vitamininin emilebilmesi için şarttır. Yokluğunda Pernisiyöz anemi gelişir.",
+        "id": "v21_q_71"
     },
     {
         "question": "Duodenumdan salgılanarak safra kesesinin kasılmasını ve pankreas enzimlerinin salgılanmasını uyaran hormon hangisidir?",
@@ -1081,7 +1283,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "GİS Hormonları",
-        "hint": "Adı 'safra kesesini hareket ettiren' anlamındadır."
+        "hint": "Adı 'safra kesesini hareket ettiren' anlamındadır.",
+        "correctAnswer": 1,
+        "explanation": "Bağırsağa (duodenuma) yağlı ve proteinli besinler geldiğinde 'I hücrelerinden' Kolesistokinin (CCK) salgılanır. CCK, safra kesesini kasarak içindeki safrayı döktürür, Oddi sfinkterini gevşetir ve pankreastan sindirim enzimleri salgılanmasını çok güçlü uyarır.",
+        "id": "v21_q_72"
     },
     {
         "question": "Pankreastan insülin salgılanmasını uyaran temel fizyolojik faktör aşağıdakilerden hangisidir?",
@@ -1096,7 +1301,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Endokrin Sistem",
         "topic": "Pankreas Hormonları",
-        "hint": "Kan şekerini düşürmek için salınır."
+        "hint": "Kan şekerini düşürmek için salınır.",
+        "correctAnswer": 0,
+        "explanation": "Pankreas adacıklarındaki Beta hücrelerinden İnsülin salınımını tetikleyen en temel ve en güçlü fizyolojik uyarıcı, kandaki Glukoz seviyesinin yükselmesidir. İnsülin kandaki şekerin hücre içine (kas ve yağ dokusu) girmesini sağlar.",
+        "id": "v21_q_73"
     },
     {
         "question": "Tiroid hormonlarından Tiroksin (T4) ve Triiyodotironin (T3) arasındaki temel fark nedir?",
@@ -1111,7 +1319,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Endokrin Sistem",
         "topic": "Tiroid Hormonları",
-        "hint": "T3 reseptörlere çok daha yüksek afinite ile bağlanır."
+        "hint": "T3 reseptörlere çok daha yüksek afinite ile bağlanır.",
+        "correctAnswer": 1,
+        "explanation": "Tiroid bezi asıl olarak inaktif depo formu olan T4'ü üretir. Kanda dolaşan T4, periferik dokularda (özellikle karaciğer ve böbrekte) 5'-deiyodinaz enzimi ile T3'e çevrilir. Biyolojik etkiyi yaratan, hücre içi reseptörlere çok güçlü bağlanan T3 formudur.",
+        "id": "v21_q_74"
     },
     {
         "question": "Erkeklerde testosteron salgılayan Leydig hücrelerini uyaran hipofiz hormonu hangisidir?",
@@ -1126,7 +1337,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Endokrin Sistem",
         "topic": "Üreme Fizyolojisi",
-        "hint": "Luteinleştirici hormon erkeklerde ICSH (İnterstisyel hücre uyarıcı hormon) olarak da bilinir."
+        "hint": "Luteinleştirici hormon erkeklerde ICSH (İnterstisyel hücre uyarıcı hormon) olarak da bilinir.",
+        "correctAnswer": 1,
+        "explanation": "Hipofiz ön lobundan (adenohipofiz) salgılanan Luteinizan Hormon (LH), testislerde seminifer tübül dışındaki bağ dokusunda yer alan Leydig hücrelerine bağlanarak erkeklik hormonu Testosteron üretimini başlatır.",
+        "id": "v21_q_75"
     },
     {
         "question": "Kadınlarda ovulasyonu (yumurtlama) tetikleyen ana hormonal olay aşağıdakilerden hangisidir?",
@@ -1141,7 +1355,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Ürogenital Sistem",
         "topic": "Üreme Fizyolojisi",
-        "hint": "Siklusun ortasında meydana gelen büyük dalgalanmadır."
+        "hint": "Siklusun ortasında meydana gelen büyük dalgalanmadır.",
+        "correctAnswer": 2,
+        "explanation": "Kadın menstrüel siklusunun yaklaşık 14. gününde (ortasında), kanda östrojenin çok artması sonucu hipofizden aniden ve çok şiddetli bir LH salgısı (LH piki) gerçekleşir. Bu LH piki, folikülü çatlatarak yumurtanın atılmasını (Ovulasyon) sağlayan temel olaydır.",
+        "id": "v21_q_76"
     },
     {
         "question": "Kalsiyum metabolizmasını düzenleyen Paratiroid hormonun (PTH) kanda kalsiyum düzeyine etkisi nedir?",
@@ -1156,7 +1373,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Endokrin Sistem",
         "topic": "Kalsiyum Metabolizması",
-        "hint": "Kalsiyumu kanda yükselten asıl hormondur."
+        "hint": "Kalsiyumu kanda yükselten asıl hormondur.",
+        "correctAnswer": 1,
+        "explanation": "Paratiroid hormon (PTH), kandaki kalsiyum seviyesi düştüğünde salgılanır ve 3 hedefe vurur: Kemiklerden kalsiyum yıkarak kana çeker, böbreklerden kalsiyum atılımını engeller (geri emer) ve aktif D vitamini sentezletip bağırsaktan kalsiyum emilimini artırır.",
+        "id": "v21_q_77"
     },
     {
         "question": "Stres durumunda böbrek üstü bezi korteksinden sentezlenen ve anti-inflamatuar, immünsüpresif etkileri olan ana glukokortikoid hangisidir?",
@@ -1171,7 +1391,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Fizyoloji",
         "course": "Endokrin Sistem",
         "topic": "Adrenal Korteks",
-        "hint": "Kronik stresin hormonudur."
+        "hint": "Kronik stresin hormonudur.",
+        "correctAnswer": 1,
+        "explanation": "Böbrek üstü bezinin korteksinden (zona fasciculata) salgılanan Kortizol, vücudun açlık ve stresle mücadelesini sağlayan ana glukokortikoiddir. Kan şekerini yükseltir, uzun süreli kronik streslerde bağışıklık sistemini baskılar (immünsüpresif).",
+        "id": "v21_q_78"
     },
     {
         "question": "Retina pigment epitel (RPE) hücrelerinin aşağıdaki işlevlerden hangisinde rolü YOKTUR?",
@@ -1186,7 +1409,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Nöro 2",
         "topic": "Göz Histolojisi",
-        "hint": "RPE nöral sinyal iletmez, destek dokusudur."
+        "hint": "RPE nöral sinyal iletmez, destek dokusudur.",
+        "correctAnswer": 3,
+        "explanation": "Retinanın en dıştaki destek tabakası olan RPE (Retina Pigment Epiteli); fotoreseptörlerin disklerini fagosite eder, vitamin A depolar ve kan-retina bariyerini oluşturur. Ancak aksiyon potansiyeli oluşturmak veya nöral sinyal iletmek Nöronların (gangliyon hücrelerinin) görevidir.",
+        "id": "v21_q_79"
     },
     {
         "question": "İç kulakta Corti organının üzerine oturduğu ve sese bağlı titreşimlerin gerçekleştiği membran hangisidir?",
@@ -1201,7 +1427,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Nöro 2",
         "topic": "İç Kulak Histolojisi",
-        "hint": "Scala media'nın tabanını oluşturur."
+        "hint": "Scala media'nın tabanını oluşturur.",
+        "correctAnswer": 2,
+        "explanation": "Ductus cochlearis (Scala media) içerisindeki işitme organı (Corti), Membrana basilaris (Baziller membran) üzerine oturmuştur. Ses dalgaları oval pencereden içeri girdiğinde bu zarı dalgalandırır ve tüylü hücrelerin bükülmesini sağlayarak işitmeyi başlatır.",
+        "id": "v21_q_80"
     },
     {
         "question": "Böbrek korteksinde bulunan Malpighi cisimciği (Corpusculum renale) hangi yapıların birleşiminden oluşur?",
@@ -1216,7 +1445,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Ürogenital Sistem",
         "topic": "Böbrek Histolojisi",
-        "hint": "Kanın filtre edildiği ilk istasyondur."
+        "hint": "Kanın filtre edildiği ilk istasyondur.",
+        "correctAnswer": 2,
+        "explanation": "Böbrekte idrar oluşumunun başladığı yer olan Malpighi cisimciği (Renal korpüskül); böbrek korteksinde bulunur ve Afferent arteriollerin oluşturduğu Glomerül kılcal kan damarı yumağı ile onu saran ve süzüntüyü hapseden Bowman kapsülünden oluşur.",
+        "id": "v21_q_81"
     },
     {
         "question": "Testiste seminifer tübüller arasındaki interstisyel bağ dokusunda yer alan ve testosteron üreten hücreler hangileridir?",
@@ -1231,7 +1463,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Ürogenital Sistem",
         "topic": "Erkek Genital Histolojisi",
-        "hint": "LH etkisiyle steroid hormon üretirler."
+        "hint": "LH etkisiyle steroid hormon üretirler.",
+        "correctAnswer": 2,
+        "explanation": "Erkek üreme sisteminde iki ana hücre vardır: Tubuli seminiferi contorti DUVARINDA yer alan ve spermleri besleyen Sertoli hücreleri ile tübüllerin ARASINDAKİ (interstisyel) gevşek bağ dokusunda yer alan ve Testosteron salgılayan Leydig hücreleri.",
+        "id": "v21_q_82"
     },
     {
         "question": "Embriyolojik gelişim sırasında dişi iç genital organlarını (uterus, tuba uterina, vajinanın üst kısmı) oluşturan kanal hangisidir?",
@@ -1246,7 +1481,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Ürogenital Sistem",
         "topic": "Embriyoloji",
-        "hint": "Erkeklerde MIS (Müllerian İnhibe Edici Madde) ile gerileyen kanaldır."
+        "hint": "Erkeklerde MIS (Müllerian İnhibe Edici Madde) ile gerileyen kanaldır.",
+        "correctAnswer": 1,
+        "explanation": "Embriyolojik dönemde dişi iç genital organları (Uterus, Tuba uterina ve vajinanın 1/3 üstü), Ductus paramesonephricus (Müller Kanalı) gelişimiyle oluşur. Erkeklerde ise bu kanalı gerileten testis kökenli AMH (Anti-müllerian hormon) salgılanır.",
+        "id": "v21_q_83"
     },
     {
         "question": "Gastrointestinal sistem histolojisinde, Meissner (submukozal) pleksus sindirim kanalının hangi tabakasında bulunur?",
@@ -1261,7 +1499,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "GİS Histolojisi",
-        "hint": "Adı üzerinde, mukozanın hemen altındaki bağ dokusu tabakasındadır."
+        "hint": "Adı üzerinde, mukozanın hemen altındaki bağ dokusu tabakasındadır.",
+        "correctAnswer": 1,
+        "explanation": "Sindirim kanalı duvarında otonom sinirlerin iki ayrı pleksusu (ağı) vardır. Tunica submucosa tabakasındaki Meissner pleksusu lokal bez salgılarını kontrol eder. Tunica muscularis'teki Auerbach (Miyenterik) pleksusu ise peristaltik kas hareketlerini yönetir.",
+        "id": "v21_q_84"
     },
     {
         "question": "Tiroit bezinde, folikül epitel hücreleri arasında yer alan ve Kalsitonin hormonu salgılayan parafoliküler hücrelerin (C hücreleri) embriyolojik kökeni nedir?",
@@ -1276,7 +1517,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Endokrin Sistem",
         "topic": "Endokrin Histolojisi",
-        "hint": "Ultimobrankial cisimcikten göç eden nöral krest kökenlidir."
+        "hint": "Ultimobrankial cisimcikten göç eden nöral krest kökenlidir.",
+        "correctAnswer": 2,
+        "explanation": "Tiroid bezi folikül epitel hücreleri endodermden (Tiroglossal duktus) gelişirken; kalsitonin salgılayan ve kanda kalsiyumu düşüren Parafoliküler C hücreleri tamamen farklı bir embriyolojik kökene, Nöral Krista (Nöroektoderm) hücrelerine sahiptir.",
+        "id": "v21_q_85"
     },
     {
         "question": "Hipofiz bezi histolojisinde, adenohipofizde yer alan ve büyüme hormonu (GH) ile prolaktin (PRL) salgılayan hücrelerin boyanma özelliği nedir?",
@@ -1291,7 +1535,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Endokrin Sistem",
         "topic": "Hipofiz Histolojisi",
-        "hint": "Pembe-kırmızı boyanırlar, asit seven hücrelerdir."
+        "hint": "Pembe-kırmızı boyanırlar, asit seven hücrelerdir.",
+        "correctAnswer": 2,
+        "explanation": "Adenohipofiz hücreleri boyanma özelliğine göre asidofil ve bazofil ayrılır. Proteoz yapılı hormon salgılayan Somatotrop (Büyüme Hormonu) ve Laktotrop (Prolaktin) hücreleri asit boyaları severek kırmızı-pembe boyanır (Asidofil).",
+        "id": "v21_q_86"
     },
     {
         "question": "Kalp duvarının histolojik tabakalarından epikard (perikardın visseral yaprağı) hangi tip epitel ile örtülüdür?",
@@ -1306,7 +1553,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Dolaşım Sistemi",
         "topic": "Kalp Histolojisi",
-        "hint": "Vücut boşluklarını döşeyen seröz zarların ortak epitel tipidir."
+        "hint": "Vücut boşluklarını döşeyen seröz zarların ortak epitel tipidir.",
+        "correctAnswer": 2,
+        "explanation": "Kalbi saran seröz zarın iç yaprağı olan epikardium (visseral perikard); vücuttaki diğer tüm seröz zarlar (plevra, periton) gibi tek katlı yassı epitelden oluşan ve sıvı salgılayan özel bir Mezotelyum tabakasıdır.",
+        "id": "v21_q_87"
     },
     {
         "question": "Gelişmekte olan embriyoda 1. Faringeal (Yutak) arkustan köken alan kıkırdak ve kas yapılarını innerve eden kranial sinir aşağıdakilerden hangisidir?",
@@ -1321,7 +1571,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Nöro 1",
         "topic": "Faringeal Arkuslar",
-        "hint": "Çiğneme kaslarını innerve eden sinirdir."
+        "hint": "Çiğneme kaslarını innerve eden sinirdir.",
+        "correctAnswer": 1,
+        "explanation": "Faringeal (Yutak) arkusların kendilerine has sinirleri vardır. 1. Arkus (Mandibular arkus) -> N. trigeminus (CN V), 2. Arkus (Hyoid arkus) -> N. facialis (CN VII), 3. Arkus -> N. glossopharyngeus (CN IX), 4. ve 6. Arkuslar -> N. vagus (CN X).",
+        "id": "v21_q_88"
     },
     {
         "question": "Embriyolojide primitif bağırsak tüpünün 'ön bağırsak' (foregut) kısmından gelişmeyen organ hangisidir?",
@@ -1336,7 +1589,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "GİS Embriyolojisi",
-        "hint": "İnce bağırsağın son kısmı orta bağırsaktan (midgut) gelişir."
+        "hint": "İnce bağırsağın son kısmı orta bağırsaktan (midgut) gelişir.",
+        "correctAnswer": 3,
+        "explanation": "Ön bağırsaktan (Foregut) farinks, özofagus, mide ve duodenumun 2. parçasının yarısına kadar (safra kanalının açıldığı yere kadar) olan bölüm gelişir. İleum (ince bağırsağın son kısmı) ise tamamen Orta bağırsak (Midgut) türevidir.",
+        "id": "v21_q_89"
     },
     {
         "question": "Santral sinir sistemi embriyolojisinde beynin bölümlerinden 'Prosencephalon' hangi iki ikincil veziküle ayrılır?",
@@ -1351,7 +1607,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Nöro 1",
         "topic": "Nöroembriyoloji",
-        "hint": "Ön beyin, serebrum ve talamik bölümlere ayrılır."
+        "hint": "Ön beyin, serebrum ve talamik bölümlere ayrılır.",
+        "correctAnswer": 1,
+        "explanation": "Gelişmekte olan beynin 3 primer vezikülü vardır. En öndeki Prosencephalon (Ön beyin) ilerleyen haftalarda ikiye ayrılır: 1) Telencephalon (Cerebral hemisferler) ve 2) Diencephalon (Talamus, Hipotalamus, Epitalamus).",
+        "id": "v21_q_90"
     },
     {
         "question": "Solunum sisteminin epitel döşemesi embriyonik germ yapraklarından hangisinden gelişir?",
@@ -1366,7 +1625,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Histoloji",
         "course": "Solunum Sistemi",
         "topic": "Solunum Embriyolojisi",
-        "hint": "GİS epitelini de oluşturan iç tabakadır."
+        "hint": "GİS epitelini de oluşturan iç tabakadır.",
+        "correctAnswer": 3,
+        "explanation": "Solunum sistemi (trakea, bronşlar ve alveoller), embriyoda primitif ön bağırsağın karın (ventral) duvarından bir tomurcuklanma (solunum divertikülü) olarak gelişir. Bu yüzden epitel döşemeleri ve bezleri tamamen Endoderm germ yaprağından köken alır.",
+        "id": "v21_q_91"
     },
     {
         "question": "Mide ülseri ve gastritin ana etkeni olan, üreaz aktivitesi pozitif gram negatif sarmal bakteri hangisidir?",
@@ -1381,7 +1643,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "Bakteriyoloji",
-        "hint": "Midede amonyak üreterek kendine bazik ortam oluşturur."
+        "hint": "Midede amonyak üreterek kendine bazik ortam oluşturur.",
+        "correctAnswer": 1,
+        "explanation": "Helicobacter pylori, mide asidine dayanabilmek için çok güçlü 'Üreaz' enzimi üretir. Üreyi parçalayarak amonyak (bazik) oluşturur ve etrafında kendine asitten korunaklı bir mikroçevre yaratarak kronik gastrit ve peptik ülsere neden olur.",
+        "id": "v21_q_92"
     },
     {
         "question": "Kistik fibrozis hastalarında pnömoninin en sık nedeni olan ve 'yeşil renkli' (piyosiyanin) pigment üreten fırsatçı patojen hangisidir?",
@@ -1396,7 +1661,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Solunum Sistemi",
         "topic": "Bakteriyoloji",
-        "hint": "Karakteristik üzüm benzeri kokusu ve yeşil pigmenti vardır."
+        "hint": "Karakteristik üzüm benzeri kokusu ve yeşil pigmenti vardır.",
+        "correctAnswer": 2,
+        "explanation": "Pseudomonas aeruginosa, doğada yaygın bulunan, yoğun antibiyotik direncine sahip fırsatçı bir patojendir. Kültürde tatlı üzüm benzeri bir koku yayar ve sadece bu bakteriye özgü yeşil renkli 'Piyosiyanin' pigmenti üretir. Kistik fibrozis ve yanık hastalarında bir numaralı ölüm nedenidir.",
+        "id": "v21_q_93"
     },
     {
         "question": "Ateş, kuru öksürük ve atipik pnömoni kliniği ile başvuran genç bir yetişkinde etken olarak hücre duvarı olmayan hangi bakteri düşünülmelidir?",
@@ -1411,7 +1679,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Solunum Sistemi",
         "topic": "Bakteriyoloji",
-        "hint": "Hücre duvarı olmadığı için penisilinlere dirençlidir."
+        "hint": "Hücre duvarı olmadığı için penisilinlere dirençlidir.",
+        "correctAnswer": 0,
+        "explanation": "Mycoplasma pneumoniae, bilinen en küçük serbest yaşayan bakteridir. Peptidoglikan hücre duvarı YOKTUR. Bu nedenle hücre duvarı sentezini bozan Beta-laktam antibiyotiklere (Penisilin, Sefalosporin) doğal olarak dirençlidir. Sterol içeren hücre zarına sahiptir.",
+        "id": "v21_q_94"
     },
     {
         "question": "Spesifik olarak beyin omurilik sıvısı (BOS) bulgularında gram negatif, böbrek şeklinde diplokoklar görülen pürulan menenjit etkeni hangisidir?",
@@ -1426,7 +1697,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Nöro 1",
         "topic": "Bakteriyoloji",
-        "hint": "Meningokok olarak da bilinir, döküntülü menenjit yapar."
+        "hint": "Meningokok olarak da bilinir, döküntülü menenjit yapar.",
+        "correctAnswer": 0,
+        "explanation": "Neisseria meningitidis (Meningokok), özellikle askeriye ve yurtlar gibi kalabalık ortamlarda damlacık yoluyla bulaşan, gram negatif böbrek şeklinde diplokoktur. BOS yaymasında lökositler (PMNL) içerisinde bu diplokokların görülmesi menenjit tanısı için tipiktir.",
+        "id": "v21_q_95"
     },
     {
         "question": "Frengi (Sifiliz) hastalığının etkeni olan, karanlık alan mikroskobisi ile incelenen spiroket bakteri hangisidir?",
@@ -1441,7 +1715,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Ürogenital Sistem",
         "topic": "Bakteriyoloji",
-        "hint": "Şankr ve gom lezyonlarına neden olur."
+        "hint": "Şankr ve gom lezyonlarına neden olur.",
+        "correctAnswer": 2,
+        "explanation": "Sifiliz (Frengi) etkeni Treponema pallidum, çok ince ve kıvrımlı (spiroket) bir bakteri olduğu için rutin Gram boyasıyla boyanamaz ve ışık mikroskobunda görülemez. Kesin tanısı lezyondan alınan sıvının Karanlık Alan Mikroskobisi ile incelenmesiyle konur.",
+        "id": "v21_q_96"
     },
     {
         "question": "Boğazda gri-beyaz bir psödomembran oluşturan ve toksini ile miyokardite yol açabilen difteri etkeni hangisidir?",
@@ -1456,7 +1733,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Solunum Sistemi",
         "topic": "Bakteriyoloji",
-        "hint": "Elek testi toksinini göstermek için kullanılır."
+        "hint": "Elek testi toksinini göstermek için kullanılır.",
+        "correctAnswer": 1,
+        "explanation": "Corynebacterium diphtheriae, üst solunum yoluna yerleşip gri-beyaz, kanayan bir yalancı zar (psödomembran) oluşturur. Bakterinin asıl öldürücü etkisi, faj aracılığıyla kazandığı difteri ekzotoksininin kana karışarak kalp kasında (miyokardit) ve sinirlerde harabiyet yapmasıdır.",
+        "id": "v21_q_97"
     },
     {
         "question": "Çocukluk çağında döküntülü hastalıklardan biri olan, yanaklarda 'tokatlanmış yüz' görünümü yapan Parvovirüs B19 enfeksiyonuna ne ad verilir?",
@@ -1471,7 +1751,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Hastalık Temelleri",
         "topic": "Viroloji",
-        "hint": "Kemik iliğinde eritrosit öncüllerini tutarak aplastik krize yol açabilir."
+        "hint": "Kemik iliğinde eritrosit öncüllerini tutarak aplastik krize yol açabilir.",
+        "correctAnswer": 2,
+        "explanation": "Parvovirüs B19, çocuklarda yanaklarda tokat yemiş gibi kızarıklıkla giden 5. Hastalık (Eritema İnfeksiyozum) etkenidir. Kemik iliğindeki P antijeni taşıyan eritroid öncül hücreleri enfekte edip yıktığı için, orak hücreli anemi hastalarında ölümcül aplastik krizlere neden olur.",
+        "id": "v21_q_98"
     },
     {
         "question": "Özellikle kış aylarında infantlarda (süt çocuklarında) bronşiolit ve pnömoninin en sık viral etkeni hangisidir?",
@@ -1486,7 +1769,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Solunum Sistemi",
         "topic": "Viroloji",
-        "hint": "Hücre kültürlerinde sinsityum dev hücreleri oluşturur."
+        "hint": "Hücre kültürlerinde sinsityum dev hücreleri oluşturur.",
+        "correctAnswer": 2,
+        "explanation": "RSV (Respiratuvar Sinsityal Virüs), Paramyxoviridae ailesinden bir RNA virüsüdür ve 1 yaş altı bebeklerde hastaneye yatış gerektiren akut bronşiyolit ve viral pnömoninin açık ara en sık (1 numaralı) nedenidir. Enfekte ettiği hücreleri birleştirerek 'Sinsityum' (dev hücreler) oluşturur.",
+        "id": "v21_q_99"
     },
     {
         "question": "Kronikleşme riski en yüksek olan ve hepatoselüler karsinom gelişiminde en çok suçlanan RNA yapılı hepatit virüsü hangisidir?",
@@ -1501,7 +1787,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "Viroloji",
-        "hint": "Flaviviridae ailesinden olup aşısı yoktur."
+        "hint": "Flaviviridae ailesinden olup aşısı yoktur.",
+        "correctAnswer": 2,
+        "explanation": "Hepatit C Virüsü (HCV), kan yoluyla bulaşan ve akut dönemde genellikle sessiz seyredip, vakaların %75-85'inde kronikleşen en sinsi hepatit virüsüdür. Siroz ve Hepatoselüler karsinoma (HCC) ilerleme riski çok yüksektir ve hala koruyucu bir aşısı bulunmamaktadır.",
+        "id": "v21_q_100"
     },
     {
         "question": "Tükürük bezlerini (özellikle parotis) tutan, erkeklerde orşit (testis iltihabı) komplikasyonu yapabilen virüs hangisidir?",
@@ -1516,7 +1805,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "Viroloji",
-        "hint": "Paramyxoviridae ailesindendir."
+        "hint": "Paramyxoviridae ailesindendir.",
+        "correctAnswer": 0,
+        "explanation": "Kabakulak (Mumps) virüsü, Paramyxoviridae ailesindendir. Esas olarak tükürük bezlerini (parotis) şişirir. Virüsün en korkulan komplikasyonlarından biri post-pubertal erkeklerde testisleri tutarak Orşit yapmasıdır, ki bu durum kısırlığa (infertilite) yol açabilir.",
+        "id": "v21_q_101"
     },
     {
         "question": "Serviks (rahim ağzı) kanserinin en önemli etiyolojik ajanı olan, tip 16 ve 18'i onkojenik kabul edilen DNA virüsü hangisidir?",
@@ -1531,7 +1823,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Ürogenital Sistem",
         "topic": "Viroloji",
-        "hint": "E6 ve E7 viral proteinleri ile p53 ve Rb tümör baskılayıcı genlerini inhibe eder."
+        "hint": "E6 ve E7 viral proteinleri ile p53 ve Rb tümör baskılayıcı genlerini inhibe eder.",
+        "correctAnswer": 1,
+        "explanation": "İnsan Papilloma Virüsü (HPV), özellikle Tip 16 ve Tip 18 varyantlarıyla serviks (rahim ağzı) kanserine yol açan temel onkojenik virüstür. Ürettiği E6 proteini hücrenin koruyucusu p53'ü, E7 proteini ise Rb genini yıkarak hücreyi kontrolsüz çoğalmaya iter.",
+        "id": "v21_q_102"
     },
     {
         "question": "Oral pamukçuk, vulvovajinit veya immünsüprese hastalarda özofajit yapabilen, yalancı hif (psödohif) oluşturan en sık maya mantarı hangisidir?",
@@ -1546,7 +1841,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Hastalık Temelleri",
         "topic": "Mikoloji",
-        "hint": "Gereğinden fazla antibiyotik kullanımında fırsatçı enfeksiyon yapar."
+        "hint": "Gereğinden fazla antibiyotik kullanımında fırsatçı enfeksiyon yapar.",
+        "correctAnswer": 1,
+        "explanation": "Candida albicans, normal vücut florasında (ağız, GİS, vajina) sessizce duran dimorfik bir maya mantarıdır. İmmün sistem baskılandığında veya geniş spektrumlu antibiyotiklerle rakip bakteriler öldürüldüğünde kontrolden çıkarak pamukçuk (oral kandidiyaz), vajinit ve psödohifli enfeksiyonlar oluşturur.",
+        "id": "v21_q_103"
     },
     {
         "question": "Anofel cinsi sivrisineklerin dişileri aracılığıyla bulaşan, eritrositleri parçalayarak periyodik sıtma nöbetleri yapan parazit cinsi hangisidir?",
@@ -1561,7 +1859,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Hastalık Temelleri",
         "topic": "Parazitoloji",
-        "hint": "P. falciparum türü en ölümcül olanıdır."
+        "hint": "P. falciparum türü en ölümcül olanıdır.",
+        "correctAnswer": 2,
+        "explanation": "Sıtma (Malaria) etkeni olan Plasmodium türleri, Anofel cinsi dişi sivrisineklerin sokmasıyla kana geçer. Karaciğerde çoğaldıktan sonra eritrositleri (kırmızı kan hücreleri) enfekte edip patlatırlar; bu patlama anları hastadaki periyodik ateş, titreme ve terleme nöbetlerinden sorumludur.",
+        "id": "v21_q_104"
     },
     {
         "question": "Çiğ veya az pişmiş kistli et yenilmesiyle veya enfekte kedi dışkısıyla temasla bulaşan, gebelerde konjenital enfeksiyona neden olan parazit hangisidir?",
@@ -1576,7 +1877,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Mikrobiyoloji",
         "course": "Hastalık Temelleri",
         "topic": "Parazitoloji",
-        "hint": "TORCH enfeksiyonlarının baş harfidir."
+        "hint": "TORCH enfeksiyonlarının baş harfidir.",
+        "correctAnswer": 0,
+        "explanation": "Toxoplasma gondii; az pişmiş et ve enfekte kedi dışkısıyla (ookist) insanlara bulaşan hücre içi bir parazittir. Normal insanda grip gibi geçse de, gebelikte plasentayı geçerek fetüste (Toxoplasmosis) koryoretinit, hidrosefali ve beyin kalsifikasyonlarına yol açar.",
+        "id": "v21_q_105"
     },
     {
         "question": "Farmakokinetikte, bir ilacın mide-bağırsak kanalından emildikten sonra sistemik dolaşıma katılmadan önce karaciğerde metabolize edilerek etkinliğinin azalmasına ne ad verilir?",
@@ -1591,7 +1895,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Farmakoloji",
         "course": "Hastalık Temelleri",
         "topic": "Farmakokinetik",
-        "hint": "Oral yolla alınan ilaçların büyük kısmının başına gelen olaydır."
+        "hint": "Oral yolla alınan ilaçların büyük kısmının başına gelen olaydır.",
+        "correctAnswer": 2,
+        "explanation": "Oral (ağızdan) alınan bir ilaç mideden/bağırsağa emildikten sonra, sistemik dolaşıma (kalbe ve vücuda) gitmeden önce Vena portae hepatis aracılığıyla mecburen karaciğere uğrar. Karaciğer enzimleri ilacın bir kısmını kana karışmadan parçalar; buna 'İlk Geçiş Etkisi' (First-pass metabolism) denir.",
+        "id": "v21_q_106"
     },
     {
         "question": "Aşağıdaki ilaç uygulama yollarından hangisinde ilk geçiş etkisi (first-pass metabolizması) en düşüktür veya hiç yoktur?",
@@ -1606,7 +1913,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Farmakoloji",
         "course": "Hastalık Temelleri",
         "topic": "Uygulama Yolları",
-        "hint": "İlaç direkt sistemik venöz kana verilir."
+        "hint": "İlaç direkt sistemik venöz kana verilir.",
+        "correctAnswer": 1,
+        "explanation": "İntravenöz (İV - damar içi) ilaç uygulamasında ilaç doğrudan sistemik venöz kana verildiği için GİS emilimine ve karaciğerin ilk geçiş etkisine (first-pass) maruz kalmaz. Biyoyararlanımı (kana geçiş oranı) kesin %100 olan tek yoldur.",
+        "id": "v21_q_107"
     },
     {
         "question": "Aynı reseptöre bağlanan iki ilaçtan, reseptörü aktive edemeyip (intrensek aktivitesi sıfır) agonistin bağlanmasını engelleyen ilaca ne ad verilir?",
@@ -1621,7 +1931,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Farmakoloji",
         "course": "Hastalık Temelleri",
         "topic": "Farmakodinami",
-        "hint": "Ortamdaki agonist konsantrasyonu artırılarak etkisi yenilebilir."
+        "hint": "Ortamdaki agonist konsantrasyonu artırılarak etkisi yenilebilir.",
+        "correctAnswer": 2,
+        "explanation": "Kompetitif antagonist, asıl ilaçla (agonist) aynı reseptör bölgesi için yarışan ancak reseptörü aktive edemeyen (intrensek aktivite=0) maddedir. Agonistin dozu yeterince artırılırsa antagonistin engeli aşılır (Emax değişmez, EC50 artar).",
+        "id": "v21_q_108"
     },
     {
         "question": "Hipertansiyon tedavisinde kullanılan ve Angiotensin Dönüştürücü Enzim'i (ACE) bloke eden ilaçların (örn. Kaptopril) en sık görülen ve bradikinin birikimine bağlı yan etkisi nedir?",
@@ -1636,7 +1949,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Farmakoloji",
         "course": "Dolaşım Sistemi",
         "topic": "Kardiyovasküler İlaçlar",
-        "hint": "Hastalar genellikle gıcık tarzı bir öksürükten şikayet eder."
+        "hint": "Hastalar genellikle gıcık tarzı bir öksürükten şikayet eder.",
+        "correctAnswer": 1,
+        "explanation": "ACE inhibitörleri (Kaptopril, Enalapril), Anjiyotensin I'in güçlü bir damar daraltıcı olan Anjiyotensin II'ye dönüşümünü engeller. Ancak ACE enzimi aynı zamanda akciğerlerdeki Bradikinin'i de parçalar. İlaç yüzünden bradikinin parçalanamayıp birikince hastada inatçı kuru öksürük oluşur.",
+        "id": "v21_q_109"
     },
     {
         "question": "Mide asit salgısını en güçlü şekilde baskılayan, proton pompası (H+/K+ ATPase) inhibitörü (PPI) sınıfı ilaç hangisidir?",
@@ -1651,7 +1967,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Farmakoloji",
         "course": "Gastrointestinal Sistem",
         "topic": "GİS Farmakolojisi",
-        "hint": "-prazol eki alan ilaçlardandır."
+        "hint": "-prazol eki alan ilaçlardandır.",
+        "correctAnswer": 2,
+        "explanation": "Midede asit (HCl) salgılanmasının en son adımı, paryetal hücrelerin apikal yüzündeki H+/K+ ATPaz (Proton Pompası) enzimidir. Omeprazol, Lansoprazol gibi PPI'lar bu pompayı geri dönüşümsüz inhibe ederek asit salgısını %95 oranında durduran en güçlü ilaçlardır.",
+        "id": "v21_q_110"
     },
     {
         "question": "Akut astım krizlerinin tedavisinde ilk tercih edilen, hızlı etkili beta-2 adrenerjik agonist (SABA) aşağıdakilerden hangisidir?",
@@ -1666,7 +1985,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Farmakoloji",
         "course": "Solunum Sistemi",
         "topic": "Solunum Farmakolojisi",
-        "hint": "Ventolin ticari ismiyle bilinen kısa etkili kurtarıcı ilaçtır."
+        "hint": "Ventolin ticari ismiyle bilinen kısa etkili kurtarıcı ilaçtır.",
+        "correctAnswer": 0,
+        "explanation": "Salbutamol, akciğerlerdeki Beta-2 adrenerjik reseptörleri hızla uyararak düz kasları gevşeten (bronkodilatasyon) 'kısa etkili' bir ajandır (SABA). Astım krizlerinde hastayı anında rahatlatmak için 'kurtarıcı' inhaler (fısfıs) olarak ilk sırada kullanılır.",
+        "id": "v21_q_111"
     },
     {
         "question": "Diüretik ilaçlardan potasyum tutucu özellik gösteren ve aldosteron reseptör antagonisti olan ajan hangisidir?",
@@ -1681,7 +2003,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Farmakoloji",
         "course": "Ürogenital Sistem",
         "topic": "Diüretikler",
-        "hint": "Jinekomasti yapabilen bir ilaçtır."
+        "hint": "Jinekomasti yapabilen bir ilaçtır.",
+        "correctAnswer": 2,
+        "explanation": "Spironolakton, toplayıcı tübüllerdeki Aldosteron reseptörlerini bloke ederek sodyum ve su atılımını sağlarken potasyumu (K+) kana geri emer. Kalp yetmezliğinde kalbi yeniden şekillenmeden korur ancak androjen reseptörlerini de bloke ettiği için erkeklerde jinekomasti (meme büyümesi) yapabilir.",
+        "id": "v21_q_112"
     },
     {
         "question": "Dokuların kan akımının kesilmesi (iskemi) sonucu hücrelerin pıhtılaşma nekrozuna (koagülasyon nekrozu) uğradığı tablo en tipik hangi organda görülür?",
@@ -1696,7 +2021,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Patoloji",
         "course": "Hastalık Temelleri",
         "topic": "Hücre Hasarı",
-        "hint": "Beyin hariç katı organlarda görülen temel iskemik nekrozdur."
+        "hint": "Beyin hariç katı organlarda görülen temel iskemik nekrozdur.",
+        "correctAnswer": 1,
+        "explanation": "Koagülasyon nekrozu; hücrelerin kan akımının kesilmesine (hipoksi/iskemi) bağlı olarak ölmesi ancak dokunun genel yapısal iskeletinin günler boyunca korunduğu nekroz tipidir. Beyin hariç (beyinde likefaksiyon/erime nekrozu olur) kalp, böbrek, dalak gibi tüm katı organ infarktüslerinde görülür.",
+        "id": "v21_q_113"
     },
     {
         "question": "Hücrelerin strese uyum mekanizmalarından biri olan 'metaplazi' için en klasik örnek aşağıdakilerden hangisidir?",
@@ -1711,7 +2039,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Patoloji",
         "course": "Hastalık Temelleri",
         "topic": "Hücre Adaptasyonu",
-        "hint": "Bir erişkin hücre tipinin yerine başka bir tipin geçmesidir."
+        "hint": "Bir erişkin hücre tipinin yerine başka bir tipin geçmesidir.",
+        "correctAnswer": 2,
+        "explanation": "Metaplazi, kronik irritasyona maruz kalan bir erişkin epitel hücresinin, o strese daha dayanıklı başka bir erişkin epitel hücresine dönüşmesidir. Sigara dumanına maruz kalan solunum yolundaki silyalı silindirik epitelin, daha dayanıklı olan çok katlı yassı (skuamöz) epitele dönüşmesi en klasik örneğidir.",
+        "id": "v21_q_114"
     },
     {
         "question": "Tıbbi etikte, hastanın bilinci açık ve karar verme yetisi tamsayken, tedavisini özgür iradesiyle kabul veya reddetme hakkı hangi temel etik ilkeye dayanır?",
@@ -1726,7 +2057,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Tıp Etiği",
         "course": "Hastalık Temelleri",
         "topic": "Etik İlkeler",
-        "hint": "Kişinin kendi vücudu üzerindeki karar yetkisidir."
+        "hint": "Kişinin kendi vücudu üzerindeki karar yetkisidir.",
+        "correctAnswer": 2,
+        "explanation": "Özerklik (Otonomi) ilkesi; karar verme yeterliliğine sahip (akli dengesi yerinde, bilinçli) bir hastanın, kendi bedeni üzerinde uygulanacak tıbbi müdahaleleri kabul veya reddetme konusunda en üstün hakkı olduğunu savunan tıp etiğinin en temel direğidir.",
+        "id": "v21_q_115"
     },
     {
         "question": "Aydınlatılmış onam alınırken hastaya sağlanması gereken temel unsurlardan biri aşağıdakilerden hangisi DEĞİLDİR?",
@@ -1741,7 +2075,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Tıp Etiği",
         "course": "Hastalık Temelleri",
         "topic": "Aydınlatılmış Onam",
-        "hint": "Hastanın hastalığı ile ilgili olmayan detaylardır."
+        "hint": "Hastanın hastalığı ile ilgili olmayan detaylardır.",
+        "correctAnswer": 2,
+        "explanation": "Aydınlatılmış onam (Informed Consent); hastaya hastalığının tanısı, önerilen tedavinin amacı, riskleri, alternatif tedavi seçenekleri ve tedavi edilmezse ne olacağı hakkında anlayacağı dille bilgi verilmesidir. Hekimin kendi özel yaşamı veya sorunları bu sürecin bir parçası olamaz.",
+        "id": "v21_q_116"
     },
     {
         "question": "Hekim-hasta iletişiminde, hastanın söylediklerini anladığını göstermek için hekimin kendi cümleleriyle durumu özetlemesi hangi iletişim tekniğidir?",
@@ -1756,7 +2093,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "İletişim",
         "course": "Hastalık Temelleri",
         "topic": "İletişim Becerileri",
-        "hint": "Hastanın mesajının alındığını doğrulama yöntemidir."
+        "hint": "Hastanın mesajının alındığını doğrulama yöntemidir.",
+        "correctAnswer": 2,
+        "explanation": "Aktif dinleme (yansıtma/empatik yanıt), hekimin sadece dinlemekle kalmayıp hastanın duygu ve düşüncelerini anladığını ona hissettirdiği çok güçlü bir iletişim becerisidir. Hasta 'Çok korkuyorum' dediğinde, hekimin 'Ameliyatın riskleri sizi endişelendiriyor' demesi klasik bir yansıtmadır.",
+        "id": "v21_q_117"
     },
     {
         "question": "Kötü haber verme sürecinde dünyaca kabul görmüş 'SPIKES' protokolünün 'S' (Setting) harfi neyi ifade eder?",
@@ -1771,7 +2111,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "İletişim",
         "course": "Hastalık Temelleri",
         "topic": "Kötü Haber Verme",
-        "hint": "Görüşmenin yapılacağı sakin ve özel alanın ayarlanması."
+        "hint": "Görüşmenin yapılacağı sakin ve özel alanın ayarlanması.",
+        "correctAnswer": 1,
+        "explanation": "Onkoloji ve acil tıp gibi alanlarda kötü haber (kanser tanısı, ölüm vb.) vermek için kullanılan 6 basamaklı SPIKES protokolünün ilk adımı S (Setting - Ortamın ayarlanması) aşamasıdır. Hastanın mahremiyetini koruyan, sessiz, kesintiye uğramayacak özel bir oda seçilmesini ifade eder.",
+        "id": "v21_q_118"
     },
     {
         "question": "Kan basıncı ölçülürken manşonun şişirilip yavaşça indirilmesi sırasında stetoskopla duyulan ve sistolik basıncın tespit edilmesini sağlayan ilk sese ne ad verilir?",
@@ -1786,7 +2129,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Klinik Beceri",
         "course": "Dolaşım Sistemi",
         "topic": "Tansiyon Ölçümü",
-        "hint": "Rus fizikçi Nicolai Korotkoff'un tanımladığı tıkırtı sesleridir."
+        "hint": "Rus fizikçi Nicolai Korotkoff'un tanımladığı tıkırtı sesleridir.",
+        "correctAnswer": 0,
+        "explanation": "Kan basıncı ölçümünde (Sfigmomanometri) manşonun basıncı arteriyel basıncın altına düştüğü an, damardan kanın türbülanslı (girdaplı) akışı başlar. Stetoskopla ilk duyulan ritmik tıkırtı sesine Faz I (Sistolik Basınç), sesin tamamen kaybolduğu ana ise Faz V (Diyastolik Basınç) denir.",
+        "id": "v21_q_119"
     },
     {
         "question": "Toplum sağlığında, bir hastalığın insidans (yeni vaka hızı) oranını azaltmaya yönelik, henüz hastalık oluşmadan önce alınan tedbirlere (örn. aşılama, el yıkama) ne ad verilir?",
@@ -1801,7 +2147,10 @@ window.examsData['tam_kapsamli_final_v21'] = {
         "subject": "Toplum Sağlığı",
         "course": "Hastalık Temelleri",
         "topic": "Koruyucu Hekimlik",
-        "hint": "Hastalığın ortaya çıkmasını en başından engellemektir."
+        "hint": "Hastalığın ortaya çıkmasını en başından engellemektir.",
+        "correctAnswer": 0,
+        "explanation": "Birincil (Primer) Koruma: Hastalık HİÇ oluşmadan risk faktörlerini ortadan kaldırmaktır (Aşılama, suyun klorlanması, maske). İkincil (Sekonder) Koruma: Hastalığı asemptomatik evrede erken yakalamaktır (Kanser tarama testleri). Üçüncül (Tersiyer) Koruma: Oluşan hastalığın sekel (sakatlık) bırakmasını önlemektir (Rehabilitasyon).",
+        "id": "v21_q_120"
     }
 ]
 };
