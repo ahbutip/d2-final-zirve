@@ -15,6 +15,8 @@ const elements = {
     currentQuestionIndicator: document.getElementById('current-question-indicator'),
     currentSubjectBadge: document.getElementById('current-subject-badge'),
     progressBar: document.getElementById('progress-bar'),
+    progressText: document.getElementById('progress-text'),
+    progressPercentage: document.getElementById('progress-percentage'),
     
     questionText: document.getElementById('question-text'),
     optionsContainer: document.getElementById('options-container'),
@@ -409,7 +411,11 @@ function loadQuestion(index) {
     // Update UI headers
     elements.currentQuestionIndicator.textContent = `Soru ${index + 1} / ${activeExamData.questions.length}`;
     elements.currentSubjectBadge.textContent = q.subject || q.course || "Genel";
-    elements.progressBar.style.width = `${((index + 1) / activeExamData.questions.length) * 100}%`;
+    
+    const percentage = Math.round(((index + 1) / activeExamData.questions.length) * 100);
+    elements.progressBar.style.width = `${percentage}%`;
+    if (elements.progressText) elements.progressText.textContent = `Soru ${index + 1} / ${activeExamData.questions.length}`;
+    if (elements.progressPercentage) elements.progressPercentage.textContent = `${percentage}%`;
     
     elements.questionText.textContent = q.question || q.text || "";
     
@@ -978,3 +984,67 @@ window.addEventListener('click', (e) => {
         closeSyllabusModal();
     }
 });
+
+// Export Progress
+window.exportProgress = function() {
+    const backup = {};
+    let hasData = false;
+    for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key && key.startsWith('d2_exam_state_')) {
+            backup[key] = localStorage.getItem(key);
+            hasData = true;
+        }
+    }
+    
+    if (!hasData) {
+        alert("Henüz kaydedilmiş bir sınav ilerlemesi bulunmuyor!");
+        return;
+    }
+    
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(backup));
+    const downloadAnchorNode = document.createElement('a');
+    downloadAnchorNode.setAttribute("href", dataStr);
+    const dateStr = new Date().toISOString().split('T')[0];
+    downloadAnchorNode.setAttribute("download", `d2_zirve_yedek_${dateStr}.json`);
+    document.body.appendChild(downloadAnchorNode);
+    downloadAnchorNode.click();
+    downloadAnchorNode.remove();
+};
+
+// Import Progress
+window.importProgress = function(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+    
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        try {
+            const backup = JSON.parse(e.target.result);
+            let importedCount = 0;
+            
+            for (const key in backup) {
+                if (key.startsWith('d2_exam_state_')) {
+                    localStorage.setItem(key, backup[key]);
+                    importedCount++;
+                }
+            }
+            
+            if (importedCount > 0) {
+                alert(`Başarılı! ${importedCount} adet sınav ilerlemesi yüklendi. Sayfa yenileniyor...`);
+                event.target.value = ''; // Reset input
+                if (typeof renderLandingPage === 'function') {
+                    renderLandingPage();
+                } else {
+                    location.reload();
+                }
+            } else {
+                alert("Geçersiz veya boş yedek dosyası!");
+            }
+        } catch (err) {
+            alert("Dosya okuma hatası! Lütfen geçerli bir JSON yedek dosyası seçtiğinizden emin olun.");
+            console.error(err);
+        }
+    };
+    reader.readAsText(file);
+};
