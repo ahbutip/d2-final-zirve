@@ -27,6 +27,9 @@ const elements = {
     explanationContainer: document.getElementById('explanation-container'),
     explanationText: document.getElementById('explanation-text'),
     
+    wrongExplanationContainer: document.getElementById('wrong-explanation-container'),
+    wrongExplanationText: document.getElementById('wrong-explanation-text'),
+    
     prevBtn: document.getElementById('prev-btn'),
     nextBtn: document.getElementById('next-btn'),
     
@@ -439,12 +442,23 @@ function loadQuestion(index) {
         if (selectedIndex === q.correctAnswer) {
             elements.explanationContainer.style.borderLeftColor = "var(--success-color)";
             elements.explanationContainer.querySelector('.explanation-title').style.color = "var(--success-color)";
+            if (elements.wrongExplanationContainer) elements.wrongExplanationContainer.style.display = 'none';
         } else {
             elements.explanationContainer.style.borderLeftColor = "var(--danger-color)";
             elements.explanationContainer.querySelector('.explanation-title').style.color = "var(--danger-color)";
+            
+            if (elements.wrongExplanationContainer) {
+                elements.wrongExplanationContainer.style.display = 'block';
+                if (q.optionExplanations && q.optionExplanations[selectedIndex]) {
+                    elements.wrongExplanationText.innerHTML = q.optionExplanations[selectedIndex];
+                } else {
+                    elements.wrongExplanationText.innerHTML = "Bu seçeneğin neden yanlış olduğuna dair özel bir açıklama henüz eklenmemiş.";
+                }
+            }
         }
     } else {
         elements.explanationContainer.style.display = 'none';
+        if (elements.wrongExplanationContainer) elements.wrongExplanationContainer.style.display = 'none';
     }
     
     const prefixes = ['A', 'B', 'C', 'D', 'E'];
@@ -553,10 +567,20 @@ function selectOption(selectedIndex, btnElement) {
         state.correctCount++;
         elements.explanationContainer.style.borderLeftColor = "var(--success-color)";
         elements.explanationContainer.querySelector('.explanation-title').style.color = "var(--success-color)";
+        if (elements.wrongExplanationContainer) elements.wrongExplanationContainer.style.display = 'none';
     } else {
         state.wrongCount++;
         elements.explanationContainer.style.borderLeftColor = "var(--danger-color)";
         elements.explanationContainer.querySelector('.explanation-title').style.color = "var(--danger-color)";
+        
+        if (elements.wrongExplanationContainer) {
+            elements.wrongExplanationContainer.style.display = 'block';
+            if (q.optionExplanations && q.optionExplanations[selectedIndex]) {
+                elements.wrongExplanationText.innerHTML = q.optionExplanations[selectedIndex];
+            } else {
+                elements.wrongExplanationText.innerHTML = "Bu seçeneğin neden yanlış olduğuna dair özel bir açıklama henüz eklenmemiş.";
+            }
+        }
     }
     
     // Show explanation
