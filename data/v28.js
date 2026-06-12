@@ -1567,18 +1567,148 @@ window.examsData["tam_kapsamli_final_v28"] = {
   },
   {
     "subject": "Biyokimya",
-    "course": "Kan Proteinleri",
-    "topic": "Dr. Mustafa Bozkurt - Kan Proteinleri",
-    "question": "Plazma proteinlerinden biri olan Haptoglobin'in fizyolojik ve patolojik durumları ile ilgili olarak, aşağıdaki ifadelerden hangisi veya hangileri doğrudur?\nI. Kanda serbest dolaşan hemoglobini bağlayarak böbreklerden kaybını önler.\nII. Hemolitik anemilerde (kırmızı kan hücresi yıkımının arttığı durumlarda) serum seviyesi düşer.\nIII. Akut faz reaktanıdır, inflamasyonda sentezi artar.",
+    "course": "Ksenobiyotik Metabolizması",
+    "topic": "Dr. Fatih Kar - Ksenobiyotik Met. (Çıkmış Soru)",
+    "question": "Yabancı bileşiklerin (ksenobiyotik) metabolizmasında görev alan sitokrom P450 enzim sistemi hücrenin hangi bölgesinde bulunur?",
     "options": [
-      "Yalnız I",
-      "I ve II",
-      "II ve III",
-      "I ve III",
-      "I, II ve III"
+      "Düz endoplazmik retikulum zarında",
+      "Lizozomda",
+      "Çekirdek zarında",
+      "Sitoplazmada",
+      "Mitokondri dış zarında"
     ],
-    "correctAnswer": 4,
-    "explanation": "Haptoglobin, serbest hemoglobini bağlayan ve kompleksi RES'e taşıyan bir proteinidir. Hemolizde bu kompleks hızla yıkıldığı için haptoglobin tükenir (seviyesi düşer). Aynı zamanda inflamasyonda artan bir pozitif akut faz reaktanıdır. Her üç ifade de doğrudur.",
+    "correctAnswer": 0,
+    "explanation": "Dr. Fatih Kar'ın geçmiş yıllarda sorduğu çıkmış sorudur. Sitokrom P450 (CYP) enzimleri, ilaç ve ksenobiyotiklerin detoksifikasyonu için karaciğerde temel olarak Düz Endoplazmik Retikulum (DER) membranında yer alırlar.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Aminoasit Metabolizma Bozuklukları",
+    "topic": "Dr. Fatih Kar - Aminoasit Boz. (Çıkmış Soru)",
+    "question": "Alkaptonüride oksidasyona uğramayan hangisidir?",
+    "options": [
+      "Tirozin",
+      "Homogentisik asid",
+      "Metionin",
+      "Homosistein",
+      "Sistein"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. Fatih Kar'ın geçmiş yıllarda sorduğu çıkmış sorudur. Alkaptonüri, homogentisik asit oksidaz enzimi eksikliğinde görülür. Bu nedenle homogentisik asit oksitlenemez ve idrarla atılarak idrarın havayla temasında siyaha boyanmasına (okronozis) yol açar.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Aminoasit Metabolizma Bozuklukları",
+    "topic": "Dr. Fatih Kar - Aminoasit Boz. (Çıkmış Soru)",
+    "question": "Aşağıdaki enzim eksikliklerinden hangisi Maple Syrup Urine Disease (MSUD) neden olur?",
+    "options": [
+      "Fenilalanin hidroksilaz",
+      "Dallı zincirli keto asit dehidrojenaz",
+      "Homogentisik asit oksidaz",
+      "Orotik asit dekarboksilaz",
+      "Glutamat dehidrojenaz"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. Fatih Kar'ın geçmiş yıllarda sorduğu çıkmış sorudur. MSUD (Akçaağaç Şurubu İdrar Hastalığı), lösin, izolösin ve valin gibi dallı zincirli aminoasitlerin yıkımında görev alan 'Dallı zincirli keto asit dehidrojenaz' enzim kompleksi eksikliğinde görülür.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Kan Proteinleri",
+    "topic": "Dr. Mustafa Bozkurt - Kan Proteinleri (Slayt Sorusu)",
+    "question": "Aşağıdakilerden hangisi negatif akut faz reaktanıdır?",
+    "options": [
+      "Serum amiloid A",
+      "C4",
+      "Alfa 1 antikimotripsin",
+      "IGF-1",
+      "Seruloplazmin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mustafa Hoca'nın 'Kan Proteinleri' slaytında bizzat sorduğu sorudur. İnflamasyon durumunda sentezi azalan proteinlere negatif akut faz reaktanı denir (Albumin, Prealbumin, Transferrin ve IGF-1). Diğerleri pozitif AFR'dir.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Kan Proteinleri",
+    "topic": "Dr. Mustafa Bozkurt - Kan Proteinleri (Slayt Sorusu)",
+    "question": "Kanda diğerlerinden daha fazla bulunan protein aşağıdakilerden hangisidir?",
+    "options": [
+      "Transferrin",
+      "IgG",
+      "IgA",
+      "Alfa 2 Makroglobulin",
+      "Fibrinojen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mustafa Hoca'nın 'Kan Proteinleri' slaytında sorduğu orijinal sorudur. Albüminden sonra (ve sorudaki şıklar arasında) plazmada en yüksek oranda bulunan protein İmmünglobulin G (IgG)'dir.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Kan Proteinleri",
+    "topic": "Dr. Mustafa Bozkurt - Plazma Enzimleri (Slayt Sorusu)",
+    "question": "Aşağıdakilerden hangisi fonksiyonel plazma enzimi olarak kabul edilir?",
+    "options": [
+      "Hormona duyarlı lipaz",
+      "Kolinesteraz",
+      "Kreatin kinaz",
+      "Trombin"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Mustafa Hoca'nın 'Kan Proteinleri' slaytında sorduğu orijinal sorudur. Trombin (Pıhtılaşma faktörü), psödokolinesteraz ve lipoprotein lipaz fonksiyonel plazma enzimlerindendir.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Eser Elementler",
+    "topic": "Dr. Mustafa Bozkurt - Toksik Elementler",
+    "question": "Wilson hastalığı ile ilgili aşağıda verilen ifadelerden hangisi yanlıştır?",
+    "options": [
+      "ATP7B geninde mutasyon sonucu bakırın safraya atılımı bozulmuştur.",
+      "Otozomal resesif (AR) olarak kalıtılır.",
+      "Plazmada serbest bakır seviyesi yüksekken, total vücut bakırı düşüktür.",
+      "İdrarla atılan bakır (Urinary Cu) miktarı artmıştır.",
+      "Serumda seruloplazmin düzeyi tipik olarak azalmıştır."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mustafa Bozkurt'un slayt tablosuna göre (Tablo 29.6), Wilson hastalığında safraya atılamayan bakır vücutta birikir, yani Total Vücut Bakırı DÜŞÜK DEĞİL, YÜKSEKTİR. Serbest bakır yüksek, idrar bakırı yüksek ve seruloplazmin düşüktür.",
     "optionExplanations": [
       "",
       "",
@@ -1590,7 +1720,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Karbonhidrat Metabolizması",
-    "topic": "Dr. Mustafa Bozkurt - Karbonhidrat Metabolizma Bozuklukları",
+    "topic": "Dr. Mustafa Bozkurt - Karbonhidrat Boz.",
     "question": "Karaciğerde glikojenin glukoza yıkılamaması sonucu ciddi açlık hipoglisemisi, hepatomegali ve laktik asidoz tablosuyla seyreden Von Gierke (Tip 1 Glikojen Depo) hastalığında, aşağıdaki enzimlerden hangisinin defekti söz konusudur?",
     "options": [
       "Lizozomal alfa-1,4-glukozidaz",
@@ -1600,7 +1730,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
       "Dallandırıcı enzim (Branching enzyme)"
     ],
     "correctAnswer": 3,
-    "explanation": "Von Gierke (Tip 1 Glikojen Depo Hastalığı), karaciğerde Glukoz-6-fosfat'ı serbest glukoza çevirip kana veren Glukoz-6-fosfataz enziminin eksikliği sonucu oluşur. Lizozomal alfa-1,4-glukozidaz eksikliği Pompe hastalığıdır.",
+    "explanation": "Mustafa Hoca'nın slayt notlarına uygun temel enzim sorusu. Tip 1 Glikojen Depo Hastalığı, Glukoz-6-fosfataz enziminin eksikliği sonucu oluşur ve glikojen karaciğerde yıkılamaz.",
     "optionExplanations": [
       "",
       "",
@@ -1611,84 +1741,18 @@ window.examsData["tam_kapsamli_final_v28"] = {
   },
   {
     "subject": "Biyokimya",
-    "course": "Endokrin Biyokimyası",
-    "topic": "Dr. Mustafa Bozkurt - Adrenal Hormonlar",
-    "question": "Adrenal korteksten salgılanan glukokortikoidlerin (Kortizol) metabolizma üzerindeki etkileri ile ilgili olarak, aşağıdaki ifadelerden hangisi veya hangileri doğrudur?\nI. Karaciğerde glukoneogenezi (yeni glukoz sentezini) uyarır.\nII. Periferik dokularda (kas ve yağ) insülinin etkisini antagonize eder (kan şekerini yükseltir).\nIII. İskelet kaslarında protein sentezini uyararak anabolik etki gösterir.",
+    "course": "Safra Asitleri",
+    "topic": "Dr. Fatmagül Can - Safra Asitleri",
+    "question": "Safra asitlerinin kolesterolden sentezi sürecinde gerçekleşen ilk ve hız sınırlayıcı (hız kısıtlayıcı) basamak aşağıdakilerden hangisidir?",
     "options": [
-      "Yalnız I",
-      "I ve II",
-      "II ve III",
-      "I ve III",
-      "I, II ve III"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Kortizol stes hormonudur; beynin glukoz kullanabilmesi için kan şekerini yükseltir (glukoneogenezi uyarır, periferde insülini antagonize eder). Ancak iskelet kasında protein YIKIMINA (katabolizma) neden olur ki glukoneogenez için aminoasit sağlansın. (III yanlıştır).",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "subject": "Biyokimya",
-    "course": "Endokrin Biyokimyası",
-    "topic": "Dr. Mustafa Bozkurt - Gonadal Hormonlar",
-    "question": "Kolesterolden steroid hormon sentezi sırasında görev alan aromataz enzimi, androjenleri (erkeklik hormonlarını) östrojenlere dönüştüren kritik bir enzimdir. Aromataz enziminin katalizlediği bu reaksiyon, aşağıdaki dönüşümlerden hangisidir?",
-    "options": [
-      "Kolesterol -> Pregnenolon",
-      "Testosteron -> Dihidrotestosteron (DHT)",
-      "Testosteron -> Östradiol",
-      "Progesteron -> Kortizol",
-      "Androstendion -> Testosteron"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Aromataz (CYP19A1), Testosteron'u Östradiol'e ve Androstendion'u Estron'a çeviren (aromatizasyon yapan) enzimdir. Testosteronu daha güçlü DHT'ye çeviren ise 5-alfa redüktazdır.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "subject": "Biyokimya",
-    "course": "Mineraller",
-    "topic": "Dr. Mustafa Bozkurt - Mineraller ve Toksik Elementler",
-    "question": "Vücutta demir metabolizması ve demirin hücre içinde depolanması büyük önem taşır. Hücre içinde (özellikle karaciğer, dalak ve kemik iliğinde) demirin toksik etkilerinden korunarak güvenli bir şekilde depolanmasını sağlayan ana protein aşağıdakilerden hangisidir?",
-    "options": [
-      "Transferrin",
-      "Ferritin",
-      "Hepcidin",
-      "Seruloplazmin",
-      "Albümin"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Demirin hücre içi temel depo formu Ferritin'dir. Kan dolaşımında demiri taşıyan protein Transferrin'dir. Hepcidin ise demir emilimini inhibe eden düzenleyici hormondur.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "subject": "Biyokimya",
-    "course": "Lipid Metabolizması",
-    "topic": "Dr. Fatmagül Can - Lipid Metabolizması",
-    "question": "Yağ asitlerinin beta-oksidasyonla yıkılabilmesi için sitoplazmadan mitokondri matriksine taşınmaları gerekir. Uzun zincirli yağ asitlerinin (açil-CoA) mitokondri iç zarından matriks tarafına geçebilmesi için bağlandıkları taşıyıcı molekül aşağıdakilerden hangisidir?",
-    "options": [
-      "Karnitin",
-      "Kreatin",
-      "Sitrat",
-      "Karnozin",
-      "Malat"
+      "Kolesterolün 7-alfa-hidroksilasyonu",
+      "Primer safra asitlerinin taurin ile konjugasyonu",
+      "Sekonder safra asitlerinin sentezi",
+      "HMG-CoA redüktaz aktivasyonu",
+      "Kolesterol esterifikasyonu"
     ],
     "correctAnswer": 0,
-    "explanation": "Yağ asitlerinin beta-oksidasyonu mitokondride gerçekleşir. Uzun zincirli yağ asitleri mitokondri iç zarını kendi başlarına geçemezler; Karnitin molekülüne bağlanarak (Karnitin mekiği) geçerler.",
+    "explanation": "Fatmagül Hoca'nın 'Safra Asitleri' slaytı (Sayfa 10). Kolesterolün 7-alfa-hidroksilasyonu, safra asitlerinin biyosentezinde hız sınırlayıcı basamaktır. Bu enzim O2 ve NADPH gerektirir.",
     "optionExplanations": [
       "",
       "",
@@ -1699,18 +1763,84 @@ window.examsData["tam_kapsamli_final_v28"] = {
   },
   {
     "subject": "Biyokimya",
-    "course": "Nükleotid Metabolizması",
-    "topic": "Dr. Fatmagül Can - Nükleotid Metabolizması",
-    "question": "Pürin nükleotidlerinin (Adenin ve Guanin) yıkımı sonucunda insanlarda ortaya çıkan son ürün, idrarla atılan ürik asittir. Pürin yıkım yolunun son basamağında ksantini ürik aside dönüştüren enzim aşağıdakilerden hangisidir?",
+    "course": "İdrar Biyokimyası",
+    "topic": "Dr. Fatmagül Can - İdrar Biyokimyası",
+    "question": "İdrar analizinde, idrarda yüksek miktarda Askorbik asit (C vitamini) bulunması, idrar striplerinde (reaktif pedlerde) aşağıdaki parametrelerden hangisinin hatalı olarak yanlış negatif çıkmasına neden olan en önemli interferanslardan biridir?",
     "options": [
-      "Ribonükleotid redüktaz",
-      "Ksantin oksidaz",
-      "Adenozin deaminaz",
-      "Fosforibozil pirofosfat sentetaz",
-      "Hipoksantin-guanin fosforiboziltransferaz (HGPRT)"
+      "Protein",
+      "Keton",
+      "Glukoz",
+      "Dansite",
+      "Lökosit esteraz"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fatmagül Hoca'nın 'İdrar' slaytı (Sayfa 64). Askorbik asidin (C vitamini) 25 mg/dl'nin üzerinde bulunması, Glukoz varlığında oluşan H2O2 ile reaksiyona girerek renk oluşturan basamağı (peroksidaz reaksiyonunu) engeller ve Glukoz testinin yanlış negatif sonuç vermesine neden olur.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Hormon Etki Mekanizmaları",
+    "topic": "Dr. Sayid Altıkat - Hormon Reseptörleri",
+    "question": "Aşağıdaki hormon - ikincil haberci (sinyal iletim yolu) eşleştirmelerinden hangisi YANLIŞTIR?",
+    "options": [
+      "Kortikotropin salgılatıcı hormon (CRH) / ACTH → cAMP yolu",
+      "Glukagon → cAMP yolu",
+      "İnsülin → Tirozin kinaz yolu",
+      "Vazopressin (V1 reseptörü) → IP3-Ca++ yolu",
+      "Kortizol → cGMP yolu"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Sayid Hoca'nın slaytlarındaki 'Süper özet ders notu' tablosu. Kortizol ve diğer steroid hormonlar, hücre zarı yerine doğrudan hücre içi (nükleer) reseptörlere bağlanarak gen ekspresyonunu etkilerler, cGMP yolunu kullanmazlar.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Hipofiz Hormonları",
+    "topic": "Dr. Sayid Altıkat - Hipofiz Hormonları",
+    "question": "Sentezi hipotalamustaki paraventriküler ve supraoptik çekirdeklerde gerçekleşip arka hipofizden (nörohipofiz) salgılanan, doğumda rahim kasılmasını (miyometriyal kasılma) uyaran ve sosyal bağ/annelik davranışlarında rolü nedeniyle 'aşk hormonu' olarak da bilinen nöropeptid aşağıdakilerden hangisidir?",
+    "options": [
+      "Prolaktin",
+      "Lüteinizan hormon (LH)",
+      "Oksitosin",
+      "Vazopressin (ADH)",
+      "Beta-endorfin"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sayid Hoca'nın 'Hipotalamus ve Hipofiz' slaytında açıkça vurgulanan (Sayfa 13) bilgi. Oksitosin orgazm, anksiyete, eşler arası bağ ve annelik davranışlarını şekillendirdiği için aşk hormonu olarak bilinir.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Hipofiz Hormonları",
+    "topic": "Dr. Sayid Altıkat - Büyüme Hormonu (GH)",
+    "question": "Büyüme hormonu (GH / Somatotropin), kıkırdak yapımını artırma ve uzun kemiklerde büyüme gibi anabolik etkilerinin birçoğunu hangi molekülün sentezini uyararak (dolaylı olarak) gerçekleştirir?",
+    "options": [
+      "Kortizol",
+      "IGF-1 (Somatomedin C)",
+      "Prolaktin",
+      "Tirotropin salgılatıcı hormon (TRH)",
+      "Adiponektin"
     ],
     "correctAnswer": 1,
-    "explanation": "Hipoksantin'i ksantine, ksantini de ürik aside çeviren enzim Ksantin oksidazdır. Gut hastalığının tedavisinde kullanılan allopurinol bu enzimi inhibe eder.",
+    "explanation": "Sayid Hoca'nın slayt notu (Sayfa 50). GH dokuları doğrudan etkilemek yerine, karaciğerden sentezlenen somatomedinler (özellikle İnsülin benzeri büyüme faktörü-1 / IGF-1) aracılığıyla kemik ve kıkırdak büyümesini destekler.",
     "optionExplanations": [
       "",
       "",
@@ -1721,18 +1851,40 @@ window.examsData["tam_kapsamli_final_v28"] = {
   },
   {
     "subject": "Biyokimya",
-    "course": "Vitaminler",
-    "topic": "Dr. Fatmagül Can - Vitaminler",
-    "question": "Kanda pıhtılaşma faktörlerinin (Faktör II, VII, IX, X) karaciğerde sentezlendikten sonra aktif hale gelebilmeleri için glutamat kalıntılarının gama-karboksilasyona uğraması gerekir. Bu karboksilasyon reaksiyonunda koenzim olarak görev yapan vitamin aşağıdakilerden hangisidir?",
+    "course": "Tampon Sistemler",
+    "topic": "Prof. Dr. Fatma Emel Koçak (Dekan)",
+    "question": "Vücudun tamponlama kapasitesinin büyük bir kısmını (%53) oluşturan ve özellikle ekstraselüler sıvıda (ESS) asit-baz dengesizliklerine (pH değişikliklerine) karşı ilk savunma hattını oluşturan en önemli kimyasal tampon sistemi aşağıdakilerden hangisidir?",
     "options": [
-      "Vitamin C",
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin K",
-      "Folik asit"
+      "Hemoglobin tampon sistemi",
+      "Fosfat tampon sistemi",
+      "Bikarbonat - Karbonik asit tampon sistemi",
+      "Amonyum tampon sistemi",
+      "Protein tampon sistemi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dekan Hoca'nın slayt notu (Sayfa 17-19). Bikarbonat tampon sistemi (H2CO3 / HCO3) plazmada en yüksek konsantrasyonda bulunan ve akciğer (CO2) - böbrek (HCO3) ekseniyle kolayca regüle edilebilen en önemli tampon sistemidir.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "subject": "Biyokimya",
+    "course": "Kanser Biyokimyası",
+    "topic": "Dr. Ayşe Koçak Sezgin - Kanser Biyokimyası",
+    "question": "Kanser biyokimyasında 'Genomun Gardiyanı' olarak bilinen p53 tümör baskılayıcı geni ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
+    "options": [
+      "DNA hasarı durumunda hücre siklusunu G1 fazında durdurarak tamire zaman tanır.",
+      "DNA hasarı tamir edilemeyecek kadar ağırsa apoptozu (programlı hücre ölümü) tetikler.",
+      "İnsan kanserlerinin %50'sinden fazlasında p53 geni mutasyonları görülür.",
+      "Hücre siklusunu hızlandırıp hücrelerin kontrolsüz çoğalmasını sağlayan en önemli onkogendir.",
+      "Tipik olarak p53 geni, bir anjiyogenez inhibitörü olan trombospondin'in üretimini artırır."
     ],
     "correctAnswer": 3,
-    "explanation": "K vitamini, pıhtılaşma faktörlerinin (2, 7, 9, 10 ve Protein C, S) gama-karboksilasyonu için zorunlu bir kofaktördür. Warfarin (Coumadin) bu vitamini bloke ederek kanı sulandırır.",
+    "explanation": "Ayşe Hoca'nın slayt notu. p53 kanser hücresi oluşturan bir onkogen DEĞİL, aksine kanserleşmeyi engelleyen en güçlü 'Tümör Baskılayıcı Gen'dir (Tumor suppressor gene). Kanserde bu genin kendisi mutasyona uğrayıp inaktifleşir.",
     "optionExplanations": [
       "",
       "",
@@ -1740,160 +1892,6 @@ window.examsData["tam_kapsamli_final_v28"] = {
       "",
       ""
     ]
-  },
-  {
-    "subject": "Biyokimya",
-    "course": "Enzimoloji",
-    "topic": "Dr. Sayid Altıkat - Enzim Kinetiği",
-    "question": "Michaelis-Menten enzim kinetiğinde Km değeri (Michaelis sabiti), enzim ile substrat arasındaki afiniteyi (ilgiyi) gösteren önemli bir parametredir. Kompetitif (Yarışmalı) inhibisyon durumunda Km ve Vmax (maksimum hız) değerlerindeki değişim aşağıdakilerin hangisinde doğru verilmiştir?",
-    "options": [
-      "Km artar, Vmax değişmez",
-      "Km değişmez, Vmax azalır",
-      "Hem Km hem de Vmax azalır",
-      "Km artar, Vmax artar",
-      "Km azalır, Vmax değişmez"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Kompetitif inhibisyonda inhibitör substrat ile aynı bölgeye (aktif bölgeye) bağlanmak için yarışır. Bu durum enzimin substrata afinitesini azaltmış gibi gösterir (Km ARTAR). Ancak substrat konsantrasyonu çok artırılırsa inhibitör yenilebilir, bu nedenle maksimum hız (Vmax) DEĞİŞMEZ.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "subject": "Biyokimya",
-    "course": "Biyolojik Oksidasyon",
-    "topic": "Dr. Sayid Altıkat - Elektron Transport Zinciri",
-    "question": "Mitokondride Elektron Transport Zinciri (ETZ) aktivitesi sırasında NADH ve FADH2 üzerinden gelen elektronlar Kompleks IV'te oksijene aktarılır ve su oluşur. Siyanür (CN-) zehirlenmesinde elektron akışının durmasının nedeni Kompleks IV'teki hangi enzimin inhibe edilmesidir?",
-    "options": [
-      "NADH dehidrogenaz",
-      "Süksinat dehidrogenaz",
-      "Sitokrom c oksidaz",
-      "ATP sentaz",
-      "Koenzim Q redüktaz"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Siyanür (CN-) ve Karbonmonoksit (CO), ETZ'nin son basamağı olan Kompleks IV'teki Sitokrom c oksidaz enzimindeki demire (ferrik duruma) bağlanarak enzimi bloke eder ve hücresel solunumu durdurur.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "subject": "Biyokimya",
-    "course": "Hem Metabolizması",
-    "topic": "Dr. Sayid Altıkat - Hem Sentezi",
-    "question": "Hem molekülünün sentezi mitokondri ve sitoplazmada ortaklaşa yürütülen bir dizi reaksiyondur. Hem sentezinin mitokondride gerçekleşen ilk ve hız kısıtlayıcı basamağında süksinil-CoA ile glisini birleştirerek delta-aminolevülinik asit (ALA) sentezini sağlayan ALA sentaz enziminin kofaktörü aşağıdakilerden hangisidir?",
-    "options": [
-      "Biyotin (Vitamin B7)",
-      "Tiamin pirofosfat (TPP)",
-      "Piridoksal fosfat (PLP / Vitamin B6)",
-      "Nikotinamid adenin dinükleotid (NAD+)",
-      "Flavin adenin dinükleotid (FAD)"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Aminolevülinik Asit Sentaz (ALA sentaz) enziminin çalışması için zorunlu kofaktör Vitamin B6'nın aktif formu olan Piridoksal Fosfattır (PLP). B6 eksikliğinde hem sentezi bozulur ve sideroblastik anemi gelişir.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "subject": "Biyokimya",
-    "course": "Hücre Biyokimyası",
-    "topic": "Prof. Dr. Fatma Emel Koçak (Dekan) - Hücre Zarı Yapısı",
-    "question": "Hücre zarının (plazma membranı) yapısındaki lipidler ve proteinler, Singer ve Nicholson'ın 'Akıcı Mozaik Zarı' modeliyle açıklanır. Aşağıdakilerden hangisi ökaryotik hücre zarlarında akışkanlığı tamponlayan (aşırı sıcakta sıvılaşmayı önleyen, soğukta donmayı geciktiren) temel moleküldür?",
-    "options": [
-      "Kardiyolipin",
-      "Fosfatidilinositol",
-      "Sfingomyelin",
-      "Kolesterol",
-      "Glikoproteinler"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Kolesterol, memeli hücre zarlarında fosfolipid moleküllerinin arasına girerek zar akışkanlığını (fluidite) düzenleyen 'tampon' moleküldür. Soğukta fosfolipidlerin paketlenmesini (donmasını) engeller, sıcakta ise aşırı hareketliliği (erimeyi) kısıtlar.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "question": "Yabancı bileşiklerin (ksenobiyotik) metabolizmasında görev alan sitokrom P450 enzim sistemi hücrenin hangi bölgesinde bulunur?",
-    "options": [
-      "Düz endoplazmik retikulum zarında",
-      "Lizozomda",
-      "Çekirdek zarında",
-      "Sitoplazmada",
-      "Mitokondri dış zarında"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Dr. Fatih Kar'ın Ksenobiyotik metabolizması konusundan orijinal çıkmış sorusu. Sitokrom P450 (CYP) enzim sistemi hücresel düzeyde temel olarak Düz Endoplazmik Retikulum (DER) membranında lokalizedir.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "subject": "Biyokimya",
-    "course": "Geçmiş Kurul Sorusu",
-    "topic": "Dr. Fatih Kar - Ksenobiyotik Met. (Çıkmış Soru)"
-  },
-  {
-    "question": "Alkaptonüride oksidasyona uğramayan hangisidir?",
-    "options": [
-      "Tirozin",
-      "Homogentisik asid",
-      "Metionin",
-      "Homosistein",
-      "Sistein"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dr. Fatih Kar'ın Aminoasit metabolizma bozuklukları konusundan orijinal çıkmış sorusu. Alkaptonüri, homogentisik asit oksidaz enzimi eksikliğidir; bu nedenle homogentisik asit oksidasyona uğrayamaz, birikir ve idrarı siyaha boyar.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "subject": "Biyokimya",
-    "course": "Geçmiş Kurul Sorusu",
-    "topic": "Dr. Fatih Kar - Aminoasit Bozuklukları (Çıkmış Soru)"
-  },
-  {
-    "question": "Aşağıdaki enzim eksikliklerinden hangisi Maple Syrup Urine Disease (MSUD) neden olur?",
-    "options": [
-      "Fenilalanin hidroksilaz",
-      "Dallı zincirli keto asit dehidrojenaz",
-      "Homogentisik asit oksidaz",
-      "Orotik asit dekarboksilaz",
-      "Glutamat dehidrojenaz"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Dr. Fatih Kar'ın Aminoasit metabolizma bozuklukları konusundan orijinal çıkmış sorusu. MSUD (Akçaağaç Şurubu İdrar Hastalığı), lösin, izolösin ve valin gibi dallı zincirli aminoasitlerin yıkımında görevli 'Dallı zincirli keto asit dehidrojenaz' enzimi defektinde görülür.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "subject": "Biyokimya",
-    "course": "Geçmiş Kurul Sorusu",
-    "topic": "Dr. Fatih Kar - Aminoasit Bozuklukları (Çıkmış Soru)"
   },
   {
     "subject": "Mikrobiyoloji",
@@ -2315,18 +2313,18 @@ window.examsData["tam_kapsamli_final_v28"] = {
   },
   {
     "subject": "Farmakoloji",
-    "course": "Otonom Sinir Sistemi",
-    "topic": "Dr. Ulya - Parasempatomimetikler",
-    "question": "Kas yorgunluğu ve göz kapaklarında düşüklük (pitozis) şikayetiyle başvuran bir hastaya Myasthenia Gravis (nikotinik reseptörlere karşı otoantikor varlığı) teşhisi konuluyor. Hastanın kas gücünü artırmak amacıyla, sinaptik aralıkta asetilkolinin yıkımını engelleyen, kan-beyin bariyerini geçemediği için santral yan etkisi olmayan geri dönüşümlü bir asetilkolinesteraz inhibitörü reçete ediliyor. Bu ilaç aşağıdakilerden hangisidir?",
+    "course": "Eikozanoidler",
+    "topic": "Dr. Ulya Keskin - Eikozanoidler",
+    "question": "Hemodiyaliz sırasında kanın pıhtılaşmasını önlemek ve pulmoner arteriyel hipertansiyonda kan basıncını düşürmek amacıyla kullanılan eikozanoid derivesi aşağıdakilerden hangisidir?",
     "options": [
-      "Fizostigmin",
-      "Donepezil",
-      "Pilokarpin",
-      "Neostigmin",
-      "Malation"
+      "Alprostadil",
+      "Epoprostenol",
+      "Latanoprost",
+      "Dinoproston",
+      "Karboprost"
     ],
-    "correctAnswer": 3,
-    "explanation": "Neostigmin ve Piridostigmin, KBB'yi geçemeyen (kuaterner amin) periferik etkili asetilkolinesteraz inhibitörleridir ve Myasthenia Gravis tedavisinde kullanılırlar. Fizostigmin ise tersiyer amindir ve beyne geçer.",
+    "correctAnswer": 1,
+    "explanation": "Dr. Ulya Hoca'nın Eikozanoidler slaytının 50. sayfasındaki kendi test sorusunun birebir aynısıdır. Pulmoner HT tedavisinde PGI2 analoğu olan Epoprostenol kullanılır.",
     "optionExplanations": [
       "",
       "",
@@ -2337,18 +2335,18 @@ window.examsData["tam_kapsamli_final_v28"] = {
   },
   {
     "subject": "Farmakoloji",
-    "course": "Otonom Sinir Sistemi",
-    "topic": "Dr. Ulya - Parasempatolitikler",
-    "question": "Doğada bulunan ve mantar zehirlenmesi sonrası veya tarım ilacı (organofosfat) maruziyeti sonrası ortaya çıkan şiddetli muskarinik zehirlenme sendromunda (SLUDGE: tükrük salgısında artış, gözyaşı, idrar kaçırma, ishal, bronkore ve şiddetli bradikardi), hayat kurtarıcı bir antidot olarak santral ve periferik etkili muskarinik reseptör antagonisti (antikolinerjik) olan hangi ilaç kullanılır?",
+    "course": "Farmakogenetik",
+    "topic": "Dr. Ulya Keskin - Farmakogenetik",
+    "question": "Yeni tanı konmuş HIV enfeksiyonu nedeniyle atazanavir (proteaz inhibitörü) ve antiretroviral tedavi başlanan, ancak 1 yıl sonra ciltte ve gözlerde belirgin sararma (hiperbilirubinemi) ile başvuran erkek hastada, bu ciddi advers etkinin ortaya çıkmasına zemin hazırlayan faz II enzim polimorfizmi aşağıdakilerden hangisi olabilir?",
     "options": [
-      "Pralidoksim (PAM)",
-      "Atropin",
-      "Skopolamin",
-      "İpratropium",
-      "Heksametonyum"
+      "CYP2D6*4",
+      "CYP2C19*2",
+      "UGT1A1*28",
+      "TPMT*3A",
+      "DPD*2A"
     ],
-    "correctAnswer": 1,
-    "explanation": "Organofosfat (tarım ilacı) ve muskarinik mantar zehirlenmelerinde ortaya çıkan parasempatik aşırı aktivite krizinde (aşırı salgı ve bradikardi) hayat kurtarıcı olan, tüm muskarinik reseptörleri rekabetçi olarak bloke eden ilaç Atropin'dir. (Pralidoksim ise enzimi reaktive eder, ancak santrale geçmez ve tek başına akut krizi çözmez).",
+    "correctAnswer": 2,
+    "explanation": "Dr. Ulya Hoca'nın Farmakogenetik slaytının 2. ve 48. sayfalarındaki vaka sorusunun uyarlamasıdır. Atazanavir ve İrinotekan gibi ilaçlar UGT1A1*28 polimorfizmi olan (Gilbert Sendromu yatkınlığı) yavaş metabolizör (PM) kişilerde hiperbilirubinemi ve toksisite yapar.",
     "optionExplanations": [
       "",
       "",
