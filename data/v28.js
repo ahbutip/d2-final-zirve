@@ -1568,7 +1568,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Kan Proteinleri",
-    "topic": "Dr. Mustafa - Kan Proteinleri",
+    "topic": "Dr. Mustafa Bozkurt - Kan Proteinleri",
     "question": "Plazma proteinlerinden biri olan Haptoglobin'in fizyolojik ve patolojik durumları ile ilgili olarak, aşağıdaki ifadelerden hangisi veya hangileri doğrudur?\nI. Kanda serbest dolaşan hemoglobini bağlayarak böbreklerden kaybını önler.\nII. Hemolitik anemilerde (kırmızı kan hücresi yıkımının arttığı durumlarda) serum seviyesi düşer.\nIII. Akut faz reaktanıdır, inflamasyonda sentezi artar.",
     "options": [
       "Yalnız I",
@@ -1590,7 +1590,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Karbonhidrat Metabolizması",
-    "topic": "Dr. Mustafa - Karbonhidrat Metabolizma Bozuklukları",
+    "topic": "Dr. Mustafa Bozkurt - Karbonhidrat Metabolizma Bozuklukları",
     "question": "Karaciğerde glikojenin glukoza yıkılamaması sonucu ciddi açlık hipoglisemisi, hepatomegali ve laktik asidoz tablosuyla seyreden Von Gierke (Tip 1 Glikojen Depo) hastalığında, aşağıdaki enzimlerden hangisinin defekti söz konusudur?",
     "options": [
       "Lizozomal alfa-1,4-glukozidaz",
@@ -1612,7 +1612,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Endokrin Biyokimyası",
-    "topic": "Dr. Mustafa - Adrenal Hormonlar",
+    "topic": "Dr. Mustafa Bozkurt - Adrenal Hormonlar",
     "question": "Adrenal korteksten salgılanan glukokortikoidlerin (Kortizol) metabolizma üzerindeki etkileri ile ilgili olarak, aşağıdaki ifadelerden hangisi veya hangileri doğrudur?\nI. Karaciğerde glukoneogenezi (yeni glukoz sentezini) uyarır.\nII. Periferik dokularda (kas ve yağ) insülinin etkisini antagonize eder (kan şekerini yükseltir).\nIII. İskelet kaslarında protein sentezini uyararak anabolik etki gösterir.",
     "options": [
       "Yalnız I",
@@ -1634,7 +1634,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Endokrin Biyokimyası",
-    "topic": "Dr. Mustafa - Gonadal Hormonlar",
+    "topic": "Dr. Mustafa Bozkurt - Gonadal Hormonlar",
     "question": "Kolesterolden steroid hormon sentezi sırasında görev alan aromataz enzimi, androjenleri (erkeklik hormonlarını) östrojenlere dönüştüren kritik bir enzimdir. Aromataz enziminin katalizlediği bu reaksiyon, aşağıdaki dönüşümlerden hangisidir?",
     "options": [
       "Kolesterol -> Pregnenolon",
@@ -1656,7 +1656,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Mineraller",
-    "topic": "Dr. Mustafa - Mineraller ve Toksik Elementler",
+    "topic": "Dr. Mustafa Bozkurt - Mineraller ve Toksik Elementler",
     "question": "Vücutta demir metabolizması ve demirin hücre içinde depolanması büyük önem taşır. Hücre içinde (özellikle karaciğer, dalak ve kemik iliğinde) demirin toksik etkilerinden korunarak güvenli bir şekilde depolanmasını sağlayan ana protein aşağıdakilerden hangisidir?",
     "options": [
       "Transferrin",
@@ -1678,7 +1678,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Lipid Metabolizması",
-    "topic": "Dr. Fatma - Lipid Metabolizması",
+    "topic": "Dr. Fatmagül Can - Lipid Metabolizması",
     "question": "Yağ asitlerinin beta-oksidasyonla yıkılabilmesi için sitoplazmadan mitokondri matriksine taşınmaları gerekir. Uzun zincirli yağ asitlerinin (açil-CoA) mitokondri iç zarından matriks tarafına geçebilmesi için bağlandıkları taşıyıcı molekül aşağıdakilerden hangisidir?",
     "options": [
       "Karnitin",
@@ -1700,7 +1700,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Nükleotid Metabolizması",
-    "topic": "Dr. Fatma - Nükleotid Metabolizması",
+    "topic": "Dr. Fatmagül Can - Nükleotid Metabolizması",
     "question": "Pürin nükleotidlerinin (Adenin ve Guanin) yıkımı sonucunda insanlarda ortaya çıkan son ürün, idrarla atılan ürik asittir. Pürin yıkım yolunun son basamağında ksantini ürik aside dönüştüren enzim aşağıdakilerden hangisidir?",
     "options": [
       "Ribonükleotid redüktaz",
@@ -1722,7 +1722,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Vitaminler",
-    "topic": "Dr. Fatma - Vitaminler",
+    "topic": "Dr. Fatmagül Can - Vitaminler",
     "question": "Kanda pıhtılaşma faktörlerinin (Faktör II, VII, IX, X) karaciğerde sentezlendikten sonra aktif hale gelebilmeleri için glutamat kalıntılarının gama-karboksilasyona uğraması gerekir. Bu karboksilasyon reaksiyonunda koenzim olarak görev yapan vitamin aşağıdakilerden hangisidir?",
     "options": [
       "Vitamin C",
@@ -1744,7 +1744,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Enzimoloji",
-    "topic": "Dr. Said - Enzim Kinetiği",
+    "topic": "Dr. Sayid Altıkat - Enzim Kinetiği",
     "question": "Michaelis-Menten enzim kinetiğinde Km değeri (Michaelis sabiti), enzim ile substrat arasındaki afiniteyi (ilgiyi) gösteren önemli bir parametredir. Kompetitif (Yarışmalı) inhibisyon durumunda Km ve Vmax (maksimum hız) değerlerindeki değişim aşağıdakilerin hangisinde doğru verilmiştir?",
     "options": [
       "Km artar, Vmax değişmez",
@@ -1766,7 +1766,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Biyolojik Oksidasyon",
-    "topic": "Dr. Said - Elektron Transport Zinciri",
+    "topic": "Dr. Sayid Altıkat - Elektron Transport Zinciri",
     "question": "Mitokondride Elektron Transport Zinciri (ETZ) aktivitesi sırasında NADH ve FADH2 üzerinden gelen elektronlar Kompleks IV'te oksijene aktarılır ve su oluşur. Siyanür (CN-) zehirlenmesinde elektron akışının durmasının nedeni Kompleks IV'teki hangi enzimin inhibe edilmesidir?",
     "options": [
       "NADH dehidrogenaz",
@@ -1788,7 +1788,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Hem Metabolizması",
-    "topic": "Dr. Said - Hem Sentezi",
+    "topic": "Dr. Sayid Altıkat - Hem Sentezi",
     "question": "Hem molekülünün sentezi mitokondri ve sitoplazmada ortaklaşa yürütülen bir dizi reaksiyondur. Hem sentezinin mitokondride gerçekleşen ilk ve hız kısıtlayıcı basamağında süksinil-CoA ile glisini birleştirerek delta-aminolevülinik asit (ALA) sentezini sağlayan ALA sentaz enziminin kofaktörü aşağıdakilerden hangisidir?",
     "options": [
       "Biyotin (Vitamin B7)",
@@ -1810,7 +1810,7 @@ window.examsData["tam_kapsamli_final_v28"] = {
   {
     "subject": "Biyokimya",
     "course": "Hücre Biyokimyası",
-    "topic": "Prof. Dr. Dekan - Hücre Zarı Yapısı",
+    "topic": "Prof. Dr. Fatma Emel Koçak (Dekan) - Hücre Zarı Yapısı",
     "question": "Hücre zarının (plazma membranı) yapısındaki lipidler ve proteinler, Singer ve Nicholson'ın 'Akıcı Mozaik Zarı' modeliyle açıklanır. Aşağıdakilerden hangisi ökaryotik hücre zarlarında akışkanlığı tamponlayan (aşırı sıcakta sıvılaşmayı önleyen, soğukta donmayı geciktiren) temel moleküldür?",
     "options": [
       "Kardiyolipin",
@@ -1830,16 +1830,38 @@ window.examsData["tam_kapsamli_final_v28"] = {
     ]
   },
   {
-    "question": "Hunter sendromunda (MPS tip II) hangi enzim eksiktir?",
+    "question": "Yabancı bileşiklerin (ksenobiyotik) metabolizmasında görev alan sitokrom P450 enzim sistemi hücrenin hangi bölgesinde bulunur?",
     "options": [
-      "Alfa-L idüronidaz",
-      "İdüronat sülfataz",
-      "Alfa-mannozidaz",
-      "Beta-galaktozidaz",
-      "Aldolaz C"
+      "Düz endoplazmik retikulum zarında",
+      "Lizozomda",
+      "Çekirdek zarında",
+      "Sitoplazmada",
+      "Mitokondri dış zarında"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dr. Fatih Kar'ın Ksenobiyotik metabolizması konusundan orijinal çıkmış sorusu. Sitokrom P450 (CYP) enzim sistemi hücresel düzeyde temel olarak Düz Endoplazmik Retikulum (DER) membranında lokalizedir.",
+    "optionExplanations": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "subject": "Biyokimya",
+    "course": "Geçmiş Kurul Sorusu",
+    "topic": "Dr. Fatih Kar - Ksenobiyotik Met. (Çıkmış Soru)"
+  },
+  {
+    "question": "Alkaptonüride oksidasyona uğramayan hangisidir?",
+    "options": [
+      "Tirozin",
+      "Homogentisik asid",
+      "Metionin",
+      "Homosistein",
+      "Sistein"
     ],
     "correctAnswer": 1,
-    "explanation": "Geçmiş yıllar çıkmış kurul/final sorusu.",
+    "explanation": "Dr. Fatih Kar'ın Aminoasit metabolizma bozuklukları konusundan orijinal çıkmış sorusu. Alkaptonüri, homogentisik asit oksidaz enzimi eksikliğidir; bu nedenle homogentisik asit oksidasyona uğrayamaz, birikir ve idrarı siyaha boyar.",
     "optionExplanations": [
       "",
       "",
@@ -1848,20 +1870,20 @@ window.examsData["tam_kapsamli_final_v28"] = {
       ""
     ],
     "subject": "Biyokimya",
-    "course": "Çıkmış Soru",
-    "topic": "Gerçek Çıkmış Soru Havuzu"
+    "course": "Geçmiş Kurul Sorusu",
+    "topic": "Dr. Fatih Kar - Aminoasit Bozuklukları (Çıkmış Soru)"
   },
   {
-    "question": "Plazma proteinleri ile ilgili aşağıdaki ifadelerden hangisi veya hangileri doğrudur? \r\nI.  Seruloplazmin ferri redüktaz aktivitesi ile +3 değerlikli demirin +2 değerlikli demire dönüşümünü \r\nsağlar. \r\nII.  AFP birinci trimester ikili tarama testinde kullanılır. \r\nIII.  Alfa-1 antikimotripsin en geç yükselen akut faz reaktanlarından biri olarak kabul edilir. \r\nIV.  Glike albumin oluşumunda glukoz genellikle lizin Ɛ-amino grubu aracılığı ile bağlanır.",
+    "question": "Aşağıdaki enzim eksikliklerinden hangisi Maple Syrup Urine Disease (MSUD) neden olur?",
     "options": [
-      "I ve IV",
-      "II ve IV",
-      "II ve III",
-      "III ve IV",
-      "Yalnız IV \r\n\r\nkurul 5"
+      "Fenilalanin hidroksilaz",
+      "Dallı zincirli keto asit dehidrojenaz",
+      "Homogentisik asit oksidaz",
+      "Orotik asit dekarboksilaz",
+      "Glutamat dehidrojenaz"
     ],
-    "correctAnswer": 4,
-    "explanation": "Glike albumin oluşumunda glukoz genellikle lizin Ɛ-amino grubu aracılığı ile bağlanır (IV doğru). Seruloplazmin ferroksidazdır (I yanlış). AFP 2. trimesterde kullanılır (II yanlış).",
+    "correctAnswer": 1,
+    "explanation": "Dr. Fatih Kar'ın Aminoasit metabolizma bozuklukları konusundan orijinal çıkmış sorusu. MSUD (Akçaağaç Şurubu İdrar Hastalığı), lösin, izolösin ve valin gibi dallı zincirli aminoasitlerin yıkımında görevli 'Dallı zincirli keto asit dehidrojenaz' enzimi defektinde görülür.",
     "optionExplanations": [
       "",
       "",
@@ -1870,30 +1892,8 @@ window.examsData["tam_kapsamli_final_v28"] = {
       ""
     ],
     "subject": "Biyokimya",
-    "course": "Çıkmış Soru",
-    "topic": "Gerçek Çıkmış Soru Havuzu"
-  },
-  {
-    "question": "Böbreğin idrarı konsantre ya da dilüe etme yeteneğini gösteren parametre hangisidir?",
-    "options": [
-      "pH",
-      "Lökosit",
-      "Eritrosit",
-      "Spesifik Gravite",
-      "Keton"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Geçmiş yıllar çıkmış kurul/final sorusu.",
-    "optionExplanations": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "subject": "Biyokimya",
-    "course": "Çıkmış Soru",
-    "topic": "Gerçek Çıkmış Soru Havuzu"
+    "course": "Geçmiş Kurul Sorusu",
+    "topic": "Dr. Fatih Kar - Aminoasit Bozuklukları (Çıkmış Soru)"
   },
   {
     "subject": "Mikrobiyoloji",
