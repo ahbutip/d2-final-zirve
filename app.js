@@ -14,6 +14,7 @@ const elements = {
     
     currentQuestionIndicator: document.getElementById('current-question-indicator'),
     currentSubjectBadge: document.getElementById('current-subject-badge'),
+    currentTopicBadge: document.getElementById('current-topic-badge'),
     progressBar: document.getElementById('progress-bar'),
     progressText: document.getElementById('progress-text'),
     progressPercentage: document.getElementById('progress-percentage'),
@@ -414,6 +415,12 @@ function loadQuestion(index) {
     // Update UI headers
     elements.currentQuestionIndicator.textContent = `Soru ${index + 1} / ${activeExamData.questions.length}`;
     elements.currentSubjectBadge.textContent = q.subject || q.course || "Genel";
+    if (q.topic) {
+        elements.currentTopicBadge.textContent = "👤 Hoca Analizi: " + q.topic;
+        elements.currentTopicBadge.style.display = 'inline-block';
+    } else {
+        elements.currentTopicBadge.style.display = 'none';
+    }
     
     const percentage = Math.round(((index + 1) / activeExamData.questions.length) * 100);
     elements.progressBar.style.width = `${percentage}%`;
