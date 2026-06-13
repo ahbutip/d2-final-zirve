@@ -2316,72 +2316,6 @@ window.examsData["v31"] = {
         ]
     },
     {
-        "subject": "Anatomi",
-        "course": "Çıkmış Soru",
-        "topic": "Geçmiş Sınavlar",
-        "question": "62 yaşındaki erkek hasta, ani başlayan konuşma bozukluğu nedeniyle acil servise getiriliyor. Hasta akıcı şekilde ve uzun cümlelerle konuşmakta, ancak konuşmaları anlamsız ve uygunsuz kelimelerle dolu. Sorulan soruları anlamıyor ve komutlara uygun hareket edemiyor. şapılan nörolojik muayenede motor ve duyu sistemi normal, kas gücü tam. Bu hastada en olası olarak hangi tablo gelişmiştir?",
-        "options": [
-            "Broca afazisi",
-            "Wernicke afazisi",
-            "Global afazi",
-            "Disartri",
-            "İletim tipi afazi"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
-        "optionExplanations": [
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış"
-        ]
-    },
-    {
-        "subject": "Anatomi",
-        "course": "Çıkmış Soru",
-        "topic": "Geçmiş Sınavlar",
-        "question": "38 yaşındaki erkek hasta, geçirdiği trafik kazasından birkaç hafta sonra işe dönemediği için psikiyatriye başvuruyor. Eşi, hastanın çok dağınık olduğunu, basit görevleri bile planlayamadığını, kolayca dikkatinin dağıldığını ve küçük stres durumlarında bile öfke patlamaları yaşadığını söylüyor. Nörolojik muayenesinde motor ve duyu fonksiyonları normal. Beyin manyetik rezonans görüntülemesinde (MR) bilateral prefrontal kortekste yumuşak doku hasarı izleniyor. Bu hastada en olası olarak hangi Brodmann alanı etkilenmiştir?",
-        "options": [
-            "BA 4",
-            "BA 6",
-            "BA 44",
-            "BA 9",
-            "BA 22"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
-        "optionExplanations": [
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış"
-        ]
-    },
-    {
-        "subject": "Anatomi",
-        "course": "Çıkmış Soru",
-        "topic": "Geçmiş Sınavlar",
-        "question": "35 yaşındaki erkek hasta, geçirdiği trafik kazası sonrası yapılan beyin manyetik rezonans görüntülemesinde (MR) her iki temporal lobun ön kısımlarını birbirine bağlayan lif demetinde lezyon saptanıyor. Hastanın nörolojik muayenesinde genel motor ve duyu fonksiyonları normal bulunuyor. Ancak hasta, sevdiği bazı yiyeceklerin kokusunu alamadığını ifade ediyor. Bu hastada aşağıdaki yapılardan hangisinin içerdiği liflerin etkilenmesi en olasıdır?",
-        "options": [
-            "Corpus callosum",
-            "Fornix",
-            "Commissura anterior",
-            "Capsula interna",
-            "Cingulum"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
-        "optionExplanations": [
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış"
-        ]
-    },
-    {
         "subject": "Fizyoloji",
         "course": "Çıkmış Soru",
         "topic": "Geçmiş Sınavlar",
@@ -2448,82 +2382,16 @@ window.examsData["v31"] = {
         ]
     },
     {
-        "subject": "Mikrobiyoloji",
+        "subject": "Fizyoloji",
         "course": "Çıkmış Soru",
         "topic": "Geçmiş Sınavlar",
-        "question": "Triple Sugar Iron (TSI) besiyerinde tüpün alt kısmının sarı, üst yatık kısmının kırmızı olmasını hangisi en iyi ifade eder?",
+        "question": "Membran potansiyeli ile ilgili doğru ifadeyi işaretleyiniz.",
         "options": [
-            "Bakteri glukoz-laktoz-sükroz şekerlerinin tamamını kullanmıştır.",
-            "Bakteri glukoz-laktoz-sükroz şekerlerinin hiçbirini kullanamamıştır.",
-            "Bakteri laktozu kullanamamıştır.",
-            "Bakteri nonfermentatiftir.",
-            "Bakteri H2S üretmiştir."
-        ],
-        "correctAnswer": 0,
-        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
-        "optionExplanations": [
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış"
-        ]
-    },
-    {
-        "subject": "Mikrobiyoloji",
-        "course": "Çıkmış Soru",
-        "topic": "Geçmiş Sınavlar",
-        "question": "Burunda Staphylococcus aureus taramasında hangi besiyeri kullanılır?",
-        "options": [
-            "Eozin Metilen Blue Agar",
-            "At Kanlı Agar",
-            "Mannitol Salt Agar",
-            "Mueller Hinton Agar",
-            "Hektoen Enterik Agar"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
-        "optionExplanations": [
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış"
-        ]
-    },
-    {
-        "subject": "Histoloji ve Embriyoloji",
-        "course": "Çıkmış Soru",
-        "topic": "Geçmiş Sınavlar",
-        "question": "Medulla spinalis’te beyaz cevher hangi yapılardan oluşur?",
-        "options": [
-            "Nöron gövdeleri",
-            "Miyelinli aksonlar ve glia hücreleri",
-            "Dendritler ve sinapslar",
-            "Sadece motor nöronlar",
-            "Periferik sinirler"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
-        "optionExplanations": [
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış",
-            "Yanlış"
-        ]
-    },
-    {
-        "subject": "Histoloji ve Embriyoloji",
-        "course": "Çıkmış Soru",
-        "topic": "Geçmiş Sınavlar",
-        "question": "Pia mater ile Arachnoid mater arasındaki boşluğun adı nedir?",
-        "options": [
-            "Epidural boşluk",
-            "Subdural boşluk",
-            "Subaraknoid boşluk",
-            "İntraventriküler boşluk",
-            "Subpial boşluk"
+            "Sodyum/Potasyum ATPaz pompası membran potansiyelini 4 mV kadar pozitifleştirir.",
+            "Dinlenim membran potansiyeli oluşumunda en önemli rol sodyum ve potasyumundur.",
+            "Uyarılabilir hücrelerin aksiyon potansiyelleri arasındaki dönemlerde membranlarındaki potansiyel eşik değer olarak adlandırılır.",
+            "Sadece uyarılabilir hücrelerin bir membran potansiyeli vardır.",
+            "Hücre içinde negatif yük artışıyla membran potansiyeli eşik değeri aşar ve hücre uyarılır."
         ],
         "correctAnswer": 0,
         "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
@@ -2602,46 +2470,178 @@ window.examsData["v31"] = {
         ]
     },
     {
-        "subject": "Farmakoloji",
+        "subject": "Biyofizik",
         "course": "Çıkmış Soru",
         "topic": "Geçmiş Sınavlar",
-        "question": "Aşağıdaki seçeneklerden hangisi biyoyararlanımı etkileyen parametrelerden biri değildir?",
+        "question": "Kimyasal sinapslarda nörotransmitter maddelerin sinaptik aralığa salınması hangi hücresel olayla gerçekleşir?",
         "options": [
-            "İlacın lipofilitesi",
-            "Molekül büyüklüğü",
-            "EAA (eğri altında kalan alan)",
-            "İlacın presitemik eliminasyonu",
-            "İlacın reseptör affinitesi"
+            "Endositoz",
+            "Difüzyon",
+            "Egzositoz",
+            "Fagositoz",
+            "Osmoz"
         ],
-        "correctAnswer": 4,
+        "correctAnswer": 0,
         "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
         "optionExplanations": [
             "Yanlış",
             "Yanlış",
             "Yanlış",
             "Yanlış",
-            "DOĞRU"
+            "Yanlış"
         ]
     },
     {
-        "subject": "Farmakoloji",
+        "subject": "Patoloji",
         "course": "Çıkmış Soru",
         "topic": "Geçmiş Sınavlar",
-        "question": "İlaçların absorbsiyonu için hangisi yanlıştır?",
+        "question": "Hücre zedelenmesi hangi aşamada irreversbldır?",
         "options": [
-            "İlaçlar zayıf asid ya da zayıf baz yapıda moleküllerdir.",
-            "İlaçların vücut sıvılarında çözünebilmesi için hidrofilik (polar) yapıda olmaları gerekir.",
-            "İlaçların membranlardan geçebilmesi için lipofilik (apolar) yapıda olmaları gerekir.",
-            "Asit ilaçların çözünerek absorbe edilebilmeleri için bazik ortamda bulunmaları gerekir.",
-            "Bazik ilaçlar daha çok ince barsaktan emilirler."
+            "Hücresel şişme",
+            "Membran hasarı",
+            "Endoplazmik retikulum şişmesi",
+            "Nükleer kromatin kümeleşmesi",
+            "Ribozomların dağılması"
         ],
-        "correctAnswer": 3,
+        "correctAnswer": 1,
+        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
+        "optionExplanations": [
+            "Yanlış",
+            "DOĞRU",
+            "Yanlış",
+            "Yanlış",
+            "Yanlış"
+        ]
+    },
+    {
+        "subject": "Patoloji",
+        "course": "Çıkmış Soru",
+        "topic": "Geçmiş Sınavlar",
+        "question": "Sporcularda egzersize bağlı olarak iskelet kaslarının büyümesi hangi tip adaptasyon mekanizmasına örnektir?",
+        "options": [
+            "Hiperplazi",
+            "Hipertrofi",
+            "Metaplazi",
+            "Atrofi",
+            "Hipoplazi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
+        "optionExplanations": [
+            "Yanlış",
+            "DOĞRU",
+            "Yanlış",
+            "Yanlış",
+            "Yanlış"
+        ]
+    },
+    {
+        "subject": "Tıp Tarihi",
+        "course": "Çıkmış Soru",
+        "topic": "Geçmiş Sınavlar",
+        "question": "Etik açıdan özne–özne ilişkisi aşağıdakilerden hangisini zorunlu kılar?",
+        "options": [
+            "İnsanın toplumsal yarar üretme kapasitesine göre değer görmesini",
+            "Eylemlerin sonuçlarının merkeze alınmasını",
+            "Toplumsal normlara koşulsuz uyumu",
+            "Karşıdaki kişinin hak, onur ve özerkliğinin tanınmasını",
+            "İnsan ilişkilerinin araçsal fayda temelinde kurulmasını"
+        ],
+        "correctAnswer": 0,
         "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
         "optionExplanations": [
             "Yanlış",
             "Yanlış",
             "Yanlış",
+            "Yanlış",
+            "Yanlış"
+        ]
+    },
+    {
+        "subject": "Tıp Tarihi",
+        "course": "Çıkmış Soru",
+        "topic": "Geçmiş Sınavlar",
+        "question": "Aşağıda ahlak ve etik kavramlarına ilişkin bazı özellikler verilmiştir. I. Toplumun kültüründen, gelenek ve değerlerden kaynaklanır. II. Felsefi düşünceye, akıl yürütmeye ve sistemli sorgulamaya dayanır. III. Toplumdan topluma değişkenlik gösterir. IV. Daha evrensel ve genel ilkeler içerir. V. Günlük yaşam davranışlarını düzenler. VI. Mesleki ve kurumsal ikilemlerin çözümüne yöneliktir. Bu özelliklerin ahlak ve etik kavramlarında doğru biçimde eşleştirildiği seçenek hangisidir?",
+        "options": [
+            "Ahlak: I, II, III Etik: IV, V, VI",
+            "Ahlak: I, III, V Etik: II, IV, VI",
+            "Ahlak: I, V, VI Etik: II, III, IV",
+            "Ahlak: III, IV, V Etik: I, II, VI",
+            "Ahlak: II, III, IV Etik: I, V, VI"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
+        "optionExplanations": [
+            "Yanlış",
+            "Yanlış",
+            "Yanlış",
+            "Yanlış",
+            "Yanlış"
+        ]
+    },
+    {
+        "subject": "İletişim",
+        "course": "Çıkmış Soru",
+        "topic": "Geçmiş Sınavlar",
+        "question": "Etkin dinleme özellikle hangi durumda kullanılmalıdır?",
+        "options": [
+            "Hasta sessiz olduğunda",
+            "Karşı taraf yoğun duygu yaşadığında",
+            "Zaman kısıtı olmadığında",
+            "şalnızca resmi görüşmelerde",
+            "Sadece hasta yakınlarında"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
+        "optionExplanations": [
+            "Yanlış",
             "DOĞRU",
+            "Yanlış",
+            "Yanlış",
+            "Yanlış"
+        ]
+    },
+    {
+        "subject": "İletişim",
+        "course": "Çıkmış Soru",
+        "topic": "Geçmiş Sınavlar",
+        "question": "“Vites değiştirme” yaklaşımında doğru sıra aşağıdakilerden hangisidir?",
+        "options": [
+            "İfade et → Dinle → Tartış",
+            "Dinle → İfade et → Tekrar dinle",
+            "Eleştir → Savun → Dinle",
+            "Sus → Çözüm üret → Ayrıl",
+            "Dinle → Emir ver → Açıkla"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
+        "optionExplanations": [
+            "Yanlış",
+            "DOĞRU",
+            "Yanlış",
+            "Yanlış",
+            "Yanlış"
+        ]
+    },
+    {
+        "subject": "BAK",
+        "course": "Çıkmış Soru",
+        "topic": "Geçmiş Sınavlar",
+        "question": "Bilimsel bir makaleyi üç geçişli yaklaşımla nasıl okuyabilirsiniz?",
+        "options": [
+            "Özet, sonuç, kaynak bölümlerini okuyarak",
+            "Genel bir bakış sağlayıp, detaylı olarak anlamaya çalışıp, eleştirel değerlendirirerek",
+            "Makalenin yalnızca görsellerini inceleyerek",
+            "şazarın öznel yorumlarına odaklanarak",
+            "Makalenin başlangıç, orta ve sonunu sırayla okuyarak"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu soru geçmiş komite sınavlarından alınmıştır.",
+        "optionExplanations": [
+            "Yanlış",
+            "Yanlış",
+            "Yanlış",
+            "Yanlış",
             "Yanlış"
         ]
     }
