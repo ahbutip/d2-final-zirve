@@ -1316,558 +1316,6 @@ window.examsData["v30"] = {
             "id": 57
         },
         {
-            "subject": "Histoloji",
-            "course": "Epitel Dokusu",
-            "topic": "Dr. Ayşe Hoca",
-            "question": "İdrar yollarının büyük kısmını döşeyen, organ boşken çok katlı kübik gibi görünen, organ dolduğunda ve gerildiğinde ise yassılaşarak tek veya iki katlı gibi görünen spesifik epitel tipi (Ürotelyum) aşağıdakilerden hangisidir?",
-            "options": [
-                "Çok katlı yassı keratinize epitel",
-                "Çok katlı yassı non-keratinize epitel",
-                "Çok katlı prizmatik epitel",
-                "Yalancı çok katlı silli epitel",
-                "Değişici (Transizyonel) epitel"
-            ],
-            "correctAnswer": 4,
-            "explanation": "Ürotelyum veya transizyonel (değişici) epitel, gerilmeye ve idrarın toksik etkilerine dayanıklı, sadece böbrek kalikslerinden üretra başlangıcına kadar olan idrar yollarını döşeyen epiteldir. En üst tabakasında şemsiye (dome) hücreleri bulunur.",
-            "optionExplanations": [
-                "Yanlış. Deriyi döşer.",
-                "Yanlış. Özofagus, vajina ve ağız içini döşer.",
-                "Yanlış. Tükürük bezi kanallarında bulunur.",
-                "Yanlış. Solunum yollarını döşer.",
-                "DOĞRU. İdrar yollarını döşeyen değişici (transizyonel) epiteldir."
-            ],
-            "id": 58
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Bağ Dokusu",
-            "topic": "Dr. Ayşe Hoca",
-            "question": "Bağ dokusunda alerjik ve anafilaktik reaksiyonların temel hücresi olan Mast hücrelerinin sitoplazmasındaki metakromatik granüllerin içinde asıl olarak hangi iki kimyasal madde bulunur?",
-            "options": [
-                "Kollajen ve Elastin",
-                "Histamin ve Heparin",
-                "Serotonin ve Dopamin",
-                "İmmünglobulin A ve M",
-                "Miyozin ve Aktin"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Mast hücresi granülleri çok yoğundur ve temel olarak güçlü bir damar genişletici (vazodilatatör) olan Histamin ile kanın pıhtılaşmasını önleyen (antikoagülan) Heparin içerirler.",
-            "optionExplanations": [
-                "Yanlış. Fibroblastlar tarafından üretilen bağ dokusu lifleridir.",
-                "DOĞRU. Mast hücresinin temel farmakolojik ajanlarıdır.",
-                "Yanlış. Sinir hücrelerinden salınan nörotransmitterlerdir.",
-                "Yanlış. Plazma hücrelerinden salınan antikorlardır.",
-                "Yanlış. Kas hücrelerinin kasılma proteinleridir."
-            ],
-            "id": 59
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Sinir Dokusu",
-            "topic": "Dr. Ayşe Hoca",
-            "question": "Santral sinir sisteminde kapiller damarların çevresini \"perivasküler ayakları\" ile sararak, kandan beyne zararlı maddelerin geçişini engelleyen \"Kan-Beyin Bariyerinin\" oluşumuna katkı sağlayan glial hücre aşağıdakilerden hangisidir?",
-            "options": [
-                "Oligodendrosit",
-                "Mikroglia",
-                "Astrosit",
-                "Ependim hücresi",
-                "Schwann hücresi"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Astrositler, santral sinir sisteminin en kalabalık destek hücreleridir. Ayaksı çıkıntılarıyla (pedikül) kan damarlarını sıkıca sararak kan-beyin bariyerini destekler ve nöronların beslenmesine aracılık ederler.",
-            "optionExplanations": [
-                "Yanlış. SSS'de miyelin kılıfı yapar.",
-                "Yanlış. SSS'nin makrofajıdır, fagositoz yapar.",
-                "DOĞRU. Kan-beyin bariyerine katılan hücredir.",
-                "Yanlış. BOS salgılar ve boşlukları döşer.",
-                "Yanlış. Periferik sinir sisteminde miyelin kılıfı yapar."
-            ],
-            "id": 60
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Sindirim Histolojisi",
-            "topic": "Dr. Ayşe Hoca",
-            "question": "Mide mukozasındaki fundus bezlerinde bulunan ve hem hidroklorik asit (HCl) salgılayarak midenin asidik ortamını oluşturan hem de B12 vitamini emilimi için İntrensek Faktör (Intrinsic factor) sentezleyen hücre aşağıdakilerden hangisidir?",
-            "options": [
-                "Şef (Esas) hücre",
-                "Paryetal (Oksintik) hücre",
-                "Mukus boyun hücresi",
-                "Enteroendokrin (G) hücre",
-                "Paneth hücresi"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Paryetal hücreler midenin asidini ve B12 vitamini emilimi için elzem olan İntrensek Faktörü salgılar. Yıkımlarında hem aklorhidri (asitsizlik) hem de Pernisiyöz anemi gelişir. Sitoplazmaları çok bol mitokondri içerdiğinden eozinofilik boyanır.",
-            "optionExplanations": [
-                "Yanlış. Pepsinojen salgılayan enzim hücresidir.",
-                "DOĞRU. HCl ve İntrensek Faktör salgılar.",
-                "Yanlış. Mukus salgılar.",
-                "Yanlış. Gastrin hormonu salgılar.",
-                "Yanlış. İnce bağırsakta lizozim salgılayan hücrelerdir."
-            ],
-            "id": 61
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Solunum Histolojisi",
-            "topic": "Dr. Ayşe Hoca",
-            "question": "Trakea ve büyük bronşların lümenini döşeyen tipik solunum yolları epiteli (respiratuar epitel) mikroskobik olarak aşağıdakilerden hangisi şeklinde sınıflandırılır?",
-            "options": [
-                "Tek katlı yassı epitel",
-                "Çok katlı yassı keratinize epitel",
-                "Çok katlı prizmatik epitel",
-                "Yalancı çok katlı silli prizmatik epitel",
-                "Değişici (Transizyonel) epitel"
-            ],
-            "correctAnswer": 3,
-            "explanation": "Solunum yollarının çoğunu döşeyen klasik solunum epiteli \"Yalancı çok katlı, silli (titrek tüylü), prizmatik epitel\"dir. Tüm hücreler bazal membrana basar ancak çekirdekler farklı seviyelerde olduğu için çok katlı yanılsaması yaratır. Aralarında mukus salgılayan goblet hücreleri bulunur.",
-            "optionExplanations": [
-                "Yanlış. Alveolleri döşer.",
-                "Yanlış. Deriyi döşer.",
-                "Yanlış. Göz konjonktivası gibi nadir yerlerde bulunur.",
-                "DOĞRU. Tipik respiratuar (solunum) epiteldir.",
-                "Yanlış. Mesaneyi döşer."
-            ],
-            "id": 62
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Endokrin Histolojisi",
-            "topic": "Dr. Neziha Hoca",
-            "question": "Tiroid bezi histolojisinde foliküllerin lümenini çevreleyen esas hücreler Tiroksin (T3, T4) sentezlerken, foliküllerin arasında yer alan Parafoliküler hücrelerin (C hücreleri) sentezlediği kan kalsiyum düzeyini düşürücü hormon aşağıdakilerden hangisidir?",
-            "options": [
-                "Paratiroid hormon",
-                "Kalsitonin",
-                "Oksitosin",
-                "Tiroglobulin",
-                "Aldosteron"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Tiroid bezinin C hücreleri (parafoliküler hücreler), nöral krest kökenlidir ve Kalsitonin hormonu salgılar. Kalsitonin kemik yıkımını engelleyerek kan kalsiyumunu düşürür.",
-            "optionExplanations": [
-                "Yanlış. Paratiroid bezinden salınır, kalsiyumu artırır.",
-                "DOĞRU. Parafoliküler C hücrelerinin hormonudur.",
-                "Yanlış. Hipotalamusta sentezlenip nörohipofizden salınır.",
-                "Yanlış. Folikül hücrelerinin kolloid içine salgıladığı öncül maddedir.",
-                "Yanlış. Sürrenal korteksten salınır."
-            ],
-            "id": 63
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Üriner Histoloji",
-            "topic": "Dr. Neziha Hoca",
-            "question": "Böbrekte Jukstaglomerüler aparatın bir parçası olan ve idrarın sodyum/klorür konsantrasyonundaki değişiklikleri algılayan kemoreseptör özellikli \"Macula densa\" hücreleri, hangi böbrek tübülünün duvarında özelleşmiş bir gruptur?",
-            "options": [
-                "Proksimal kıvrımlı tübül",
-                "Henle kulpunun inen ince kolu",
-                "Henle kulpunun çıkan kalın kolu",
-                "Distal kıvrımlı tübül (başlangıç kısmı)",
-                "Toplayıcı kanal"
-            ],
-            "correctAnswer": 3,
-            "explanation": "Macula densa hücreleri, distal tübülün (veya Henle çıkan kalın kolunun tam bitişiğinin) böbrek korpüskülüne (afferent/efferent arteriol arasına) temas ettiği bölgedeki epitel hücrelerinin sıkışık, koyu renkli dizilimidir. Sodyum sensörü olarak işlev görür.",
-            "optionExplanations": [
-                "Yanlış.",
-                "Yanlış.",
-                "Yanlış.",
-                "DOĞRU. Distal tübül duvarında yer alır.",
-                "Yanlış."
-            ],
-            "id": 64
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Kadın Genital",
-            "topic": "Dr. Neziha Hoca",
-            "question": "Over (yumurtalık) histolojisi incelendiğinde, ovulasyon (yumurtlama) gerçekleştikten sonra geride kalan granüloza ve teka hücrelerinin luteinizan hormon (LH) etkisiyle farklılaşarak oluşturduğu, gebeliğin devamı için hayati olan yoğun progesteron salgılayan sarı renkli yapı aşağıdakilerden hangisidir?",
-            "options": [
-                "Corpus albicans",
-                "Corpus luteum",
-                "Graaf folikülü",
-                "Atretik folikül",
-                "Oosit sekonder"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Ovulasyondan sonra çatlayan folikül kalıntısı, içine lipid damlacıkları biriktirerek sarı renkli Corpus luteum'a (Sarı cisim) dönüşür. Gebelik olmazsa dejenere olarak beyaz bir yara izi olan Corpus albicans'a döner.",
-            "optionExplanations": [
-                "Yanlış. Corpus luteum'un dejenere olmuş beyaz renkli skar dokusudur.",
-                "DOĞRU. Progesteron üreten luteal evre yapısıdır.",
-                "Yanlış. Ovulasyona hazır olgun (Tersiyer) foliküldür.",
-                "Yanlış. Gelişimini tamamlayamayıp ölen foliküldür.",
-                "Yanlış. Atılan yumurta hücresidir."
-            ],
-            "id": 65
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Erkek Genital",
-            "topic": "Dr. Neziha Hoca",
-            "question": "Testislerde seminifer tübüllerin içinde yer alan, gelişmekte olan sperm hücrelerine fiziksel ve besleyici destek sağlayan, aynı zamanda aralarında kurdukları sıkı bağlantılar (tight junctions) ile Kan-Testis Bariyerini oluşturan destek hücreleri aşağıdakilerden hangisidir?",
-            "options": [
-                "Leydig hücreleri",
-                "Sertoli hücreleri",
-                "Spermatogonyum",
-                "Miyoid hücreler",
-                "Spermatid"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Sertoli hücreleri, seminifer tübülün duvarını baştan başa geçen sütun şeklindeki hemşire (destek) hücrelerdir. Aralarındaki sıkı bağlantılar kan-testis bariyerini kurarak, haploid spermleri bağışıklık sisteminden korur.",
-            "optionExplanations": [
-                "Yanlış. Tübüller arası (interstisyel) alanda bulunur, testosteron üretir.",
-                "DOĞRU. Kan-testis bariyerini oluşturan destek hücreleridir.",
-                "Yanlış. Kök hücrelerdir.",
-                "Yanlış. Tübül dışını saran kasılgan hücrelerdir.",
-                "Yanlış. Gelişmekte olan sperm öncülüdür."
-            ],
-            "id": 66
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Hücre Organelleri",
-            "topic": "Dr. Orhan Hoca",
-            "question": "Hücre içi sindirimden sorumlu olan Lizozom organeli ile ilgili aşağıdaki hücresel prensiplerden hangisi doğrudur?",
-            "options": [
-                "Enzimlerini en iyi nötral pH'da (pH=7.0) çalıştırırlar.",
-                "Lizozom enzimleri serbest ribozomlarda sentezlenerek doğrudan lizozoma geçerler.",
-                "İçerdiği asit hidrolaz enzimleri, yüksek H+ iyonu konsantrasyonu sağlayan proton pompaları sayesinde düşük pH'da (pH~5.0) aktiftirler.",
-                "Sadece dışarıdan fagositozla alınan partikülleri sindirirler, hücrenin kendi yaşlı organellerini sindiremezler.",
-                "Bitki hücrelerinde lizozom fonksiyonunu kloroplastlar üstlenir."
-            ],
-            "correctAnswer": 2,
-            "explanation": "Lizozomlar, içlerindeki asit hidrolaz enzimlerinin çalışabilmesi için membranlarında bulunan ATP bağımlı proton pompaları ile içerisini asidik (pH 4.5 - 5.0) tutarlar. Sitoplazmaya enzim sızarsa pH 7.2'de enzimler çalışmayacağı için hücre sindirilmekten korunmuş olur.",
-            "optionExplanations": [
-                "Yanlış. Enzimleri asidik pH'da çalışır.",
-                "Yanlış. Granüllü ER'de sentezlenip Golgi'de paketlenirler (M6P etiketiyle).",
-                "DOĞRU. Proton pompaları ile pH'ı asidik tutarlar.",
-                "Yanlış. Otofaji (hücrenin kendi organelini sindirmesi) de yaparlar.",
-                "Yanlış. Bitkilerde lizozom benzeri fonksiyonu büyük vakuoller yapar."
-            ],
-            "id": 67
-        },
-        {
-            "subject": "Histoloji",
-            "course": "Göz Histolojisi",
-            "topic": "Dr. Orhan Hoca",
-            "question": "Retinanın 10 tabakalı yapısı incelendiğinde, gece (karanlık) ve siyah-beyaz görmeden sorumlu olan hücreler ile gündüz (aydınlık) ve renkli görmeden sorumlu olan hücrelerin bulunduğu tabaka aşağıdakilerden hangisidir?",
-            "options": [
-                "Gangliyon hücre tabakası",
-                "Dış nükleer tabaka",
-                "İç pleksiform tabaka",
-                "Fotoreseptörler (Basi ve Koni) tabakası",
-                "Pigment epiteli tabakası"
-            ],
-            "correctAnswer": 3,
-            "explanation": "Retinada ışığı doğrudan algılayan hücreler Fotoreseptörlerdir. Basiller (Rods) loş ışıkta siyah-beyaz görmeyi, Koniler (Cones) ise parlak ışıkta renkli ve keskin görmeyi sağlar. Bu hücrelerin dış segmentleri fotoreseptör tabakasındadır.",
-            "optionExplanations": [
-                "Yanlış. Optik siniri oluşturan nöronların bulunduğu tabakadır.",
-                "Yanlış. Fotoreseptörlerin çekirdeklerini içeren tabakadır.",
-                "Yanlış. Bipolar ve amakrin hücre sinaps tabakasıdır.",
-                "DOĞRU. Basil ve Koni hücrelerinin ışığı algılayan kısımlarının olduğu tabakadır.",
-                "Yanlış. Işığı emen ve reseptörlere destek olan en dış tabakadır."
-            ],
-            "id": 68
-        },
-        {
-            "subject": "Histoloji",
-            "course": "İntegüment (Deri)",
-            "topic": "Dr. Suna Hoca",
-            "question": "Epidermiste melanin pigmenti sentezleyerek deriyi UV ışınlarından koruyan melanosit hücreleri, embriyolojik olarak hangi yapıdan köken alırlar ve derinin hangi tabakasına yerleşirler?",
-            "options": [
-                "Mezoderm - Stratum corneum",
-                "Nöral krest - Stratum basale",
-                "Endoderm - Stratum granulosum",
-                "Ektoderm - Dermis",
-                "Nöral tüp - Stratum lucidum"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Melanositler, embriyolojik gelişim sırasında nöral krestten göç ederek epidermisin en alt tabakası olan Stratum basale'ye yerleşen dendritik hücrelerdir.",
-            "optionExplanations": [
-                "Yanlış.",
-                "DOĞRU. Nöral krest kökenlidirler ve Stratum basale'de bulunurlar.",
-                "Yanlış.",
-                "Yanlış.",
-                "Yanlış."
-            ],
-            "id": 69
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Enzimler",
-            "topic": "Prof. Dr. Mustafa Hoca",
-            "question": "Enzim kinetiği açısından kompetitif (yarışmalı) bir inhibitör kullanıldığında, enzimin Vmax (Maksimum hız) ve Km (Michaelis-Menten sabiti) değerlerinde nasıl bir değişiklik gözlenir?",
-            "options": [
-                "Vmax değişmez, Km artar.",
-                "Vmax azalır, Km değişmez.",
-                "Hem Vmax azalır hem de Km azalır.",
-                "Vmax artar, Km değişmez.",
-                "Hem Vmax hem de Km artar."
-            ],
-            "correctAnswer": 0,
-            "explanation": "Kompetitif inhibisyonda inhibitör aktif bölge için substratla yarışır. Yeterince fazla substrat eklendiğinde inhibitörün etkisi aşılabilir, bu nedenle Vmax DEĞİŞMEZ. Ancak enzimin substrata ilgisi azalmış göründüğünden Km ARTAR.",
-            "optionExplanations": [
-                "DOĞRU. Kompetitif inhibisyonun karakteristik özelliğidir.",
-                "Yanlış. Bu durum Non-kompetitif (yarışmasız) inhibisyonda görülür.",
-                "Yanlış. Bu durum Unkompetitif inhibisyonda görülür.",
-                "Yanlış.",
-                "Yanlış."
-            ],
-            "id": 70
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Enzimler",
-            "topic": "Prof. Dr. Mustafa Hoca",
-            "question": "Allosterik enzimlerin substrat konsantrasyonuna (S) karşı reaksiyon hızı (V) grafiği çizildiğinde, klasik Michaelis-Menten enzimlerinden farklı olarak hangi eğri tipini çizerler?",
-            "options": [
-                "Hiperbolik eğri",
-                "Doğrusal (Lineer) çizgi",
-                "Sigmoidal (S şeklinde) eğri",
-                "Parabolik eğri",
-                "Üstel (Eksponansiyel) eğri"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Allosterik enzimler birden fazla alt birime sahiptir (kooperatif etki). Bir alt birime substrat bağlanması diğerlerinin afinitesini artırdığı için grafikleri hiperbolik değil S şeklinde (Sigmoidal) olur (Örn: Hemoglobinin oksijen bağlama eğrisi).",
-            "optionExplanations": [
-                "Yanlış. Klasik Michaelis-Menten enzimlerinin grafiğidir (Örn: Miyoglobin).",
-                "Yanlış.",
-                "DOĞRU. Kooperativite nedeniyle Sigmoidal eğri oluşur.",
-                "Yanlış.",
-                "Yanlış."
-            ],
-            "id": 71
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Karbonhidrat Metabolizması",
-            "topic": "Prof. Dr. Mustafa Hoca",
-            "question": "Glikojen depo hastalığı Tip I (Von Gierke Hastalığı) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-            "options": [
-                "Hastalığın temel nedeni Glikoz-6-Fosfataz enzim eksikliğidir.",
-                "Karaciğerde glikojen yıkılamadığı için şiddetli hepatomegali (karaciğer büyümesi) görülür.",
-                "Hastalar açlık anında kan şekerini koruyamazlar ve şiddetli hipoglisemi yaşarlar.",
-                "Kasta biriken glikojene bağlı olarak kardiyomiyopati ve kas zayıflığı hastalığın en belirgin bulgusudur.",
-                "Kan laktat, ürik asit ve trigliserid düzeylerinde artış saptanır."
-            ],
-            "correctAnswer": 3,
-            "explanation": "Von Gierke (Tip I) hastalığında enzim eksikliği KARACİĞERDEDİR. Kaslarda Glikoz-6-Fosfataz enzimi zaten bulunmadığından kaslar bu hastalıktan etkilenmez. Kasta glikojen birikimi, kas zayıflığı ve kardiyomiyopati Tip II (Pompe hastalığı) veya Tip V (McArdle) için tipiktir.",
-            "optionExplanations": [
-                "Yanlış. Enzim eksikliği doğrudur.",
-                "Yanlış. Hepatomegali klasik bulgudur.",
-                "Yanlış. Açlık hipoglisemisi temel sorundur.",
-                "DOĞRU. Kasta glikoz-6-fosfataz yoktur, bu nedenle kas etkilenmez.",
-                "Yanlış. Laktik asidoz ve hiperürisemi görülür."
-            ],
-            "id": 72
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Karbonhidrat Metabolizması",
-            "topic": "Prof. Dr. Mustafa Hoca",
-            "question": "Yenidoğan döneminde anne sütü aldıktan sonra kusma, ishal, sarılık, hepatomegali ve bilateral katarakt gelişen Klasik Galaktozemi hastalığında eksik olan enzim aşağıdakilerden hangisidir?",
-            "options": [
-                "Galaktokinaz",
-                "Galaktoz-1-Fosfat Üridil Transferaz (GALT)",
-                "UDP-Galaktoz 4-epimeraz",
-                "Laktaz",
-                "Fruktokinaz"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Klasik galaktozemi, Galaktoz-1-Fosfat Üridil Transferaz (GALT) enzim eksikliği sonucu hücrelerde toksik Galaktoz-1-Fosfat birikimiyle oluşur. Sarılık, katarakt, zeka geriliği ve karaciğer yetmezliği tipiktir.",
-            "optionExplanations": [
-                "Yanlış. Eksikliğinde sadece katarakt görülür (hafif form).",
-                "DOĞRU. Klasik galaktozeminin nedenidir.",
-                "Yanlış. Nadir görülen Tip III galaktozemi nedenidir.",
-                "Yanlış. Laktaz eksikliği laktoz intoleransı yapar, sarılık yapmaz.",
-                "Yanlış. Esansiyel fruktozürinin (iyi huylu) nedenidir."
-            ],
-            "id": 73
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Vitaminler",
-            "topic": "Prof. Dr. Mustafa Hoca",
-            "question": "Hem Folik asit (B9 Vitamini) hem de Kobalamin (B12 Vitamini) eksikliğinde DNA sentezinin bozulması sonucu periferik yaymada ortak olarak görülen hematolojik bulgu aşağıdakilerden hangisidir?",
-            "options": [
-                "Mikrositik hipokrom anemi",
-                "Normositik normokrom anemi",
-                "Megaloblastik (Makrositik) anemi",
-                "Aplastik anemi",
-                "Orak hücreli anemi"
-            ],
-            "correctAnswer": 2,
-            "explanation": "B12 ve Folik asit, DNA sentezindeki pürin ve pirimidin halkalarının yapımında görev alır. Eksikliklerinde hücre bölünemez ancak sitoplazma büyümeye devam eder, bu da büyük alyuvarlarla karakterize Megaloblastik Anemiye neden olur.",
-            "optionExplanations": [
-                "Yanlış. Demir eksikliğinde görülür.",
-                "Yanlış. Akut kanama veya kronik hastalıklarda görülür.",
-                "DOĞRU. DNA sentez defekti sonucu alyuvarlar bölünemez ve büyür (Makrositoz).",
-                "Yanlış. Kemik iliğinin tamamen baskılanmasıdır.",
-                "Yanlış. Genetik bir hemoglobilinopatidir."
-            ],
-            "id": 74
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Aminoasit Metabolizması",
-            "topic": "Dr. Sayid Hoca",
-            "question": "Yeni doğan bir bebeğin ailesi, bebeğin bezindeki idrarın havayla temas edip bekledikten sonra siyah veya koyu kahverengi bir renge dönüştüğünü fark ederek doktora başvuruyor. İlerleyen yaşlarda bu hastada eklemlerde ve kıkırdaklarda siyahlaşma (okronozis) ile erken başlangıçlı artrit gelişeceği öngörülüyor. Bu hastada eksikliği düşünülen enzim aşağıdakilerden hangisidir?",
-            "options": [
-                "Fenilalanin hidroksilaz",
-                "Homogentisat oksidaz (Homogentisik asit oksidaz)",
-                "Tirozinaz",
-                "Dallı zincirli alfa-keto asit dehidrogenaz",
-                "Sistationin beta-sentaz"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Alkaptonüri hastalığı, tirozin metabolizmasındaki Homogentisat oksidaz enziminin eksikliği sonucu homogentisik asidin birikmesiyle oluşur. İdrarın havayla temasında siyahlaşması ve kıkırdaklarda pigmentasyon (okronozis) en tipik klinik bulgulardır.",
-            "optionExplanations": [
-                "Yanlış. Eksikliği Fenilketonüri (PKU) yapar.",
-                "DOĞRU. Alkaptonüri hastalığının enzim defektidir.",
-                "Yanlış. Eksikliği Albinizm (pigment yokluğu) yapar.",
-                "Yanlış. Eksikliği Akçaağaç şurubu idrar hastalığı yapar.",
-                "Yanlış. Eksikliği Homosistinüri yapar."
-            ],
-            "id": 75
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Aminoasit Metabolizması",
-            "topic": "Dr. Sayid Hoca",
-            "question": "Altmış günlük bir bebeğin muayenesinde motor ve zihinsel gelişiminin geride kaldığı, idrarında ve terinde \"küf\" veya \"fare idrarı\" benzeri ağır bir koku olduğu fark ediliyor. Cildinin, saçlarının ve gözlerinin ailesine göre daha açık renkli (hipopigmente) olduğu görülüyor. Diyetinden acilen belirli bir aminoasitin kısıtlanması gereken bu hastalık aşağıdakilerden hangisidir?",
-            "options": [
-                "Fenilketonüri (PKU)",
-                "Akçaağaç Şurubu İdrar Hastalığı (MSUD)",
-                "Tirozinemi Tip 1",
-                "Homosistinüri",
-                "Alkaptonüri"
-            ],
-            "correctAnswer": 0,
-            "explanation": "Fenilketonüri (PKU), Fenilalanin hidroksilaz enzim eksikliğinde görülür. Fenilalanin tirozine çevrilemez ve toksik metabolitler (fenilketonlar) beyin gelişimini bozar (zeka geriliği), fare kokusu yapar. Tirozin eksikliğine bağlı olarak da melanin sentezlenemez (açık renk cilt/saç).",
-            "optionExplanations": [
-                "DOĞRU. Küf/Fare kokusu ve zeka geriliği klasik PKU bulgusudur.",
-                "Yanlış. İdrarda yanık şeker / akçaağaç şurubu kokusu olur.",
-                "Yanlış. Lahana kokusu ve ağır karaciğer yetmezliği olur.",
-                "Yanlış. Marfan sendromu benzeri uzun boy ve lens dislokasyonu olur.",
-                "Yanlış. İdrarın siyahlaşması ve artrit görülür."
-            ],
-            "id": 76
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Nükleotid Metabolizması",
-            "topic": "Dr. Fatmagül Hoca",
-            "question": "I. Pürin nükleotidlerinin yıkımının son ürünü olan ürik asit miktarının artması sonucu oluşur.\nII. Ürik asit kristallerinin (monosodyum ürat) eklem boşluklarında birikmesi şiddetli ağrı ve inflamasyona neden olur.\nIII. Hastalığın tedavisinde Ksantin Oksidaz enzimini inhibe eden Allopurinol ilacı kullanılır.\nIV. Hastalığın nedeni her zaman pürinlerin aşırı yıkımıdır, böbreklerden atılım kusuru Gut hastalığına neden olmaz.\nPürin metabolizması bozukluğu olan Gut hastalığı ile ilgili yukarıda verilen çoklu öncüllü ifadelerden hangisi veya hangileri yanlıştır?",
-            "options": [
-                "Yalnız I",
-                "Yalnız IV",
-                "I ve II",
-                "II ve III",
-                "I, III ve IV"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Gut hastalığı hiperürisemi sonucu oluşur (I ve II doğru). Ksantin oksidaz inhibitörü olan allopurinol ile ürik asit yapımı durdurulur (III doğru). Ancak Gut hastalığının vakalarının %90'ı pürinlerin aşırı yıkımından değil, böbreklerden ürik asidin YETERSİZ ATILIMINDAN (atılım kusuru) kaynaklanır. (IV yanlış).",
-            "optionExplanations": [
-                "Yanlış. I. öncül doğrudur.",
-                "DOĞRU. Gut hastalarının çoğunda asıl sorun böbrekten ürik asit atılım kusurudur.",
-                "Yanlış. İkisi de doğrudur.",
-                "Yanlış. İkisi de doğrudur.",
-                "Yanlış. Sadece IV yanlıştır."
-            ],
-            "id": 77
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Lipid Metabolizması",
-            "topic": "Dr. Fatmagül Hoca",
-            "question": "I. Kolesterol sentezi temelde sitoplazmada ve endoplazmik retikulumda gerçekleşir.\nII. Sentezin hız kısıtlayıcı ve kontrol basamağı HMG-CoA Redüktaz enzimidir.\nIII. Statin grubu hiperlipidemi ilaçları HMG-CoA Redüktaz enzimini kompetitif olarak inhibe ederler.\nIV. Hücre içi kolesterol düzeyi arttığında HMG-CoA Redüktaz enzimi genetik seviyede uyarılır ve kolesterol üretimi daha da hızlanır.\nEndojen kolesterol biyosentezi ile ilgili yukarıdaki öncüllerden hangisi yanlıştır?",
-            "options": [
-                "Yalnız II",
-                "Yalnız III",
-                "Yalnız IV",
-                "II ve III",
-                "I, III ve IV"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Kolesterol hücre içinde yeterli düzeye ulaştığında, negatif feedback (geri bildirim) mekanizması ile HMG-CoA redüktaz enziminin hem gen ekspresyonu baskılanır (SREBP mekanizması) hem de enzim proteozomal yıkıma uğrar. Yani üretim hızlanmaz, DURDURULUR.",
-            "optionExplanations": [
-                "Yanlış. Enzimin HMG-CoA redüktaz olduğu doğrudur.",
-                "Yanlış. Statinlerin etki mekanizması doğrudur.",
-                "DOĞRU. Kolesterol artışı enzimi uyarmaz, inhibe eder (Feedback inhibisyon).",
-                "Yanlış.",
-                "Yanlış."
-            ],
-            "id": 78
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Lipid Metabolizması",
-            "topic": "Dr. Fatmagül Hoca",
-            "question": "I. Karaciğerde mitokondri matriksinde Asetil-CoA moleküllerinden sentezlenirler.\nII. Uzun süreli açlık durumunda beynin temel alternatif enerji kaynağı haline gelirler.\nIII. Karaciğer kendisi ürettiği keton cisimlerini enerji kaynağı olarak çok iyi kullanır.\nKeton cisimleri (Asetoasetat, Beta-hidroksibutirat, Aseton) ile ilgili yukarıdaki uzun açıklamalardan hangisi veya hangileri yanlıştır?",
-            "options": [
-                "Yalnız I",
-                "Yalnız III",
-                "I ve II",
-                "II ve III",
-                "I, II ve III"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Keton cisimleri karaciğerde sentezlenir ve özellikle açlıkta beyin tarafından yakıt olarak kullanılır (I ve II doğru). Ancak karaciğer, keton cisimlerini yıkıp kullanacak olan tiyoforaz (süksinil-CoA asetoasetat CoA transferaz) enzimine sahip olmadığı için ÜRETTİĞİ KETONLARI KENDİSİ YAKAMAZ.",
-            "optionExplanations": [
-                "Yanlış. I. öncül doğrudur.",
-                "DOĞRU. Karaciğer ketonları ürettiği halde kendisi enerji kaynağı olarak kullanamaz.",
-                "Yanlış. I ve II doğrudur.",
-                "Yanlış. II doğrudur.",
-                "Yanlış."
-            ],
-            "id": 79
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Karbonhidrat Metabolizması",
-            "topic": "Dr. Ayşe Hoca",
-            "question": "Trikargoksilik Asit Döngüsünde (Krebs Döngüsü / Sitrik asit döngüsü) substrat düzeyinde fosforilasyon ile doğrudan bir molekül GTP (veya ATP) sentezinin yapıldığı basamakta görev alan enzim aşağıdakilerden hangisidir?",
-            "options": [
-                "Sitrat sentaz",
-                "İzositrat dehidrogenaz",
-                "Süksinil-CoA sentetaz (tiyokinaz)",
-                "Süksinat dehidrogenaz",
-                "Malat dehidrogenaz"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Krebs döngüsünde doğrudan enerji (GTP/ATP) üretilen TEK basamak Süksinil-CoA'nın Süksinat'a dönüştüğü basamaktır ve bu reaksiyonu katalizleyen enzim Süksinil-CoA sentetaz (Tiyokinaz)'dır.",
-            "optionExplanations": [
-                "Yanlış. Asetil-CoA ile oksaloasetatı birleştirir.",
-                "Yanlış. NADH ve CO2 üretir, hız kısıtlayıcıdır.",
-                "DOĞRU. Substrat düzeyinde fosforilasyonla GTP üretir.",
-                "Yanlış. FADH2 üretir.",
-                "Yanlış. NADH üretir."
-            ],
-            "id": 80
-        },
-        {
-            "subject": "Biyokimya",
-            "course": "Asit-Baz ve Tampon Sistemler",
-            "topic": "Dr. Fatma Emel Hoca",
-            "question": "İnsan vücudunda ekstraselüler sıvıda (özellikle kan plazmasında) pH'nın sabit (7.35 - 7.45) kalmasını sağlayan en önemli ve en yüksek kapasiteli tampon sistemi aşağıdakilerden hangisidir?",
-            "options": [
-                "Fosfat tampon sistemi",
-                "Bikarbonat-Karbonik asit (HCO3- / H2CO3) tampon sistemi",
-                "Protein (Albümin vb.) tampon sistemi",
-                "Hemoglobin tampon sistemi",
-                "Amonyak (NH3 / NH4+) tampon sistemi"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Vücudun ekstraselüler sıvılarının (kanın) en temel ve en güçlü tampon sistemi Bikarbonat / Karbonik asit sistemidir. Bikarbonat düzeyi böbreklerle, karbonik asit (CO2) düzeyi ise akciğerlerle ayarlandığı için kontrol kapasitesi çok yüksektir.",
-            "optionExplanations": [
-                "Yanlış. İdrarın ve hücre içinin temel tamponudur.",
-                "DOĞRU. Kanın en önemli tampon sistemidir.",
-                "Yanlış. Hücre içi ve plazmada bulunur ama birincil değildir.",
-                "Yanlış. Eritrosit içindeki en önemli tampondur.",
-                "Yanlış. Böbreklerdeki tübüler atılım tamponudur."
-            ],
-            "id": 81
-        },
-        {
             "subject": "Farmakoloji",
             "course": "Genel Farmakoloji",
             "topic": "Dr. Tekşen Hoca",
@@ -1888,7 +1336,7 @@ window.examsData["v30"] = {
                 "Yanlış. Eğer asitte parçalansaydı bu ilk geçiş değil, mide asidi yıkımı olurdu.",
                 "Yanlış. Renal atılım sistemik kana geçtikten sonra olur."
             ],
-            "id": 82
+            "id": 58
         },
         {
             "subject": "Farmakoloji",
@@ -1911,7 +1359,7 @@ window.examsData["v30"] = {
                 "Yanlış. Atropin benzeri antikolinerjiktir, enzimi reaktive etmez.",
                 "Yanlış. Benzodiazepin zehirlenmesinin antidotudur."
             ],
-            "id": 83
+            "id": 59
         },
         {
             "subject": "Farmakoloji",
@@ -1934,7 +1382,7 @@ window.examsData["v30"] = {
                 "Yanlış. Kompansatuvar vazodilatasyon sonucu cilt kızarır.",
                 "DOĞRU. Bronkospazm yapmaz, aksine bronkodilatasyon yapar."
             ],
-            "id": 84
+            "id": 60
         },
         {
             "subject": "Farmakoloji",
@@ -1957,7 +1405,7 @@ window.examsData["v30"] = {
                 "Yanlış. Milrinon gibi inotropiklerin mekanizmasıdır.",
                 "Yanlış. Digoksin vagusu uyarır, kalp hızını yavaşlatır."
             ],
-            "id": 85
+            "id": 61
         },
         {
             "subject": "Farmakoloji",
@@ -1980,7 +1428,7 @@ window.examsData["v30"] = {
                 "DOĞRU. Akut atakta ilk tercih kısa etkili beta-2 agonisttir.",
                 "Yanlış. Etki aralığı dar olan, eski bir oral bronkodilatatördür."
             ],
-            "id": 86
+            "id": 62
         },
         {
             "subject": "Farmakoloji",
@@ -2003,7 +1451,7 @@ window.examsData["v30"] = {
                 "DOĞRU. Omeprazol'ün hedefi proton pompasıdır.",
                 "Yanlış. Bu Misoprostol'ün etkisidir."
             ],
-            "id": 87
+            "id": 63
         },
         {
             "subject": "Farmakoloji",
@@ -2026,7 +1474,7 @@ window.examsData["v30"] = {
                 "Yanlış. Sentetik T3 formudur (Yarı ömrü kısa olduğu için rutin kullanılmaz).",
                 "Yanlış. Hipertiroidide tiroid dokusunu tahrip etmek için verilir."
             ],
-            "id": 88
+            "id": 64
         },
         {
             "subject": "Biyofizik",
@@ -2049,7 +1497,7 @@ window.examsData["v30"] = {
                 "Yanlış. Fiziksel ve biyolojik yarı ömrün kombinasyonudur.",
                 "Yanlış. Radyasyonun biyolojik hasar ölçüsüdür (Sievert)."
             ],
-            "id": 89
+            "id": 65
         },
         {
             "subject": "Biyofizik",
@@ -2072,7 +1520,7 @@ window.examsData["v30"] = {
                 "Yanlış. Sıvıların basıncı iletmesi ile ilgilidir.",
                 "Yanlış. Küresel yapılarda gerilim-basınç ilişkisidir."
             ],
-            "id": 90
+            "id": 66
         },
         {
             "subject": "Biyofizik",
@@ -2095,7 +1543,7 @@ window.examsData["v30"] = {
                 "Yanlış. Sistemin moleküler düzeydeki toplam enerjisidir.",
                 "Yanlış. Tepkimenin başlaması için gereken enerji bariyeridir."
             ],
-            "id": 91
+            "id": 67
         },
         {
             "subject": "Fizyoloji",
@@ -2118,7 +1566,7 @@ window.examsData["v30"] = {
                 "DOĞRU.",
                 "Yanlış."
             ],
-            "id": 92
+            "id": 68
         },
         {
             "subject": "Fizyoloji",
@@ -2141,7 +1589,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "DOĞRU."
             ],
-            "id": 93
+            "id": 69
         },
         {
             "subject": "Fizyoloji",
@@ -2164,7 +1612,7 @@ window.examsData["v30"] = {
                 "DOĞRU.",
                 "Yanlış."
             ],
-            "id": 94
+            "id": 70
         },
         {
             "subject": "Fizyoloji",
@@ -2187,7 +1635,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 95
+            "id": 71
         },
         {
             "subject": "Biyokimya",
@@ -2210,7 +1658,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 96
+            "id": 72
         },
         {
             "subject": "Biyokimya",
@@ -2233,7 +1681,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 97
+            "id": 73
         },
         {
             "subject": "Biyokimya",
@@ -2256,7 +1704,7 @@ window.examsData["v30"] = {
                 "Yanlış. C vitamini eksikliği skorbüt yapar.",
                 "DOĞRU. Pellegra B3 vitamini eksikliğinde görülür."
             ],
-            "id": 98
+            "id": 74
         },
         {
             "subject": "Biyofizik",
@@ -2279,7 +1727,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 99
+            "id": 75
         },
         {
             "subject": "Tıbbi Patoloji",
@@ -2302,7 +1750,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 100
+            "id": 76
         },
         {
             "subject": "Tıbbi Patoloji",
@@ -2325,7 +1773,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "DOĞRU."
             ],
-            "id": 101
+            "id": 77
         },
         {
             "subject": "Etik ve İletişim",
@@ -2348,7 +1796,7 @@ window.examsData["v30"] = {
                 "DOĞRU.",
                 "Yanlış."
             ],
-            "id": 102
+            "id": 78
         },
         {
             "subject": "Etik ve İletişim",
@@ -2371,7 +1819,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 103
+            "id": 79
         },
         {
             "subject": "Etik ve İletişim",
@@ -2394,7 +1842,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "DOĞRU."
             ],
-            "id": 104
+            "id": 80
         },
         {
             "subject": "Etik ve İletişim",
@@ -2417,7 +1865,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 105
+            "id": 81
         },
         {
             "subject": "BAK",
@@ -2440,7 +1888,7 @@ window.examsData["v30"] = {
                 "DOĞRU.",
                 "Yanlış."
             ],
-            "id": 106
+            "id": 82
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2463,7 +1911,7 @@ window.examsData["v30"] = {
                 "Yanlış. Hidrojen peroksiti parçalar, stafilokokları streptokoklardan ayırır.",
                 "Yanlış. Haşlanmış deri sendromuna neden olan toksindir."
             ],
-            "id": 107
+            "id": 83
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2486,7 +1934,7 @@ window.examsData["v30"] = {
                 "Yanlış. Normal cilt florasıdır.",
                 "Yanlış. GİS florasıdır."
             ],
-            "id": 108
+            "id": 84
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2509,7 +1957,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 109
+            "id": 85
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2532,7 +1980,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 110
+            "id": 86
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2555,7 +2003,7 @@ window.examsData["v30"] = {
                 "Yanlış. Aralıklı ısıtma yöntemidir.",
                 "Yanlış. Sadece yüzey sterilizasyonu sağlar."
             ],
-            "id": 111
+            "id": 87
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2578,7 +2026,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 112
+            "id": 88
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2601,7 +2049,7 @@ window.examsData["v30"] = {
                 "DOĞRU. Pili yapısındaki sürekli değişim bağışıklığı engeller.",
                 "Yanlış."
             ],
-            "id": 113
+            "id": 89
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2624,7 +2072,7 @@ window.examsData["v30"] = {
                 "DOĞRU. Hücre duvarı sentez inhibitörleridir.",
                 "Yanlış. 30S ribozom inhibisyonu yaparlar."
             ],
-            "id": 114
+            "id": 90
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2647,7 +2095,7 @@ window.examsData["v30"] = {
                 "DOĞRU.",
                 "Yanlış. Sıtma benzeri tablo yapar ama Malta haçı (Maltese cross) görünümü vardır."
             ],
-            "id": 115
+            "id": 91
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2670,7 +2118,7 @@ window.examsData["v30"] = {
                 "Yanlış. Cinsel yolla bulaşan vajinit etkenidir.",
                 "Yanlış. İmmünyetmezlikte ishal etkenidir."
             ],
-            "id": 116
+            "id": 92
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2693,7 +2141,7 @@ window.examsData["v30"] = {
                 "Yanlış. Uyku hastalığı etkenidir.",
                 "Yanlış. Şark çıbanı etkenidir."
             ],
-            "id": 117
+            "id": 93
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2716,7 +2164,7 @@ window.examsData["v30"] = {
                 "Yanlış. Yüksek viral replikasyonu ve bulaşıcılığı gösterir.",
                 "Yanlış. Virüsün kanda çoğaldığını gösterir."
             ],
-            "id": 118
+            "id": 94
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2739,7 +2187,7 @@ window.examsData["v30"] = {
                 "Yanlış.",
                 "Yanlış."
             ],
-            "id": 119
+            "id": 95
         },
         {
             "subject": "Mikrobiyoloji",
@@ -2761,6 +2209,558 @@ window.examsData["v30"] = {
                 "DOĞRU.",
                 "Yanlış. Beyin yiyen amiptir (PAM etkeni).",
                 "Yanlış. Granülomatöz amibik ensefalit ve keratit etkenidir."
+            ],
+            "id": 96
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Üriner Sistem",
+            "topic": "Dr. Ayşe Çakır",
+            "question": "Böbrek korpüskülünde filtrasyon bariyerinin önemli bir parçasını oluşturan ve Bowman kapsülünün viseral yaprağında yer alan, sekonder uzantıları (pedisel) ile kapillerleri saran hücre aşağıdakilerden hangisidir?",
+            "options": [
+                "Mesengial hücre",
+                "Jukstaglomerüler hücre",
+                "Podosit",
+                "Makula densa hücresi",
+                "Parietal epitel hücresi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Podositler, Bowman kapsülünün viseral (iç) yaprağında bulunur ve ayak benzeri uzantıları (pediseller) ile glomerüler kapillerleri sararak filtrasyon yarıklarını (slit diafram) oluştururlar.",
+            "optionExplanations": [
+                "Yanlış. Kapiller yumak arasında destek hücreleridir.",
+                "Yanlış. Renin salgılayan düz kas kökenli hücrelerdir.",
+                "DOĞRU.",
+                "Yanlış. Distal tübülde sodyum sensörü olarak çalışır.",
+                "Yanlış. Bowman kapsülünün dış yaprağını döşer."
+            ],
+            "id": 97
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Erkek Genital Sistem",
+            "topic": "Dr. Ayşe Çakır",
+            "question": "Testislerde seminifer tübül epiteli içinde yer alan, gelişmekte olan spermatogenetik hücrelere destek sağlayan ve aynı zamanda kan-testis bariyerini oluşturan hücre aşağıdakilerden hangisidir?",
+            "options": [
+                "Leydig hücresi",
+                "Sertoli hücresi",
+                "Miyoid hücre",
+                "Spermatogonyum",
+                "Fibroblast"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sertoli hücreleri seminifer tübüllerde bulunur, aralarındaki sıkı bağlantılar (tight junctions) sayesinde kan-testis bariyerini oluşturarak gelişen spermleri bağışıklık sisteminden korur.",
+            "optionExplanations": [
+                "Yanlış. İnterstisyel alanda testosteron salgılar.",
+                "DOĞRU.",
+                "Yanlış. Tübül etrafında kasılgan özellikli hücrelerdir.",
+                "Yanlış. Kök hücrelerdir.",
+                "Yanlış."
+            ],
+            "id": 98
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Deri Histolojisi",
+            "topic": "Dr. Ayşe Çakır",
+            "question": "Epidermisin stratum spinosum tabakasında bolca bulunan, kemik iliği kökenli olan ve deriye giren antijenleri yakalayarak lenf düğümlerindeki T lenfositlerine sunan (antijen sunucu) hücre hangisidir?",
+            "options": [
+                "Melanosit",
+                "Merkel hücresi",
+                "Keratinosit",
+                "Langerhans hücresi",
+                "Paccini korpüskülü"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Langerhans hücreleri, derinin mononükleer fagositik (makrofaj) sistemine ait dendritic hücreleridir. Temel görevleri deriye giren antijenleri yakalayıp bağışıklık sistemine sunmaktır.",
+            "optionExplanations": [
+                "Yanlış. Melanin üretir, bazal tabakadadır.",
+                "Yanlış. Dokunma reseptörüdür.",
+                "Yanlış. Derinin temel epitel hücresidir.",
+                "DOĞRU.",
+                "Yanlış. Derin dokularda basınç reseptörüdür."
+            ],
+            "id": 99
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Kadın Genital Sistem",
+            "topic": "Dr. Ayşe Çakır",
+            "question": "Overde ovulasyon (yumurtlama) gerçekleştikten sonra, çatlayan folikülün duvarında kalan granüloza ve teka interna hücrelerinin farklılaşarak oluşturduğu, asıl olarak progesteron salgılayan endokrin yapı aşağıdakilerden hangisidir?",
+            "options": [
+                "Korpus albicans",
+                "Korpus luteum",
+                "Atretik folikül",
+                "Graaf folikülü",
+                "Primer folikül"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ovulasyon sonrası folikül hücreleri luteinizasyon geçirerek 'Korpus Luteum' (sarı cisim) adını alır. Korpus luteum, gebeliğe hazırlık için bol miktarda progesteron ve bir miktar östrojen salgılar.",
+            "optionExplanations": [
+                "Yanlış. Korpus luteumun dejenere olmuş beyaz bağ dokusu halidir.",
+                "DOĞRU.",
+                "Yanlış. Ovulasyona ulaşamadan dejenere olan foliküldür.",
+                "Yanlış. Ovulasyona hazır, en olgun folikül aşamasıdır.",
+                "Yanlış. Gelişimin erken evresindeki foliküldür."
+            ],
+            "id": 100
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Göz Histolojisi",
+            "topic": "Dr. Ayşe Çakır",
+            "question": "Retinanın tabakaları dıştan (skleradan) içe (vitröze) doğru sıralandığında, en dışta yer alan ve fotoreseptörlerin dış segmentlerini fagosite edip kan-retina bariyerine katılan tabaka hangisidir?",
+            "options": [
+                "Dış nükleer tabaka",
+                "İç fleksiform tabaka",
+                "Pigment epitel tabakası",
+                "Gangliyon hücre tabakası",
+                "Dış limitan membran"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Retinanın en dış (skleraya ve koroide en yakın) tabakası 'Pigment epitel tabakası'dır. Işığı absorbe eder, fotoreseptörleri besler ve kan-retina bariyerini oluşturur.",
+            "optionExplanations": [
+                "Yanlış. Fotoreseptörlerin çekirdeklerini içerir.",
+                "Yanlış.",
+                "DOĞRU.",
+                "Yanlış. Optik siniri oluşturan hücrelerin bulunduğu iç tabakadır.",
+                "Yanlış."
+            ],
+            "id": 101
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Endokrin Sistem",
+            "topic": "Dr. Neziha Senem",
+            "question": "Tiroid bezinde folikül epiteli arasına veya foliküller arasındaki bağ dokusuna yerleşmiş olan, kan kalsiyum seviyesini düşürücü etkiye sahip 'kalsitonin' hormonunu salgılayan hücreler aşağıdakilerden hangisidir?",
+            "options": [
+                "Esas (Şef) hücreler",
+                "Foliküler hücreler",
+                "Oksifil hücreler",
+                "Parafoliküler (C) hücreleri",
+                "Kromafin hücreler"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Tiroid bezindeki Parafoliküler (C hücreleri) kalsitonin salgılar. Kalsitonin, osteoklast aktivitesini baskılayarak kan kalsiyumunu kemiğe geçirir ve kan kalsiyumunu düşürür.",
+            "optionExplanations": [
+                "Yanlış. Paratiroid bezinde parathormon salgılarlar.",
+                "Yanlış. Tiroksin (T3/T4) salgılarlar.",
+                "Yanlış. Paratiroid bezinde bulunan diğer hücre grubudur.",
+                "DOĞRU.",
+                "Yanlış. Adrenal medullada adrenalin/noradrenalin salgılarlar."
+            ],
+            "id": 102
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Sinir Sistemi",
+            "topic": "Dr. Neziha Senem",
+            "question": "Periferik Sinir Sisteminde (PSS) aksonların etrafını sararak miyelin kılıfı oluşturan ve sinir iletim hızını artıran glia hücresi aşağıdakilerden hangisidir?",
+            "options": [
+                "Oligodendrosit",
+                "Schwann hücresi",
+                "Astrosit",
+                "Ependim hücresi",
+                "Mikroglia"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Miyelin kılıfı Periferik Sinir Sisteminde (PSS) 'Schwann hücreleri', Merkezi Sinir Sisteminde (MSS) ise 'Oligodendrositler' tarafından yapılır.",
+            "optionExplanations": [
+                "Yanlış. MSS'de miyelin yapar.",
+                "DOĞRU.",
+                "Yanlış. MSS'de kan-beyin bariyerini oluşturan destek hücresidir.",
+                "Yanlış. BOS salgılar ve ventrikülleri döşer.",
+                "Yanlış. MSS'nin makrofaj (fagositik) hücresidir."
+            ],
+            "id": 103
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Dolaşım Sistemi",
+            "topic": "Dr. Neziha Senem",
+            "question": "Kalp duvarı histolojik olarak incelendiğinde, kalbin iletim sisteminin önemli bir parçası olan ve uyarının ventriküllere hızla yayılmasını sağlayan 'Purkinje lifleri' hangi tabakada yer alır?",
+            "options": [
+                "Epikard",
+                "Miyokard",
+                "Subendokardiyal tabaka (Endokard altı)",
+                "Paryetal perikard",
+                "Endotelyum"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Purkinje lifleri, kalp iç yüzünü döşeyen endokardın hemen altındaki bağ dokusu tabakası olan 'Subendokardiyal tabaka'da bulunur. Buradan miyokarda geçerek kasılmayı sağlarlar.",
+            "optionExplanations": [
+                "Yanlış. Kalbin en dış tabakasıdır (visseral perikard).",
+                "Yanlış. Asıl kasılmayı sağlayan kalp kası tabakasıdır.",
+                "DOĞRU.",
+                "Yanlış. Kalp kesesinin dış yaprağıdır.",
+                "Yanlış. Kan damarlarını ve kalbin iç yüzeyini döşeyen tek katlı yassı epiteldir."
+            ],
+            "id": 104
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Böbreküstü Bezi (Adrenal)",
+            "topic": "Dr. Neziha Senem",
+            "question": "Böbreküstü bezi (adrenal bez) korteksinin en kalın tabakası olan ve hücrelerin uzun kordonlar (sütunlar) halinde dizildiği 'Zona fasciculata' tabakasından esas olarak hangi hormon grubu salgılanır?",
+            "options": [
+                "Mineralokortikoidler (Aldosteron)",
+                "Katekolaminler (Adrenalin)",
+                "Glukokortikoidler (Kortizol)",
+                "Androjenler (DHEA)",
+                "Peptid hormonlar"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Adrenal korteks 3 tabakadan oluşur (Dıştan içe: Glomerulosa, Fasciculata, Reticularis). Zona fasciculata, korteksin %80'ini oluşturur ve karbonhidrat metabolizmasını düzenleyen glukokortikoidleri (Kortizol) salgılar.",
+            "optionExplanations": [
+                "Yanlış. En dış tabaka olan Zona glomerulosa'dan salgılanır.",
+                "Yanlış. Adrenal medulladan salgılanır.",
+                "DOĞRU.",
+                "Yanlış. En iç tabaka olan Zona reticularis'ten salgılanır.",
+                "Yanlış."
+            ],
+            "id": 105
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Sindirim Sistemi",
+            "topic": "Dr. Orhan Özatik",
+            "question": "Mide mukozasındaki fundik bezlerde bulunan, büyük, piramidal veya yuvarlak şekilli, sitoplazması aşırı eozinofilik (pembe-kırmızı) boyanan ve mide lümenine hidroklorik asit (HCl) ile intrinsik faktör salgılayan hücre hangisidir?",
+            "options": [
+                "Esas (Zimojen) hücre",
+                "Parietal (Oksintik) hücre",
+                "Mukus boyun hücresi",
+                "Enteroendokrin hücre",
+                "Paneth hücresi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Parietal (Oksintik) hücreler, bol mitokondri içerdikleri için eozinofilik boyanırlar. Görevleri mide asidini (HCl) ve B12 vitamini emilimi için gerekli intrinsik faktörü salgılamaktır.",
+            "optionExplanations": [
+                "Yanlış. Pepsinojen salgılar, bazofilik boyanır.",
+                "DOĞRU.",
+                "Yanlış. Mukoza yüzeyini koruyan mukus salgılar.",
+                "Yanlış. Gastrin, serotonin gibi lokal hormonlar salgılar.",
+                "Yanlış. İnce bağırsakta bulunur, lizozim salgılar."
+            ],
+            "id": 106
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Karaciğer Histolojisi",
+            "topic": "Dr. Orhan Özatik",
+            "question": "Karaciğer sinüzoidlerinin endotel hücreleri arasında yerleşmiş olan, kandan gelen yaşlı eritrositleri, bakterileri ve partikülleri fagosite ederek temizleyen karaciğerin spesifik makrofaj hücreleri aşağıdakilerden hangisidir?",
+            "options": [
+                "Hepatositler",
+                "Kupffer hücreleri",
+                "Ito (Yıldız) hücreleri",
+                "Pit hücreleri",
+                "Kolanjiyositler"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kupffer hücreleri, karaciğer sinüzoidlerinde yer alan mononükleer fagositik sistem (makrofaj) elemanlarıdır. Kandaki atıkları ve yaşlı alyuvarları temizlerler.",
+            "optionExplanations": [
+                "Yanlış. Karaciğerin temel parankim hücresidir.",
+                "DOĞRU.",
+                "Yanlış. Disse aralığında bulunur, yağ ve A vitamini depolar.",
+                "Yanlış. Karaciğere özgü Doğal Öldürücü (NK) hücrelerdir.",
+                "Yanlış. Safra kanalcıklarını döşeyen epitel hücreleridir."
+            ],
+            "id": 107
+        },
+        {
+            "subject": "Histoloji",
+            "course": "Solunum Sistemi",
+            "topic": "Dr. Suna Hoca",
+            "question": "Akciğer alveollerinin iç yüzeyini döşeyen hücrelerden olan, sitoplazmalarında 'lameller cisimcikler' bulunduran ve alveol yüzey gerilimini düşürerek akciğerin sönmesini engelleyen 'sürfaktan' maddesini salgılayan hücre hangisidir?",
+            "options": [
+                "Tip I Pnömosit",
+                "Tip II Pnömosit",
+                "Alveolar makrofaj (Toz hücresi)",
+                "Clara (Club) hücresi",
+                "Silli kolumnar epitel hücresi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tip II Pnömositler (Alveolar hücre Tip 2), alveol yüzeyinin sadece %5'ini kaplamalarına rağmen sürfaktan sentezleyip salgılayarak alveollerin kollabe olmasını (sönmesini) önleyen hayati hücrelerdir.",
+            "optionExplanations": [
+                "Yanlış. Yassı epiteldir, gaz alışverişini sağlar (yüzeyin %95'ini kaplar).",
+                "DOĞRU.",
+                "Yanlış. Alveol boşluğundaki yabancı partikülleri fagosite eder.",
+                "Yanlış. Terminal bronşiyollerde bulunur, sürfaktan benzeri protein salgılar.",
+                "Yanlış. Üst solunum yollarında mukosiliyer klirensten sorumludur."
+            ],
+            "id": 108
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Kan Proteinleri",
+            "topic": "Dr. Mustafa Bozkurt",
+            "question": "Plazmada demir (Fe+3) taşınmasından sorumlu olan ve demir eksikliği anemisinde kan seviyesi (total demir bağlama kapasitesi) artan spesifik taşıyıcı protein aşağıdakilerden hangisidir?",
+            "options": [
+                "Ferritin",
+                "Transferrin",
+                "Serüloplazmin",
+                "Haptoglobin",
+                "Albümin"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transferrin, kanda demir taşıyan ana proteindir. Hücre içi demir depoları boşaldığında (demir eksikliğinde) vücut daha fazla demir yakalayabilmek için transferrin sentezini (demir bağlama kapasitesini) artırır.",
+            "optionExplanations": [
+                "Yanlış. Demir bağlayıp hücre içinde depolar.",
+                "DOĞRU.",
+                "Yanlış. Bakır taşıyan ve demirin oksidasyonunu (ferroksidaz) sağlayan proteindir.",
+                "Yanlış. Serbest hemoglobini bağlar.",
+                "Yanlış. Genel taşıyıcıdır ancak spesifik demir taşıyıcısı değildir."
+            ],
+            "id": 109
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Kan Glukozu ve DM",
+            "topic": "Dr. Mustafa Bozkurt",
+            "question": "Diabetes Mellitus (DM) takibinde kullanılan ve hastanın son 2-3 aylık kan glukoz ortalamasını yansıtan laboratuvar parametresi aşağıdakilerden hangisidir?",
+            "options": [
+                "Açlık kan şekeri",
+                "Oral Glukoz Tolerans Testi (OGTT)",
+                "C-peptid",
+                "Glikozile Hemoglobin (HbA1c)",
+                "Fruktozamin"
+            ],
+            "correctAnswer": 3,
+            "explanation": "HbA1c, glukozun eritrositlerdeki hemoglobine enzimatik olmayan bir şekilde (glikasyon) bağlanmasıyla oluşur. Eritrosit ömrü 120 gün olduğu için son 2-3 aylık ortalama kan şekeri seviyesini gösterir.",
+            "optionExplanations": [
+                "Yanlış. Sadece o anki durumu gösterir.",
+                "Yanlış. Tanı amaçlıdır, geriye dönük ortalama vermez.",
+                "Yanlış. Endojen insülin rezervini gösterir.",
+                "DOĞRU.",
+                "Yanlış. Son 2-3 haftalık (albümin yarı ömrü) glukoz düzeyini gösterir."
+            ],
+            "id": 110
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Pankreas Hormonları",
+            "topic": "Dr. Mustafa Bozkurt",
+            "question": "Kan glukoz seviyesi yükseldiğinde pankreas adacıklarından salgılanan ve glukozun hücre içine alınmasını sağlayarak kan şekerini düşüren hormon hangisidir?",
+            "options": [
+                "Glukagon",
+                "Somatostatin",
+                "İnsülin",
+                "Epinefrin",
+                "Kortizol"
+            ],
+            "correctAnswer": 2,
+            "explanation": "İnsülin, pankreas beta hücrelerinden salgılanan ve kan şekerini DÜŞÜREN tek ana hormondur. Glukozun kas ve yağ dokusuna (GLUT-4 aracılığıyla) girmesini sağlar.",
+            "optionExplanations": [
+                "Yanlış. Pankreas alfa hücrelerinden salgılanır, kan şekerini artırır.",
+                "Yanlış. Pankreas delta hücrelerinden salgılanır, inhibe edicidir.",
+                "DOĞRU.",
+                "Yanlış. Adrenal medulladan salgılanır, kan şekerini artırır.",
+                "Yanlış. Adrenal korteksten salgılanır, kan şekerini artırır."
+            ],
+            "id": 111
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Adrenal Korteks",
+            "topic": "Dr. Mustafa Bozkurt",
+            "question": "Adrenal korteksin zona fasciculata tabakasından aşırı miktarda glukokortikoid (kortizol) salgılanması sonucu aydede yüzü, bufalo hörgücü, santral obezite ve karında mor strialar ile karakterize klinik tablo aşağıdakilerden hangisidir?",
+            "options": [
+                "Addison hastalığı",
+                "Cushing sendromu",
+                "Conn sendromu",
+                "Feokromositoma",
+                "Akromegali"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cushing sendromu, vücutta kronik olarak yüksek kortizol seviyelerine bağlı ortaya çıkan metabolik bozukluktur. Yağ dağılımı bozulur (aydede yüzü) ve protein yıkımı artar (strialar).",
+            "optionExplanations": [
+                "Yanlış. Adrenal korteks yetmezliğidir (Kortizol ve aldosteron eksikliği).",
+                "DOĞRU.",
+                "Yanlış. Primer hiperaldosteronizmdir.",
+                "Yanlış. Adrenal medulla tümörüdür (Katekolamin deşarjı).",
+                "Yanlış. Büyüme hormonu (GH) fazlalığıdır."
+            ],
+            "id": 112
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Kalsiyum Metabolizması",
+            "topic": "Dr. Mustafa Bozkurt",
+            "question": "Kan kalsiyum seviyesi düştüğünde salgılanan ve kemiklerde osteoklastik aktiviteyi uyararak kemik yıkımına, böbreklerden ise kalsiyum geri emilimine neden olarak kan kalsiyumunu yükselten hormon hangisidir?",
+            "options": [
+                "Kalsitonin",
+                "Parathormon (PTH)",
+                "Kalsitriol (Aktif D vitamini)",
+                "Tiroksin (T4)",
+                "Aldosteron"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Paratiroid bezinden salgılanan Parathormon (PTH), kan kalsiyumunu yükselten asıl hormondur. Kemikten kalsiyum mobilize eder ve böbrekten fosfat atılımını artırırken kalsiyum tutulumunu sağlar.",
+            "optionExplanations": [
+                "Yanlış. Kan kalsiyumunu düşürür.",
+                "DOĞRU.",
+                "Yanlış. Bağırsaklardan kalsiyum emilimini sağlar.",
+                "Yanlış. Tiroid bezinden salgılanır, metabolizmayı hızlandırır.",
+                "Yanlış. Sodyum emilimi, potasyum atılımı sağlar."
+            ],
+            "id": 113
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Tiroid Hormonları",
+            "topic": "Dr. Sayid Altıkat",
+            "question": "Klinik Vaka: 45 yaşında kadın hasta; son aylarda giderek artan yorgunluk, istemsiz kilo alma, seste kalınlaşma ve soğuğa tahammülsüzlük şikayetleriyle polikliniğe başvuruyor. Yapılan biyokimyasal analizde TSH seviyesi belirgin yüksek (15 mIU/L), serbest T4 (sT4) seviyesi ise normalin altında bulunuyor. \n\nBu hastadaki en olası endokrinolojik tablo ve etiyolojik neden aşağıdakilerden hangisidir?",
+            "options": [
+                "Primer Hipertiroidi - Graves hastalığı",
+                "Sekonder Hipotiroidi - Hipofiz adenomu",
+                "Primer Hipotiroidi - Hashimoto tiroiditi",
+                "Tirotoksikoz - Subakut tiroidit",
+                "Ötiroid hasta sendromu"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hastanın kliniği hipotiroidi bulgularıdır. Laboratuvarda sT4'ün düşük, buna karşılık negatif geribildirimle (feedback) TSH'ın yüksek olması 'Primer' (tiroid bezi kaynaklı) hipotiroidiyi gösterir. Erişkinlerde bunun en sık nedeni otoimmün Hashimoto tiroiditidir.",
+            "optionExplanations": [
+                "Yanlış. Hipertiroidide sT4 yüksek, TSH düşük olur.",
+                "Yanlış. Sekonder (hipofizer) hipotiroidide hem sT4 hem de TSH düşük olur.",
+                "DOĞRU.",
+                "Yanlış. Erken dönemde hipertiroidi bulguları (sT4 yüksek) verir.",
+                "Yanlış. T3 düşüklüğü vardır ama sT4 ve TSH genelde normaldir."
+            ],
+            "id": 114
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Hipotalamus-Hipofiz Hormonları",
+            "topic": "Dr. Sayid Altıkat",
+            "question": "Klinik Vaka: 35 yaşında erkek hasta, son yıllarda ellerinde ve ayaklarında büyüme (ayakkabı numarasında artış), çenede öne doğru çıkıklık (prognatizm) ve aşırı terleme şikayetiyle geliyor. Görme alanı muayenesinde her iki gözün dış tarafını göremediği (bitemporal hemianopsi) saptanıyor.\n\nBu hastada hipersekresyonu olan hormon ve hormonun salgılandığı anatomik bölge aşağıdakilerden hangisidir?",
+            "options": [
+                "Kortizol - Adrenal Korteks",
+                "Büyüme Hormonu (GH) - Ön Hipofiz",
+                "Prolaktin - Ön Hipofiz",
+                "Antidiüretik Hormon (ADH) - Arka Hipofiz",
+                "Tiroid Stimüle Edici Hormon (TSH) - Ön Hipofiz"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Yetişkinlikte Büyüme Hormonu (GH) fazlalığı 'Akromegali'ye neden olur (el/ayak büyümesi, kaba yüz hatları). En sık nedeni ön hipofizdeki GH salgılayan adenomdur. Bu tümör optik kiyazmaya bası yaparak bitemporal hemianopsiye (dış tarafları görememe) yol açar.",
+            "optionExplanations": [
+                "Yanlış. Cushing sendromuna neden olur.",
+                "DOĞRU.",
+                "Yanlış. Galaktore (süt gelmesi) ve amenoreye neden olur.",
+                "Yanlış. ADH eksikliği Diabetes İnsipitus yapar.",
+                "Yanlış. TSH salgılayan tümörler hipertiroidi yapar."
+            ],
+            "id": 115
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Lipit Metabolizma Bozuklukları",
+            "topic": "Dr. Fatmagül Can",
+            "question": "Klinik olarak erken yaşta ortaya çıkan şiddetli koroner arter hastalığı, tendon ksantomları ve kanda belirgin LDL kolesterol yüksekliği ile karakterize olan 'Ailesel Hiperkolesterolemi (Tip IIa Hiperlipidemi)' hastalığının temel biyokimyasal defekti aşağıdakilerden hangisidir?",
+            "options": [
+                "Lipoprotein lipaz enzim eksikliği",
+                "Apo E reseptör eksikliği",
+                "LDL reseptör eksikliği veya mutasyonu",
+                "Apo CII eksikliği",
+                "HMG-CoA redüktaz enzim overaktivitesi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ailesel Hiperkolesterolemi (Tip 2a), hücre yüzeyindeki LDL reseptörlerinin kalıtsal eksikliği veya disfonksiyonu sonucu kandan LDL'nin temizlenememesi ve damar duvarlarında birikmesi hastalığıdır.",
+            "optionExplanations": [
+                "Yanlış. Tip 1 Hiperşilomikronemi nedenidir.",
+                "Yanlış. Tip 3 (Disbetalipoproteinemi) nedenidir.",
+                "DOĞRU.",
+                "Yanlış. LPL aktivatörü olduğu için eksikliğinde Tip 1 görülür.",
+                "Yanlış. Kolesterol sentezi artar ama Ailesel Hiperkolesterolemi'nin primer genetik defekti değildir."
+            ],
+            "id": 116
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "İdrarın İncelenmesi",
+            "topic": "Dr. Fatmagül Can",
+            "question": "Tam idrar tetkikinde (TİT) mikroskobik inceleme sırasında aşağıdakilerden hangisinin idrar sedimentinde bol miktarda görülmesi, glomerüler bir hasarı (örneğin Akut Glomerülonefrit) işaret eden en spesifik bulgudur?",
+            "options": [
+                "Hiyalin silendirler",
+                "Eritrosit silendirleri",
+                "Lökositler (Piyüri)",
+                "Kalsiyum oksalat kristalleri",
+                "Skuamöz epitel hücreleri"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Eritrositlerin (kanama) böbrek tübüllerinden geçerken Tamm-Horsfall proteini ile birleşip silendir şeklini alması (Eritrosit silendirleri), kanamanın alt idrar yollarından değil, doğrudan glomerüllerden (Glomerülonefrit) kaynaklandığını kanıtlar.",
+            "optionExplanations": [
+                "Yanlış. Sağlıklı bireylerde de egzersiz sonrası görülebilir.",
+                "DOĞRU.",
+                "Yanlış. İdrar yolu enfeksiyonunu (İYE) gösterir.",
+                "Yanlış. Taş hastalığını gösterebilir, glomerüler hasara spesifik değildir.",
+                "Yanlış. Vajinal kontaminasyonu gösterir."
+            ],
+            "id": 117
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Eikozanoidler",
+            "topic": "Dr. Fatmagül Can",
+            "question": "Hücre zarındaki araşidonik asitten prostaglandinlerin ve tromboksanların sentezlenmesinde görev alan ve Aspirin, İbuprofen gibi non-steroid anti-inflamatuvar ilaçların (NSAİİ) inhibe ettiği temel enzim aşağıdakilerden hangisidir?",
+            "options": [
+                "Lipoksijenaz (LOX)",
+                "Siklooksijenaz (COX)",
+                "Fosfolipaz A2",
+                "Tromboksan sentaz",
+                "Trombokinaz"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Siklooksijenaz (COX-1 ve COX-2) enzimi, araşidonik asidi prostaglandin (ağrı ve ateş medyatörleri) ve tromboksanlara çevirir. Aspirin ve NSAİİ'ler bu enzimi bloke ederek analjezik ve anti-inflamatuvar etki gösterirler.",
+            "optionExplanations": [
+                "Yanlış. Lökotrien sentezinden sorumludur (astım patogenezi).",
+                "DOĞRU.",
+                "Yanlış. Araşidonik asidi hücre zarından koparan enzimdir (Steroidler inhibe eder).",
+                "Yanlış. Sadece tromboksan sentezinin son aşamasıdır.",
+                "Yanlış. Pıhtılaşma şelalesinde yer alır."
+            ],
+            "id": 118
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Gebelik Biyokimyası",
+            "topic": "Dr. Ayşe Koçak",
+            "question": "Gebeliğin erken haftalarında embriyoda nöral tüp kapanma defektlerinin (Spina bifida, Anensefali) gelişim riskini azaltmak amacıyla anne adaylarına gebelik öncesinde ve ilk trimesterde proflaktik olarak takviye edilmesi önerilen vitamin aşağıdakilerden hangisidir?",
+            "options": [
+                "A Vitamini",
+                "D Vitamini",
+                "C Vitamini",
+                "Folik Asit (B9 Vitamini)",
+                "Biotin (B7 Vitamini)"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Folik asit, DNA sentezi ve hücre bölünmesi için elzemdir. Gebeliğin çok erken dönemlerinde nöral tüpün düzgün kapanması için kritik öneme sahiptir. Eksikliğinde spina bifida gibi anomaliler görülür.",
+            "optionExplanations": [
+                "Yanlış. Yüksek dozu teratojenik (embriyoya zararlı) olabilir.",
+                "Yanlış. Kemik gelişimi içindir, nöral tüp için değil.",
+                "Yanlış. Antioksidandır.",
+                "DOĞRU.",
+                "Yanlış. Karboksilasyon reaksiyonlarında görevlidir."
+            ],
+            "id": 119
+        },
+        {
+            "subject": "Biyokimya",
+            "course": "Tampon Sistemler",
+            "topic": "Dr. Fatma Emel",
+            "question": "İnsan vücudunda asit-baz dengesinin (pH) korunmasında görev alan, kan plazmasının (ekstrasellüler sıvının) miktar ve kapasite olarak en önemli tampon sistemi aşağıdakilerden hangisidir?",
+            "options": [
+                "Hemoglobin tampon sistemi",
+                "Fosfat tampon sistemi",
+                "Bikarbonat - Karbonik asit tampon sistemi",
+                "Protein tampon sistemi",
+                "Amonyak tampon sistemi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bikarbonat/Karbonik asit (HCO3- / H2CO3) tampon sistemi, ekstrasellüler sıvının (kanın) primer tampon sistemidir. Hem solunum (akciğer) hem de metabolik (böbrek) yollarla kolayca regüle edilebildiği için en etkilidir.",
+            "optionExplanations": [
+                "Yanlış. Eritrosit içindeki önemli bir tampondur.",
+                "Yanlış. İdrar (böbrek tübülleri) ve intrasellüler sıvıda önemlidir.",
+                "DOĞRU.",
+                "Yanlış. İntrasellüler ortamda önemlidir.",
+                "Yanlış. Böbreklerde asit atılımını sağlayan tampondur."
             ],
             "id": 120
         }
